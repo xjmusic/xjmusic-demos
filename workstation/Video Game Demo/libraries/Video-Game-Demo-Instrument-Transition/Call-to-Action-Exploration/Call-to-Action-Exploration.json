@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"ad3a9544-9081-11ee-a063-3beecdab0b45","libraryId":"8854b774-671d-11ee-8d24-8b8c288969a8","type":"Transition","state":"Published","name":"Call to Action Exploration","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Event","updatedAt":1710457829041}],"instrumentAudios":[{"id":"3cf6eef5-f274-4bcd-875e-60d8d825ec91","instrumentId":"ad3a9544-9081-11ee-a063-3beecdab0b45","name":"Large","waveformKey":"Call-to-Action-Exploration-Large-X.wav","transientSeconds":1.206,"lengthSeconds":5.580208,"loopBeats":16.0,"tempo":95.0,"intensity":0.5,"event":"LARGE","volume":1.0,"tones":"X"}],"instrumentMemes":[{"id":"942ac3cd-f3ab-4f5c-808e-6b544304c57b","instrumentId":"ad3a9544-9081-11ee-a063-3beecdab0b45","name":"EXPLORATION"},{"id":"d098c3bd-dad0-44e7-a7cb-82546ddc33a6","instrumentId":"ad3a9544-9081-11ee-a063-3beecdab0b45","name":"CALLTOACTION"},{"id":"a99f73a1-5580-4a1c-864c-05127ae287c5","instrumentId":"ad3a9544-9081-11ee-a063-3beecdab0b45","name":"95BPM"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "ad3a9544-9081-11ee-a063-3beecdab0b45",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Call to Action Exploration",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457829041
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "3cf6eef5-f274-4bcd-875e-60d8d825ec91",
+    "instrumentId" : "ad3a9544-9081-11ee-a063-3beecdab0b45",
+    "name" : "Large",
+    "waveformKey" : "Call-to-Action-Exploration-Large-X.wav",
+    "transientSeconds" : 1.206,
+    "lengthSeconds" : 5.580208,
+    "loopBeats" : 16.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "LARGE",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "942ac3cd-f3ab-4f5c-808e-6b544304c57b",
+    "instrumentId" : "ad3a9544-9081-11ee-a063-3beecdab0b45",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "d098c3bd-dad0-44e7-a7cb-82546ddc33a6",
+    "instrumentId" : "ad3a9544-9081-11ee-a063-3beecdab0b45",
+    "name" : "CALLTOACTION"
+  }, {
+    "id" : "a99f73a1-5580-4a1c-864c-05127ae287c5",
+    "instrumentId" : "ad3a9544-9081-11ee-a063-3beecdab0b45",
+    "name" : "95BPM"
+  } ]
+}

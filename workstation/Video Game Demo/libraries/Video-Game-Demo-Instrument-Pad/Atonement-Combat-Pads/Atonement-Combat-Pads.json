@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"384ce2a4-71c9-11ee-8e9c-cb39a14aab66","libraryId":"6fc53f06-66f7-11ee-b708-7bfc8bb45e87","type":"Pad","state":"Published","name":"Atonement Combat Pads","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Chord","updatedAt":1710457828944}],"instrumentAudios":[{"id":"80329320-71c9-11ee-8452-4f4ac6eeee12","instrumentId":"384ce2a4-71c9-11ee-8e9c-cb39a14aab66","name":"Eraser Lead 135","waveformKey":"Atonement-Combat-Pads-Eraser-Lead-135-F.wav","transientSeconds":0.0,"lengthSeconds":14.222229,"loopBeats":32.0,"tempo":135.0,"intensity":0.5,"event":"PAD","volume":1.0,"tones":"F"}],"instrumentMemes":[{"id":"4869c2ba-71c9-11ee-8452-c72a1683be0f","instrumentId":"384ce2a4-71c9-11ee-8e9c-cb39a14aab66","name":"ATONEMENT"},{"id":"4f670cbc-71c9-11ee-8452-433677d398d9","instrumentId":"384ce2a4-71c9-11ee-8e9c-cb39a14aab66","name":"135BPM"},{"id":"4c9ecf24-71c9-11ee-8452-b3465022ea3f","instrumentId":"384ce2a4-71c9-11ee-8e9c-cb39a14aab66","name":"COMBAT"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "384ce2a4-71c9-11ee-8e9c-cb39a14aab66",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Atonement Combat Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828944
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "80329320-71c9-11ee-8452-4f4ac6eeee12",
+    "instrumentId" : "384ce2a4-71c9-11ee-8e9c-cb39a14aab66",
+    "name" : "Eraser Lead 135",
+    "waveformKey" : "Atonement-Combat-Pads-Eraser-Lead-135-F.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 14.222229,
+    "loopBeats" : 32.0,
+    "tempo" : 135.0,
+    "intensity" : 0.5,
+    "event" : "PAD",
+    "volume" : 1.0,
+    "tones" : "F"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "4869c2ba-71c9-11ee-8452-c72a1683be0f",
+    "instrumentId" : "384ce2a4-71c9-11ee-8e9c-cb39a14aab66",
+    "name" : "ATONEMENT"
+  }, {
+    "id" : "4f670cbc-71c9-11ee-8452-433677d398d9",
+    "instrumentId" : "384ce2a4-71c9-11ee-8e9c-cb39a14aab66",
+    "name" : "135BPM"
+  }, {
+    "id" : "4c9ecf24-71c9-11ee-8452-b3465022ea3f",
+    "instrumentId" : "384ce2a4-71c9-11ee-8e9c-cb39a14aab66",
+    "name" : "COMBAT"
+  } ]
+}

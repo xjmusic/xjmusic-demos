@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"d53807cf-db2b-462d-9767-c82d1c2b5277","libraryId":"c96a4682-6fad-11ee-9c1a-17feb22e2b3b","type":"Hook","state":"Published","name":"Call to Action Exploration Hooks","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Chord","updatedAt":1710457829014}],"instrumentAudios":[{"id":"30f3546d-6293-44cc-92fc-49387445e0f0","instrumentId":"d53807cf-db2b-462d-9767-c82d1c2b5277","name":"Call to Action Exploration Woodwind","waveformKey":"Call-to-Action-Exploration-Hooks-Call-to-Action-Exploration-Woodwind-D.wav","transientSeconds":0.0,"lengthSeconds":20.210522,"loopBeats":32.0,"tempo":95.0,"intensity":0.5,"event":"HOOK","volume":1.0,"tones":"D"}],"instrumentMemes":[{"id":"ce56dfe7-e63c-426c-9d29-4ade0a7ff528","instrumentId":"d53807cf-db2b-462d-9767-c82d1c2b5277","name":"CALLTOACTION"},{"id":"200df5cb-17c4-4ac3-bca6-6f0b3f0ffcb6","instrumentId":"d53807cf-db2b-462d-9767-c82d1c2b5277","name":"EXPLORATION"},{"id":"5f10521e-afca-4c3a-8881-065352903385","instrumentId":"d53807cf-db2b-462d-9767-c82d1c2b5277","name":"95BPM"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "d53807cf-db2b-462d-9767-c82d1c2b5277",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Call to Action Exploration Hooks",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457829014
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "30f3546d-6293-44cc-92fc-49387445e0f0",
+    "instrumentId" : "d53807cf-db2b-462d-9767-c82d1c2b5277",
+    "name" : "Call to Action Exploration Woodwind",
+    "waveformKey" : "Call-to-Action-Exploration-Hooks-Call-to-Action-Exploration-Woodwind-D.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 20.210522,
+    "loopBeats" : 32.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "HOOK",
+    "volume" : 1.0,
+    "tones" : "D"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "ce56dfe7-e63c-426c-9d29-4ade0a7ff528",
+    "instrumentId" : "d53807cf-db2b-462d-9767-c82d1c2b5277",
+    "name" : "CALLTOACTION"
+  }, {
+    "id" : "200df5cb-17c4-4ac3-bca6-6f0b3f0ffcb6",
+    "instrumentId" : "d53807cf-db2b-462d-9767-c82d1c2b5277",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "5f10521e-afca-4c3a-8881-065352903385",
+    "instrumentId" : "d53807cf-db2b-462d-9767-c82d1c2b5277",
+    "name" : "95BPM"
+  } ]
+}

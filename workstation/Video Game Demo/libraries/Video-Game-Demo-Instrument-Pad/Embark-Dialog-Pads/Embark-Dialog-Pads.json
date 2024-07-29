@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"49d562c2-7849-11ee-8a66-677509b472ee","libraryId":"6fc53f06-66f7-11ee-b708-7bfc8bb45e87","type":"Pad","state":"Published","name":"Embark Dialog Pads","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Chord","updatedAt":1710457829064}],"instrumentAudios":[{"id":"48193465-2eb0-43fd-990d-cc07320521de","instrumentId":"49d562c2-7849-11ee-8a66-677509b472ee","name":"Embark Dialog Pad","waveformKey":"Embark-Dialog-Pads-Embark-Dialog-Pad-B.wav","transientSeconds":0.0,"lengthSeconds":33.39131,"loopBeats":64.0,"tempo":115.0,"intensity":0.5,"event":"PAD","volume":1.0,"tones":"B"}],"instrumentMemes":[{"id":"6c039e25-515c-44ac-8cce-7ac19433ca29","instrumentId":"49d562c2-7849-11ee-8a66-677509b472ee","name":"DIALOG"},{"id":"397f0647-4467-4933-81f9-646675b40521","instrumentId":"49d562c2-7849-11ee-8a66-677509b472ee","name":"115BPM"},{"id":"df3803e4-45ed-4b3d-9a77-f067e6d46ed4","instrumentId":"49d562c2-7849-11ee-8a66-677509b472ee","name":"EMBARK"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "49d562c2-7849-11ee-8a66-677509b472ee",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Embark Dialog Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457829064
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "48193465-2eb0-43fd-990d-cc07320521de",
+    "instrumentId" : "49d562c2-7849-11ee-8a66-677509b472ee",
+    "name" : "Embark Dialog Pad",
+    "waveformKey" : "Embark-Dialog-Pads-Embark-Dialog-Pad-B.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 33.39131,
+    "loopBeats" : 64.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "PAD",
+    "volume" : 1.0,
+    "tones" : "B"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "6c039e25-515c-44ac-8cce-7ac19433ca29",
+    "instrumentId" : "49d562c2-7849-11ee-8a66-677509b472ee",
+    "name" : "DIALOG"
+  }, {
+    "id" : "397f0647-4467-4933-81f9-646675b40521",
+    "instrumentId" : "49d562c2-7849-11ee-8a66-677509b472ee",
+    "name" : "115BPM"
+  }, {
+    "id" : "df3803e4-45ed-4b3d-9a77-f067e6d46ed4",
+    "instrumentId" : "49d562c2-7849-11ee-8a66-677509b472ee",
+    "name" : "EMBARK"
+  } ]
+}

@@ -1,1 +1,142 @@
-{"demo":false,"programs":[{"id":"d252d314-66f6-11ee-bcd4-a700be7cefae","libraryId":"a57570a4-66f6-11ee-b708-47fb5224718c","state":"Published","key":"F","tempo":95.0,"type":"Main","name":"Atonement Exploration","config":"barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n","isDeleted":false,"updatedAt":1710457830630}],"programSequenceBindings":[{"id":"a01afb60-6d63-11ee-a05b-2b8b747c6b1a","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceId":"ec5991da-66f6-11ee-b708-a3e8f3d78c4d","offset":1},{"id":"9da3b78c-6d63-11ee-a763-b7fb8aca1b21","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceId":"ec5991da-66f6-11ee-b708-a3e8f3d78c4d","offset":0}],"programSequenceChords":[{"id":"f4fed62e-66f6-11ee-b708-576a2b2f90a3","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceId":"ec5991da-66f6-11ee-b708-a3e8f3d78c4d","name":"F","position":0.0}],"programVoices":[{"id":"5b6d1e4e-6d63-11ee-a763-fbd862e3f796","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Stripe","name":"Main","order":1000.0},{"id":"58853400-6d63-11ee-a763-ef13769e1603","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Pad","name":"Main","order":1000.0},{"id":"5ac35616-6d63-11ee-a763-5fc57c74af6c","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Sticky","name":"Main","order":1000.0},{"id":"5c100078-6d63-11ee-a763-3f1d92bd1721","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Transition","name":"Main","order":1000.0},{"id":"5a0d146e-6d63-11ee-a05b-1bfc7ca41a47","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Stab","name":"Main","order":1000.0},{"id":"59500aa4-6d63-11ee-a05b-5b7e0746d181","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Percussion","name":"Main","order":1000.0},{"id":"5719d918-6d63-11ee-a05b-1fb04fda79d0","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Hook","name":"Main","order":1000.0},{"id":"57bcf90e-6d63-11ee-a763-3be93506c38c","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Background","name":"Main","order":1000.0},{"id":"568917d4-6d63-11ee-a05b-9b7a185853e6","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Drum","name":"Main","order":1000.0},{"id":"54652650-6d63-11ee-a763-9b768208a02a","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","type":"Bass","name":"Main","order":1000.0}],"programMemes":[{"id":"09f58f82-66f7-11ee-b708-73f12dbc0b4b","name":"EXPLORATION","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae"},{"id":"06100780-66f7-11ee-b708-f7bc5d31cb01","name":"ATONEMENT","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae"}],"programSequences":[{"id":"ec5991da-66f6-11ee-b708-a3e8f3d78c4d","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","name":"New Sequence","key":"F","intensity":0.6,"total":128}],"programSequenceChordVoicings":[{"id":"571cc074-6d63-11ee-a05b-9fa02940f16b","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceChordId":"f4fed62e-66f6-11ee-b708-576a2b2f90a3","notes":"F","programVoiceId":"5719d918-6d63-11ee-a05b-1fb04fda79d0"},{"id":"588918ae-6d63-11ee-a763-2b3b16f2ccf6","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceChordId":"f4fed62e-66f6-11ee-b708-576a2b2f90a3","notes":"F","programVoiceId":"58853400-6d63-11ee-a763-ef13769e1603"},{"id":"5b702ac6-6d63-11ee-a763-47d06602980d","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceChordId":"f4fed62e-66f6-11ee-b708-576a2b2f90a3","notes":"F","programVoiceId":"5b6d1e4e-6d63-11ee-a763-fbd862e3f796"},{"id":"5ac603ac-6d63-11ee-a763-cba605224fd7","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceChordId":"f4fed62e-66f6-11ee-b708-576a2b2f90a3","notes":"F","programVoiceId":"5ac35616-6d63-11ee-a763-5fc57c74af6c"},{"id":"5a0f7682-6d63-11ee-a05b-d3dfae3a8349","programId":"d252d314-66f6-11ee-bcd4-a700be7cefae","programSequenceChordId":"f4fed62e-66f6-11ee-b708-576a2b2f90a3","notes":"F","programVoiceId":"5a0d146e-6d63-11ee-a05b-1bfc7ca41a47"}]}
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "libraryId" : "a57570a4-66f6-11ee-b708-47fb5224718c",
+    "state" : "Published",
+    "key" : "F",
+    "tempo" : 95.0,
+    "type" : "Main",
+    "name" : "Atonement Exploration",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457830630
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "9da3b78c-6d63-11ee-a763-b7fb8aca1b21",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceId" : "ec5991da-66f6-11ee-b708-a3e8f3d78c4d",
+    "offset" : 0
+  }, {
+    "id" : "a01afb60-6d63-11ee-a05b-2b8b747c6b1a",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceId" : "ec5991da-66f6-11ee-b708-a3e8f3d78c4d",
+    "offset" : 1
+  } ],
+  "programSequenceChords" : [ {
+    "id" : "f4fed62e-66f6-11ee-b708-576a2b2f90a3",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceId" : "ec5991da-66f6-11ee-b708-a3e8f3d78c4d",
+    "name" : "F",
+    "position" : 0.0
+  } ],
+  "programVoices" : [ {
+    "id" : "5b6d1e4e-6d63-11ee-a763-fbd862e3f796",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Stripe",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "58853400-6d63-11ee-a763-ef13769e1603",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Pad",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "5ac35616-6d63-11ee-a763-5fc57c74af6c",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Sticky",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "5c100078-6d63-11ee-a763-3f1d92bd1721",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Transition",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "5a0d146e-6d63-11ee-a05b-1bfc7ca41a47",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Stab",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "59500aa4-6d63-11ee-a05b-5b7e0746d181",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Percussion",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "5719d918-6d63-11ee-a05b-1fb04fda79d0",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Hook",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "57bcf90e-6d63-11ee-a763-3be93506c38c",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Background",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "568917d4-6d63-11ee-a05b-9b7a185853e6",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Drum",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "54652650-6d63-11ee-a763-9b768208a02a",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "type" : "Bass",
+    "name" : "Main",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "09f58f82-66f7-11ee-b708-73f12dbc0b4b",
+    "name" : "EXPLORATION",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae"
+  }, {
+    "id" : "06100780-66f7-11ee-b708-f7bc5d31cb01",
+    "name" : "ATONEMENT",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae"
+  } ],
+  "programSequences" : [ {
+    "id" : "ec5991da-66f6-11ee-b708-a3e8f3d78c4d",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "name" : "New Sequence",
+    "key" : "F",
+    "intensity" : 0.6,
+    "total" : 128
+  } ],
+  "programSequenceChordVoicings" : [ {
+    "id" : "571cc074-6d63-11ee-a05b-9fa02940f16b",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceChordId" : "f4fed62e-66f6-11ee-b708-576a2b2f90a3",
+    "notes" : "F",
+    "programVoiceId" : "5719d918-6d63-11ee-a05b-1fb04fda79d0"
+  }, {
+    "id" : "588918ae-6d63-11ee-a763-2b3b16f2ccf6",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceChordId" : "f4fed62e-66f6-11ee-b708-576a2b2f90a3",
+    "notes" : "F",
+    "programVoiceId" : "58853400-6d63-11ee-a763-ef13769e1603"
+  }, {
+    "id" : "5b702ac6-6d63-11ee-a763-47d06602980d",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceChordId" : "f4fed62e-66f6-11ee-b708-576a2b2f90a3",
+    "notes" : "F",
+    "programVoiceId" : "5b6d1e4e-6d63-11ee-a763-fbd862e3f796"
+  }, {
+    "id" : "5ac603ac-6d63-11ee-a763-cba605224fd7",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceChordId" : "f4fed62e-66f6-11ee-b708-576a2b2f90a3",
+    "notes" : "F",
+    "programVoiceId" : "5ac35616-6d63-11ee-a763-5fc57c74af6c"
+  }, {
+    "id" : "5a0f7682-6d63-11ee-a05b-d3dfae3a8349",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae",
+    "programSequenceChordId" : "f4fed62e-66f6-11ee-b708-576a2b2f90a3",
+    "notes" : "F",
+    "programVoiceId" : "5a0d146e-6d63-11ee-a05b-1bfc7ca41a47"
+  } ]
+}

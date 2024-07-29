@@ -1,1 +1,68 @@
-{"demo":false,"instruments":[{"id":"f5f4c0d2-6e14-11ee-be98-e777cab222aa","libraryId":"56e05ffe-671d-11ee-8d24-9303792ce993","type":"Percussion","state":"Published","name":"Embark Exploration Perc Loops","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Loop","updatedAt":1710457828869}],"instrumentAudios":[{"id":"5492e995-0c49-45a2-af53-f0832fd31d8c","instrumentId":"f5f4c0d2-6e14-11ee-be98-e777cab222aa","name":"Embark Perc Loop Combo","waveformKey":"Embark-Exploration-Perc-Loops-Embark-Perc-Loop-Combo-X.wav","transientSeconds":0.0,"lengthSeconds":80.84211,"loopBeats":128.0,"tempo":95.0,"intensity":0.0,"event":"PERCLOOP","volume":1.0,"tones":"X"},{"id":"862d2fdb-f772-4003-b444-ba6acd1ad20a","instrumentId":"f5f4c0d2-6e14-11ee-be98-e777cab222aa","name":"Embark Perc Loop Dombak","waveformKey":"Embark-Exploration-Perc-Loops-Embark-Perc-Loop-Dombak-X.wav","transientSeconds":0.0,"lengthSeconds":80.84211,"loopBeats":128.0,"tempo":95.0,"intensity":0.5,"event":"PERCLOOP","volume":1.0,"tones":"X"},{"id":"e3dddbb4-721d-4aa8-90e2-5576a1c64572","instrumentId":"f5f4c0d2-6e14-11ee-be98-e777cab222aa","name":"Hand Clap Loop","waveformKey":"Embark-Exploration-Perc-Loops-Hand-Clap-Loop-X.wav","transientSeconds":0.0,"lengthSeconds":10.105917,"loopBeats":16.0,"tempo":95.0,"intensity":0.0,"event":"PERCLOOP","volume":0.8,"tones":"X"}],"instrumentMemes":[{"id":"7143c7b9-0e47-457e-b4ed-37dd7a8c6a49","instrumentId":"f5f4c0d2-6e14-11ee-be98-e777cab222aa","name":"95BPM"},{"id":"33793316-6e15-11ee-be98-ff3bc36b3095","instrumentId":"f5f4c0d2-6e14-11ee-be98-e777cab222aa","name":"EXPLORATION"},{"id":"bd88d960-d9b2-4706-994b-50a170d09ebb","instrumentId":"f5f4c0d2-6e14-11ee-be98-e777cab222aa","name":"EMBARK"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "f5f4c0d2-6e14-11ee-be98-e777cab222aa",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Embark Exploration Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828869
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "5492e995-0c49-45a2-af53-f0832fd31d8c",
+    "instrumentId" : "f5f4c0d2-6e14-11ee-be98-e777cab222aa",
+    "name" : "Embark Perc Loop Combo",
+    "waveformKey" : "Embark-Exploration-Perc-Loops-Embark-Perc-Loop-Combo-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 80.84211,
+    "loopBeats" : 128.0,
+    "tempo" : 95.0,
+    "intensity" : 0.0,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "862d2fdb-f772-4003-b444-ba6acd1ad20a",
+    "instrumentId" : "f5f4c0d2-6e14-11ee-be98-e777cab222aa",
+    "name" : "Embark Perc Loop Dombak",
+    "waveformKey" : "Embark-Exploration-Perc-Loops-Embark-Perc-Loop-Dombak-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 80.84211,
+    "loopBeats" : 128.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "e3dddbb4-721d-4aa8-90e2-5576a1c64572",
+    "instrumentId" : "f5f4c0d2-6e14-11ee-be98-e777cab222aa",
+    "name" : "Hand Clap Loop",
+    "waveformKey" : "Embark-Exploration-Perc-Loops-Hand-Clap-Loop-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 10.105917,
+    "loopBeats" : 16.0,
+    "tempo" : 95.0,
+    "intensity" : 0.0,
+    "event" : "PERCLOOP",
+    "volume" : 0.8,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "7143c7b9-0e47-457e-b4ed-37dd7a8c6a49",
+    "instrumentId" : "f5f4c0d2-6e14-11ee-be98-e777cab222aa",
+    "name" : "95BPM"
+  }, {
+    "id" : "33793316-6e15-11ee-be98-ff3bc36b3095",
+    "instrumentId" : "f5f4c0d2-6e14-11ee-be98-e777cab222aa",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "bd88d960-d9b2-4706-994b-50a170d09ebb",
+    "instrumentId" : "f5f4c0d2-6e14-11ee-be98-e777cab222aa",
+    "name" : "EMBARK"
+  } ]
+}

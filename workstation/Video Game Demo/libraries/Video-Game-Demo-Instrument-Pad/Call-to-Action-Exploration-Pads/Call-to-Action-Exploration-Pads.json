@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"b4a93b22-7845-11ee-b893-bf2b02573643","libraryId":"6fc53f06-66f7-11ee-b708-7bfc8bb45e87","type":"Pad","state":"Published","name":"Call to Action Exploration Pads","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Chord","updatedAt":1710457828797}],"instrumentAudios":[{"id":"4a98216e-7848-11ee-ab74-377ffa70a2a2","instrumentId":"b4a93b22-7845-11ee-b893-bf2b02573643","name":"SO_GF_95_guitar_electric_daphne_melody_Dmaj","waveformKey":"Call-to-Action-Exploration-Pads-SO-GF-95-guitar-electric-daphne-melody-Dmaj-D.wav","transientSeconds":0.0,"lengthSeconds":20.210545,"loopBeats":32.0,"tempo":95.0,"intensity":0.1,"event":"PAD","volume":1.0,"tones":"D"}],"instrumentMemes":[{"id":"d3343d29-1abe-4790-85e6-be83dda29592","instrumentId":"b4a93b22-7845-11ee-b893-bf2b02573643","name":"95BPM"},{"id":"e5656b35-25ac-44aa-a409-3e54b89b7646","instrumentId":"b4a93b22-7845-11ee-b893-bf2b02573643","name":"CALLTOACTION"},{"id":"63988ae5-e288-4813-9822-d063e6122cf8","instrumentId":"b4a93b22-7845-11ee-b893-bf2b02573643","name":"EXPLORATION"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "b4a93b22-7845-11ee-b893-bf2b02573643",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Call to Action Exploration Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828797
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "4a98216e-7848-11ee-ab74-377ffa70a2a2",
+    "instrumentId" : "b4a93b22-7845-11ee-b893-bf2b02573643",
+    "name" : "SO_GF_95_guitar_electric_daphne_melody_Dmaj",
+    "waveformKey" : "Call-to-Action-Exploration-Pads-SO-GF-95-guitar-electric-daphne-melody-Dmaj-D.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 20.210545,
+    "loopBeats" : 32.0,
+    "tempo" : 95.0,
+    "intensity" : 0.1,
+    "event" : "PAD",
+    "volume" : 1.0,
+    "tones" : "D"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "d3343d29-1abe-4790-85e6-be83dda29592",
+    "instrumentId" : "b4a93b22-7845-11ee-b893-bf2b02573643",
+    "name" : "95BPM"
+  }, {
+    "id" : "e5656b35-25ac-44aa-a409-3e54b89b7646",
+    "instrumentId" : "b4a93b22-7845-11ee-b893-bf2b02573643",
+    "name" : "CALLTOACTION"
+  }, {
+    "id" : "63988ae5-e288-4813-9822-d063e6122cf8",
+    "instrumentId" : "b4a93b22-7845-11ee-b893-bf2b02573643",
+    "name" : "EXPLORATION"
+  } ]
+}

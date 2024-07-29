@@ -1,1 +1,55 @@
-{"demo":false,"programs":[{"id":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","libraryId":"1aea4f08-66f7-11ee-b708-7b2825404265","state":"Published","key":"X","tempo":135.0,"type":"Macro","name":"135 to 95","config":"barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n","isDeleted":false,"updatedAt":1710457830667}],"programSequenceBindings":[{"id":"50505249-633c-4f34-9539-af1fefdc10bb","programId":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","programSequenceId":"b319e306-8a96-44c4-a7b3-868b0e6972e4","offset":0},{"id":"cdf36988-ef93-4990-9118-0ae0cfd9eec2","programId":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","programSequenceId":"b319e306-8a96-44c4-a7b3-868b0e6972e4","offset":1}],"programSequenceBindingMemes":[{"id":"be493a39-de8f-482c-8457-f252cc76f402","programId":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","programSequenceBindingId":"50505249-633c-4f34-9539-af1fefdc10bb","name":"COMBAT"},{"id":"fae588ad-e1ce-47f8-8299-5c8492d54692","programId":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","programSequenceBindingId":"50505249-633c-4f34-9539-af1fefdc10bb","name":"135BPM"},{"id":"c0cad6d1-9232-406b-a3a4-c8cba6e777b3","programId":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","programSequenceBindingId":"cdf36988-ef93-4990-9118-0ae0cfd9eec2","name":"EXPLORATION"},{"id":"5ec37f30-ab21-488b-85d9-e5f6243d4d77","programId":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","programSequenceBindingId":"cdf36988-ef93-4990-9118-0ae0cfd9eec2","name":"95BPM"}],"programSequences":[{"id":"b319e306-8a96-44c4-a7b3-868b0e6972e4","programId":"19e4a8fe-7dab-11ee-9e02-f3615b8812ab","name":"New Sequence","key":"X","intensity":0.6,"total":16}]}
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "libraryId" : "1aea4f08-66f7-11ee-b708-7b2825404265",
+    "state" : "Published",
+    "key" : "X",
+    "tempo" : 135.0,
+    "type" : "Macro",
+    "name" : "135 to 95",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457830667
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "50505249-633c-4f34-9539-af1fefdc10bb",
+    "programId" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "programSequenceId" : "b319e306-8a96-44c4-a7b3-868b0e6972e4",
+    "offset" : 0
+  }, {
+    "id" : "cdf36988-ef93-4990-9118-0ae0cfd9eec2",
+    "programId" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "programSequenceId" : "b319e306-8a96-44c4-a7b3-868b0e6972e4",
+    "offset" : 1
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "be493a39-de8f-482c-8457-f252cc76f402",
+    "programId" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "programSequenceBindingId" : "50505249-633c-4f34-9539-af1fefdc10bb",
+    "name" : "COMBAT"
+  }, {
+    "id" : "fae588ad-e1ce-47f8-8299-5c8492d54692",
+    "programId" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "programSequenceBindingId" : "50505249-633c-4f34-9539-af1fefdc10bb",
+    "name" : "135BPM"
+  }, {
+    "id" : "c0cad6d1-9232-406b-a3a4-c8cba6e777b3",
+    "programId" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "programSequenceBindingId" : "cdf36988-ef93-4990-9118-0ae0cfd9eec2",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "5ec37f30-ab21-488b-85d9-e5f6243d4d77",
+    "programId" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "programSequenceBindingId" : "cdf36988-ef93-4990-9118-0ae0cfd9eec2",
+    "name" : "95BPM"
+  } ],
+  "programSequences" : [ {
+    "id" : "b319e306-8a96-44c4-a7b3-868b0e6972e4",
+    "programId" : "19e4a8fe-7dab-11ee-9e02-f3615b8812ab",
+    "name" : "New Sequence",
+    "key" : "X",
+    "intensity" : 0.6,
+    "total" : 16
+  } ]
+}

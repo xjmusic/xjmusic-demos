@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"f6e25f02-7acd-11ee-8ea4-772b7de555cc","libraryId":"6fc53f06-66f7-11ee-b708-7bfc8bb45e87","type":"Pad","state":"Published","name":"Call to Action Dialog Pads","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Chord","updatedAt":1710457829009}],"instrumentAudios":[{"id":"a3d33e46-8d78-48f8-91e3-b2af53a7039e","instrumentId":"f6e25f02-7acd-11ee-8ea4-772b7de555cc","name":"Flute","waveformKey":"Call-to-Action-Dialog-Pads-Flute-D.wav","transientSeconds":0.0,"lengthSeconds":16.695667,"loopBeats":32.0,"tempo":115.0,"intensity":0.5,"event":"PAD","volume":1.0,"tones":"D"}],"instrumentMemes":[{"id":"1bde4712-777d-4897-a26d-0c9b79af472f","instrumentId":"f6e25f02-7acd-11ee-8ea4-772b7de555cc","name":"CALLTOACTION"},{"id":"b0bbdebb-96c4-4351-bd2e-fe9803d534dc","instrumentId":"f6e25f02-7acd-11ee-8ea4-772b7de555cc","name":"DIALOG"},{"id":"48619db6-9aab-4a21-9ebc-ec379fd57878","instrumentId":"f6e25f02-7acd-11ee-8ea4-772b7de555cc","name":"115BPM"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Call to Action Dialog Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457829009
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "a3d33e46-8d78-48f8-91e3-b2af53a7039e",
+    "instrumentId" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
+    "name" : "Flute",
+    "waveformKey" : "Call-to-Action-Dialog-Pads-Flute-D.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 16.695667,
+    "loopBeats" : 32.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "PAD",
+    "volume" : 1.0,
+    "tones" : "D"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "1bde4712-777d-4897-a26d-0c9b79af472f",
+    "instrumentId" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
+    "name" : "CALLTOACTION"
+  }, {
+    "id" : "b0bbdebb-96c4-4351-bd2e-fe9803d534dc",
+    "instrumentId" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
+    "name" : "DIALOG"
+  }, {
+    "id" : "48619db6-9aab-4a21-9ebc-ec379fd57878",
+    "instrumentId" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
+    "name" : "115BPM"
+  } ]
+}
