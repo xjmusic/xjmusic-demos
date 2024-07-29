@@ -1,0 +1,103 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "libraryId" : "0f8f0050-3511-11ec-8c04-5f7ccbf0cadf",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 15.0,
+    "type" : "Beat",
+    "name" : "SPEECH TRIGGER",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "37decef9-044d-4e0e-91dd-509da68e6c27",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceId" : "ac3edc80-846e-447f-bd90-d6754944d5a7",
+    "programVoiceId" : "c005878f-c668-4faa-807d-a0ff304008fb",
+    "name" : "Blank",
+    "total" : 128
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "bf922ac0-ea4a-488e-8850-84267ed15354",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceId" : "ac3edc80-846e-447f-bd90-d6754944d5a7",
+    "offset" : 1
+  }, {
+    "id" : "9af65645-b0d2-4f71-976d-bc502c974e6c",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceId" : "ac3edc80-846e-447f-bd90-d6754944d5a7",
+    "offset" : 0
+  }, {
+    "id" : "a8b1a2ec-3397-4324-abe1-a053343369b8",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceId" : "ac3edc80-846e-447f-bd90-d6754944d5a7",
+    "offset" : 2
+  }, {
+    "id" : "fccce625-7d72-4db8-bd9d-b93b8edbb113",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceId" : "ac3edc80-846e-447f-bd90-d6754944d5a7",
+    "offset" : 3
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "37eab032-89e7-4619-8b4d-d92d3e465f04",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceBindingId" : "fccce625-7d72-4db8-bd9d-b93b8edbb113",
+    "name" : "PLUMS"
+  }, {
+    "id" : "44eb3a04-0cc6-4ce2-9447-78f72c4cb8f3",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceBindingId" : "a8b1a2ec-3397-4324-abe1-a053343369b8",
+    "name" : "PLUMS"
+  }, {
+    "id" : "c5f4fe56-94c5-41d2-8b9d-96f6ac5b49ad",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceBindingId" : "9af65645-b0d2-4f71-976d-bc502c974e6c",
+    "name" : "PLUMS"
+  }, {
+    "id" : "7cfc2bcb-91bc-4705-aefa-a3d48d165c9c",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequenceBindingId" : "bf922ac0-ea4a-488e-8850-84267ed15354",
+    "name" : "PEACHES"
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "45ca49b2-7f13-11ec-9df1-a39e2250da71",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programSequencePatternId" : "37decef9-044d-4e0e-91dd-509da68e6c27",
+    "programVoiceTrackId" : "72840922-e15c-417e-8267-91e8206daf62",
+    "velocity" : 1.0,
+    "position" : 9.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  } ],
+  "programVoices" : [ {
+    "id" : "c005878f-c668-4faa-807d-a0ff304008fb",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "type" : "Drum",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programSequences" : [ {
+    "id" : "ac3edc80-846e-447f-bd90-d6754944d5a7",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "name" : "Open Spaceholder Rhythm Blank",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 64
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "72840922-e15c-417e-8267-91e8206daf62",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programVoiceId" : "c005878f-c668-4faa-807d-a0ff304008fb",
+    "name" : "SNARE",
+    "order" : 1000.0
+  }, {
+    "id" : "eb15daa3-9f53-46d9-abd0-8186d6ea319f",
+    "programId" : "3a97cb5a-7f13-11ec-9df1-4b7f29eba69e",
+    "programVoiceId" : "c005878f-c668-4faa-807d-a0ff304008fb",
+    "name" : "KICK",
+    "order" : 1000.0
+  } ]
+}

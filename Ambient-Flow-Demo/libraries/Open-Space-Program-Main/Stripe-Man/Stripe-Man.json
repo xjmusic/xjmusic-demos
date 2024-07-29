@@ -1,0 +1,105 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "libraryId" : "7f360a4e-383a-11ec-89ac-773fc53b2694",
+    "state" : "Published",
+    "key" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "tempo" : 30.0,
+    "type" : "Main",
+    "name" : "Stripe Man",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "b80550dc-61e3-11ec-b134-9b1a479f2b30",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "programSequenceId" : "60156312-61e3-11ec-8531-bfefe794a137",
+    "offset" : 1
+  }, {
+    "id" : "b98eb57e-61e3-11ec-b134-639e71ec87c1",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "programSequenceId" : "60156312-61e3-11ec-8531-bfefe794a137",
+    "offset" : 2
+  }, {
+    "id" : "b6ad9db6-61e3-11ec-b134-077737f91244",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "programSequenceId" : "60156312-61e3-11ec-8531-bfefe794a137",
+    "offset" : 0
+  } ],
+  "programSequenceChords" : [ {
+    "id" : "6dd63ad0-61e3-11ec-b3d7-aba085b9339c",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "programSequenceId" : "60156312-61e3-11ec-8531-bfefe794a137",
+    "name" : "Cmaj7add9",
+    "position" : 0.0
+  } ],
+  "programVoices" : [ {
+    "id" : "c7220512-d941-11ec-9b32-97eb626e127a",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "type" : "Pad",
+    "name" : "Pad",
+    "order" : 1000.0
+  }, {
+    "id" : "c7222c86-d941-11ec-9b32-8b030b10dfda",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "type" : "Sticky",
+    "name" : "Sticky",
+    "order" : 1000.0
+  }, {
+    "id" : "c721dc4a-d941-11ec-9b32-8f510864ae82",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "type" : "Bass",
+    "name" : "Bass",
+    "order" : 1000.0
+  }, {
+    "id" : "c7225404-d941-11ec-9b32-0749d78263a6",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "type" : "Stripe",
+    "name" : "Stripe",
+    "order" : 1000.0
+  }, {
+    "id" : "c7228104-d941-11ec-9b32-3721928ffa19",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "type" : "Stab",
+    "name" : "Stab",
+    "order" : 1000.0
+  }, {
+    "id" : "c721b116-d941-11ec-9b32-bb12fe2e032b",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "type" : "Drum",
+    "name" : "Drum",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "74ccaeb0-6f4d-11ec-acf4-8790dd27d2bb",
+    "name" : "SPICY",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110"
+  }, {
+    "id" : "794eccb6-6f4d-11ec-acf4-875edd7d4255",
+    "name" : "SAVORY",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110"
+  } ],
+  "programSequences" : [ {
+    "id" : "60156312-61e3-11ec-8531-bfefe794a137",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "name" : "Cmaj7 add 2 test",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programSequenceChordVoicings" : [ {
+    "id" : "83456806-61f1-11ec-a8fb-e37dee77e4f9",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "programSequenceChordId" : "6dd63ad0-61e3-11ec-b3d7-aba085b9339c",
+    "notes" : "C3, G3, B3, D4, E4, G4, C5",
+    "programVoiceId" : "c7220512-d941-11ec-9b32-97eb626e127a"
+  }, {
+    "id" : "73e7060c-61e3-11ec-b3d7-0bafcf0c3ad8",
+    "programId" : "57bf3c88-61e3-11ec-8531-b780a7bb5110",
+    "programSequenceChordId" : "6dd63ad0-61e3-11ec-b3d7-aba085b9339c",
+    "notes" : "C3, G3, B3, D4, E4, G4, C5",
+    "programVoiceId" : "c7225404-d941-11ec-9b32-0749d78263a6"
+  } ]
+}

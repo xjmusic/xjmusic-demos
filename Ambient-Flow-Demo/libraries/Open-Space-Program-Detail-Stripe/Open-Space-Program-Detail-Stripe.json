@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "93a3d200-61e2-11ec-8bff-77a78a03c351",
+    "name" : "Open Space Program Detail Stripe",
+    "projectId" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}

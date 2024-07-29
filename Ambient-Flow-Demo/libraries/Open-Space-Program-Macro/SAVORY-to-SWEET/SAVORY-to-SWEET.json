@@ -1,0 +1,52 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
+    "libraryId" : "758c188c-383d-11ec-a788-633bf1b83658",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 30.0,
+    "type" : "Macro",
+    "name" : "SAVORY to SWEET",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "c53a766c-f416-433a-a8d8-695393355996",
+    "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
+    "programSequenceId" : "ed267493-0c12-4be1-9375-fbcdd9e600cb",
+    "offset" : 1
+  }, {
+    "id" : "d32ef209-625e-418c-b228-a2389475e40e",
+    "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
+    "programSequenceId" : "febfec54-5489-4071-8a21-1074b27126a9",
+    "offset" : 0
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "0a391d46-7540-4238-8873-407abf4a72b0",
+    "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
+    "programSequenceBindingId" : "d32ef209-625e-418c-b228-a2389475e40e",
+    "name" : "SAVORY"
+  }, {
+    "id" : "940cfc8e-64ec-4a22-bfcd-58a384a51e0f",
+    "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
+    "programSequenceBindingId" : "c53a766c-f416-433a-a8d8-695393355996",
+    "name" : "SWEET"
+  } ],
+  "programSequences" : [ {
+    "id" : "ed267493-0c12-4be1-9375-fbcdd9e600cb",
+    "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
+    "name" : "Open Space Test Macro 2",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  }, {
+    "id" : "febfec54-5489-4071-8a21-1074b27126a9",
+    "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
+    "name" : "Open Space Macro Test",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  } ]
+}

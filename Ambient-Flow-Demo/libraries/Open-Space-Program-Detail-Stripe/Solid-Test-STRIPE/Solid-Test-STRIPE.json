@@ -1,0 +1,114 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "libraryId" : "93a3d200-61e2-11ec-8bff-77a78a03c351",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 15.0,
+    "type" : "Detail",
+    "name" : "Solid Test STRIPE",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequenceId" : "1d05de9c-9679-11ec-98e2-0ba6da3fefb6",
+    "programVoiceId" : "87194c6a-9679-11ec-98e2-7bc9cee7a16c",
+    "name" : "Xxx",
+    "total" : 64
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "dbfb4fa6-967b-11ec-976b-8f106a4f714e",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequencePatternId" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programVoiceTrackId" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "velocity" : 1.0,
+    "position" : 4.0,
+    "duration" : 0.125,
+    "tones" : "X"
+  }, {
+    "id" : "a018b778-9679-11ec-98e2-37c1dc2af05d",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequencePatternId" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programVoiceTrackId" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "velocity" : 1.0,
+    "position" : 2.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "a5d0e5d2-9679-11ec-98e2-5b4006a01a24",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequencePatternId" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programVoiceTrackId" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "velocity" : 1.0,
+    "position" : 7.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "aac35250-9679-11ec-98e2-279d957cd957",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequencePatternId" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programVoiceTrackId" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "velocity" : 1.0,
+    "position" : 12.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "9c9b48e0-9679-11ec-98e2-cf8315cb80d2",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequencePatternId" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programVoiceTrackId" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "a7699830-9679-11ec-98e2-e70ca0e0c07a",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequencePatternId" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programVoiceTrackId" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "velocity" : 1.0,
+    "position" : 8.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "aa25adac-9679-11ec-98e2-a7d8900f8537",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programSequencePatternId" : "8e073640-9679-11ec-98e2-3737017a3a50",
+    "programVoiceTrackId" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "velocity" : 1.0,
+    "position" : 11.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  } ],
+  "programVoices" : [ {
+    "id" : "87194c6a-9679-11ec-98e2-7bc9cee7a16c",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "cf74b42c-9679-11ec-98e2-a3a9c54ea125",
+    "name" : "SOLID!",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa"
+  } ],
+  "programSequences" : [ {
+    "id" : "1d05de9c-9679-11ec-98e2-0ba6da3fefb6",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "934632c8-9679-11ec-98e2-8359c271518e",
+    "programId" : "17c193e0-9679-11ec-98e2-eb2bd6b99dfa",
+    "programVoiceId" : "87194c6a-9679-11ec-98e2-7bc9cee7a16c",
+    "name" : "SOLID",
+    "order" : 1000.0
+  } ]
+}

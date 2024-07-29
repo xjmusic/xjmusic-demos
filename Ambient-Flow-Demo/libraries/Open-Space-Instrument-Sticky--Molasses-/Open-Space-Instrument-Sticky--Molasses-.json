@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "7c68d172-3851-11ec-b687-9fcd389404cc",
+    "name" : "Open Space Instrument Sticky (Molasses)",
+    "projectId" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "02ef94fc-8540-11ec-96f3-1366848083ad",
+    "libraryId" : "d86b2f8e-853f-11ec-ac63-f3579b4657e9",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 15.0,
+    "type" : "Detail",
+    "name" : "Pad Test",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "0f56d19c-8540-11ec-96f3-4b610eb9b5fb",
+    "programId" : "02ef94fc-8540-11ec-96f3-1366848083ad",
+    "programSequenceId" : "06f5b9be-8540-11ec-96f3-bb01899adf40",
+    "programVoiceId" : "0baef222-8540-11ec-96f3-73a78115d393",
+    "name" : "Xxx",
+    "total" : 128
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "ccd9e8ba-879f-11ec-bd84-b7b50ff03d20",
+    "programId" : "02ef94fc-8540-11ec-96f3-1366848083ad",
+    "programSequenceId" : "06f5b9be-8540-11ec-96f3-bb01899adf40",
+    "offset" : 0
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "5db06d44-8540-11ec-9d45-973740167c1d",
+    "programId" : "02ef94fc-8540-11ec-96f3-1366848083ad",
+    "programSequencePatternId" : "0f56d19c-8540-11ec-96f3-4b610eb9b5fb",
+    "programVoiceTrackId" : "11253df6-8540-11ec-96f3-db1754673349",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.125,
+    "tones" : "x"
+  } ],
+  "programVoices" : [ {
+    "id" : "0baef222-8540-11ec-96f3-73a78115d393",
+    "programId" : "02ef94fc-8540-11ec-96f3-1366848083ad",
+    "type" : "Pad",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programSequences" : [ {
+    "id" : "06f5b9be-8540-11ec-96f3-bb01899adf40",
+    "programId" : "02ef94fc-8540-11ec-96f3-1366848083ad",
+    "name" : "Pat Test Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 128
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "11253df6-8540-11ec-96f3-db1754673349",
+    "programId" : "02ef94fc-8540-11ec-96f3-1366848083ad",
+    "programVoiceId" : "0baef222-8540-11ec-96f3-73a78115d393",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

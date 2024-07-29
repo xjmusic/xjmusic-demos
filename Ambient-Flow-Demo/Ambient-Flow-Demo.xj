@@ -1,0 +1,10 @@
+{
+  "demo" : true,
+  "project" : {
+    "id" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
+    "name" : "Space",
+    "updatedAt" : 1706132003136,
+    "platformVersion" : "1.9.2",
+    "isDeleted" : false
+  }
+}

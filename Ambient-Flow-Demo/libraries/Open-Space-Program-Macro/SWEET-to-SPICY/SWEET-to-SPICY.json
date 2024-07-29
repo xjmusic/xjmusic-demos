@@ -1,0 +1,52 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "53f4681a-518c-11ec-aa92-bf7cb5b75789",
+    "libraryId" : "758c188c-383d-11ec-a788-633bf1b83658",
+    "state" : "Published",
+    "key" : "F",
+    "tempo" : 30.0,
+    "type" : "Macro",
+    "name" : "SWEET to SPICY",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "218c116b-0a2c-4610-b11e-6650e708eb98",
+    "programId" : "53f4681a-518c-11ec-aa92-bf7cb5b75789",
+    "programSequenceId" : "1c3cfe2e-8954-40f4-8848-d11a1425595b",
+    "offset" : 0
+  }, {
+    "id" : "1f8a92de-87d2-4c9a-977f-31f54b524902",
+    "programId" : "53f4681a-518c-11ec-aa92-bf7cb5b75789",
+    "programSequenceId" : "ac191aba-ff4a-4f19-9db6-76b219c01411",
+    "offset" : 1
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "0317b443-6031-4d9d-9640-3f6b5b2e5cc8",
+    "programId" : "53f4681a-518c-11ec-aa92-bf7cb5b75789",
+    "programSequenceBindingId" : "1f8a92de-87d2-4c9a-977f-31f54b524902",
+    "name" : "SPICY"
+  }, {
+    "id" : "2935e611-ad19-4d92-b8a7-3149996ede70",
+    "programId" : "53f4681a-518c-11ec-aa92-bf7cb5b75789",
+    "programSequenceBindingId" : "218c116b-0a2c-4610-b11e-6650e708eb98",
+    "name" : "SWEET"
+  } ],
+  "programSequences" : [ {
+    "id" : "ac191aba-ff4a-4f19-9db6-76b219c01411",
+    "programId" : "53f4681a-518c-11ec-aa92-bf7cb5b75789",
+    "name" : "Open Space Test Macro 2",
+    "key" : "F",
+    "intensity" : 0.6,
+    "total" : 16
+  }, {
+    "id" : "1c3cfe2e-8954-40f4-8848-d11a1425595b",
+    "programId" : "53f4681a-518c-11ec-aa92-bf7cb5b75789",
+    "name" : "Open Space Macro Test",
+    "key" : "F",
+    "intensity" : 0.6,
+    "total" : 16
+  } ]
+}

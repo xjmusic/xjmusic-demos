@@ -1,0 +1,114 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "libraryId" : "0f8f0050-3511-11ec-8c04-5f7ccbf0cadf",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 15.0,
+    "type" : "Beat",
+    "name" : "Open Spaceholder",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "845406c2-3798-11ec-be61-1f3cd197bb6a",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceId" : "2a3077a2-3513-11ec-8ba6-2f27292f2710",
+    "programVoiceId" : "3599c03a-3513-11ec-8ba6-d316fa55fbab",
+    "name" : "Xxx",
+    "total" : 4
+  }, {
+    "id" : "597f7010-383a-11ec-ba68-6744f7513b60",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceId" : "3c4c923e-383a-11ec-ba68-e3b9258891f8",
+    "programVoiceId" : "3599c03a-3513-11ec-8ba6-d316fa55fbab",
+    "name" : "Blank",
+    "total" : 4
+  }, {
+    "id" : "3bf35fb8-3513-11ec-bb19-1f468e11d4d5",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceId" : "2a3077a2-3513-11ec-8ba6-2f27292f2710",
+    "programVoiceId" : "3599c03a-3513-11ec-8ba6-d316fa55fbab",
+    "name" : "Xxx",
+    "total" : 4
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "a0f84242-3870-11ec-8a32-ab0b19c89722",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceId" : "3c4c923e-383a-11ec-ba68-e3b9258891f8",
+    "offset" : 2
+  }, {
+    "id" : "9df45b3a-3870-11ec-b649-b32f4c7a74f6",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceId" : "3c4c923e-383a-11ec-ba68-e3b9258891f8",
+    "offset" : 0
+  }, {
+    "id" : "9f946ff2-3870-11ec-8a32-93897f61f5ba",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceId" : "3c4c923e-383a-11ec-ba68-e3b9258891f8",
+    "offset" : 1
+  }, {
+    "id" : "a2bb9dcc-3870-11ec-9ead-d710ca577c8e",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceId" : "3c4c923e-383a-11ec-ba68-e3b9258891f8",
+    "offset" : 3
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "ac1ae994-39c5-11ec-b10f-17c4e952ed9f",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceBindingId" : "9df45b3a-3870-11ec-b649-b32f4c7a74f6",
+    "name" : "LEMONS"
+  }, {
+    "id" : "b3441d9e-39c5-11ec-878e-739d3869b99b",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceBindingId" : "9f946ff2-3870-11ec-8a32-93897f61f5ba",
+    "name" : "LEMONS"
+  }, {
+    "id" : "b5e2271c-39c5-11ec-b10f-d3c86d401e46",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceBindingId" : "a0f84242-3870-11ec-8a32-ab0b19c89722",
+    "name" : "LEMONS"
+  }, {
+    "id" : "b878d0ca-39c5-11ec-b10f-e7f0a2637f79",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programSequenceBindingId" : "a2bb9dcc-3870-11ec-9ead-d710ca577c8e",
+    "name" : "LEMONS"
+  } ],
+  "programVoices" : [ {
+    "id" : "3599c03a-3513-11ec-8ba6-d316fa55fbab",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "type" : "Drum",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programSequences" : [ {
+    "id" : "2a3077a2-3513-11ec-8ba6-2f27292f2710",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "name" : "Open Spaceholder Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 4
+  }, {
+    "id" : "3c4c923e-383a-11ec-ba68-e3b9258891f8",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "name" : "Open Spaceholder Rhythm Blank",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "7ba57786-5179-11ec-bcad-c3ef09c6c7da",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programVoiceId" : "3599c03a-3513-11ec-8ba6-d316fa55fbab",
+    "name" : "SNARE",
+    "order" : 1000.0
+  }, {
+    "id" : "3eb21f5a-3513-11ec-bb19-ab2f2e3df183",
+    "programId" : "0a11f69e-3513-11ec-8ba6-cb3dcefbf326",
+    "programVoiceId" : "3599c03a-3513-11ec-8ba6-d316fa55fbab",
+    "name" : "KICK",
+    "order" : 1000.0
+  } ]
+}

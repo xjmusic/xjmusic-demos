@@ -1,0 +1,169 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "libraryId" : "93a3d200-61e2-11ec-8bff-77a78a03c351",
+    "state" : "Published",
+    "key" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "tempo" : 60.0,
+    "type" : "Detail",
+    "name" : "Stripe away my tears",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequenceId" : "a6c98a80-e70c-4fb4-8683-a76328287ce1",
+    "programVoiceId" : "7bbce347-cb31-494e-a456-43173e8fd036",
+    "name" : "Xxx",
+    "total" : 32
+  }, {
+    "id" : "e073f902-0da2-4bfc-ae3b-d4b84ee9c6cb",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequenceId" : "a6c98a80-e70c-4fb4-8683-a76328287ce1",
+    "programVoiceId" : "b98a8416-4306-433a-abf8-09a8fd3533a6",
+    "name" : "Xxxx",
+    "total" : 32
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "d1604fe0-63b5-11ec-bf3d-47f0e5ccf6f8",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programVoiceTrackId" : "421f7641-6956-443d-9810-5d27594947c4",
+    "velocity" : 1.0,
+    "position" : 12.375,
+    "duration" : 0.5,
+    "tones" : "X"
+  }, {
+    "id" : "ebc5eab6-63b5-11ec-bf3d-5bac6afaff20",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "e073f902-0da2-4bfc-ae3b-d4b84ee9c6cb",
+    "programVoiceTrackId" : "bfe7cf9b-dce4-4a39-a733-e431fcd18ddb",
+    "velocity" : 1.0,
+    "position" : 25.125,
+    "duration" : 2.63,
+    "tones" : "X"
+  }, {
+    "id" : "96b63765-b20c-4f08-9381-540711fc2d9f",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programVoiceTrackId" : "421f7641-6956-443d-9810-5d27594947c4",
+    "velocity" : 1.0,
+    "position" : 5.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "4e503a9d-224e-4ccc-980c-b1df878c0b32",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programVoiceTrackId" : "421f7641-6956-443d-9810-5d27594947c4",
+    "velocity" : 1.0,
+    "position" : 14.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "e26242a8-186e-4c08-b3f8-1f733d6a46e9",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programVoiceTrackId" : "421f7641-6956-443d-9810-5d27594947c4",
+    "velocity" : 1.0,
+    "position" : 28.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "dd06826a-63b5-11ec-bf3d-734a9093a449",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programVoiceTrackId" : "421f7641-6956-443d-9810-5d27594947c4",
+    "velocity" : 1.0,
+    "position" : 2.0,
+    "duration" : 0.5,
+    "tones" : "X"
+  }, {
+    "id" : "857dc710-ddb8-4132-aa25-811450832d09",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "e073f902-0da2-4bfc-ae3b-d4b84ee9c6cb",
+    "programVoiceTrackId" : "bfe7cf9b-dce4-4a39-a733-e431fcd18ddb",
+    "velocity" : 1.0,
+    "position" : 15.5,
+    "duration" : 5.625,
+    "tones" : "X"
+  }, {
+    "id" : "e3171480-63b5-11ec-975e-9bfb8f4ac33c",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programVoiceTrackId" : "421f7641-6956-443d-9810-5d27594947c4",
+    "velocity" : 1.0,
+    "position" : 24.0,
+    "duration" : 0.5,
+    "tones" : "X"
+  }, {
+    "id" : "d59eaea8-63b5-11ec-bf3d-93e95e228e67",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "10b04da3-1263-4ddd-8452-0e59a8d6312c",
+    "programVoiceTrackId" : "421f7641-6956-443d-9810-5d27594947c4",
+    "velocity" : 1.0,
+    "position" : 20.0,
+    "duration" : 0.125,
+    "tones" : "X"
+  }, {
+    "id" : "cb3a43c8-63b5-11ec-bf3d-8b3e0e5590a2",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "e073f902-0da2-4bfc-ae3b-d4b84ee9c6cb",
+    "programVoiceTrackId" : "bfe7cf9b-dce4-4a39-a733-e431fcd18ddb",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.625,
+    "tones" : "X"
+  }, {
+    "id" : "ceb73a92-63b5-11ec-bf3d-7b9147f501ea",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programSequencePatternId" : "e073f902-0da2-4bfc-ae3b-d4b84ee9c6cb",
+    "programVoiceTrackId" : "bfe7cf9b-dce4-4a39-a733-e431fcd18ddb",
+    "velocity" : 1.0,
+    "position" : 10.375,
+    "duration" : 0.5,
+    "tones" : "X"
+  } ],
+  "programVoices" : [ {
+    "id" : "b98a8416-4306-433a-abf8-09a8fd3533a6",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  }, {
+    "id" : "7bbce347-cb31-494e-a456-43173e8fd036",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "14106c26-be83-11ec-bf18-b3697e3a957a",
+    "name" : "LOOSE",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069"
+  } ],
+  "programSequences" : [ {
+    "id" : "a6c98a80-e70c-4fb4-8683-a76328287ce1",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "name" : "Windshield Striper",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "bfe7cf9b-dce4-4a39-a733-e431fcd18ddb",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programVoiceId" : "b98a8416-4306-433a-abf8-09a8fd3533a6",
+    "name" : "XXX",
+    "order" : 1000.0
+  }, {
+    "id" : "421f7641-6956-443d-9810-5d27594947c4",
+    "programId" : "bfe7c356-63b5-11ec-bf3d-039853d83069",
+    "programVoiceId" : "7bbce347-cb31-494e-a456-43173e8fd036",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

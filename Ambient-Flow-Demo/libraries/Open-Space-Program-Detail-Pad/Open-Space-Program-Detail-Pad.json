@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "d86b2f8e-853f-11ec-ac63-f3579b4657e9",
+    "name" : "Open Space Program Detail Pad",
+    "projectId" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}
