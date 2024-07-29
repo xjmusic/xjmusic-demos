@@ -1,0 +1,133 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "libraryId" : "93a3d200-61e2-11ec-8bff-77a78a03c351",
+    "state" : "Published",
+    "key" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "tempo" : 60.0,
+    "type" : "Detail",
+    "name" : "Stripe for the Taking",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "c6a9b386-61e2-11ec-80f8-333b2fb8b47a",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequenceId" : "ac11a538-61e2-11ec-80f8-1f0316baebdd",
+    "programVoiceId" : "c1afb196-61e2-11ec-80f8-df0360fff71e",
+    "name" : "Xxx",
+    "total" : 32
+  }, {
+    "id" : "1dc4f1bc-61e3-11ec-8bff-4b270a62ff25",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequenceId" : "ac11a538-61e2-11ec-80f8-1f0316baebdd",
+    "programVoiceId" : "10897310-61e3-11ec-8bff-b3dd189202c3",
+    "name" : "Xxxx",
+    "total" : 32
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "2437e630-61e3-11ec-8bff-cb85ba494e2b",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequencePatternId" : "1dc4f1bc-61e3-11ec-8bff-4b270a62ff25",
+    "programVoiceTrackId" : "22998a72-61e3-11ec-8531-43d8f639ec21",
+    "velocity" : 1.0,
+    "position" : 16.5,
+    "duration" : 11.25,
+    "tones" : "X"
+  }, {
+    "id" : "c4aa5b38-63bf-11ec-8aa1-c3b4e8d50da0",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequencePatternId" : "1dc4f1bc-61e3-11ec-8bff-4b270a62ff25",
+    "programVoiceTrackId" : "22998a72-61e3-11ec-8531-43d8f639ec21",
+    "velocity" : 1.0,
+    "position" : 6.0,
+    "duration" : 2.0,
+    "tones" : "X"
+  }, {
+    "id" : "07ad67e2-61e3-11ec-80f8-efdcde45eaf3",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequencePatternId" : "c6a9b386-61e2-11ec-80f8-333b2fb8b47a",
+    "programVoiceTrackId" : "c82fac9c-61e2-11ec-80f8-43a9d7dfb6ab",
+    "velocity" : 1.0,
+    "position" : 28.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "b80c9cc4-63bf-11ec-b036-6b811a6cee28",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequencePatternId" : "1dc4f1bc-61e3-11ec-8bff-4b270a62ff25",
+    "programVoiceTrackId" : "22998a72-61e3-11ec-8531-43d8f639ec21",
+    "velocity" : 1.0,
+    "position" : 1.0,
+    "duration" : 2.0,
+    "tones" : "X"
+  }, {
+    "id" : "f017feb2-61e2-11ec-80f8-ef3e1ff9540d",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequencePatternId" : "c6a9b386-61e2-11ec-80f8-333b2fb8b47a",
+    "programVoiceTrackId" : "c82fac9c-61e2-11ec-80f8-43a9d7dfb6ab",
+    "velocity" : 1.0,
+    "position" : 14.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "d593ba40-61e2-11ec-8531-4bb4cb8a536f",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequencePatternId" : "c6a9b386-61e2-11ec-80f8-333b2fb8b47a",
+    "programVoiceTrackId" : "c82fac9c-61e2-11ec-80f8-43a9d7dfb6ab",
+    "velocity" : 1.0,
+    "position" : 5.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "ccd62c7e-63bf-11ec-b12e-ef44d7a95da5",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programSequencePatternId" : "c6a9b386-61e2-11ec-80f8-333b2fb8b47a",
+    "programVoiceTrackId" : "c82fac9c-61e2-11ec-80f8-43a9d7dfb6ab",
+    "velocity" : 1.0,
+    "position" : 21.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  } ],
+  "programVoices" : [ {
+    "id" : "10897310-61e3-11ec-8bff-b3dd189202c3",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  }, {
+    "id" : "c1afb196-61e2-11ec-80f8-df0360fff71e",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "2453ae4a-be83-11ec-9834-ab0405198ae3",
+    "name" : "SOLID!",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5"
+  } ],
+  "programSequences" : [ {
+    "id" : "ac11a538-61e2-11ec-80f8-1f0316baebdd",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "name" : "Windshield Striper",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "22998a72-61e3-11ec-8531-43d8f639ec21",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programVoiceId" : "10897310-61e3-11ec-8bff-b3dd189202c3",
+    "name" : "XXX",
+    "order" : 1000.0
+  }, {
+    "id" : "c82fac9c-61e2-11ec-80f8-43a9d7dfb6ab",
+    "programId" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "programVoiceId" : "c1afb196-61e2-11ec-80f8-df0360fff71e",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

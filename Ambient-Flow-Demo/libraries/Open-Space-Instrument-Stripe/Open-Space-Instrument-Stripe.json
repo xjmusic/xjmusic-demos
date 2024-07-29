@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "5f2ecc9c-6150-11ec-aa86-0b19e7f877ac",
+    "name" : "Open Space Instrument Stripe",
+    "projectId" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}

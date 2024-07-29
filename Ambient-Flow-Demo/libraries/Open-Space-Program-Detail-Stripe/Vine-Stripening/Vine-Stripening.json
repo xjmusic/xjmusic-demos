@@ -1,0 +1,115 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "libraryId" : "93a3d200-61e2-11ec-8bff-77a78a03c351",
+    "state" : "Published",
+    "key" : "a8210f7c-61e2-11ec-80f8-b31e1ea10db5",
+    "tempo" : 30.0,
+    "type" : "Detail",
+    "name" : "Vine Stripening",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "864fc68c-97b7-4233-9b6e-762865c03512",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programSequenceId" : "650d6b91-6677-43d0-9dba-48bcd9604c68",
+    "programVoiceId" : "ea2e12bf-334f-446e-822b-7d534cbb7bd5",
+    "name" : "Xxx",
+    "total" : 32
+  }, {
+    "id" : "739c8faa-f97a-4871-b20f-9885d6c80ac3",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programSequenceId" : "650d6b91-6677-43d0-9dba-48bcd9604c68",
+    "programVoiceId" : "7e871654-811a-4e3c-a905-1c6db4f9fa5e",
+    "name" : "Xxxx",
+    "total" : 32
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "db75af2b-c74f-4a90-a870-be958ed79123",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programSequencePatternId" : "864fc68c-97b7-4233-9b6e-762865c03512",
+    "programVoiceTrackId" : "dac14532-fd95-48fe-99d3-2827322069ba",
+    "velocity" : 1.0,
+    "position" : 5.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "1c4f3ba2-5fef-47c8-9285-cfc297e7dd42",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programSequencePatternId" : "864fc68c-97b7-4233-9b6e-762865c03512",
+    "programVoiceTrackId" : "dac14532-fd95-48fe-99d3-2827322069ba",
+    "velocity" : 1.0,
+    "position" : 12.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "7f8afe19-0287-4a49-84aa-30169bd073d8",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programSequencePatternId" : "864fc68c-97b7-4233-9b6e-762865c03512",
+    "programVoiceTrackId" : "dac14532-fd95-48fe-99d3-2827322069ba",
+    "velocity" : 1.0,
+    "position" : 28.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "7b7ff312-13fd-481b-a3eb-d29a45eeafae",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programSequencePatternId" : "864fc68c-97b7-4233-9b6e-762865c03512",
+    "programVoiceTrackId" : "dac14532-fd95-48fe-99d3-2827322069ba",
+    "velocity" : 1.0,
+    "position" : 21.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "07ee415f-3ed0-4626-8f90-cece08c53a27",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programSequencePatternId" : "739c8faa-f97a-4871-b20f-9885d6c80ac3",
+    "programVoiceTrackId" : "0974db37-4f3a-4175-9b80-3d21f6428943",
+    "velocity" : 1.0,
+    "position" : 16.0,
+    "duration" : 11.25,
+    "tones" : "X"
+  } ],
+  "programVoices" : [ {
+    "id" : "ea2e12bf-334f-446e-822b-7d534cbb7bd5",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  }, {
+    "id" : "7e871654-811a-4e3c-a905-1c6db4f9fa5e",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "3b4d57e0-be83-11ec-a93d-db782edd877a",
+    "name" : "SOLID!",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0"
+  } ],
+  "programSequences" : [ {
+    "id" : "650d6b91-6677-43d0-9dba-48bcd9604c68",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "name" : "StriperSpace",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "dac14532-fd95-48fe-99d3-2827322069ba",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programVoiceId" : "ea2e12bf-334f-446e-822b-7d534cbb7bd5",
+    "name" : "XXX",
+    "order" : 1000.0
+  }, {
+    "id" : "0974db37-4f3a-4175-9b80-3d21f6428943",
+    "programId" : "f72f6b92-63c0-11ec-9eac-1b38d4c823f0",
+    "programVoiceId" : "7e871654-811a-4e3c-a905-1c6db4f9fa5e",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

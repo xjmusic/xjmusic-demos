@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "ea2df0a6-8582-11ec-929e-bba1128fdb35",
+    "libraryId" : "d86b2f8e-853f-11ec-ac63-f3579b4657e9",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 15.0,
+    "type" : "Detail",
+    "name" : "Pad Test Clone",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "1cf257c8-5ea1-4473-b8dd-021a3148d18d",
+    "programId" : "ea2df0a6-8582-11ec-929e-bba1128fdb35",
+    "programSequenceId" : "8999d048-dd3e-46c0-9c2e-3ad048c22a29",
+    "programVoiceId" : "ae73e95b-a9b6-4c21-842d-889683d29cf6",
+    "name" : "Xxx",
+    "total" : 128
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "9d168ccf-92db-4e2f-a576-4f253ebcf846",
+    "programId" : "ea2df0a6-8582-11ec-929e-bba1128fdb35",
+    "programSequencePatternId" : "1cf257c8-5ea1-4473-b8dd-021a3148d18d",
+    "programVoiceTrackId" : "3bffe551-5d9d-4827-9ca6-4a49db663162",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.125,
+    "tones" : "X"
+  } ],
+  "programVoices" : [ {
+    "id" : "ae73e95b-a9b6-4c21-842d-889683d29cf6",
+    "programId" : "ea2df0a6-8582-11ec-929e-bba1128fdb35",
+    "type" : "Pad",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programSequences" : [ {
+    "id" : "8999d048-dd3e-46c0-9c2e-3ad048c22a29",
+    "programId" : "ea2df0a6-8582-11ec-929e-bba1128fdb35",
+    "name" : "Pat Test Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 128
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "3bffe551-5d9d-4827-9ca6-4a49db663162",
+    "programId" : "ea2df0a6-8582-11ec-929e-bba1128fdb35",
+    "programVoiceId" : "ae73e95b-a9b6-4c21-842d-889683d29cf6",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

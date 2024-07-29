@@ -1,0 +1,52 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "436464f0-ae3e-11ec-8e62-1bc0c280b439",
+    "libraryId" : "758c188c-383d-11ec-a788-633bf1b83658",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 30.0,
+    "type" : "Macro",
+    "name" : "SAVORY to SOUR",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "144b5594-e5f8-4e84-abe1-7b7efbb93cd4",
+    "programId" : "436464f0-ae3e-11ec-8e62-1bc0c280b439",
+    "programSequenceId" : "d5d0aadb-33a6-41b1-b95f-d43b33e7e599",
+    "offset" : 0
+  }, {
+    "id" : "95715cb1-a7db-40df-86e6-7ec0056900d9",
+    "programId" : "436464f0-ae3e-11ec-8e62-1bc0c280b439",
+    "programSequenceId" : "68ae33d1-b397-4183-8a66-24e62d7230ae",
+    "offset" : 1
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "68c8e058-061e-4597-a662-37d9b1412cfe",
+    "programId" : "436464f0-ae3e-11ec-8e62-1bc0c280b439",
+    "programSequenceBindingId" : "95715cb1-a7db-40df-86e6-7ec0056900d9",
+    "name" : "SOUR"
+  }, {
+    "id" : "295199f4-a08f-4674-8281-0b533636b957",
+    "programId" : "436464f0-ae3e-11ec-8e62-1bc0c280b439",
+    "programSequenceBindingId" : "144b5594-e5f8-4e84-abe1-7b7efbb93cd4",
+    "name" : "SAVORY"
+  } ],
+  "programSequences" : [ {
+    "id" : "d5d0aadb-33a6-41b1-b95f-d43b33e7e599",
+    "programId" : "436464f0-ae3e-11ec-8e62-1bc0c280b439",
+    "name" : "Open Space Macro Test",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  }, {
+    "id" : "68ae33d1-b397-4183-8a66-24e62d7230ae",
+    "programId" : "436464f0-ae3e-11ec-8e62-1bc0c280b439",
+    "name" : "Open Space Test Macro 2",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "21cd8a2a-6905-11ec-ad48-6f15e8d8d770",
+    "name" : "Open Space Program Detail Stab",
+    "projectId" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}
