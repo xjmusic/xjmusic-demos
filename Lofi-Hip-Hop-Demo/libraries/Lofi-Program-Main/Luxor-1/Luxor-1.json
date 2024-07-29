@@ -1,0 +1,142 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "libraryId" : "d025f31e-4cae-11ec-8136-f79e3047a42f",
+    "state" : "Published",
+    "key" : "Eb-",
+    "tempo" : 75.0,
+    "type" : "Main",
+    "name" : "Luxor 1",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457159641
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "1c62506d-7bfb-4018-b3ed-2958ca4a79f2",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 11
+  }, {
+    "id" : "b60c43ac-663a-46e5-8b9c-08312b925082",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 6
+  }, {
+    "id" : "3ba88e8d-807f-4a94-b877-11af92285c99",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 5
+  }, {
+    "id" : "c26a38c9-d438-45e8-b3cc-e30406d72284",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 0
+  }, {
+    "id" : "0a56e547-0dbe-4476-9dc0-7f60b136659e",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 8
+  }, {
+    "id" : "675e6cfa-0b5c-4f6c-9e2a-a2e8bb9dc7fa",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 7
+  }, {
+    "id" : "b5e557b9-738f-481c-b94b-b5de76d3cd3b",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 1
+  }, {
+    "id" : "5b05edf6-db56-4246-bcc1-8542da9b6bec",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 10
+  }, {
+    "id" : "015f559e-14d7-4bd2-adf1-bb31873b93e7",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 9
+  }, {
+    "id" : "46f142fc-b4f6-410c-a473-5691b5961c1b",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 3
+  }, {
+    "id" : "23b76b8b-ead6-4543-b1bd-fbc3b3427328",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 4
+  }, {
+    "id" : "131af734-9f9d-44aa-a8f1-64608fe5d593",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "offset" : 2
+  } ],
+  "programSequenceChords" : [ {
+    "id" : "0c0b6568-e17c-4c24-8143-a09a9e73bd32",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceId" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "name" : "Eb-7add9",
+    "position" : 0.0
+  } ],
+  "programVoices" : [ {
+    "id" : "c842b9d2-d941-11ec-9b32-bb6fedbf100d",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "type" : "Bass",
+    "name" : "Bass",
+    "order" : 1000.0
+  }, {
+    "id" : "c7fea118-e2ea-11ec-8cbd-e7d2d8205cd2",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "type" : "Stripe",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "4930e2e4-f729-11ec-9e23-4fc56aa3cb6b",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "type" : "Pad",
+    "name" : "Main",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "58d1fd86-f5cc-11ec-a8b6-bfa3f68ed5ed",
+    "name" : "WIDEOPEN",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d"
+  }, {
+    "id" : "cbbd2082-0656-4e50-81e0-7f479258e455",
+    "name" : "LUXOR",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d"
+  }, {
+    "id" : "d60e2f38-c51e-11ec-a291-5fc419f7b57b",
+    "name" : "75BPM",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d"
+  } ],
+  "programSequences" : [ {
+    "id" : "2e94855f-a53a-41d9-8fb3-bc17ff9d09d1",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "name" : "New Sequence",
+    "key" : "Eb-",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programSequenceChordVoicings" : [ {
+    "id" : "171d43ca-91eb-44ab-a4b3-694819f89d36",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceChordId" : "0c0b6568-e17c-4c24-8143-a09a9e73bd32",
+    "notes" : "Eb1, Gb1, Ab1, Bb1, Db2, Eb2, Gb2, Ab2, Bb2, Db3, Eb3",
+    "programVoiceId" : "c842b9d2-d941-11ec-9b32-bb6fedbf100d"
+  }, {
+    "id" : "c802d102-e2ea-11ec-8cbd-4376a4a9e9ac",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceChordId" : "0c0b6568-e17c-4c24-8143-a09a9e73bd32",
+    "notes" : "Db5, F5, Ab5, Bb5",
+    "programVoiceId" : "c7fea118-e2ea-11ec-8cbd-e7d2d8205cd2"
+  }, {
+    "id" : "4933764e-f729-11ec-9e23-476144bc48c8",
+    "programId" : "d48115fe-c51e-11ec-a291-b73504f5ea1d",
+    "programSequenceChordId" : "0c0b6568-e17c-4c24-8143-a09a9e73bd32",
+    "notes" : "Eb5, Gb5, Bb5, Db5, F5",
+    "programVoiceId" : "4930e2e4-f729-11ec-9e23-4fc56aa3cb6b"
+  } ]
+}

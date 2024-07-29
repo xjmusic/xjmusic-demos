@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "9c25f27a-00b9-11ed-b2a5-0f49664acd5f",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "ae_mus75_future_topdr_G711Fm",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155997
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "ba1b4f3c-00b9-11ed-913d-b37884193b7b",
+    "instrumentId" : "9c25f27a-00b9-11ed-b2a5-0f49664acd5f",
+    "name" : "ae_mus75_future_topdr_G711Fm",
+    "waveformKey" : "ae-mus75-future-topdr-G711Fm-ae-mus75-future-topdr-G711Fm-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 12.8,
+    "loopBeats" : 4.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "7fdecf04-00bb-11ed-989e-6b0604815f77",
+    "instrumentId" : "9c25f27a-00b9-11ed-b2a5-0f49664acd5f",
+    "name" : "75BPM"
+  } ]
+}

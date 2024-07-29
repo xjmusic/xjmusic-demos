@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "8cd2cf52-0c60-11ed-91ab-972fabb4fb17",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "RKU_SRL2_75_drum_loop_hats_hideout",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155864
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "9d7974b4-0c60-11ed-91ab-577088223500",
+    "instrumentId" : "8cd2cf52-0c60-11ed-91ab-972fabb4fb17",
+    "name" : "RKU_SRL2_75_drum_loop_hats_hideout",
+    "waveformKey" : "RKU-SRL2-75-drum-loop-hats-hideout-RKU-SRL2-75-drum-loop-hats-hideout-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 12.8,
+    "loopBeats" : 4.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "SMALL",
+    "volume" : 0.6,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "8f4151e6-0c60-11ed-91ab-b7329f690f53",
+    "instrumentId" : "8cd2cf52-0c60-11ed-91ab-972fabb4fb17",
+    "name" : "75BPM"
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "316c2028-b6de-11ec-80e6-9fad549e27c9",
+    "name" : "Lofi Program Stripe",
+    "projectId" : "18979e94-3ea9-11ed-9bc0-7b15c211b25f",
+    "isDeleted" : false,
+    "updatedAt" : 1710457155746
+  } ]
+}

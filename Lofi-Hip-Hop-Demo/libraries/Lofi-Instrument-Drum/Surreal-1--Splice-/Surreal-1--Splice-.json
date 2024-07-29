@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "717d82a0-0c5c-11ed-80d7-33dce04eaf4c",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Surreal 1 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155960
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "9f9886c6-0c5c-11ed-8ee0-a7d0966c0b02",
+    "instrumentId" : "717d82a0-0c5c-11ed-80d7-33dce04eaf4c",
+    "name" : "Snare",
+    "waveformKey" : "Surreal-1--Splice--Snare-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.516213,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 0.8,
+    "tones" : "X"
+  }, {
+    "id" : "a1de0096-0c5c-11ed-8ee0-8b652b5dfd07",
+    "instrumentId" : "717d82a0-0c5c-11ed-80d7-33dce04eaf4c",
+    "name" : "Hi Hat Closed",
+    "waveformKey" : "Surreal-1--Splice--Hi-Hat-Closed-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.298276,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "HIHAT",
+    "volume" : 0.3,
+    "tones" : "X"
+  }, {
+    "id" : "9cfbb000-0c5c-11ed-8ee0-bf0df8aaaee7",
+    "instrumentId" : "717d82a0-0c5c-11ed-80d7-33dce04eaf4c",
+    "name" : "Kick ",
+    "waveformKey" : "Surreal-1--Splice--Kick--X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.290861,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 0.8,
+    "tones" : "X"
+  } ]
+}

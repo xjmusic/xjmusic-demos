@@ -1,0 +1,64 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "3c698958-ba06-11ed-ad60-e38272c02953",
+    "libraryId" : "5be84a50-b69f-11ec-bfb3-3fe479471292",
+    "state" : "Published",
+    "key" : "A",
+    "tempo" : 75.0,
+    "type" : "Detail",
+    "name" : "Lofi roots custom 75",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = true\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457159585
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "6b806d11-6b7f-4ea4-9a45-55b3bb339b07",
+    "programId" : "3c698958-ba06-11ed-ad60-e38272c02953",
+    "programSequenceId" : "2f910a6d-d13c-44e2-bce3-ccc65e31dd65",
+    "programVoiceId" : "b4561284-604e-4ece-8ef9-c0c20b9325de",
+    "name" : "Xxx",
+    "total" : 16
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "170d8916-93c4-4657-9153-e310416b3c23",
+    "programId" : "3c698958-ba06-11ed-ad60-e38272c02953",
+    "programSequencePatternId" : "6b806d11-6b7f-4ea4-9a45-55b3bb339b07",
+    "programVoiceTrackId" : "1cc3b42c-436b-4871-aa7b-9a48d99bd5aa",
+    "velocity" : 1.0,
+    "position" : 0.03,
+    "duration" : 0.5,
+    "tones" : "A1"
+  } ],
+  "programVoices" : [ {
+    "id" : "b4561284-604e-4ece-8ef9-c0c20b9325de",
+    "programId" : "3c698958-ba06-11ed-ad60-e38272c02953",
+    "type" : "Bass",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "bd1beefa-fb56-4704-bc19-294a42800255",
+    "name" : "CUSTOM",
+    "programId" : "3c698958-ba06-11ed-ad60-e38272c02953"
+  }, {
+    "id" : "7819a038-546d-428a-9b6d-c35a252dfbb4",
+    "name" : "!WIDEOPEN",
+    "programId" : "3c698958-ba06-11ed-ad60-e38272c02953"
+  } ],
+  "programSequences" : [ {
+    "id" : "2f910a6d-d13c-44e2-bce3-ccc65e31dd65",
+    "programId" : "3c698958-ba06-11ed-ad60-e38272c02953",
+    "name" : "New Sequence",
+    "key" : "A",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "1cc3b42c-436b-4871-aa7b-9a48d99bd5aa",
+    "programId" : "3c698958-ba06-11ed-ad60-e38272c02953",
+    "programVoiceId" : "b4561284-604e-4ece-8ef9-c0c20b9325de",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

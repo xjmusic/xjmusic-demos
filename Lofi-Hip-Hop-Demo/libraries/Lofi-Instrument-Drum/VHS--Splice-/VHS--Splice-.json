@@ -1,0 +1,86 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "d6706ffa-f0e7-11ec-b783-47235699ed57",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "VHS (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155987
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "88fdaa5c-f0e8-11ec-b8cc-f3334ad63466",
+    "instrumentId" : "d6706ffa-f0e7-11ec-b783-47235699ed57",
+    "name" : "Hi Hat One",
+    "waveformKey" : "VHS--Splice--Hi-Hat-One-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.298276,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "HIHAT",
+    "volume" : 0.3,
+    "tones" : "X"
+  }, {
+    "id" : "00db750a-f0e8-11ec-b783-dfab59c8150e",
+    "instrumentId" : "d6706ffa-f0e7-11ec-b783-47235699ed57",
+    "name" : "Snare 3",
+    "waveformKey" : "VHS--Splice--Snare-3-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.219591,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 0.7,
+    "tones" : "X"
+  }, {
+    "id" : "edce81be-f0e7-11ec-b783-bf4a19099210",
+    "instrumentId" : "d6706ffa-f0e7-11ec-b783-47235699ed57",
+    "name" : "Kick Three",
+    "waveformKey" : "VHS--Splice--Kick-Three-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.176485,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "ac146be8-f0e8-11ec-b8cc-972b82e9de58",
+    "instrumentId" : "d6706ffa-f0e7-11ec-b783-47235699ed57",
+    "name" : "Hi Hat Two",
+    "waveformKey" : "VHS--Splice--Hi-Hat-Two-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.088253,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "HIHAT",
+    "volume" : 0.6,
+    "tones" : "X"
+  }, {
+    "id" : "76eb17d2-f0e8-11ec-b8cc-0b26422744bf",
+    "instrumentId" : "d6706ffa-f0e7-11ec-b783-47235699ed57",
+    "name" : "Clap Two",
+    "waveformKey" : "VHS--Splice--Clap-Two-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.176485,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "d9794d86-3910-11ed-a1a1-a39ee18519da",
+    "instrumentId" : "d6706ffa-f0e7-11ec-b783-47235699ed57",
+    "name" : "75BPM"
+  } ]
+}

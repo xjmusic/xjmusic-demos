@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "038bece4-2d74-11ed-a9dc-9fefea5d94ec",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "ASL_75_perc_loop_pandaboy",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.6,
+    "mode" : "Loop",
+    "updatedAt" : 1710457156011
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "553a4447-89ca-412b-a7d5-1827b2307ec0",
+    "instrumentId" : "038bece4-2d74-11ed-a9dc-9fefea5d94ec",
+    "name" : "SS_LCSB_75_chimes_loop_kit01_f#",
+    "waveformKey" : "ASL-75-perc-loop-pandaboy-SS-LCSB-75-chimes-loop-kit01-fs-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 12.8,
+    "loopBeats" : 4.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 0.4,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "76fd7d94-126c-4eb7-a46f-d3918515b89e",
+    "instrumentId" : "038bece4-2d74-11ed-a9dc-9fefea5d94ec",
+    "name" : "75BPM"
+  } ]
+}

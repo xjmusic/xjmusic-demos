@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "name" : "Lofi Instrument Drum",
+    "projectId" : "18979e94-3ea9-11ed-9bc0-7b15c211b25f",
+    "isDeleted" : false,
+    "updatedAt" : 1710457155776
+  } ]
+}

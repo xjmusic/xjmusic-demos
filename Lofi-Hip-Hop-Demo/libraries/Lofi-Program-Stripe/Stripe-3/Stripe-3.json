@@ -1,0 +1,60 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "a13c1c22-60a8-11ed-a37b-cb256d3d817c",
+    "libraryId" : "316c2028-b6de-11ec-80e6-9fad549e27c9",
+    "state" : "Published",
+    "key" : "A-",
+    "tempo" : 85.0,
+    "type" : "Detail",
+    "name" : "Stripe 3",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457159670
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "bf433b1a-60a8-11ed-8054-0b91418c1b97",
+    "programId" : "a13c1c22-60a8-11ed-a37b-cb256d3d817c",
+    "programSequenceId" : "ba5052aa-60a8-11ed-8054-3be6737c1032",
+    "programVoiceId" : "b91e1ec6-60a8-11ed-8054-8b81e4976e5d",
+    "name" : "Xxx",
+    "total" : 16
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "c61cb34e-60a8-11ed-8054-671f88cea472",
+    "programId" : "a13c1c22-60a8-11ed-a37b-cb256d3d817c",
+    "programSequencePatternId" : "bf433b1a-60a8-11ed-8054-0b91418c1b97",
+    "programVoiceTrackId" : "bb1b04e6-60a8-11ed-8054-430bfc677784",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 16.0,
+    "tones" : "E5"
+  } ],
+  "programVoices" : [ {
+    "id" : "b91e1ec6-60a8-11ed-8054-8b81e4976e5d",
+    "programId" : "a13c1c22-60a8-11ed-a37b-cb256d3d817c",
+    "type" : "Stripe",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "b4e237ca-60a8-11ed-a07c-3b3423ae4df1",
+    "name" : "85BPM",
+    "programId" : "a13c1c22-60a8-11ed-a37b-cb256d3d817c"
+  } ],
+  "programSequences" : [ {
+    "id" : "ba5052aa-60a8-11ed-8054-3be6737c1032",
+    "programId" : "a13c1c22-60a8-11ed-a37b-cb256d3d817c",
+    "name" : "New Sequence",
+    "key" : "A-",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "bb1b04e6-60a8-11ed-8054-430bfc677784",
+    "programId" : "a13c1c22-60a8-11ed-a37b-cb256d3d817c",
+    "programVoiceId" : "b91e1ec6-60a8-11ed-8054-8b81e4976e5d",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}
