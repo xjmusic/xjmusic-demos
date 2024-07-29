@@ -1,0 +1,52 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "1a4c0f74-16eb-11ea-8a37-c7d65a03364a",
+    "libraryId" : "55ab659c-fb3c-11eb-85f4-87f8295902e9",
+    "state" : "Published",
+    "key" : "G",
+    "tempo" : 120.0,
+    "type" : "Macro",
+    "name" : "Fire to Earth",
+    "config" : "doTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "1a4ef8a6-16eb-11ea-8a37-27b761ff24b4",
+    "programId" : "1a4c0f74-16eb-11ea-8a37-c7d65a03364a",
+    "programSequenceId" : "1a4e05fe-16eb-11ea-8a37-d3de7a11c4c1",
+    "offset" : 1
+  }, {
+    "id" : "1a4fe8ba-16eb-11ea-8a37-eb1eefebea79",
+    "programId" : "1a4c0f74-16eb-11ea-8a37-c7d65a03364a",
+    "programSequenceId" : "1a4d24d6-16eb-11ea-8a37-d3e61fbdb319",
+    "offset" : 0
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "1a5170a4-16eb-11ea-8a37-df05b9c0f704",
+    "programId" : "1a4c0f74-16eb-11ea-8a37-c7d65a03364a",
+    "programSequenceBindingId" : "1a4ef8a6-16eb-11ea-8a37-27b761ff24b4",
+    "name" : "Earth"
+  }, {
+    "id" : "1a525776-16eb-11ea-8a37-43efd982eead",
+    "programId" : "1a4c0f74-16eb-11ea-8a37-c7d65a03364a",
+    "programSequenceBindingId" : "1a4fe8ba-16eb-11ea-8a37-eb1eefebea79",
+    "name" : "Fire"
+  } ],
+  "programSequences" : [ {
+    "id" : "1a4e05fe-16eb-11ea-8a37-d3de7a11c4c1",
+    "programId" : "1a4c0f74-16eb-11ea-8a37-c7d65a03364a",
+    "name" : "Defeat",
+    "key" : "Am",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a4d24d6-16eb-11ea-8a37-d3e61fbdb319",
+    "programId" : "1a4c0f74-16eb-11ea-8a37-c7d65a03364a",
+    "name" : "Aspiration",
+    "key" : "G",
+    "intensity" : 0.6,
+    "total" : 0
+  } ]
+}

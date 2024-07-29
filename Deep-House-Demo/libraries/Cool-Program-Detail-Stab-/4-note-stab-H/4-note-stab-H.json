@@ -1,0 +1,68 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa",
+    "libraryId" : "ff8ce21c-fb22-11eb-981d-37143596a20d",
+    "state" : "Published",
+    "key" : "D-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "4-note stab H",
+    "config" : "doPatternRestartOnChord = false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "7b4e9790-8da1-4fc9-ba5a-8c836da22405",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa",
+    "programSequenceId" : "05376b90-b03f-4f5b-9f30-c27c221d6f2c",
+    "programVoiceId" : "810a8723-e783-48a4-a733-581ebd5da537",
+    "name" : "New Pattern",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "8c78492c-97cf-4c13-9285-84c864d06aca",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa",
+    "programSequencePatternId" : "7b4e9790-8da1-4fc9-ba5a-8c836da22405",
+    "programVoiceTrackId" : "f0455da3-7375-4e64-a5c3-b2075177a078",
+    "velocity" : 1.0,
+    "position" : 1.0,
+    "duration" : 0.75,
+    "tones" : "D5, F5, A5, C6"
+  } ],
+  "programVoices" : [ {
+    "id" : "810a8723-e783-48a4-a733-581ebd5da537",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa",
+    "type" : "Stab",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "7824be10-8f81-11eb-bf34-a7afe438f91d",
+    "name" : "4NOTE",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa"
+  }, {
+    "id" : "35bd8f30-b14a-11eb-a1c7-a767ff0ca4db",
+    "name" : "OPEN",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa"
+  }, {
+    "id" : "366e3ace-b14a-11eb-abb3-ebd2eb784675",
+    "name" : "WIDEOPEN",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa"
+  } ],
+  "programSequences" : [ {
+    "id" : "05376b90-b03f-4f5b-9f30-c27c221d6f2c",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa",
+    "name" : "New Sequence",
+    "key" : "D-",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "f0455da3-7375-4e64-a5c3-b2075177a078",
+    "programId" : "c01f11e0-8d22-11eb-8799-a7f2ca4b82fa",
+    "programVoiceId" : "810a8723-e783-48a4-a733-581ebd5da537",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

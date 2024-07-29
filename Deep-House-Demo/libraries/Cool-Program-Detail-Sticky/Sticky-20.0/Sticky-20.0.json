@@ -1,0 +1,73 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "libraryId" : "55461ec6-fb23-11eb-ad24-972f33ad9115",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Sticky 20.0",
+    "config" : "doPatternRestartOnChord = false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "875b1830-6aa0-4c8d-b9b0-67b98e39428f",
+    "programId" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "programSequenceId" : "71365827-fc73-4cbf-89e6-102bddf55add",
+    "programVoiceId" : "bb0ff2f7-29f1-4a56-9559-217464984c4f",
+    "name" : "New Pattern",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "484b0115-f2a1-4bf1-b589-f7863f08eaf9",
+    "programId" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "programSequencePatternId" : "875b1830-6aa0-4c8d-b9b0-67b98e39428f",
+    "programVoiceTrackId" : "8f06ef8a-1d21-4ae1-8371-4fa96dde7972",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "c68247b8-4b2e-4025-871a-eafd84a4ca41",
+    "programId" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "programSequencePatternId" : "875b1830-6aa0-4c8d-b9b0-67b98e39428f",
+    "programVoiceTrackId" : "8f06ef8a-1d21-4ae1-8371-4fa96dde7972",
+    "velocity" : 1.0,
+    "position" : 6.0,
+    "duration" : 0.25,
+    "tones" : "E4"
+  }, {
+    "id" : "0b2171cc-3cae-42e7-a537-37af9fccca18",
+    "programId" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "programSequencePatternId" : "875b1830-6aa0-4c8d-b9b0-67b98e39428f",
+    "programVoiceTrackId" : "8f06ef8a-1d21-4ae1-8371-4fa96dde7972",
+    "velocity" : 1.0,
+    "position" : 6.75,
+    "duration" : 0.25,
+    "tones" : "E4"
+  } ],
+  "programVoices" : [ {
+    "id" : "bb0ff2f7-29f1-4a56-9559-217464984c4f",
+    "programId" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "type" : "Sticky",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programSequences" : [ {
+    "id" : "71365827-fc73-4cbf-89e6-102bddf55add",
+    "programId" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "8f06ef8a-1d21-4ae1-8371-4fa96dde7972",
+    "programId" : "f9e42a42-a31a-11eb-ac20-8b187ce1bdf0",
+    "programVoiceId" : "bb0ff2f7-29f1-4a56-9559-217464984c4f",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "1a40808c-16eb-11ea-8a37-cb54f3323275",
+    "libraryId" : "55ab659c-fb3c-11eb-85f4-87f8295902e9",
+    "state" : "Published",
+    "key" : "Gm",
+    "tempo" : 120.0,
+    "type" : "Macro",
+    "name" : "Earth to Water",
+    "config" : "doTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "1a44bca6-16eb-11ea-8a37-fbfc3b17d736",
+    "programId" : "1a40808c-16eb-11ea-8a37-cb54f3323275",
+    "programSequenceId" : "1a41c172-16eb-11ea-8a37-0b6e3d341033",
+    "offset" : 1
+  }, {
+    "id" : "1a43fb4a-16eb-11ea-8a37-4fe4560a3bfd",
+    "programId" : "1a40808c-16eb-11ea-8a37-cb54f3323275",
+    "programSequenceId" : "1a42def4-16eb-11ea-8a37-c704ce65d26d",
+    "offset" : 0
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "1a455a58-16eb-11ea-8a37-cf90b6d33289",
+    "programId" : "1a40808c-16eb-11ea-8a37-cb54f3323275",
+    "programSequenceBindingId" : "1a43fb4a-16eb-11ea-8a37-4fe4560a3bfd",
+    "name" : "Earth"
+  }, {
+    "id" : "1a45f6e8-16eb-11ea-8a37-0bb943262de8",
+    "programId" : "1a40808c-16eb-11ea-8a37-cb54f3323275",
+    "programSequenceBindingId" : "1a44bca6-16eb-11ea-8a37-fbfc3b17d736",
+    "name" : "Water"
+  } ],
+  "programSequences" : [ {
+    "id" : "1a41c172-16eb-11ea-8a37-0b6e3d341033",
+    "programId" : "1a40808c-16eb-11ea-8a37-cb54f3323275",
+    "name" : "Arrival",
+    "key" : "F",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a42def4-16eb-11ea-8a37-c704ce65d26d",
+    "programId" : "1a40808c-16eb-11ea-8a37-cb54f3323275",
+    "name" : "Castaway",
+    "key" : "C minor",
+    "intensity" : 0.6,
+    "total" : 0
+  } ]
+}

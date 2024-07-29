@@ -1,0 +1,66 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "libraryId" : "55ab659c-fb3c-11eb-85f4-87f8295902e9",
+    "state" : "Published",
+    "key" : "Ebm",
+    "tempo" : 120.0,
+    "type" : "Macro",
+    "name" : "Wind to Water",
+    "config" : "doTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "1a9df7b2-16eb-11ea-8a37-5ba2da38ab38",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "programSequenceId" : "1a9ce444-16eb-11ea-8a37-17b842802167",
+    "offset" : 1
+  }, {
+    "id" : "1a9f0134-16eb-11ea-8a37-df55db49535f",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "programSequenceId" : "1a9bc9c4-16eb-11ea-8a37-f7a7f3a858cc",
+    "offset" : 0
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "1aa0cd34-16eb-11ea-8a37-5f367f6ff47c",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "programSequenceBindingId" : "1a9df7b2-16eb-11ea-8a37-5ba2da38ab38",
+    "name" : "Water"
+  }, {
+    "id" : "1aa00b06-16eb-11ea-8a37-f347a8b5753b",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "programSequenceBindingId" : "1a9f0134-16eb-11ea-8a37-df55db49535f",
+    "name" : "Wind"
+  } ],
+  "programSequences" : [ {
+    "id" : "1a9ce444-16eb-11ea-8a37-17b842802167",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "name" : "Asink",
+    "key" : "A",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "6cdeeaa0-54a1-11eb-b0bf-6bc5a2335a4f",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  }, {
+    "id" : "7bdb348c-54a1-11eb-b0bf-577791cae5b6",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  }, {
+    "id" : "1a9bc9c4-16eb-11ea-8a37-f7a7f3a858cc",
+    "programId" : "1a9a8ff0-16eb-11ea-8a37-5736573db704",
+    "name" : "Afloat",
+    "key" : "A",
+    "intensity" : 0.6,
+    "total" : 0
+  } ]
+}

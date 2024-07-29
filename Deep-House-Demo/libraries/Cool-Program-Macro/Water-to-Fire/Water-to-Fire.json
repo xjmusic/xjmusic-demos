@@ -1,0 +1,74 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "libraryId" : "55ab659c-fb3c-11eb-85f4-87f8295902e9",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Macro",
+    "name" : "Water to Fire",
+    "config" : "doTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "1a773d7a-16eb-11ea-8a37-ef8d16931cd7",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceId" : "1a74ee6c-16eb-11ea-8a37-4375e532e42c",
+    "offset" : 1
+  }, {
+    "id" : "1a793cb0-16eb-11ea-8a37-f39b42c63d29",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceId" : "1a75b6f8-16eb-11ea-8a37-f34ecd483181",
+    "offset" : 0
+  }, {
+    "id" : "1a77ff30-16eb-11ea-8a37-1b2369a14bee",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceId" : "1a767b60-16eb-11ea-8a37-d35abf13115a",
+    "offset" : 2
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "1a7a77c4-16eb-11ea-8a37-771bff6cd5ad",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceBindingId" : "1a773d7a-16eb-11ea-8a37-ef8d16931cd7",
+    "name" : "Fire"
+  }, {
+    "id" : "1a7baac2-16eb-11ea-8a37-ef9d6716f18c",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceBindingId" : "1a793cb0-16eb-11ea-8a37-f39b42c63d29",
+    "name" : "Water"
+  }, {
+    "id" : "1a7cdd0c-16eb-11ea-8a37-73e5d30f5d24",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceBindingId" : "1a773d7a-16eb-11ea-8a37-ef8d16931cd7",
+    "name" : "Water"
+  }, {
+    "id" : "1a7dedc8-16eb-11ea-8a37-f31b7e19b70d",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceBindingId" : "1a77ff30-16eb-11ea-8a37-1b2369a14bee",
+    "name" : "Fire"
+  } ],
+  "programSequences" : [ {
+    "id" : "1a767b60-16eb-11ea-8a37-d35abf13115a",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "name" : "Steam",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a74ee6c-16eb-11ea-8a37-4375e532e42c",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "name" : "Engine",
+    "key" : "Dm",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a75b6f8-16eb-11ea-8a37-f34ecd483181",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "name" : "Hydrant",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 0
+  } ]
+}

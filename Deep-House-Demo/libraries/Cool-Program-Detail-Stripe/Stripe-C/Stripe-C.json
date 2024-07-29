@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "362d94fc-91a5-11eb-aa43-e3726230ec86",
+    "libraryId" : "ff8def18-fb22-11eb-928c-2b02f39362fc",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Stripe C",
+    "config" : "doPatternRestartOnChord = false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "60e44434-07ef-4501-b9e8-b469dd6d2357",
+    "programId" : "362d94fc-91a5-11eb-aa43-e3726230ec86",
+    "programSequenceId" : "088fc5c9-0748-4f49-8374-37a9f499c5c8",
+    "programVoiceId" : "ac082197-413f-4247-a1cb-2d5281fcb06f",
+    "name" : "New Pattern",
+    "total" : 16
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "2238cf6f-37ea-4beb-82ae-3bb9ac3afc45",
+    "programId" : "362d94fc-91a5-11eb-aa43-e3726230ec86",
+    "programSequencePatternId" : "60e44434-07ef-4501-b9e8-b469dd6d2357",
+    "programVoiceTrackId" : "be6fc0cd-53b8-4523-82b0-77cc74704db9",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 16.0,
+    "tones" : "G5"
+  } ],
+  "programVoices" : [ {
+    "id" : "ac082197-413f-4247-a1cb-2d5281fcb06f",
+    "programId" : "362d94fc-91a5-11eb-aa43-e3726230ec86",
+    "type" : "Stripe",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programSequences" : [ {
+    "id" : "088fc5c9-0748-4f49-8374-37a9f499c5c8",
+    "programId" : "362d94fc-91a5-11eb-aa43-e3726230ec86",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "be6fc0cd-53b8-4523-82b0-77cc74704db9",
+    "programId" : "362d94fc-91a5-11eb-aa43-e3726230ec86",
+    "programVoiceId" : "ac082197-413f-4247-a1cb-2d5281fcb06f",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

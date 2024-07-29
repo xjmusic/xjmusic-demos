@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "9d966418-fb20-11eb-a2de-172ecc754afd",
+    "name" : "Cool Program Beat",
+    "projectId" : "118f4674-3ea9-11ed-9bc0-57a70d1fbb35",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}

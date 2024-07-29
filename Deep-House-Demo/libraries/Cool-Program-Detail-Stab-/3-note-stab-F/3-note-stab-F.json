@@ -1,0 +1,72 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec",
+    "libraryId" : "ff8ce21c-fb22-11eb-981d-37143596a20d",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "3-note stab F",
+    "config" : "doPatternRestartOnChord = false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "186ecff3-5aed-49ee-b522-da91e88c5de2",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec",
+    "programSequenceId" : "3b5b45c2-a665-4ad7-97d8-1ab5a71468fc",
+    "programVoiceId" : "303d68d1-5cda-421b-ae69-9e238a36f9a1",
+    "name" : "New",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "46911f0c-aace-4f5f-9415-b1d9c207bf55",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec",
+    "programSequencePatternId" : "186ecff3-5aed-49ee-b522-da91e88c5de2",
+    "programVoiceTrackId" : "e9061f7f-cf68-4667-80e3-e2f25103b3b5",
+    "velocity" : 1.0,
+    "position" : 3.5,
+    "duration" : 0.5,
+    "tones" : "C5, E5, G5"
+  } ],
+  "programVoices" : [ {
+    "id" : "303d68d1-5cda-421b-ae69-9e238a36f9a1",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec",
+    "type" : "Stab",
+    "name" : "New",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "08fc3d34-8f80-11eb-ba99-4f9e6fa0b0c4",
+    "name" : "3NOTE",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
+  }, {
+    "id" : "9cecb42c-b14c-11eb-abb3-b370a0beb618",
+    "name" : "STRAIGHT",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
+  }, {
+    "id" : "9da4d192-b14c-11eb-abb3-230f6676f7c7",
+    "name" : "OPEN",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
+  }, {
+    "id" : "9c35afc0-b14c-11eb-abb3-f777ad2f7964",
+    "name" : "WIDEOPEN",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
+  } ],
+  "programSequences" : [ {
+    "id" : "3b5b45c2-a665-4ad7-97d8-1ab5a71468fc",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec",
+    "name" : "New",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "e9061f7f-cf68-4667-80e3-e2f25103b3b5",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec",
+    "programVoiceId" : "303d68d1-5cda-421b-ae69-9e238a36f9a1",
+    "name" : "NEW",
+    "order" : 1000.0
+  } ]
+}

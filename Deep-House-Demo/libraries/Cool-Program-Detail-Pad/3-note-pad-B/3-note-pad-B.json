@@ -1,0 +1,60 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "1aa77060-8b81-11eb-8439-0395150f86fa",
+    "libraryId" : "d124e460-fb22-11eb-b9ed-a36c2b39adb7",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "3-note pad B",
+    "config" : "doPatternRestartOnChord=true\ndoTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "c22ad7e4-7e58-44fb-804e-4f55742ba099",
+    "programId" : "1aa77060-8b81-11eb-8439-0395150f86fa",
+    "programSequenceId" : "8a2ac302-456d-423f-a68e-ba61d78a6f22",
+    "programVoiceId" : "6bcd9245-effa-4dbc-a65c-e764525ed73f",
+    "name" : "New Pattern",
+    "total" : 32
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "6f348f55-3328-4956-be38-042bc7f748a9",
+    "programId" : "1aa77060-8b81-11eb-8439-0395150f86fa",
+    "programSequencePatternId" : "c22ad7e4-7e58-44fb-804e-4f55742ba099",
+    "programVoiceTrackId" : "4b37a112-a2f9-448a-9c0f-6bdfad3dfbc6",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 32.0,
+    "tones" : "G3, C4, E4"
+  } ],
+  "programVoices" : [ {
+    "id" : "6bcd9245-effa-4dbc-a65c-e764525ed73f",
+    "programId" : "1aa77060-8b81-11eb-8439-0395150f86fa",
+    "type" : "Pad",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "91ba8910-8f7f-11eb-8ce1-337031f2f099",
+    "name" : "3NOTE",
+    "programId" : "1aa77060-8b81-11eb-8439-0395150f86fa"
+  } ],
+  "programSequences" : [ {
+    "id" : "8a2ac302-456d-423f-a68e-ba61d78a6f22",
+    "programId" : "1aa77060-8b81-11eb-8439-0395150f86fa",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "4b37a112-a2f9-448a-9c0f-6bdfad3dfbc6",
+    "programId" : "1aa77060-8b81-11eb-8439-0395150f86fa",
+    "programVoiceId" : "6bcd9245-effa-4dbc-a65c-e764525ed73f",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

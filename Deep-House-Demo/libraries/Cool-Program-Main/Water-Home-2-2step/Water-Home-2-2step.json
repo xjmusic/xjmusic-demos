@@ -1,0 +1,154 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "libraryId" : "1509102a-16eb-11ea-8a37-4764c2a771db",
+    "state" : "Published",
+    "key" : "F-",
+    "tempo" : 120.0,
+    "type" : "Main",
+    "name" : "Water Home 2 2step",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "dba874b2-05ed-11ec-be9f-73f054feef6a",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 2
+  }, {
+    "id" : "e2e72e3a-05ed-11ec-9ddf-971987dd1376",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 4
+  }, {
+    "id" : "e9b28b24-05ed-11ec-be9f-0f8938ecf25f",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 6
+  }, {
+    "id" : "d22fc20a-05ed-11ec-a3fc-3f33425ef8fc",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 0
+  }, {
+    "id" : "e67282ac-05ed-11ec-be9f-e3fdc6ccec08",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 5
+  }, {
+    "id" : "d6de80a2-05ed-11ec-be9f-2752cb8c6af6",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 1
+  }, {
+    "id" : "ec6a273c-05ed-11ec-9ddf-43e669fea44a",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 7
+  }, {
+    "id" : "df4213b2-05ed-11ec-a3fc-eb27b78e3c08",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "offset" : 3
+  } ],
+  "programSequenceChords" : [ {
+    "id" : "87e7ec3d-e432-4e3c-b71c-aac14a3e72c1",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceId" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "name" : "F-7",
+    "position" : 0.0
+  } ],
+  "programVoices" : [ {
+    "id" : "c70d89a2-d941-11ec-9b32-87258a3b287f",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "type" : "Sticky",
+    "name" : "Sticky",
+    "order" : 1000.0
+  }, {
+    "id" : "c70ddd1c-d941-11ec-9b32-270308216a9f",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "type" : "Stab",
+    "name" : "Stab",
+    "order" : 1000.0
+  }, {
+    "id" : "c70d62b0-d941-11ec-9b32-8baa286e85db",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "type" : "Pad",
+    "name" : "Pad",
+    "order" : 1000.0
+  }, {
+    "id" : "c70d3aba-d941-11ec-9b32-bbf5a349ebab",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "type" : "Bass",
+    "name" : "Bass",
+    "order" : 1000.0
+  }, {
+    "id" : "c70db24c-d941-11ec-9b32-13eeb8f7a848",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "type" : "Stripe",
+    "name" : "Stripe",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "9085b74b-d99d-48bc-9051-e978611e42ea",
+    "name" : "WIDEOPEN",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113"
+  }, {
+    "id" : "1b9855c8-6e99-11ed-99db-5bfb1e1f90e2",
+    "name" : "FMINHARD",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113"
+  }, {
+    "id" : "625f92ce-12e7-42b2-a421-254f8dd279c4",
+    "name" : "WATER",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113"
+  }, {
+    "id" : "3bc29b90-b471-4043-992c-ed833b1ef90c",
+    "name" : "STRAIGHT",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113"
+  }, {
+    "id" : "a4d1cdd1-ab10-45a8-b160-78409164ed42",
+    "name" : "OPEN",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113"
+  } ],
+  "programSequences" : [ {
+    "id" : "57b70502-f9c3-492c-ab14-d92fe48d72b5",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "name" : "New Sequence",
+    "key" : "F-",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programSequenceChordVoicings" : [ {
+    "id" : "1ba172c5-4587-4a11-96f0-dfffe4de21e2",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceChordId" : "87e7ec3d-e432-4e3c-b71c-aac14a3e72c1",
+    "notes" : "F3, Ab3, Bb3, C4, Eb4, F4, Ab4, Bb4",
+    "programVoiceId" : "c70d89a2-d941-11ec-9b32-87258a3b287f"
+  }, {
+    "id" : "b71659b1-82a8-4976-ac47-70bdb72cbe7a",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceChordId" : "87e7ec3d-e432-4e3c-b71c-aac14a3e72c1",
+    "notes" : "F3, Ab3, C4, Eb4, F4, Ab4, C5, Eb5, F5",
+    "programVoiceId" : "c70d62b0-d941-11ec-9b32-8baa286e85db"
+  }, {
+    "id" : "9dcc5184-f07a-49f0-bb34-d469a87cef86",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceChordId" : "87e7ec3d-e432-4e3c-b71c-aac14a3e72c1",
+    "notes" : "F3, Ab3, C4, Eb4, F4, Ab4, C5, Eb5, F5, Ab5, C6",
+    "programVoiceId" : "c70ddd1c-d941-11ec-9b32-270308216a9f"
+  }, {
+    "id" : "092b34a2-6257-4b59-b3a9-1c64c70d3121",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceChordId" : "87e7ec3d-e432-4e3c-b71c-aac14a3e72c1",
+    "notes" : "Eb1, F1, Ab1, Bb1, C2, Eb2, F2, Ab2, Bb2, C3",
+    "programVoiceId" : "c70d3aba-d941-11ec-9b32-bbf5a349ebab"
+  }, {
+    "id" : "58db6aa8-e70d-43ed-bfba-f0c646154d66",
+    "programId" : "316ee426-05e9-11ec-a289-0f33ea78b113",
+    "programSequenceChordId" : "87e7ec3d-e432-4e3c-b71c-aac14a3e72c1",
+    "notes" : "G5, Bb5, Eb6",
+    "programVoiceId" : "c70db24c-d941-11ec-9b32-13eeb8f7a848"
+  } ]
+}

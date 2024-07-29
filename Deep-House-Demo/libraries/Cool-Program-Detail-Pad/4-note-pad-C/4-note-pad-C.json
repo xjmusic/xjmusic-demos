@@ -1,0 +1,78 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "libraryId" : "d124e460-fb22-11eb-b9ed-a36c2b39adb7",
+    "state" : "Published",
+    "key" : "D-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "4-note pad C",
+    "config" : "doPatternRestartOnChord=true\ndoTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "228be58f-5845-467c-af02-9afa7dd1a184",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "programSequenceId" : "71f5aa8c-3cec-4ac6-b2fd-d260a8dbe63e",
+    "programVoiceId" : "d4c920fd-5b92-4426-bf7e-d9f6b7b78e84",
+    "name" : "New Pattern",
+    "total" : 16
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "7cde5cda-c3df-11eb-b72f-e3196afc698a",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "programSequencePatternId" : "228be58f-5845-467c-af02-9afa7dd1a184",
+    "programVoiceTrackId" : "4e35c645-5692-4f3b-a704-26b39fe89684",
+    "velocity" : 1.0,
+    "position" : 8.0,
+    "duration" : 4.0,
+    "tones" : "A3, C4, D4, F4"
+  }, {
+    "id" : "fc1abdbe-1239-467f-a154-2c8653e37a31",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "programSequencePatternId" : "228be58f-5845-467c-af02-9afa7dd1a184",
+    "programVoiceTrackId" : "4e35c645-5692-4f3b-a704-26b39fe89684",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 8.0,
+    "tones" : "C4, D4, F4, A4"
+  }, {
+    "id" : "b50f79a4-c3df-11eb-b72f-7b6a10173be7",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "programSequencePatternId" : "228be58f-5845-467c-af02-9afa7dd1a184",
+    "programVoiceTrackId" : "4e35c645-5692-4f3b-a704-26b39fe89684",
+    "velocity" : 1.0,
+    "position" : 12.0,
+    "duration" : 4.0,
+    "tones" : "D4, F4, A4, C5"
+  } ],
+  "programVoices" : [ {
+    "id" : "d4c920fd-5b92-4426-bf7e-d9f6b7b78e84",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "type" : "Pad",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "3a8d6de6-8f80-11eb-ba99-639496975d68",
+    "name" : "4NOTE",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c"
+  } ],
+  "programSequences" : [ {
+    "id" : "71f5aa8c-3cec-4ac6-b2fd-d260a8dbe63e",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "name" : "New Sequence",
+    "key" : "D-",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "4e35c645-5692-4f3b-a704-26b39fe89684",
+    "programId" : "0782d9ee-8b8f-11eb-a328-0ff788e4df7c",
+    "programVoiceId" : "d4c920fd-5b92-4426-bf7e-d9f6b7b78e84",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

@@ -1,0 +1,62 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "libraryId" : "55ab659c-fb3c-11eb-85f4-87f8295902e9",
+    "state" : "Published",
+    "key" : "Ebm",
+    "tempo" : 120.0,
+    "type" : "Macro",
+    "name" : "Earth to Fire",
+    "config" : "doTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "1a3a4de8-16eb-11ea-8a37-2f48cf13837c",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceId" : "1a37a458-16eb-11ea-8a37-2f73f5c0b0d4",
+    "offset" : 0
+  }, {
+    "id" : "1a396798-16eb-11ea-8a37-0790714b7955",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceId" : "1a3889ae-16eb-11ea-8a37-4784548d9418",
+    "offset" : 1
+  }, {
+    "id" : "1a3b9a9a-16eb-11ea-8a37-0f1de4dd940d",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceId" : "1a37a458-16eb-11ea-8a37-2f73f5c0b0d4",
+    "offset" : 2
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "1a3e100e-16eb-11ea-8a37-4b8eb99d0fd7",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceBindingId" : "1a396798-16eb-11ea-8a37-0790714b7955",
+    "name" : "Fire"
+  }, {
+    "id" : "1a3f46cc-16eb-11ea-8a37-eb499110b2cb",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceBindingId" : "1a3b9a9a-16eb-11ea-8a37-0f1de4dd940d",
+    "name" : "Fire"
+  }, {
+    "id" : "210cfcae-f9e6-11ea-96d4-9bb9fc1f9137",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceBindingId" : "1a3a4de8-16eb-11ea-8a37-2f48cf13837c",
+    "name" : "EARTH"
+  } ],
+  "programSequences" : [ {
+    "id" : "1a3889ae-16eb-11ea-8a37-4784548d9418",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "name" : "Exploding",
+    "key" : "B",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a37a458-16eb-11ea-8a37-2f73f5c0b0d4",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "name" : "Passion Volcano",
+    "key" : "Ebm",
+    "intensity" : 0.6,
+    "total" : 0
+  } ]
+}

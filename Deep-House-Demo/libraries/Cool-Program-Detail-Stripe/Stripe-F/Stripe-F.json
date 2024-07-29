@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "69ee359e-91a5-11eb-b33c-fb695422d2dc",
+    "libraryId" : "ff8def18-fb22-11eb-928c-2b02f39362fc",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Stripe F",
+    "config" : "doPatternRestartOnChord = false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "d8474a59-3792-4e01-a25e-76246899f0bb",
+    "programId" : "69ee359e-91a5-11eb-b33c-fb695422d2dc",
+    "programSequenceId" : "f0a3306e-43c9-4332-908e-4b54bddb29e5",
+    "programVoiceId" : "07abdaa8-cda3-42b2-b451-d136289a24a6",
+    "name" : "New Pattern",
+    "total" : 16
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "c6d87961-0f7a-40c3-afbe-8c4b63c3929c",
+    "programId" : "69ee359e-91a5-11eb-b33c-fb695422d2dc",
+    "programSequencePatternId" : "d8474a59-3792-4e01-a25e-76246899f0bb",
+    "programVoiceTrackId" : "001add26-5b3b-4b03-b6ea-d142efd0cecd",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 16.0,
+    "tones" : "E6"
+  } ],
+  "programVoices" : [ {
+    "id" : "07abdaa8-cda3-42b2-b451-d136289a24a6",
+    "programId" : "69ee359e-91a5-11eb-b33c-fb695422d2dc",
+    "type" : "Stripe",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programSequences" : [ {
+    "id" : "f0a3306e-43c9-4332-908e-4b54bddb29e5",
+    "programId" : "69ee359e-91a5-11eb-b33c-fb695422d2dc",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "001add26-5b3b-4b03-b6ea-d142efd0cecd",
+    "programId" : "69ee359e-91a5-11eb-b33c-fb695422d2dc",
+    "programVoiceId" : "07abdaa8-cda3-42b2-b451-d136289a24a6",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

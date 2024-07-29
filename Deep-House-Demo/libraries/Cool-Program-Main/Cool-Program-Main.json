@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "1509102a-16eb-11ea-8a37-4764c2a771db",
+    "name" : "Cool Program Main",
+    "projectId" : "118f4674-3ea9-11ed-9bc0-57a70d1fbb35",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}
