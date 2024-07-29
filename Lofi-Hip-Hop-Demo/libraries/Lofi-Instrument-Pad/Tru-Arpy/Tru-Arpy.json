@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "f0c9f024-4f4c-11ed-b752-8bfe000d6dd5",
-    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Tru Arpy",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = false\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457155883
-  } ],
   "instrumentAudios" : [ {
     "id" : "606a7f62-9b39-4ab8-8366-c106bdb3305b",
     "instrumentId" : "f0c9f024-4f4c-11ed-b752-8bfe000d6dd5",
@@ -65,19 +53,6 @@
     "volume" : 1.0,
     "tones" : "Gb sus2"
   }, {
-    "id" : "2c0b516b-d5eb-4c4d-b958-96d007265f6b",
-    "instrumentId" : "f0c9f024-4f4c-11ed-b752-8bfe000d6dd5",
-    "name" : "F dim",
-    "waveformKey" : "Tru-Arpy-F-dim-F-dim.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 8.227,
-    "loopBeats" : 8.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "PAD",
-    "volume" : 1.0,
-    "tones" : "F dim"
-  }, {
     "id" : "ae2d3ac6-2ba3-4780-90de-2b2c4478b441",
     "instrumentId" : "f0c9f024-4f4c-11ed-b752-8bfe000d6dd5",
     "name" : "D -7add9",
@@ -90,6 +65,19 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "D -7add9"
+  }, {
+    "id" : "2c0b516b-d5eb-4c4d-b958-96d007265f6b",
+    "instrumentId" : "f0c9f024-4f4c-11ed-b752-8bfe000d6dd5",
+    "name" : "F dim",
+    "waveformKey" : "Tru-Arpy-F-dim-F-dim.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 8.227,
+    "loopBeats" : 8.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "PAD",
+    "volume" : 1.0,
+    "tones" : "F dim"
   }, {
     "id" : "e35208b0-2987-44b6-9233-80b843aa30f6",
     "instrumentId" : "f0c9f024-4f4c-11ed-b752-8bfe000d6dd5",
@@ -2456,6 +2444,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "C aug"
+  } ],
+  "instruments" : [ {
+    "id" : "f0c9f024-4f4c-11ed-b752-8bfe000d6dd5",
+    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Tru Arpy",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = false\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457155883
   } ],
   "instrumentMemes" : [ {
     "id" : "75092ac0-4f4e-11ed-982d-2b66cd98e125",

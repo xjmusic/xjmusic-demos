@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "e83f6fc0-b729-11ed-9026-cb3e1e573f60",
-    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
-    "type" : "Stripe",
-    "state" : "Published",
-    "name" : "Allstripe 75",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.35,
-    "mode" : "Event",
-    "updatedAt" : 1710457155815
-  } ],
   "instrumentAudios" : [ {
     "id" : "db102afa-b72a-11ed-a602-6fb1565345cd",
     "instrumentId" : "e83f6fc0-b729-11ed-9026-cb3e1e573f60",
@@ -168,6 +156,18 @@
     "event" : "STRIPE",
     "volume" : 1.0,
     "tones" : "F5"
+  } ],
+  "instruments" : [ {
+    "id" : "e83f6fc0-b729-11ed-9026-cb3e1e573f60",
+    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Allstripe 75",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.35,
+    "mode" : "Event",
+    "updatedAt" : 1710457155815
   } ],
   "instrumentMemes" : [ {
     "id" : "03c0700e-b72b-11ed-a602-733b2273e9d6",

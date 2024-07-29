@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "69b032be-f728-11ec-a989-db13dd5c6af4",
-    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "luxor wurli",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.8,
-    "mode" : "Chord",
-    "updatedAt" : 1710457156020
-  } ],
   "instrumentAudios" : [ {
     "id" : "6b57328a-babd-11ed-8626-73a2e64e8a87",
     "instrumentId" : "69b032be-f728-11ec-a989-db13dd5c6af4",
@@ -246,6 +234,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "Gbmaj7add9"
+  } ],
+  "instruments" : [ {
+    "id" : "69b032be-f728-11ec-a989-db13dd5c6af4",
+    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "luxor wurli",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.8,
+    "mode" : "Chord",
+    "updatedAt" : 1710457156020
   } ],
   "instrumentMemes" : [ {
     "id" : "6e6b8dc6-f728-11ec-a989-3f289de02d08",

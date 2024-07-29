@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "1f6f5fc0-b935-11ed-b5d8-a3e403773f52",
-    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Movie Dialog Scratches",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155982
-  } ],
   "instrumentAudios" : [ {
     "id" : "d00d540e-ba07-11ed-8fe7-db4c2dd2df30",
     "instrumentId" : "1f6f5fc0-b935-11ed-b5d8-a3e403773f52",
@@ -77,6 +65,18 @@
     "event" : "BIG",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "1f6f5fc0-b935-11ed-b5d8-a3e403773f52",
+    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Movie Dialog Scratches",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155982
   } ],
   "instrumentMemes" : [ {
     "id" : "bf055f20-b959-11ed-8f47-2f049c3defd5",

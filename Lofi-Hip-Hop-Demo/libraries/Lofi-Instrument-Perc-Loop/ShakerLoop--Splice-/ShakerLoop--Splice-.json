@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "be68dacc-a8db-11ec-b1dd-f72ecfa4c90f",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "ShakerLoop (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.6,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155920
-  } ],
   "instrumentAudios" : [ {
     "id" : "e2828846-a99d-11ec-a401-1f14f97475b7",
     "instrumentId" : "be68dacc-a8db-11ec-b1dd-f72ecfa4c90f",
@@ -25,6 +13,18 @@
     "event" : "SMALL",
     "volume" : 0.1,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "be68dacc-a8db-11ec-b1dd-f72ecfa4c90f",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "ShakerLoop (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.6,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155920
   } ],
   "instrumentMemes" : [ {
     "id" : "4c641782-ab1c-11ec-9fe6-47d6246d1a88",

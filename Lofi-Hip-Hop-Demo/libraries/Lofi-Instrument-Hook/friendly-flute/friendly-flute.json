@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "bd5022a8-b86b-11ed-b31d-fbabe4f32fe3",
-    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "friendly flute",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.8,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155934
-  } ],
   "instrumentAudios" : [ {
     "id" : "4924be24-b86c-11ed-b31d-efc23cb8f537",
     "instrumentId" : "bd5022a8-b86b-11ed-b31d-fbabe4f32fe3",
@@ -155,6 +143,18 @@
     "event" : "HOOK",
     "volume" : 1.0,
     "tones" : "x"
+  } ],
+  "instruments" : [ {
+    "id" : "bd5022a8-b86b-11ed-b31d-fbabe4f32fe3",
+    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "friendly flute",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.8,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155934
   } ],
   "instrumentMemes" : [ {
     "id" : "4b2a3fda-b86e-11ed-b37c-63adfd27b9d1",

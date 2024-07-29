@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
-    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
-    "type" : "Stripe",
-    "state" : "Published",
-    "name" : "Luxor mello T",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.4,
-    "mode" : "Event",
-    "updatedAt" : 1710457155835
-  } ],
   "instrumentAudios" : [ {
     "id" : "5d01ebba-5fe8-11ed-8256-2b423cca4471",
     "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
@@ -77,6 +65,18 @@
     "event" : "STRIPE",
     "volume" : 1.0,
     "tones" : "Db5"
+  } ],
+  "instruments" : [ {
+    "id" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
+    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Luxor mello T",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.4,
+    "mode" : "Event",
+    "updatedAt" : 1710457155835
   } ],
   "instrumentMemes" : [ {
     "id" : "7eb59432-5fe8-11ed-9947-d3b4ffc1344b",

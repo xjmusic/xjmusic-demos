@@ -13,30 +13,30 @@
     "updatedAt" : 1710457159730
   } ],
   "programSequenceBindings" : [ {
-    "id" : "ca0fe0a0-b556-11ec-9bdf-d386e6892d25",
-    "programId" : "927efd06-b556-11ec-8cf5-933145e59502",
-    "programSequenceId" : "9643372c-b556-11ec-b80e-43d70fcd561a",
-    "offset" : 1
-  }, {
     "id" : "cc65c3c4-b556-11ec-9bdf-9bdb9d20261f",
     "programId" : "927efd06-b556-11ec-8cf5-933145e59502",
     "programSequenceId" : "9643372c-b556-11ec-b80e-43d70fcd561a",
     "offset" : 3
+  }, {
+    "id" : "ca0fe0a0-b556-11ec-9bdf-d386e6892d25",
+    "programId" : "927efd06-b556-11ec-8cf5-933145e59502",
+    "programSequenceId" : "9643372c-b556-11ec-b80e-43d70fcd561a",
+    "offset" : 1
   }, {
     "id" : "d806ecb2-b556-11ec-a01f-c306dc1b166f",
     "programId" : "927efd06-b556-11ec-8cf5-933145e59502",
     "programSequenceId" : "9643372c-b556-11ec-b80e-43d70fcd561a",
     "offset" : 10
   }, {
-    "id" : "d4140d42-b556-11ec-9bdf-5b7f0260b784",
-    "programId" : "927efd06-b556-11ec-8cf5-933145e59502",
-    "programSequenceId" : "9643372c-b556-11ec-b80e-43d70fcd561a",
-    "offset" : 8
-  }, {
     "id" : "c8ca27f0-b556-11ec-9bdf-c33c77828d29",
     "programId" : "927efd06-b556-11ec-8cf5-933145e59502",
     "programSequenceId" : "9643372c-b556-11ec-b80e-43d70fcd561a",
     "offset" : 0
+  }, {
+    "id" : "d4140d42-b556-11ec-9bdf-5b7f0260b784",
+    "programId" : "927efd06-b556-11ec-8cf5-933145e59502",
+    "programSequenceId" : "9643372c-b556-11ec-b80e-43d70fcd561a",
+    "offset" : 8
   }, {
     "id" : "da2924e2-b556-11ec-9bdf-6bacb0ec2d26",
     "programId" : "927efd06-b556-11ec-8cf5-933145e59502",

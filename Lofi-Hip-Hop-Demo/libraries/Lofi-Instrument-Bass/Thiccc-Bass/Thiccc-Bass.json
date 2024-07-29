@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "15d897a0-4118-11ed-b690-9b2d23ffb12c",
-    "libraryId" : "a874074e-b55d-11ec-ada4-abb1e7e1fe89",
-    "type" : "Bass",
-    "state" : "Published",
-    "name" : "Thiccc Bass",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155955
-  } ],
   "instrumentAudios" : [ {
     "id" : "d51e3125-0c47-434a-bbb7-aa6cb6f36dde",
     "instrumentId" : "15d897a0-4118-11ed-b690-9b2d23ffb12c",
@@ -428,5 +416,17 @@
     "event" : "BASS",
     "volume" : 1.0,
     "tones" : "F1"
+  } ],
+  "instruments" : [ {
+    "id" : "15d897a0-4118-11ed-b690-9b2d23ffb12c",
+    "libraryId" : "a874074e-b55d-11ec-ada4-abb1e7e1fe89",
+    "type" : "Bass",
+    "state" : "Published",
+    "name" : "Thiccc Bass",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155955
   } ]
 }

@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "d0edcaf2-b6e8-11ec-8b0e-87d904b6a4d6",
-    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Wet Aberdeen Rhodes",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.21,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155869
-  } ],
   "instrumentAudios" : [ {
     "id" : "f9a6ef64-b6e8-11ec-8b0e-8b97a39ba324",
     "instrumentId" : "d0edcaf2-b6e8-11ec-8b0e-87d904b6a4d6",
@@ -196,6 +184,18 @@
     "intensity" : 0.5,
     "event" : "HOOK",
     "volume" : 1.0
+  } ],
+  "instruments" : [ {
+    "id" : "d0edcaf2-b6e8-11ec-8b0e-87d904b6a4d6",
+    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Wet Aberdeen Rhodes",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.21,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155869
   } ],
   "instrumentMemes" : [ {
     "id" : "d5f61bda-b6e8-11ec-8b0e-db7d4ddc735a",

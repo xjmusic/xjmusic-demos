@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "0d75e4e0-f72c-11ec-b01d-9f8f1ff54254",
-    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "smooth jup",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.8,
-    "mode" : "Chord",
-    "updatedAt" : 1710457155965
-  } ],
   "instrumentAudios" : [ {
     "id" : "62415d36-6a1f-11ed-b7b0-576ce5be46a7",
     "instrumentId" : "0d75e4e0-f72c-11ec-b01d-9f8f1ff54254",
@@ -454,6 +442,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "Cmaj7add9"
+  } ],
+  "instruments" : [ {
+    "id" : "0d75e4e0-f72c-11ec-b01d-9f8f1ff54254",
+    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "smooth jup",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.8,
+    "mode" : "Chord",
+    "updatedAt" : 1710457155965
   } ],
   "instrumentMemes" : [ {
     "id" : "2104f19a-f72c-11ec-84e6-3fb5d63ad6ec",

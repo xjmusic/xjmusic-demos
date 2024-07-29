@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Lo-Fi Elements 3 (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155911
-  } ],
   "instrumentAudios" : [ {
     "id" : "3747ec7e-08be-4684-ae7b-d0ce5b445c73",
     "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
@@ -116,5 +104,17 @@
     "event" : "KICK",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Lo-Fi Elements 3 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155911
   } ]
 }

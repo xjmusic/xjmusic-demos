@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "458aaf48-f694-11ec-9562-db5cb4d54a20",
-    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "mono lead",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.85,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155991
-  } ],
   "instrumentAudios" : [ {
     "id" : "b98a4764-f694-11ec-aa41-f302c342f916",
     "instrumentId" : "458aaf48-f694-11ec-9562-db5cb4d54a20",
@@ -276,6 +264,18 @@
     "intensity" : 0.5,
     "event" : "HOOK",
     "volume" : 1.0
+  } ],
+  "instruments" : [ {
+    "id" : "458aaf48-f694-11ec-9562-db5cb4d54a20",
+    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "mono lead",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.85,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155991
   } ],
   "instrumentMemes" : [ {
     "id" : "4da54f4e-f694-11ec-92a3-8bee86baff91",

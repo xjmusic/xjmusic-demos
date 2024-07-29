@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "717d82a0-0c5c-11ed-80d7-33dce04eaf4c",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Surreal 1 (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155960
-  } ],
   "instrumentAudios" : [ {
     "id" : "9f9886c6-0c5c-11ed-8ee0-a7d0966c0b02",
     "instrumentId" : "717d82a0-0c5c-11ed-80d7-33dce04eaf4c",
@@ -51,5 +39,17 @@
     "event" : "KICK",
     "volume" : 0.8,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "717d82a0-0c5c-11ed-80d7-33dce04eaf4c",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Surreal 1 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155960
   } ]
 }

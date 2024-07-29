@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "e422cd7c-0015-11ed-8169-5bc5fed0eff8",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Sample Magic 1 (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155840
-  } ],
   "instrumentAudios" : [ {
     "id" : "f8f51dd6-0015-11ed-8169-231dfdf9a654",
     "instrumentId" : "e422cd7c-0015-11ed-8169-5bc5fed0eff8",
@@ -194,5 +182,17 @@
     "event" : "KICK",
     "volume" : 0.7,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "e422cd7c-0015-11ed-8169-5bc5fed0eff8",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Sample Magic 1 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155840
   } ]
 }

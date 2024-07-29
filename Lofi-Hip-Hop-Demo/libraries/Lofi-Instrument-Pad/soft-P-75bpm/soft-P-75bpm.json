@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "efdf05d2-c760-11ed-a848-5f5e2a854c87",
-    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "soft P 75bpm",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.1,
-    "mode" : "Chord",
-    "updatedAt" : 1710457155819
-  } ],
   "instrumentAudios" : [ {
     "id" : "134a19ce-c763-11ed-9868-c3905ed89aea",
     "instrumentId" : "efdf05d2-c760-11ed-a848-5f5e2a854c87",
@@ -467,6 +455,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "Bb-7/Db"
+  } ],
+  "instruments" : [ {
+    "id" : "efdf05d2-c760-11ed-a848-5f5e2a854c87",
+    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "soft P 75bpm",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.1,
+    "mode" : "Chord",
+    "updatedAt" : 1710457155819
   } ],
   "instrumentMemes" : [ {
     "id" : "9c79ece2-c763-11ed-aa59-5f91fbcfeabc",

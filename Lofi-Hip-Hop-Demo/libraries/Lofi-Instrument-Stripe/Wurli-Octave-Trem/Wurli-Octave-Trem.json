@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "88838836-b6e0-11ec-8137-df3c2cbba3b8",
-    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
-    "type" : "Stripe",
-    "state" : "Published",
-    "name" : "Wurli Octave Trem",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.6,
-    "mode" : "Event",
-    "updatedAt" : 1710457155874
-  } ],
   "instrumentAudios" : [ {
     "id" : "8e4297a2-b6e1-11ec-b67b-676d343ec601",
     "instrumentId" : "88838836-b6e0-11ec-8137-df3c2cbba3b8",
@@ -168,6 +156,18 @@
     "event" : "STRIPE",
     "volume" : 0.5,
     "tones" : "C5"
+  } ],
+  "instruments" : [ {
+    "id" : "88838836-b6e0-11ec-8137-df3c2cbba3b8",
+    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Wurli Octave Trem",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = true\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = true\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.6,
+    "mode" : "Event",
+    "updatedAt" : 1710457155874
   } ],
   "instrumentMemes" : [ {
     "id" : "459e71de-e2d2-11ec-abe1-13aa0a28000b",

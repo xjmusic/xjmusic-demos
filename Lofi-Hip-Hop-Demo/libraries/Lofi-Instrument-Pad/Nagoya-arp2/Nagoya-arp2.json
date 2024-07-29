@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "be7ddcc8-60a1-11ed-92dc-23a8a9b61a38",
-    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Nagoya arp2",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.75,
-    "mode" : "Chord",
-    "updatedAt" : 1710457155780
-  } ],
   "instrumentAudios" : [ {
     "id" : "6567357a-60a2-11ed-8c5d-23a3f452c0fe",
     "instrumentId" : "be7ddcc8-60a1-11ed-92dc-23a8a9b61a38",
@@ -233,6 +221,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "Eb/Db"
+  } ],
+  "instruments" : [ {
+    "id" : "be7ddcc8-60a1-11ed-92dc-23a8a9b61a38",
+    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Nagoya arp2",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.75,
+    "mode" : "Chord",
+    "updatedAt" : 1710457155780
   } ],
   "instrumentMemes" : [ {
     "id" : "69e8f6d2-60a3-11ed-92dc-b3c3b3a78f7a",

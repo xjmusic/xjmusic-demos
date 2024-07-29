@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "7d4c95a6-2d74-11ed-a40e-83a1bfc739a4",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "SS_JHCB_75_drum_loop_kit03_dream_percussion_3",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.6,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155898
-  } ],
   "instrumentAudios" : [ {
     "id" : "86d8db3f-4e6c-47ef-b0d6-da62a432b0a4",
     "instrumentId" : "7d4c95a6-2d74-11ed-a40e-83a1bfc739a4",
@@ -25,6 +13,18 @@
     "event" : "BIG",
     "volume" : 0.4,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "7d4c95a6-2d74-11ed-a40e-83a1bfc739a4",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "SS_JHCB_75_drum_loop_kit03_dream_percussion_3",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.6,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155898
   } ],
   "instrumentMemes" : [ {
     "id" : "f2352b39-65c6-4749-b65c-d7366c520886",

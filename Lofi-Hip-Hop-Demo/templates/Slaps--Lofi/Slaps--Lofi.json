@@ -1,5 +1,14 @@
 {
   "demo" : false,
+  "templates" : [ {
+    "id" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "projectId" : "18979e94-3ea9-11ed-9bc0-7b15c211b25f",
+    "name" : "Slaps: Lofi",
+    "config" : "choiceMuteProbability = {\n    Background = 0.0\n    Bass = 0.1\n    Drum = 0.2\n    Hook = 0.2\n    Pad = 0.3\n    Percussion = 0.2\n    Stab = 0.3\n    Sticky = 0.3\n    Stripe = 0.4\n    Transition = 0.0\n  }\ndeltaArcBeatLayersIncoming = 1\ndeltaArcBeatLayersToPrioritize = kick\ndeltaArcDetailLayersIncoming = 1\ndeltaArcEnabled = false\ndetailLayerOrder = [\"Bass\",\"Stripe\",\"Pad\",\"Sticky\",\"Stab\"]\ndubMasterVolume = {\n    Background = 1.0\n    Bass = 1.0\n    Drum = 1.0\n    Hook = 1.0\n    Pad = 1.0\n    Percussion = 1.0\n    Stab = 1.0\n    Sticky = 1.0\n    Stripe = 1.0\n    Transition = 1.0\n  }\neventNamesLarge = [\"LARGE\",\"BIG\",\"HIGH\",\"PRIMARY\"]\neventNamesMedium = [\"MEDIUM\",\"REGULAR\",\"MIDDLE\",\"SECONDARY\"]\neventNamesSmall = [\"SMALL\",\"LITTLE\",\"LOW\"]\ninstrumentTypesForAudioLengthFinalization = [\"Bass\",\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\ninstrumentTypesForInversionSeeking = [\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\nintensityAutoCrescendoEnabled = true\nintensityAutoCrescendoMaximum = 0.8\nintensityAutoCrescendoMinimum = 0.2\nintensityLayers = {\n    Background = 3\n    Bass = 1\n    Drum = 1\n    Hook = 1\n    Pad = 1\n    Percussion = 1\n    Stab = 1\n    Sticky = 1\n    Stripe = 1\n    Transition = 3\n  }\nintensityThreshold = {\n    Background = 0.5\n    Bass = 0.5\n    Drum = 0.5\n    Hook = 0.5\n    Pad = 0.5\n    Percussion = 0.5\n    Stab = 0.5\n    Sticky = 0.5\n    Stripe = 0.5\n    Transition = 0.5\n  }\nmainProgramLengthMaxDelta = 280\nmemeTaxonomy = [\n    {\n      \"memes\":[\"ABERDEEN\",\"LUXOR\",\"NAGOYA\",\"BOULDER\"],\n      \"name\":\"CITY\"\n    }\n  ]\nmixerCompressAheadSeconds = 0.05\nmixerCompressDecaySeconds = 0.125\nmixerCompressRatioMax = 1.0\nmixerCompressRatioMin = 0.3\nmixerCompressToAmplitude = 1.0\nmixerDspBufferSize = 1024\nmixerHighpassThresholdHz = 30\nmixerLowpassThresholdHz = 15000\nmixerNormalizationBoostThreshold = 1.0\nmixerNormalizationCeiling = 0.999\nstickyBunEnabled = true\n",
+    "shipKey" : "slaps_lofi",
+    "isDeleted" : false,
+    "updatedAt" : 1710457169891
+  } ],
   "templateBindings" : [ {
     "id" : "66cebc38-4cb4-11ec-8ccb-ff4ca713e059",
     "type" : "Library",
@@ -60,14 +69,5 @@
     "type" : "Library",
     "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
     "targetId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744"
-  } ],
-  "templates" : [ {
-    "id" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
-    "projectId" : "18979e94-3ea9-11ed-9bc0-7b15c211b25f",
-    "name" : "Slaps: Lofi",
-    "config" : "choiceMuteProbability = {\n    Background = 0.0\n    Bass = 0.1\n    Drum = 0.2\n    Hook = 0.2\n    Pad = 0.3\n    Percussion = 0.2\n    Stab = 0.3\n    Sticky = 0.3\n    Stripe = 0.4\n    Transition = 0.0\n  }\ndeltaArcBeatLayersIncoming = 1\ndeltaArcBeatLayersToPrioritize = kick\ndeltaArcDetailLayersIncoming = 1\ndeltaArcEnabled = false\ndetailLayerOrder = [\"Bass\",\"Stripe\",\"Pad\",\"Sticky\",\"Stab\"]\ndubMasterVolume = {\n    Background = 1.0\n    Bass = 1.0\n    Drum = 1.0\n    Hook = 1.0\n    Pad = 1.0\n    Percussion = 1.0\n    Stab = 1.0\n    Sticky = 1.0\n    Stripe = 1.0\n    Transition = 1.0\n  }\neventNamesLarge = [\"LARGE\",\"BIG\",\"HIGH\",\"PRIMARY\"]\neventNamesMedium = [\"MEDIUM\",\"REGULAR\",\"MIDDLE\",\"SECONDARY\"]\neventNamesSmall = [\"SMALL\",\"LITTLE\",\"LOW\"]\ninstrumentTypesForAudioLengthFinalization = [\"Bass\",\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\ninstrumentTypesForInversionSeeking = [\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\nintensityAutoCrescendoEnabled = true\nintensityAutoCrescendoMaximum = 0.8\nintensityAutoCrescendoMinimum = 0.2\nintensityLayers = {\n    Background = 3\n    Bass = 1\n    Drum = 1\n    Hook = 1\n    Pad = 1\n    Percussion = 1\n    Stab = 1\n    Sticky = 1\n    Stripe = 1\n    Transition = 3\n  }\nintensityThreshold = {\n    Background = 0.5\n    Bass = 0.5\n    Drum = 0.5\n    Hook = 0.5\n    Pad = 0.5\n    Percussion = 0.5\n    Stab = 0.5\n    Sticky = 0.5\n    Stripe = 0.5\n    Transition = 0.5\n  }\nmainProgramLengthMaxDelta = 280\nmemeTaxonomy = [\n    {\n      \"memes\":[\"ABERDEEN\",\"LUXOR\",\"NAGOYA\",\"BOULDER\"],\n      \"name\":\"CITY\"\n    }\n  ]\nmixerCompressAheadSeconds = 0.05\nmixerCompressDecaySeconds = 0.125\nmixerCompressRatioMax = 1.0\nmixerCompressRatioMin = 0.3\nmixerCompressToAmplitude = 1.0\nmixerDspBufferSize = 1024\nmixerHighpassThresholdHz = 30\nmixerLowpassThresholdHz = 15000\nmixerNormalizationBoostThreshold = 1.0\nmixerNormalizationCeiling = 0.999\nstickyBunEnabled = true\n",
-    "shipKey" : "slaps_lofi",
-    "isDeleted" : false,
-    "updatedAt" : 1710457169891
   } ]
 }

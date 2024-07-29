@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Lo-Fi 5 (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155878
-  } ],
   "instrumentAudios" : [ {
     "id" : "c4dc3463-1959-402d-b712-c6072eb1a689",
     "instrumentId" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
@@ -51,5 +39,17 @@
     "event" : "HIHAT",
     "volume" : 0.15,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Lo-Fi 5 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155878
   } ]
 }

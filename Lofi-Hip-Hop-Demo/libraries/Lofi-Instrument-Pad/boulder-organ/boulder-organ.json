@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "cf1741ea-6f98-11ed-8671-b73a266940dc",
-    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "boulder organ",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.47,
-    "mode" : "Chord",
-    "updatedAt" : 1710457156015
-  } ],
   "instrumentAudios" : [ {
     "id" : "50af0714-6f9a-11ed-87bd-e3c9e2adeed5",
     "instrumentId" : "cf1741ea-6f98-11ed-8671-b73a266940dc",
@@ -207,6 +195,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "D#-7no5"
+  } ],
+  "instruments" : [ {
+    "id" : "cf1741ea-6f98-11ed-8671-b73a266940dc",
+    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "boulder organ",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.47,
+    "mode" : "Chord",
+    "updatedAt" : 1710457156015
   } ],
   "instrumentMemes" : [ {
     "id" : "7d07fdfc-6f9a-11ed-afa7-b36672752144",

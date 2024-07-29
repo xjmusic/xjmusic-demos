@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "c5d6c1b8-f5cc-11ed-a090-d3aa6c6cccd7",
-    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "luxor new lead",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.87,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155925
-  } ],
   "instrumentAudios" : [ {
     "id" : "bf7aab16-04ce-11ee-b214-7779d1c0ed21",
     "instrumentId" : "c5d6c1b8-f5cc-11ed-a090-d3aa6c6cccd7",
@@ -181,6 +169,18 @@
     "event" : "HOOK",
     "volume" : 1.0,
     "tones" : "x"
+  } ],
+  "instruments" : [ {
+    "id" : "c5d6c1b8-f5cc-11ed-a090-d3aa6c6cccd7",
+    "libraryId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "luxor new lead",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.87,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155925
   } ],
   "instrumentMemes" : [ {
     "id" : "ba7126d0-04cf-11ee-af36-c7ccb22fc9b2",

@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "cb0f8caa-c10c-11ec-9359-8bd6e267e2fa",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "MW Bluesky Loop (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155929
-  } ],
   "instrumentAudios" : [ {
     "id" : "7994aae6-0038-4a2b-8960-c2b4d53775b0",
     "instrumentId" : "cb0f8caa-c10c-11ec-9359-8bd6e267e2fa",
@@ -25,6 +13,18 @@
     "event" : "BIG",
     "volume" : 0.75,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "cb0f8caa-c10c-11ec-9359-8bd6e267e2fa",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "MW Bluesky Loop (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155929
   } ],
   "instrumentMemes" : [ {
     "id" : "92a8dde2-5ecb-4780-9f85-eeb4a29dd91d",

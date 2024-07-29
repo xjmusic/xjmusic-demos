@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "528f4e84-439a-11ee-af47-d789d3b50691",
-    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Clap Echo 75",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.3,
-    "mode" : "Event",
-    "updatedAt" : 1710457155824
-  } ],
   "instrumentAudios" : [ {
     "id" : "875e0ea2-8a68-402b-aa11-d5eda05e0efb",
     "instrumentId" : "528f4e84-439a-11ee-af47-d789d3b50691",
@@ -25,6 +13,18 @@
     "event" : "BIG",
     "volume" : 0.3,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "528f4e84-439a-11ee-af47-d789d3b50691",
+    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Clap Echo 75",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.3,
+    "mode" : "Event",
+    "updatedAt" : 1710457155824
   } ],
   "instrumentMemes" : [ {
     "id" : "e6674535-862b-4c3f-bdd1-47124d98e702",

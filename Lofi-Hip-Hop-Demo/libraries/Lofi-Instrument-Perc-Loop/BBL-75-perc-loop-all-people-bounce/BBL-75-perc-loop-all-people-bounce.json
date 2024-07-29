@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "56cf9abc-6466-11ed-a662-cf8ea1e54a02",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "BBL_75_perc_loop_all_people_bounce",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457156007
-  } ],
   "instrumentAudios" : [ {
     "id" : "4e43cfb9-2243-45b9-95b8-44c4821cbf82",
     "instrumentId" : "56cf9abc-6466-11ed-a662-cf8ea1e54a02",
@@ -25,6 +13,18 @@
     "event" : "MEDIUM",
     "volume" : 0.4,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "56cf9abc-6466-11ed-a662-cf8ea1e54a02",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "BBL_75_perc_loop_all_people_bounce",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457156007
   } ],
   "instrumentMemes" : [ {
     "id" : "aa9aa3bf-79d9-4f4f-aec4-bc6745832ce7",

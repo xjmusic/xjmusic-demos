@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "c2eb6186-00bb-11ed-be11-23080ae0e3a2",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "fs_rhm75_pianonoise1",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155946
-  } ],
   "instrumentAudios" : [ {
     "id" : "dc0f396c-00bb-11ed-9657-8b4a7d948597",
     "instrumentId" : "c2eb6186-00bb-11ed-be11-23080ae0e3a2",
@@ -25,6 +13,18 @@
     "event" : "MEDIUM",
     "volume" : 0.4,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "c2eb6186-00bb-11ed-be11-23080ae0e3a2",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "fs_rhm75_pianonoise1",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155946
   } ],
   "instrumentMemes" : [ {
     "id" : "dd67c2fc-00bb-11ed-989e-733f56ec122c",

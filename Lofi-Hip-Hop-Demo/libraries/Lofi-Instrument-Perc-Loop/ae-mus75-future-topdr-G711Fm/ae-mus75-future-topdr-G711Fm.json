@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "9c25f27a-00b9-11ed-b2a5-0f49664acd5f",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "ae_mus75_future_topdr_G711Fm",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155997
-  } ],
   "instrumentAudios" : [ {
     "id" : "ba1b4f3c-00b9-11ed-913d-b37884193b7b",
     "instrumentId" : "9c25f27a-00b9-11ed-b2a5-0f49664acd5f",
@@ -25,6 +13,18 @@
     "event" : "MEDIUM",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "9c25f27a-00b9-11ed-b2a5-0f49664acd5f",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "ae_mus75_future_topdr_G711Fm",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155997
   } ],
   "instrumentMemes" : [ {
     "id" : "7fdecf04-00bb-11ed-989e-6b0604815f77",

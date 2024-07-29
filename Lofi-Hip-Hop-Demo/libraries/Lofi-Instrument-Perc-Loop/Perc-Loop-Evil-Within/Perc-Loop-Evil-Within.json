@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "a9505dda-72b2-11ed-8e6a-bb00a9b67752",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Perc Loop Evil Within",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155938
-  } ],
   "instrumentAudios" : [ {
     "id" : "c87cef86-90ee-4ffc-98f5-2a7d4bd31f8e",
     "instrumentId" : "a9505dda-72b2-11ed-8e6a-bb00a9b67752",
@@ -25,6 +13,18 @@
     "event" : "MEDIUM",
     "volume" : 0.4,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "a9505dda-72b2-11ed-8e6a-bb00a9b67752",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Perc Loop Evil Within",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155938
   } ],
   "instrumentMemes" : [ {
     "id" : "8c6150be-948c-4ae6-b38a-df4c693e1e52",

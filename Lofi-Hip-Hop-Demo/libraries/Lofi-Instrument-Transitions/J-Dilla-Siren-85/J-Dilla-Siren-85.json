@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "24b7efbc-e215-11ec-8346-d7031ddc34d4",
-    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "J Dilla Siren 85",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.3,
-    "mode" : "Event",
-    "updatedAt" : 1710457155902
-  } ],
   "instrumentAudios" : [ {
     "id" : "39bd4204-e215-11ec-a401-e34331b54bef",
     "instrumentId" : "24b7efbc-e215-11ec-8346-d7031ddc34d4",
@@ -25,6 +13,18 @@
     "event" : "BIG",
     "volume" : 0.3,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "24b7efbc-e215-11ec-8346-d7031ddc34d4",
+    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "J Dilla Siren 85",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.3,
+    "mode" : "Event",
+    "updatedAt" : 1710457155902
   } ],
   "instrumentMemes" : [ {
     "id" : "5af0bc94-e215-11ec-9e0c-97f3cc9003a5",

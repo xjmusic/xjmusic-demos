@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "c1655910-c812-11ed-8880-e39b94324fdc",
-    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "lekko 85bpm",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.2,
-    "mode" : "Chord",
-    "updatedAt" : 1710457156027
-  } ],
   "instrumentAudios" : [ {
     "id" : "d04ee534-c814-11ed-a986-6b237a666000",
     "instrumentId" : "c1655910-c812-11ed-8880-e39b94324fdc",
@@ -363,6 +351,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "D-7"
+  } ],
+  "instruments" : [ {
+    "id" : "c1655910-c812-11ed-8880-e39b94324fdc",
+    "libraryId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "lekko 85bpm",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.2,
+    "mode" : "Chord",
+    "updatedAt" : 1710457156027
   } ],
   "instrumentMemes" : [ {
     "id" : "494b5986-c815-11ed-8739-d77c073681c5",

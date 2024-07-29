@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "13ebfaee-17bb-11ed-803f-87e1b9d2d8d3",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "RKU_JS_75_FX_Loop_Clicky_Tape",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.5,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155810
-  } ],
   "instrumentAudios" : [ {
     "id" : "3083883e-17bb-11ed-803f-6b818f4cd9ff",
     "instrumentId" : "13ebfaee-17bb-11ed-803f-87e1b9d2d8d3",
@@ -25,6 +13,18 @@
     "event" : "MEDIUM",
     "volume" : 0.7,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "13ebfaee-17bb-11ed-803f-87e1b9d2d8d3",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "RKU_JS_75_FX_Loop_Clicky_Tape",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.5,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155810
   } ],
   "instrumentMemes" : [ {
     "id" : "3210178a-17bb-11ed-afd8-3739ff0786b8",
