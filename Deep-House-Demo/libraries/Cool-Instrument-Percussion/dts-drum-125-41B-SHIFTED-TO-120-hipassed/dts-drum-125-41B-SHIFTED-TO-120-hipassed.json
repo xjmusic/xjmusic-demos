@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "677183c2-d0b8-11ec-b3b5-e3d1060582c9",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "dts_drum_125_41B_SHIFTED_TO_120_hipassed",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "a6a9b4b8-43a0-40ea-9758-a237d4dbc15f",
+    "instrumentId" : "677183c2-d0b8-11ec-b3b5-e3d1060582c9",
+    "name" : "dts_drum_125_41B_SHIFTED_TO_120_hipassed",
+    "waveformKey" : "dts-drum-125-41B-SHIFTED-TO-120-hipassed-dts-drum-125-41B-SHIFTED-TO-120-hipassed-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 4.0,
+    "loopBeats" : 8.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "fcce719f-8100-4a18-b840-f41de3c1ea8b",
+    "instrumentId" : "677183c2-d0b8-11ec-b3b5-e3d1060582c9",
+    "name" : "BIG"
+  } ]
+}

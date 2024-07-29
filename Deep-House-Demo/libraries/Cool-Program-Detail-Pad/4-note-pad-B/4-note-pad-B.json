@@ -1,0 +1,60 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "bbc4df20-8b8e-11eb-a328-7722c1cb2464",
+    "libraryId" : "d124e460-fb22-11eb-b9ed-a36c2b39adb7",
+    "state" : "Published",
+    "key" : "D-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "4-note pad B",
+    "config" : "doPatternRestartOnChord=true\ndoTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "24bdf2be-78bb-497d-a4b4-31662ca4d9d0",
+    "programId" : "bbc4df20-8b8e-11eb-a328-7722c1cb2464",
+    "programSequenceId" : "ffc4ef7a-8162-4b59-adfb-d493a071bf3b",
+    "programVoiceId" : "2b98e796-6969-4bee-9b0e-15701f73052d",
+    "name" : "New Pattern",
+    "total" : 32
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "65b06745-3b38-4432-bc4d-e5ce67a6daa0",
+    "programId" : "bbc4df20-8b8e-11eb-a328-7722c1cb2464",
+    "programSequencePatternId" : "24bdf2be-78bb-497d-a4b4-31662ca4d9d0",
+    "programVoiceTrackId" : "d8d165c7-06dc-441f-b1c4-533b7488dc05",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 32.0,
+    "tones" : "A3, C4, D4, F4"
+  } ],
+  "programVoices" : [ {
+    "id" : "2b98e796-6969-4bee-9b0e-15701f73052d",
+    "programId" : "bbc4df20-8b8e-11eb-a328-7722c1cb2464",
+    "type" : "Pad",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "2cd52176-8f80-11eb-9730-f793a179aa7d",
+    "name" : "4NOTE",
+    "programId" : "bbc4df20-8b8e-11eb-a328-7722c1cb2464"
+  } ],
+  "programSequences" : [ {
+    "id" : "ffc4ef7a-8162-4b59-adfb-d493a071bf3b",
+    "programId" : "bbc4df20-8b8e-11eb-a328-7722c1cb2464",
+    "name" : "New Sequence",
+    "key" : "D-",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "d8d165c7-06dc-441f-b1c4-533b7488dc05",
+    "programId" : "bbc4df20-8b8e-11eb-a328-7722c1cb2464",
+    "programVoiceId" : "2b98e796-6969-4bee-9b0e-15701f73052d",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

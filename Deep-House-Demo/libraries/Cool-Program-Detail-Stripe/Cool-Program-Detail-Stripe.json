@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "ff8def18-fb22-11eb-928c-2b02f39362fc",
+    "name" : "Cool Program Detail Stripe",
+    "projectId" : "118f4674-3ea9-11ed-9bc0-57a70d1fbb35",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}

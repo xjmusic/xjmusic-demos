@@ -1,0 +1,105 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "libraryId" : "55461ec6-fb23-11eb-ad24-972f33ad9115",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Sticky 3",
+    "config" : "doTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "86bfbcc7-c854-4757-a1a2-dbde26ed8f1f",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programSequenceId" : "b45af834-a292-441b-bba9-d518cea84df0",
+    "programVoiceId" : "44b287e6-7661-4e25-bcd8-8366bc49ba5e",
+    "name" : "New",
+    "total" : 4
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "13436346-5905-4bca-84ff-d556b2564337",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programSequencePatternId" : "86bfbcc7-c854-4757-a1a2-dbde26ed8f1f",
+    "programVoiceTrackId" : "822e2f62-b30e-44e5-a56b-2ff88cd64809",
+    "velocity" : 1.0,
+    "position" : 0.75,
+    "duration" : 0.25,
+    "tones" : "C4"
+  }, {
+    "id" : "ae06e15c-c3d1-4683-a538-670ccf483446",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programSequencePatternId" : "86bfbcc7-c854-4757-a1a2-dbde26ed8f1f",
+    "programVoiceTrackId" : "822e2f62-b30e-44e5-a56b-2ff88cd64809",
+    "velocity" : 1.0,
+    "position" : 3.25,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "68ee775a-3b3a-4123-9d3c-936cec4aade3",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programSequencePatternId" : "86bfbcc7-c854-4757-a1a2-dbde26ed8f1f",
+    "programVoiceTrackId" : "822e2f62-b30e-44e5-a56b-2ff88cd64809",
+    "velocity" : 1.0,
+    "position" : 1.75,
+    "duration" : 0.25,
+    "tones" : "G4"
+  }, {
+    "id" : "505e29cd-80ae-4d8c-8528-8e05b7f2ea16",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programSequencePatternId" : "86bfbcc7-c854-4757-a1a2-dbde26ed8f1f",
+    "programVoiceTrackId" : "822e2f62-b30e-44e5-a56b-2ff88cd64809",
+    "velocity" : 1.0,
+    "position" : 1.5,
+    "duration" : 0.25,
+    "tones" : "G4"
+  }, {
+    "id" : "2d227765-0301-42a2-883e-b35a898de774",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programSequencePatternId" : "86bfbcc7-c854-4757-a1a2-dbde26ed8f1f",
+    "programVoiceTrackId" : "822e2f62-b30e-44e5-a56b-2ff88cd64809",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.25,
+    "tones" : "C4"
+  }, {
+    "id" : "f4f9b493-41f6-4b40-9c6c-afe44895c4ac",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programSequencePatternId" : "86bfbcc7-c854-4757-a1a2-dbde26ed8f1f",
+    "programVoiceTrackId" : "822e2f62-b30e-44e5-a56b-2ff88cd64809",
+    "velocity" : 1.0,
+    "position" : 2.5,
+    "duration" : 0.25,
+    "tones" : "Bb3"
+  } ],
+  "programVoices" : [ {
+    "id" : "44b287e6-7661-4e25-bcd8-8366bc49ba5e",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "type" : "Sticky",
+    "name" : "New",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "e3878ab2-9425-11ec-9992-b713b435f29d",
+    "name" : "$BUSY",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4"
+  } ],
+  "programSequences" : [ {
+    "id" : "b45af834-a292-441b-bba9-d518cea84df0",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "name" : "New",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 4
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "822e2f62-b30e-44e5-a56b-2ff88cd64809",
+    "programId" : "10682f72-40c7-11eb-9fce-3b0d1da923f4",
+    "programVoiceId" : "44b287e6-7661-4e25-bcd8-8366bc49ba5e",
+    "name" : "NEW",
+    "order" : 1000.0
+  } ]
+}

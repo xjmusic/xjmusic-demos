@@ -1,0 +1,81 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1",
+    "libraryId" : "ff8ce21c-fb22-11eb-981d-37143596a20d",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "3-note stab G",
+    "config" : "doPatternRestartOnChord = false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "47828a98-b25a-4f96-945c-b30a6bb4127a",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1",
+    "programSequenceId" : "196c9219-39c0-4122-b74c-02b80fd47be9",
+    "programVoiceId" : "76961560-5eba-434b-bac2-d686deb511ed",
+    "name" : "New",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "86b0dec3-afc0-4089-b8c1-8a6691a2b957",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1",
+    "programSequencePatternId" : "47828a98-b25a-4f96-945c-b30a6bb4127a",
+    "programVoiceTrackId" : "fc6ffc72-e881-4781-9132-d4f4656d719f",
+    "velocity" : 1.0,
+    "position" : 1.0,
+    "duration" : 0.5,
+    "tones" : "E5, G5, C6"
+  }, {
+    "id" : "89e34546-b14a-11eb-abb3-5f9aabfa33ec",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1",
+    "programSequencePatternId" : "47828a98-b25a-4f96-945c-b30a6bb4127a",
+    "programVoiceTrackId" : "fc6ffc72-e881-4781-9132-d4f4656d719f",
+    "velocity" : 1.0,
+    "position" : 6.75,
+    "duration" : 0.375,
+    "tones" : "E5, G5, C6"
+  } ],
+  "programVoices" : [ {
+    "id" : "76961560-5eba-434b-bac2-d686deb511ed",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1",
+    "type" : "Stab",
+    "name" : "New",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "8f62b042-b14a-11eb-abb3-6f2b39c815b7",
+    "name" : "WIDEOPEN",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1"
+  }, {
+    "id" : "132f2b7c-8f80-11eb-b1dc-43653bdfca39",
+    "name" : "3NOTE",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1"
+  }, {
+    "id" : "90ba649e-b14a-11eb-abb3-175c5187477a",
+    "name" : "OPEN",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1"
+  }, {
+    "id" : "92022850-b14a-11eb-abb3-e35895f15744",
+    "name" : "STRAIGHT",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1"
+  } ],
+  "programSequences" : [ {
+    "id" : "196c9219-39c0-4122-b74c-02b80fd47be9",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1",
+    "name" : "New",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "fc6ffc72-e881-4781-9132-d4f4656d719f",
+    "programId" : "ca270e4e-8b84-11eb-bd29-bb7187eca6a1",
+    "programVoiceId" : "76961560-5eba-434b-bac2-d686deb511ed",
+    "name" : "NEW",
+    "order" : 1000.0
+  } ]
+}

@@ -1,0 +1,60 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f",
+    "libraryId" : "1509102a-16eb-11ea-8a37-4764c2a771db",
+    "state" : "Published",
+    "key" : "NC",
+    "tempo" : 120.0,
+    "type" : "Main",
+    "name" : "Wind X",
+    "config" : "doTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "26b33410-9d4d-11eb-85cf-23abfa44f4b7",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f",
+    "programSequenceId" : "207a5716-16eb-11ea-8a37-675479e03b84",
+    "offset" : 3
+  }, {
+    "id" : "23061d0a-9d4d-11eb-a73f-63f7a89cb68a",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f",
+    "programSequenceId" : "207a5716-16eb-11ea-8a37-675479e03b84",
+    "offset" : 2
+  }, {
+    "id" : "1b163d96-9d4d-11eb-85cf-67017eb1f91f",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f",
+    "programSequenceId" : "207a5716-16eb-11ea-8a37-675479e03b84",
+    "offset" : 0
+  }, {
+    "id" : "1f87bb66-9d4d-11eb-9b1d-db2e69ab2e48",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f",
+    "programSequenceId" : "207a5716-16eb-11ea-8a37-675479e03b84",
+    "offset" : 1
+  } ],
+  "programSequenceChords" : [ {
+    "id" : "207b11a6-16eb-11ea-8a37-6b0199324e79",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f",
+    "programSequenceId" : "207a5716-16eb-11ea-8a37-675479e03b84",
+    "name" : "NC",
+    "position" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "20799f24-16eb-11ea-8a37-e345025bdf46",
+    "name" : "Wind",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f"
+  }, {
+    "id" : "3b2564c4-af66-11eb-b335-731fcc59b345",
+    "name" : "WIDEOPEN",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f"
+  } ],
+  "programSequences" : [ {
+    "id" : "207a5716-16eb-11ea-8a37-675479e03b84",
+    "programId" : "2078ee76-16eb-11ea-8a37-b7162aa1ef0f",
+    "name" : "A",
+    "key" : "NC",
+    "intensity" : 0.6,
+    "total" : 32
+  } ]
+}

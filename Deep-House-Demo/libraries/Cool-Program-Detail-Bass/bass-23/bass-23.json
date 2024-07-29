@@ -1,0 +1,73 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d",
+    "libraryId" : "5545dcfe-fb23-11eb-80a6-4372a28aca52",
+    "state" : "Published",
+    "key" : "D-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "bass 23",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "d0693c0e-4c00-11ec-b2ee-bfb8b66c41ee",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d",
+    "programSequenceId" : "cac83796-4c00-11ec-b2ee-bbe732f5c9fb",
+    "programVoiceId" : "cc943e8a-4c00-11ec-b55f-7f867c203448",
+    "name" : "Xxx",
+    "total" : 4
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "e4032f18-4c00-11ec-b2ee-3f685960e1f8",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d",
+    "programSequencePatternId" : "d0693c0e-4c00-11ec-b2ee-bfb8b66c41ee",
+    "programVoiceTrackId" : "dbf6ef3a-4c00-11ec-b2ee-1bb574511206",
+    "velocity" : 1.0,
+    "position" : 0.75,
+    "duration" : 0.25,
+    "tones" : "D2"
+  }, {
+    "id" : "e2cfe49c-4c00-11ec-b2ee-43caf425c653",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d",
+    "programSequencePatternId" : "d0693c0e-4c00-11ec-b2ee-bfb8b66c41ee",
+    "programVoiceTrackId" : "dbf6ef3a-4c00-11ec-b2ee-1bb574511206",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.25,
+    "tones" : "D1"
+  } ],
+  "programVoices" : [ {
+    "id" : "cc943e8a-4c00-11ec-b55f-7f867c203448",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d",
+    "type" : "Bass",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "fba5520e-4c00-11ec-b3c9-431e4d635ce0",
+    "name" : "OPEN",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d"
+  }, {
+    "id" : "f7571aac-4c00-11ec-b3c9-4397410d21bd",
+    "name" : "WIDEOPEN",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d"
+  } ],
+  "programSequences" : [ {
+    "id" : "cac83796-4c00-11ec-b2ee-bbe732f5c9fb",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d",
+    "name" : "New Sequence",
+    "key" : "D-",
+    "intensity" : 0.6,
+    "total" : 4
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "dbf6ef3a-4c00-11ec-b2ee-1bb574511206",
+    "programId" : "c45ed81a-4c00-11ec-b55f-0be4108efd8d",
+    "programVoiceId" : "cc943e8a-4c00-11ec-b55f-7f867c203448",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

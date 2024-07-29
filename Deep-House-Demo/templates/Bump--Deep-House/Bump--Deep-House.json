@@ -1,0 +1,93 @@
+{
+  "demo" : false,
+  "templateBindings" : [ {
+    "id" : "f6e1999a-09ba-11ec-966b-07e0b41b167c",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "3a11cdf4-fb1d-11eb-bda4-8f35e39004fe"
+  }, {
+    "id" : "01475d2a-09bb-11ec-966b-5f3eb4e9ce24",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "5545dcfe-fb23-11eb-80a6-4372a28aca52"
+  }, {
+    "id" : "33b22b8e-41f9-11ec-a5a8-2b582cb1fe0d",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "8980d7ee-41f5-11ec-a00e-3b9797f85fe8"
+  }, {
+    "id" : "fa8e4d22-09ba-11ec-8016-2bb32542591a",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "ede3b224-fb23-11eb-ad24-1bf1b475662e"
+  }, {
+    "id" : "fece2cea-09ba-11ec-966b-bfe0b2e2cbf2",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "2f621894-fb24-11eb-80a6-63ed42857ac1"
+  }, {
+    "id" : "11848ca8-09bb-11ec-8016-73093a2090af",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "1509102a-16eb-11ea-8a37-4764c2a771db"
+  }, {
+    "id" : "f4e0a2d0-09ba-11ec-966b-77c7e307773f",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "53b95f54-fb24-11eb-ad24-8f1c28086c69"
+  }, {
+    "id" : "e71e08ee-1424-11ec-9ef1-e75ef728c3ad",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8"
+  }, {
+    "id" : "0408b9c8-09bb-11ec-966b-ab66d2f17bdd",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "d124e460-fb22-11eb-b9ed-a36c2b39adb7"
+  }, {
+    "id" : "08a5888a-09bb-11ec-966b-a3f290c3c4f4",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "55461ec6-fb23-11eb-ad24-972f33ad9115"
+  }, {
+    "id" : "0f535a36-09bb-11ec-966b-8fe9e4e006c6",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "55ab659c-fb3c-11eb-85f4-87f8295902e9"
+  }, {
+    "id" : "1495c434-09bb-11ec-966b-eb040564694b",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "9d966418-fb20-11eb-a2de-172ecc754afd"
+  }, {
+    "id" : "f2db0a0c-09ba-11ec-966b-57891f6dc534",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "ede3384e-fb23-11eb-80a6-4f4aa09cf3ef"
+  }, {
+    "id" : "fd077a42-09ba-11ec-8016-4b83e9260d1d",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "460830b0-fb24-11eb-80a6-7b4f92dccaea"
+  }, {
+    "id" : "06704820-09bb-11ec-966b-2fe2e5523441",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "ff8ce21c-fb22-11eb-981d-37143596a20d"
+  }, {
+    "id" : "0a979d9a-09bb-11ec-966b-0314a1442a3e",
+    "type" : "Library",
+    "templateId" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "targetId" : "ff8def18-fb22-11eb-928c-2b02f39362fc"
+  } ],
+  "templates" : [ {
+    "id" : "eb0cf5ce-09ba-11ec-8016-d72d36e2270c",
+    "projectId" : "118f4674-3ea9-11ed-9bc0-57a70d1fbb35",
+    "name" : "Bump: Deep House",
+    "config" : "choiceMuteProbability = {\n    Background = 0.0\n    Bass = 0.0\n    Drum = 0.0\n    Hook = 0.1\n    Pad = 0.1\n    Percussion = 0.0\n    Stab = 0.1\n    Sticky = 0.1\n    Stripe = 0.1\n    Transition = 0.0\n  }\ndeltaArcBeatLayersIncoming = 1\ndeltaArcBeatLayersToPrioritize = kick\ndeltaArcDetailLayersIncoming = 2\ndeltaArcEnabled = true\ndetailLayerOrder = [\"Bass\",\"Stripe\",\"Pad\",\"Sticky\",\"Stab\"]\ndubMasterVolume = {\n    Background = 1.0\n    Bass = 1.0\n    Drum = 1.0\n    Hook = 1.0\n    Pad = 1.0\n    Percussion = 1.0\n    Stab = 0.6\n    Sticky = 0.2\n    Stripe = 1.0\n    Transition = 1.0\n  }\neventNamesLarge = [\"LARGE\",\"BIG\"]\neventNamesMedium = [\"MEDIUM\",\"REGULAR\"]\neventNamesSmall = [\"SMALL\",\"LITTLE\"]\ninstrumentTypesForAudioLengthFinalization = [\"Bass\",\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\ninstrumentTypesForInversionSeeking = [\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\nintensityAutoCrescendoEnabled = true\nintensityAutoCrescendoMaximum = 0.8\nintensityAutoCrescendoMinimum = 0.2\nintensityLayers = {\n    Background = 1\n    Bass = 1\n    Drum = 1\n    Hook = 1\n    Pad = 1\n    Percussion = 1\n    Stab = 1\n    Sticky = 1\n    Stripe = 1\n    Transition = 1\n  }\nintensityThreshold = {\n    Background = 0.5\n    Bass = 0.5\n    Drum = 0.5\n    Hook = 0.5\n    Pad = 0.5\n    Percussion = 0.5\n    Stab = 0.5\n    Sticky = 0.5\n    Stripe = 0.5\n    Transition = 0.5\n  }\nmainProgramLengthMaxDelta = 240\nmemeTaxonomy = [\n    {\n      \"memes\":[\"EARTH\",\"WIND\",\"FIRE\",\"WATER\"],\n      \"name\":\"ELEMENT\"\n    }\n  ]\nmixerCompressAheadSeconds = 0.05\nmixerCompressDecaySeconds = 0.125\nmixerCompressRatioMax = 1.0\nmixerCompressRatioMin = 0.3\nmixerCompressToAmplitude = 0.5\nmixerDspBufferSize = 1024\nmixerHighpassThresholdHz = 30\nmixerLowpassThresholdHz = 15000\nmixerNormalizationBoostThreshold = 1.0\nmixerNormalizationCeiling = 0.999\nstickyBunEnabled = true\n",
+    "shipKey" : "bump_deep",
+    "isDeleted" : false,
+    "updatedAt" : 1710528387919
+  } ]
+}

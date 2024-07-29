@@ -1,0 +1,109 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "libraryId" : "55461ec6-fb23-11eb-ad24-972f33ad9115",
+    "state" : "Published",
+    "key" : "C",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Sticky 9q",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequenceId" : "1f3e693e-039e-46d5-9443-86ec6218c4c6",
+    "programVoiceId" : "4c1a763b-2668-45fd-81e8-0888d2c94146",
+    "name" : "New Pattern",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "4903afea-943c-11ec-a892-e3a794bb83f6",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 6.25,
+    "duration" : 0.25,
+    "tones" : "G3"
+  }, {
+    "id" : "008afb89-0c68-4fb1-a9ff-7ff075eb11fd",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 1.5,
+    "duration" : 0.25,
+    "tones" : "G3"
+  }, {
+    "id" : "65e2134f-c7c9-4020-911e-c8c6b1dc4085",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 6.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "b2ea49df-1be2-487d-9b40-2fd6e8f7cb13",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 7.75,
+    "duration" : 0.25,
+    "tones" : "G3"
+  }, {
+    "id" : "d49d496f-4e21-4006-8b54-8c0146693383",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.25,
+    "tones" : "G3"
+  }, {
+    "id" : "66b07a35-20e3-4bc1-858e-bf2b4ab38ccb",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 7.0,
+    "duration" : 0.25,
+    "tones" : "G3"
+  }, {
+    "id" : "11f6f68f-0b08-423d-bf3d-2d11210ad997",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 2.0,
+    "duration" : 0.25,
+    "tones" : "G3"
+  } ],
+  "programVoices" : [ {
+    "id" : "4c1a763b-2668-45fd-81e8-0888d2c94146",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "type" : "Sticky",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programSequences" : [ {
+    "id" : "1f3e693e-039e-46d5-9443-86ec6218c4c6",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "name" : "New Sequence",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programVoiceId" : "4c1a763b-2668-45fd-81e8-0888d2c94146",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

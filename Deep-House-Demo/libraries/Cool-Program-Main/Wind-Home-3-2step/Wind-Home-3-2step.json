@@ -1,0 +1,156 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "libraryId" : "1509102a-16eb-11ea-8a37-4764c2a771db",
+    "state" : "Published",
+    "key" : "G#-",
+    "tempo" : 120.0,
+    "type" : "Main",
+    "name" : "Wind Home 3 2step",
+    "config" : "barBeats = 4\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "cbc1ea80-8f07-42cf-987b-e90a52b9a0f1",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 9
+  }, {
+    "id" : "715ef0b1-66f5-4276-88a9-d6787f9f29e3",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 1
+  }, {
+    "id" : "c2e3abd2-d8cb-473a-823b-fee4a9cae416",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 2
+  }, {
+    "id" : "6b042ea9-9084-42ea-87e0-afd3b6108035",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 0
+  }, {
+    "id" : "087362da-694f-401a-a0f5-bee0d9c244fe",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 7
+  }, {
+    "id" : "3d3a09ed-e46f-4aca-98c5-9e9f4fe97677",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 8
+  }, {
+    "id" : "583c3740-2946-4cf6-8931-43f4558139df",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 5
+  }, {
+    "id" : "21e7cb1c-158e-4760-aa5c-1fc4bc72d117",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 3
+  }, {
+    "id" : "56f18f12-c5a2-4e04-aa99-d23bda262ccc",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 4
+  }, {
+    "id" : "84ce4ca5-66be-4d27-98d4-db7e5da64ba1",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "offset" : 6
+  } ],
+  "programSequenceChords" : [ {
+    "id" : "9f3b8e2a-3255-48f5-b351-b6bbebddab55",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceId" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "name" : "G#-7add9",
+    "position" : 0.0
+  } ],
+  "programVoices" : [ {
+    "id" : "c6b00886-d941-11ec-9b32-c33149ff9e30",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "type" : "Stab",
+    "name" : "Stab",
+    "order" : 1000.0
+  }, {
+    "id" : "c6af96bc-d941-11ec-9b32-bf147a098868",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "type" : "Pad",
+    "name" : "Pad",
+    "order" : 1000.0
+  }, {
+    "id" : "c6af70a6-d941-11ec-9b32-ab9025f6b28e",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "type" : "Bass",
+    "name" : "Bass",
+    "order" : 1000.0
+  }, {
+    "id" : "c6afbd36-d941-11ec-9b32-8f3fcbe85e7f",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "type" : "Sticky",
+    "name" : "Sticky",
+    "order" : 1000.0
+  }, {
+    "id" : "c6afe37e-d941-11ec-9b32-ebce5bae9970",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "type" : "Stripe",
+    "name" : "Stripe",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "164eb766-f257-11eb-82b3-6b639a7939d8",
+    "name" : "4NOTE",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb"
+  }, {
+    "id" : "ec78437b-fb93-4208-8d41-f938e49b743d",
+    "name" : "WIND",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb"
+  }, {
+    "id" : "66da4856-af65-11eb-b974-0396c8ace7a3",
+    "name" : "WIDEOPEN",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb"
+  } ],
+  "programSequences" : [ {
+    "id" : "f71e5d08-e9cc-4869-942e-8763ececc0f8",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "name" : "New Sequence",
+    "key" : "G#-",
+    "intensity" : 0.6,
+    "total" : 32
+  } ],
+  "programSequenceChordVoicings" : [ {
+    "id" : "49e36259-c748-42c0-ab1d-305b57c4c440",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceChordId" : "9f3b8e2a-3255-48f5-b351-b6bbebddab55",
+    "notes" : "D#3, F#3, G#3, B3, D#4, F#4, G#4, A#4, B4",
+    "programVoiceId" : "c6afbd36-d941-11ec-9b32-8f3fcbe85e7f"
+  }, {
+    "id" : "2518c3d0-1963-4c81-babe-40d0ac6cd061",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceChordId" : "9f3b8e2a-3255-48f5-b351-b6bbebddab55",
+    "notes" : "C#5, D#5, F#5, G#5, A#5, C#6, D#6, F#6, G#6, A#6, C#7",
+    "programVoiceId" : "c6afe37e-d941-11ec-9b32-ebce5bae9970"
+  }, {
+    "id" : "cb1f315a-05a2-4102-8505-6d336202d7bb",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceChordId" : "9f3b8e2a-3255-48f5-b351-b6bbebddab55",
+    "notes" : "D#1, F#1, G#1, B1, D#2, F#1, G#2, B2, D#3",
+    "programVoiceId" : "c6af70a6-d941-11ec-9b32-ab9025f6b28e"
+  }, {
+    "id" : "cb3d791c-b70b-4e44-ac42-043c64880023",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceChordId" : "9f3b8e2a-3255-48f5-b351-b6bbebddab55",
+    "notes" : "F#3, A#3, B3, D#4, F#4, A#4, B4, D#5, F#5, A#5",
+    "programVoiceId" : "c6b00886-d941-11ec-9b32-c33149ff9e30"
+  }, {
+    "id" : "8e31c2c6-950e-4a8f-8f94-d98d019f66ff",
+    "programId" : "3aef1288-ae9a-11eb-9b00-8737388fe6bb",
+    "programSequenceChordId" : "9f3b8e2a-3255-48f5-b351-b6bbebddab55",
+    "notes" : "F#3, A#3, B3, D#4, F#4, A#4, B4, D#5, F#5, A#5",
+    "programVoiceId" : "c6af96bc-d941-11ec-9b32-bf147a098868"
+  } ]
+}

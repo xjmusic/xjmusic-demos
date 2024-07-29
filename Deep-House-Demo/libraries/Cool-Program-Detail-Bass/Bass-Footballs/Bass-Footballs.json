@@ -1,0 +1,64 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258",
+    "libraryId" : "5545dcfe-fb23-11eb-80a6-4372a28aca52",
+    "state" : "Published",
+    "key" : "A-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Bass Footballs",
+    "config" : "doPatternRestartOnChord = true",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "075cffe6-2f8f-11eb-81bd-3bc89aaecfaa",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258",
+    "programSequenceId" : "f73f36e2-2f8e-11eb-8407-c7bf8943233b",
+    "programVoiceId" : "fcf2ce50-2f8e-11eb-81bd-6fe2fcf27d59",
+    "name" : "New Pattern",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "15c7034c-2f8f-11eb-9c6a-73f2fb7c8960",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258",
+    "programSequencePatternId" : "075cffe6-2f8f-11eb-81bd-3bc89aaecfaa",
+    "programVoiceTrackId" : "112a1e28-2f8f-11eb-999b-632070aa615d",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 8.0,
+    "tones" : "A1"
+  } ],
+  "programVoices" : [ {
+    "id" : "fcf2ce50-2f8e-11eb-81bd-6fe2fcf27d59",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258",
+    "type" : "Bass",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "d06f3c1e-af91-11eb-aff5-1f326a5e62a9",
+    "name" : "ROOTSY",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258"
+  }, {
+    "id" : "76c63e6c-bd09-11eb-ae66-b7810f0d504d",
+    "name" : "LONGBASS",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258"
+  } ],
+  "programSequences" : [ {
+    "id" : "f73f36e2-2f8e-11eb-8407-c7bf8943233b",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258",
+    "name" : "New Sequence",
+    "key" : "A-",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "112a1e28-2f8f-11eb-999b-632070aa615d",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258",
+    "programVoiceId" : "fcf2ce50-2f8e-11eb-81bd-6fe2fcf27d59",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

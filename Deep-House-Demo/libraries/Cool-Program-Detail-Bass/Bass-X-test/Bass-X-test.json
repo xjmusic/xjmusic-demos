@@ -1,0 +1,141 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "libraryId" : "5545dcfe-fb23-11eb-80a6-4372a28aca52",
+    "state" : "Published",
+    "key" : "A-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Bass X test",
+    "config" : "doPatternRestartOnChord=false\ndoTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequenceId" : "d1a4d170-5618-11eb-9685-f723522f9aa0",
+    "programVoiceId" : "d39a1904-5618-11eb-9685-1f02ec4f4202",
+    "name" : "New Pattern",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "f3caa7a8-9446-11ec-a363-3f6f1ecb16fe",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 7.5,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "f272474e-9446-11ec-8d86-67fbbce781ee",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 6.75,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "f2c77984-5618-11eb-9685-4b9abdf63c8a",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 2.5,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "f164ddca-5618-11eb-9685-f73b6cf4f993",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 1.5,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "8861521c-c4a0-11eb-9fc8-ef39b3601de0",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 4.5,
+    "duration" : 0.25,
+    "tones" : "A2"
+  }, {
+    "id" : "8f90fab0-c4a0-11eb-9fc8-6bd6cf3caf71",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 5.5,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "f03c582e-5618-11eb-9685-334619e34278",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "f3d565e8-5618-11eb-9685-978c6a3a0a23",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 3.5,
+    "duration" : 0.25,
+    "tones" : "A2"
+  }, {
+    "id" : "edac2238-5618-11eb-9685-33b3f53afde4",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.25,
+    "tones" : "A1"
+  }, {
+    "id" : "944a731a-c4a0-11eb-9fc8-bb9a1d52f074",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 6.5,
+    "duration" : 0.25,
+    "tones" : "A1"
+  } ],
+  "programVoices" : [ {
+    "id" : "d39a1904-5618-11eb-9685-1f02ec4f4202",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "type" : "Bass",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "11b991c4-af92-11eb-aff5-4ffa760d1b92",
+    "name" : "ROOTSY",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e"
+  } ],
+  "programSequences" : [ {
+    "id" : "d1a4d170-5618-11eb-9685-f723522f9aa0",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "name" : "New Sequence",
+    "key" : "A-",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programVoiceId" : "d39a1904-5618-11eb-9685-1f02ec4f4202",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

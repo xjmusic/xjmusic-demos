@@ -1,0 +1,42 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "6282d07a-4420-11ec-aa34-17f646babb39",
+    "libraryId" : "8980d7ee-41f5-11ec-a00e-3b9797f85fe8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "FX Claps",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisTonal = false\noneShotCutoffs = []\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "69f58554-4426-11ec-af57-034ed6e73685",
+    "instrumentId" : "6282d07a-4420-11ec-aa34-17f646babb39",
+    "name" : "\"and 4!\" Clap",
+    "waveformKey" : "FX-Claps--and-4---Clap-X.wav",
+    "transientSeconds" : 2.0,
+    "lengthSeconds" : 6.0,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "0fd20466-4427-11ec-87e2-0b81e8f057d0",
+    "instrumentId" : "6282d07a-4420-11ec-aa34-17f646babb39",
+    "name" : "\"4!\" Clap Verb",
+    "waveformKey" : "FX-Claps--4---Clap-Verb-X.wav",
+    "transientSeconds" : 2.0,
+    "lengthSeconds" : 6.0,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ]
+}

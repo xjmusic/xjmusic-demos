@@ -1,0 +1,129 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "libraryId" : "3a11cdf4-fb1d-11eb-bda4-8f35e39004fe",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Fire Small 2 Kit (Splice)",
+    "config" : "isMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = [HIHATOPEN]\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "f0ed0fcb-6624-4c3b-ba0b-e038c07ed225",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.Crash",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.Crash-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 5.773604,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "CRASH",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "10ba46bd-a383-4ffc-aa0c-6d542cfa5c88",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.Kick",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.Kick-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.017312,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "0c189df3-52fd-467b-be62-b92ee7241d80",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.TomLo",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.761604,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 0.6,
+    "tones" : "x"
+  }, {
+    "id" : "bc7a54aa-7746-432d-97ab-c13d4154c440",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.Snare",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.Snare-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.307666,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 0.5,
+    "tones" : "x"
+  }, {
+    "id" : "4bb65831-e917-46f1-b337-3c4e7eb34d80",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.TomHi",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.994145,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "8e47c506-e717-485b-ba8d-c556dcd818b5",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.Hat",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.Hat-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.73027,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATCL",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "f98ab0ce-f7b6-4add-a574-0ecf093ca587",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.HatOpen",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.HatOpen-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.953708,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATOP",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "0430b838-f733-4bb6-aa26-9598dd667dea",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "Fire.Small.2.TomMid",
+    "waveformKey" : "Fire-Small-2-Kit--Splice--Fire.Small.2.TomMid-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.08475,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMMID",
+    "volume" : 1.0,
+    "tones" : "x"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "244ce64e-172c-4947-8b62-44d89ed7e9f2",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "FIRE"
+  }, {
+    "id" : "c965fa6a-3c52-4fb6-87b8-f44a51673012",
+    "instrumentId" : "6f06a180-a6f1-11ec-a3c4-d31aa947a35d",
+    "name" : "SMALL"
+  } ]
+}

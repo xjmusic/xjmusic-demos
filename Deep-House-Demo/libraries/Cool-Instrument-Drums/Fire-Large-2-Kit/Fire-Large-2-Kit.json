@@ -1,0 +1,129 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "libraryId" : "3a11cdf4-fb1d-11eb-bda4-8f35e39004fe",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Fire Large 2 Kit",
+    "config" : "isMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = [HIHATOPEN]\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "d1177522-c6c2-11ea-a4db-ebce1382f06a",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.Crash",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.Crash-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 6.67252,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "CRASH",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "fb318dd4-c6c2-11ea-b950-97c77ae08019",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.TomLo",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.02377,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "e1fae554-c6c2-11ea-b950-97aaf70df516",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.TomHi",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.035562,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "c18f7d70-c6c2-11ea-a4db-fb9139cb132a",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.HatOpen",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.HatOpen-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.608583,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATOP",
+    "volume" : 0.2,
+    "tones" : "x"
+  }, {
+    "id" : "a1930050-c6c2-11ea-b950-ab46e2258095",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.Snare - not really deep house",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.Snare---not-really-deep-house-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.31927,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 0.1,
+    "tones" : "x"
+  }, {
+    "id" : "98b13e52-c6c2-11ea-a4db-6bd1c0e6c519",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.Kick.V2",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.Kick.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 2.2,
+    "tones" : "x"
+  }, {
+    "id" : "eeb64414-c6c2-11ea-b950-cb74956846b8",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.TomMid",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.TomMid-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.869,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMMID",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "ad0e3b66-c6c2-11ea-a4db-2b606e4f7cdb",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "Fire.Large.2.Hat",
+    "waveformKey" : "Fire-Large-2-Kit-Fire.Large.2.Hat-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.715395,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATCL",
+    "volume" : 0.3,
+    "tones" : "x"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "7f475e06-c6c2-11ea-a4db-0f1630426f05",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "FIRE"
+  }, {
+    "id" : "828c1c28-c6c2-11ea-a4db-f7b835cfb43e",
+    "instrumentId" : "d247d096-c6c1-11ea-a4db-538e1ac4667f",
+    "name" : "LARGE"
+  } ]
+}

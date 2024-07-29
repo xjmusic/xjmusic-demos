@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "2a6f23ac-ce93-11ec-99bd-7fbd101aad3e",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "006_a__SEEH_-_Drum_Beat_127bpm_SHIFTED_TO_120 (Splice)",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "70e964c2-ba2b-11ec-ad75-6b7fee3d6f70",
+    "instrumentId" : "2a6f23ac-ce93-11ec-99bd-7fbd101aad3e",
+    "name" : "006_a__SEEH_-_Drum_Beat_127bpm_SHIFTED_TO_120",
+    "waveformKey" : "006-a--SEEH---Drum-Beat-127bpm-SHIFTED-TO-120--Splice--006-a--SEEH---Drum-Beat-127bpm-SHIFTED-TO-120-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 8.000022,
+    "loopBeats" : 16.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "b45cf7ee-d0a8-11ec-8bd2-cf0d14de513a",
+    "instrumentId" : "2a6f23ac-ce93-11ec-99bd-7fbd101aad3e",
+    "name" : "BIG"
+  } ]
+}

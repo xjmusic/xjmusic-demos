@@ -1,0 +1,118 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "libraryId" : "5545dcfe-fb23-11eb-80a6-4372a28aca52",
+    "state" : "Published",
+    "key" : "A-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Bass 10.2",
+    "config" : "doPatternRestartOnChord=false\ndoTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequenceId" : "94c68a32-c3b2-41a9-a1cd-a9aa835acc4f",
+    "programVoiceId" : "46908a87-d7f8-43a6-a555-a94534886a0a",
+    "name" : "New Pattern",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "3c0b4f58-586c-11eb-8c63-5b42495639d3",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequencePatternId" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programVoiceTrackId" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "velocity" : 1.0,
+    "position" : 7.5,
+    "duration" : 0.5,
+    "tones" : "A1"
+  }, {
+    "id" : "34a42906-586c-11eb-8c63-b3486e699505",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequencePatternId" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programVoiceTrackId" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "velocity" : 1.0,
+    "position" : 3.5,
+    "duration" : 0.5,
+    "tones" : "A1"
+  }, {
+    "id" : "09838e74-b3af-4c55-8074-ea4ae6c932bc",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequencePatternId" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programVoiceTrackId" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.25,
+    "tones" : "A1"
+  }, {
+    "id" : "3239c20c-586c-11eb-855d-87edc228bdb3",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequencePatternId" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programVoiceTrackId" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "velocity" : 1.0,
+    "position" : 1.5,
+    "duration" : 0.5,
+    "tones" : "A1"
+  }, {
+    "id" : "4033ec60-2ac1-4602-b8e7-be6f63bf0429",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequencePatternId" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programVoiceTrackId" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "velocity" : 1.0,
+    "position" : 0.25,
+    "duration" : 0.25,
+    "tones" : "A1"
+  }, {
+    "id" : "7844f69a-6ce8-4774-a0a9-e7d278891e1f",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequencePatternId" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programVoiceTrackId" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "velocity" : 1.0,
+    "position" : 0.75,
+    "duration" : 0.25,
+    "tones" : "A2"
+  }, {
+    "id" : "3683ad78-586c-11eb-8c63-e719a212f38b",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programSequencePatternId" : "68115fc1-7819-42b2-b185-6daa4322948a",
+    "programVoiceTrackId" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "velocity" : 1.0,
+    "position" : 5.5,
+    "duration" : 0.5,
+    "tones" : "A1"
+  } ],
+  "programVoices" : [ {
+    "id" : "46908a87-d7f8-43a6-a555-a94534886a0a",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "type" : "Bass",
+    "name" : "New Voice",
+    "order" : 0.0
+  } ],
+  "programMemes" : [ {
+    "id" : "d895fae4-afa6-11eb-9fd8-837bbf3ee2f8",
+    "name" : "OPEN",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b"
+  }, {
+    "id" : "d3002b7c-afa6-11eb-9fd8-f3e128dbc849",
+    "name" : "WIDEOPEN",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b"
+  } ],
+  "programSequences" : [ {
+    "id" : "94c68a32-c3b2-41a9-a1cd-a9aa835acc4f",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "name" : "New Sequence",
+    "key" : "A-",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "f514cfc8-6799-4a44-a2f1-c79f884debd0",
+    "programId" : "c868f8e0-585f-11eb-a23d-677e2fdddd2b",
+    "programVoiceId" : "46908a87-d7f8-43a6-a555-a94534886a0a",
+    "name" : "NEWTRACK",
+    "order" : 0.0
+  } ]
+}

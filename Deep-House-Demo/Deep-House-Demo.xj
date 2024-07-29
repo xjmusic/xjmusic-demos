@@ -1,0 +1,10 @@
+{
+  "demo" : true,
+  "project" : {
+    "id" : "118f4674-3ea9-11ed-9bc0-57a70d1fbb35",
+    "name" : "Bump",
+    "updatedAt" : 1706132003136,
+    "platformVersion" : "1.9.1",
+    "isDeleted" : false
+  }
+}

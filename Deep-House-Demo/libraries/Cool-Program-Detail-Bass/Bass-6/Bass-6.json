@@ -1,0 +1,167 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "libraryId" : "5545dcfe-fb23-11eb-80a6-4372a28aca52",
+    "state" : "Published",
+    "key" : "A-",
+    "tempo" : 120.0,
+    "type" : "Detail",
+    "name" : "Bass 6",
+    "config" : "doPatternRestartOnChord=false\ndoTranspose=false",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequenceId" : "b47b0e44-26f6-11eb-924d-0fc77f230153",
+    "programVoiceId" : "b8c3cffe-26f6-11eb-924d-b71f8cc7c56f",
+    "name" : "New Pattern",
+    "total" : 8
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "6097771c-26f7-11eb-a7e8-778a3cf9cb4e",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.25,
+    "tones" : "A2"
+  }, {
+    "id" : "69a7258c-26f7-11eb-a7e8-2fecfff079c6",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.5,
+    "tones" : "A1"
+  }, {
+    "id" : "70a557dc-26f7-11eb-a7e8-e754fc7411a5",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 2.5,
+    "duration" : 0.25,
+    "tones" : "E2"
+  }, {
+    "id" : "703b3078-26f7-11eb-a7e8-d356eb99c055",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 2.25,
+    "duration" : 0.25,
+    "tones" : "D2"
+  }, {
+    "id" : "8f073c68-26f7-11eb-a7e8-afe0375c7d36",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 5.75,
+    "duration" : 0.25,
+    "tones" : "C2"
+  }, {
+    "id" : "929a1882-26f7-11eb-a7e8-ff52ebd6fc7a",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 6.25,
+    "duration" : 0.25,
+    "tones" : "E2"
+  }, {
+    "id" : "6fccb38c-26f7-11eb-a7e8-93404c79353b",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 2.0,
+    "duration" : 0.25,
+    "tones" : "C2"
+  }, {
+    "id" : "6ec8078e-26f7-11eb-a7e8-37d7b58834d5",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 1.75,
+    "duration" : 0.25,
+    "tones" : "A1"
+  }, {
+    "id" : "91af6972-26f7-11eb-a7e8-b3eb00443afe",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 6.0,
+    "duration" : 0.25,
+    "tones" : "D2"
+  }, {
+    "id" : "938a5bf8-26f7-11eb-a7e8-b39a33a5b5a0",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 6.75,
+    "duration" : 0.25,
+    "tones" : "C3"
+  }, {
+    "id" : "93099004-26f7-11eb-a7e8-c7eb0cf75178",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 6.5,
+    "duration" : 0.25,
+    "tones" : "G2"
+  }, {
+    "id" : "710f770c-26f7-11eb-a7e8-6b3befad33df",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programSequencePatternId" : "bb1f3022-26f6-11eb-924d-2b6e973b9fed",
+    "programVoiceTrackId" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "velocity" : 1.0,
+    "position" : 2.75,
+    "duration" : 0.25,
+    "tones" : "A2"
+  } ],
+  "programVoices" : [ {
+    "id" : "b8c3cffe-26f6-11eb-924d-b71f8cc7c56f",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "type" : "Bass",
+    "name" : "New Voice",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "1ac59968-92b1-11ec-9ee8-ff701d752969",
+    "name" : "!WUBBY",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64"
+  }, {
+    "id" : "ede8a7ec-b088-11eb-a2fe-3bc4734f2d9f",
+    "name" : "WIDEOPEN",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64"
+  }, {
+    "id" : "dacd52ac-939f-11ec-b90a-6faa2c046708",
+    "name" : "$BUSY",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64"
+  } ],
+  "programSequences" : [ {
+    "id" : "b47b0e44-26f6-11eb-924d-0fc77f230153",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "name" : "New Sequence",
+    "key" : "A-",
+    "intensity" : 0.6,
+    "total" : 8
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "be1643f6-26f6-11eb-924d-1b6fb1bf4c8c",
+    "programId" : "ae59066a-26f6-11eb-924d-2f92f82f1b64",
+    "programVoiceId" : "b8c3cffe-26f6-11eb-924d-b71f8cc7c56f",
+    "name" : "NEWTRACK",
+    "order" : 1000.0
+  } ]
+}

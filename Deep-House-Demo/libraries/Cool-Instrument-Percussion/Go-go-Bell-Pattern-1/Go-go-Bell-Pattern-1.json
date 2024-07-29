@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "76de8b1c-02e0-11ec-9cd8-e764c2cad43d",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Go-go Bell Pattern 1",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\n",
+    "isDeleted" : false,
+    "volume" : 0.3,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "8d6e3792-02e0-11ec-9cd8-478d52e4b5d4",
+    "instrumentId" : "76de8b1c-02e0-11ec-9cd8-e764c2cad43d",
+    "name" : "Go-go Bell Pattern 1",
+    "waveformKey" : "Go-go-Bell-Pattern-1-Go-go-Bell-Pattern-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 4.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "BELLLOOP",
+    "volume" : 0.8,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "44c696e4-1765-11ec-85b9-9b284931f0da",
+    "instrumentId" : "76de8b1c-02e0-11ec-9cd8-e764c2cad43d",
+    "name" : "$PELICANS"
+  } ]
+}

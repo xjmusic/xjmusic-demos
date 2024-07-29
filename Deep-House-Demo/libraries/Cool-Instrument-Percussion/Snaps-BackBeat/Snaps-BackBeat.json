@@ -1,0 +1,29 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "bfd5a5d2-02de-11ec-ad7a-f77d2854066a",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Snaps BackBeat",
+    "config" : "isMultiphonic = false\nisTonal = false",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "d084c7aa-02de-11ec-9525-ab099145dee9",
+    "instrumentId" : "bfd5a5d2-02de-11ec-ad7a-f77d2854066a",
+    "name" : "Snaps BackBeat take 1",
+    "waveformKey" : "Snaps-BackBeat-Snaps-BackBeat-take-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 4.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SNAPLOOP",
+    "volume" : 2.0,
+    "tones" : "X"
+  } ]
+}

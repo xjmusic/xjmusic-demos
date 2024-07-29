@@ -1,0 +1,142 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "libraryId" : "3a11cdf4-fb1d-11eb-bda4-8f35e39004fe",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Earth Small 2 Kit",
+    "config" : "isMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = [HIHATOPEN]\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "c6fcf6d4-c6bd-11ea-8d9b-1b0599188a09",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.Crash",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.Crash-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 3.858312,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "CRASH",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "aecc06a4-c6bd-11ea-9c82-ff41bc578a69",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.TomLo",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.372937,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 0.8,
+    "tones" : "x"
+  }, {
+    "id" : "89bb5e32-c6bd-11ea-9c82-abca92f72852",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.TomHi",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.125041,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 0.8,
+    "tones" : "x"
+  }, {
+    "id" : "3e289f3e-c6bd-11ea-9c82-a765738a2448",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.Snare",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.Snare-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.250395,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 0.3,
+    "tones" : "x"
+  }, {
+    "id" : "9c8defde-c6bd-11ea-9c82-9b9e61c95386",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.TomMid",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.TomMid-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.125479,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMMID",
+    "volume" : 0.8,
+    "tones" : "x"
+  }, {
+    "id" : "e320b7f0-43fe-11ec-bee2-bbc2045d62f8",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth Small 2 Kick V2 alt",
+    "waveformKey" : "Earth-Small-2-Kit-Earth-Small-2-Kick-V2-alt-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.933291,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.1,
+    "tones" : "X"
+  }, {
+    "id" : "2d3aafe6-c6bd-11ea-9c82-4b50b08fc86f",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.Kick",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.Kick-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.999562,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.1,
+    "tones" : "x"
+  }, {
+    "id" : "5bdd74f0-c6bd-11ea-8d9b-e34e477e895a",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.Hat",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.Hat-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.250791,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATCL",
+    "volume" : 2.0,
+    "tones" : "x"
+  }, {
+    "id" : "71396822-c6bd-11ea-9c82-5b36f09a5b5f",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "Earth.Small.2.HatOpen",
+    "waveformKey" : "Earth-Small-2-Kit-Earth.Small.2.HatOpen-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.874249,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATOP",
+    "volume" : 2.0,
+    "tones" : "x"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "0afa4e64-c6bd-11ea-8d9b-77bfede91d6f",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "SMALL"
+  }, {
+    "id" : "0941a324-c6bd-11ea-9c82-3385c30e3836",
+    "instrumentId" : "054f4b0e-c6bd-11ea-8d9b-d3bfd03b9b0f",
+    "name" : "EARTH"
+  } ]
+}
