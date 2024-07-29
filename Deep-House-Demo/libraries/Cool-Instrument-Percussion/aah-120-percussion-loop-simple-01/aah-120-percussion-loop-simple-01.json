@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "3d762f3c-d0b8-11ec-ab77-5b5f64fabbcd",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "aah_120_percussion_loop_simple_01",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "13defecb-f46f-4c07-9c9e-d6b48db73db1",
+    "instrumentId" : "3d762f3c-d0b8-11ec-ab77-5b5f64fabbcd",
+    "name" : "019_b__TTDB_126bpm_-_Zenhiser_SHIFTED_TO_120",
+    "waveformKey" : "aah-120-percussion-loop-simple-01-019-b--TTDB-126bpm---Zenhiser-SHIFTED-TO-120-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 8.0,
+    "loopBeats" : 16.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "BIG",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "91c42904-435c-4ead-a5a8-0da81ee25317",
+    "instrumentId" : "3d762f3c-d0b8-11ec-ab77-5b5f64fabbcd",
+    "name" : "BIG"
+  } ]
+}

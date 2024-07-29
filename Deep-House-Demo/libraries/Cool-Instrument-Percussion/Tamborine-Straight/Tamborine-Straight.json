@@ -1,0 +1,29 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "5a6cd782-1423-11ec-8481-a37481c91127",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Tamborine Straight",
+    "config" : "isMultiphonic = false\nisTonal = false",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "011fd94b-1c16-4926-922a-58faf2662ecb",
+    "instrumentId" : "5a6cd782-1423-11ec-8481-a37481c91127",
+    "name" : "Tamborine Straight take 1",
+    "waveformKey" : "Tamborine-Straight-Tamborine-Straight-take-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 4.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TAMBOLOOP",
+    "volume" : 0.7,
+    "tones" : "X"
+  } ]
+}

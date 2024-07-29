@@ -1,0 +1,63 @@
+{
+  "demo" : false,
+  "templateBindings" : [ {
+    "id" : "7d85fe02-6727-11ee-ba5b-5f456b64fee4",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "7f6096fe-66f7-11ee-bcd4-97d43a7d4243"
+  }, {
+    "id" : "0c4a8fba-6726-11ee-a0d8-0ba8e4c07b7a",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "8952bd4a-66f7-11ee-bcd4-3f22e7f68e89"
+  }, {
+    "id" : "ea7286c2-71cf-11ee-a5d5-679f7f5f44a0",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7"
+  }, {
+    "id" : "05b2b538-6726-11ee-ac08-d72129e9c354",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "8854b774-671d-11ee-8d24-8b8c288969a8"
+  }, {
+    "id" : "957ebb70-6727-11ee-ba5b-23299dd91244",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87"
+  }, {
+    "id" : "6a9a1c12-6fae-11ee-ac0d-af5bfeb1bab7",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b"
+  }, {
+    "id" : "f88fdc14-6725-11ee-a0d8-6770d0a50a84",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "1aea4f08-66f7-11ee-b708-7b2825404265"
+  }, {
+    "id" : "86f45bfa-6727-11ee-ba5b-c735de92df92",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "79ef36e4-66f7-11ee-bcd4-a39f5eaf662b"
+  }, {
+    "id" : "8d8a869c-6727-11ee-ba5b-7fbfa3820860",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "56e05ffe-671d-11ee-8d24-9303792ce993"
+  }, {
+    "id" : "f5db3f9a-6725-11ee-a0d8-b78ba1c7ccf0",
+    "type" : "Library",
+    "templateId" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "targetId" : "a57570a4-66f6-11ee-b708-47fb5224718c"
+  } ],
+  "templates" : [ {
+    "id" : "12881e90-6719-11ee-8aab-e75eeda210cb",
+    "projectId" : "e56bcd90-a9ca-11ee-abb1-438c3b64bd9d",
+    "name" : "Video Game Demo",
+    "config" : "choiceMuteProbability = {\n    Background = 0.0\n    Bass = 0.0\n    Drum = 0.0\n    Hook = 0.0\n    Pad = 0.0\n    Percussion = 0.0\n    Stab = 0.0\n    Sticky = 0.0\n    Stripe = 0.0\n    Transition = 0.0\n  }\ndeltaArcBeatLayersIncoming = 1\ndeltaArcBeatLayersToPrioritize = Hook\ndeltaArcDetailLayersIncoming = 3\ndeltaArcEnabled = false\ndetailLayerOrder = [\"Pad\",\"Stripe\",\"Bass\",\"Sticky\",\"Stab\"]\ndubMasterVolume = {\n    Background = 1.0\n    Bass = 1.0\n    Drum = 1.0\n    Hook = 1.0\n    Pad = 1.0\n    Percussion = 1.0\n    Stab = 1.0\n    Sticky = 1.0\n    Stripe = 1.0\n    Transition = 1.0\n  }\neventNamesLarge = [\"LARGE\",\"BIG\",\"HIGH\",\"PRIMARY\"]\neventNamesMedium = [\"MEDIUM\",\"REGULAR\",\"MIDDLE\",\"SECONDARY\"]\neventNamesSmall = [\"SMALL\",\"LITTLE\",\"LOW\"]\ninstrumentTypesForAudioLengthFinalization = [\"Bass\",\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\ninstrumentTypesForInversionSeeking = [\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\nintensityAutoCrescendoEnabled = true\nintensityAutoCrescendoMaximum = 0.8\nintensityAutoCrescendoMinimum = 0.2\nintensityLayers = {\n    Background = 3\n    Bass = 2\n    Drum = 1\n    Hook = 2\n    Pad = 2\n    Percussion = 3\n    Stab = 2\n    Sticky = 2\n    Stripe = 2\n    Transition = 3\n  }\nintensityThreshold = {\n    Background = 0.5\n    Bass = 0.5\n    Drum = 0.5\n    Hook = 0.5\n    Pad = 0.5\n    Percussion = 0.5\n    Stab = 0.5\n    Sticky = 0.5\n    Stripe = 0.5\n    Transition = 0.5\n  }\nmainProgramLengthMaxDelta = 280\nmemeTaxonomy = [\n    {\n      \"memes\":[\"EXPLORATION\",\"DIALOG\",\"COMBAT\"],\n      \"name\":\"ACTION\"\n    },\n    {\n      \"memes\":[\"CALLTOACTION\",\"EMBARK\",\"ATONEMENT\",\"VICTORY\"],\n      \"name\":\"HEROSJOURNEY\"\n    }\n  ]\nmixerCompressAheadSeconds = 0.05\nmixerCompressDecaySeconds = 0.125\nmixerCompressRatioMax = 1.0\nmixerCompressRatioMin = 0.3\nmixerCompressToAmplitude = 1.0\nmixerDspBufferSize = 1024\nmixerHighpassThresholdHz = 30\nmixerLowpassThresholdHz = 15000\nmixerNormalizationBoostThreshold = 1.0\nmixerNormalizationCeiling = 0.999\nstickyBunEnabled = true\n",
+    "shipKey" : "vgm",
+    "isDeleted" : false,
+    "updatedAt" : 1710457833862
+  } ]
+}

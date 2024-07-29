@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "337ada7a-d093-11ec-b647-77e6496fb1ea",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "017_a__SEBH_-_Drum_Beat_120bpm",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "4e4fb9ca-d097-11ec-9340-4f72f98f9caa",
+    "instrumentId" : "337ada7a-d093-11ec-b647-77e6496fb1ea",
+    "name" : "017_a__SEBH_-_Drum_Beat_120bpm",
+    "waveformKey" : "017-a--SEBH---Drum-Beat-120bpm-017-a--SEBH---Drum-Beat-120bpm-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 8.0,
+    "loopBeats" : 16.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "73781114-d0a8-11ec-aa13-8b3ec9a0ac18",
+    "instrumentId" : "337ada7a-d093-11ec-b647-77e6496fb1ea",
+    "name" : "BIG"
+  } ]
+}

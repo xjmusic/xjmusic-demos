@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Call to Action Combat Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828877
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "84703682-79c0-11ee-9d51-e7d9091b8ff7",
+    "instrumentId" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
+    "name" : "Djembe",
+    "waveformKey" : "Call-to-Action-Combat-Perc-Loops-Djembe-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 28.444458,
+    "loopBeats" : 64.0,
+    "tempo" : 135.0,
+    "intensity" : 0.5,
+    "event" : "SMALL",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "7f4943ba-79c0-11ee-9d51-13aac431699a",
+    "instrumentId" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
+    "name" : "Breakbeat",
+    "waveformKey" : "Call-to-Action-Combat-Perc-Loops-Breakbeat-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 28.444458,
+    "loopBeats" : 64.0,
+    "tempo" : 135.0,
+    "intensity" : 0.8,
+    "event" : "SMALL",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "5f1215ea-79c0-11ee-9d51-b7386260abfc",
+    "instrumentId" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
+    "name" : "135BPM"
+  }, {
+    "id" : "c3c460fe-6e14-11ee-98d8-9b276ed57afd",
+    "instrumentId" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
+    "name" : "COMBAT"
+  }, {
+    "id" : "8f9eb0c5-dc00-4b21-9696-66996708f733",
+    "instrumentId" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
+    "name" : "CALLTOACTION"
+  } ]
+}

@@ -1,0 +1,80 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "37095c04-4446-11ec-b0fb-e7e3c624dd72",
+    "libraryId" : "8980d7ee-41f5-11ec-a00e-3b9797f85fe8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Risers",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisTonal = false\noneShotCutoffs = []\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "52608ed2-4446-11ec-9f7e-235dda34f02f",
+    "instrumentId" : "37095c04-4446-11ec-b0fb-e7e3c624dd72",
+    "name" : "Big 1 bar Rise w/ Release",
+    "waveformKey" : "Risers-Big-1-bar-Rise-w--Release-X.wav",
+    "transientSeconds" : 2.0,
+    "lengthSeconds" : 10.0,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "1a586c2e-444d-11ec-9712-bf645dfd1d6d",
+    "instrumentId" : "37095c04-4446-11ec-b0fb-e7e3c624dd72",
+    "name" : "Rise & Shine Classic 2 Beat Style Flyboys",
+    "waveformKey" : "Risers-Rise---Shine-Classic-2-Beat-Style-Flyboys.wav",
+    "transientSeconds" : 1.0,
+    "lengthSeconds" : 5.0,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 1.0
+  }, {
+    "id" : "438e2cde-444b-11ec-bda3-5f614ed9b96f",
+    "instrumentId" : "37095c04-4446-11ec-b0fb-e7e3c624dd72",
+    "name" : "1/4 Note Jump Sweep Dly Variation 3",
+    "waveformKey" : "Risers-1-4-Note-Jump-Sweep-Dly-Variation-3-X.wav",
+    "transientSeconds" : 0.5,
+    "lengthSeconds" : 8.277354,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 0.8,
+    "tones" : "X"
+  }, {
+    "id" : "2eb050e0-444a-11ec-9d0c-174857513b35",
+    "instrumentId" : "37095c04-4446-11ec-b0fb-e7e3c624dd72",
+    "name" : "1/4 Note Jump Sweep Dly Variation 2",
+    "waveformKey" : "Risers-1-4-Note-Jump-Sweep-Dly-Variation-2-X.wav",
+    "transientSeconds" : 0.5,
+    "lengthSeconds" : 8.44802,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 0.7,
+    "tones" : "X"
+  }, {
+    "id" : "e8e6fd52-4449-11ec-9d0c-23776633da21",
+    "instrumentId" : "37095c04-4446-11ec-b0fb-e7e3c624dd72",
+    "name" : "1/4 Note Jump Sweep Dly Variation 1",
+    "waveformKey" : "Risers-1-4-Note-Jump-Sweep-Dly-Variation-1-X.wav",
+    "transientSeconds" : 0.5,
+    "lengthSeconds" : 8.405354,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SMALL",
+    "volume" : 0.7,
+    "tones" : "X"
+  } ]
+}

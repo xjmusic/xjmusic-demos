@@ -1,0 +1,42 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "851a72dc-af3a-11ee-a291-fbd01cdd6e91",
+    "libraryId" : "8952bd4a-66f7-11ee-bcd4-3f22e7f68e89",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Victory Dialog Stripes",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828818
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "e5a38f37-8dab-4cc1-b0fa-0dec5545d8b5",
+    "instrumentId" : "851a72dc-af3a-11ee-a291-fbd01cdd6e91",
+    "name" : "Flute Stripe",
+    "waveformKey" : "Victory-Dialog-Stripes-Flute-Stripe-F.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 16.695646,
+    "loopBeats" : 32.0,
+    "tempo" : 115.0,
+    "intensity" : 1.0,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "F"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "2e0be656-8a4b-438a-8a17-46ea5ae566d5",
+    "instrumentId" : "851a72dc-af3a-11ee-a291-fbd01cdd6e91",
+    "name" : "115BPM"
+  }, {
+    "id" : "e8a7af75-edc5-419e-8a24-36907a7f99d4",
+    "instrumentId" : "851a72dc-af3a-11ee-a291-fbd01cdd6e91",
+    "name" : "DIALOG"
+  }, {
+    "id" : "5e1b522f-2623-4604-be9a-7f385cfcb6e4",
+    "instrumentId" : "851a72dc-af3a-11ee-a291-fbd01cdd6e91",
+    "name" : "ATONEMENT"
+  } ]
+}

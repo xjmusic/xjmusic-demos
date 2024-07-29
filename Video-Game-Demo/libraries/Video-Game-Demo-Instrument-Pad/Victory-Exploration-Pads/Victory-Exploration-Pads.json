@@ -1,0 +1,42 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "c51c226a-7df6-11ee-9499-6f0c31efc1de",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Victory Exploration Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828953
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "26854ba0-6c92-4989-bf8e-1b14952662b4",
+    "instrumentId" : "c51c226a-7df6-11ee-9499-6f0c31efc1de",
+    "name" : "Chords",
+    "waveformKey" : "Victory-Exploration-Pads-Chords-F.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 20.21054,
+    "loopBeats" : 32.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "PAD",
+    "volume" : 1.0,
+    "tones" : "F"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "dd83c427-675c-476f-921b-a4b2e7e3984d",
+    "instrumentId" : "c51c226a-7df6-11ee-9499-6f0c31efc1de",
+    "name" : "95BPM"
+  }, {
+    "id" : "216a434b-a9bb-4f89-a61b-a603be6b9f34",
+    "instrumentId" : "c51c226a-7df6-11ee-9499-6f0c31efc1de",
+    "name" : "VICTORY"
+  }, {
+    "id" : "4f11127f-88e9-42d5-9323-13f52c2357f9",
+    "instrumentId" : "c51c226a-7df6-11ee-9499-6f0c31efc1de",
+    "name" : "EXPLORATION"
+  } ]
+}

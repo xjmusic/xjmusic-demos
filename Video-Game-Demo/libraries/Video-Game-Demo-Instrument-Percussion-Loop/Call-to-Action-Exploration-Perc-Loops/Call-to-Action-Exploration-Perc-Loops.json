@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "cbff21d2-6e14-11ee-be98-f7f75aa26bbe",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Call to Action Exploration Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828842
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "7e0e11aa-a097-42fc-9ac7-3ab5bc71e843",
+    "instrumentId" : "cbff21d2-6e14-11ee-be98-f7f75aa26bbe",
+    "name" : "TS_DD_VOL3_110_drum_loop_banger_bongos",
+    "waveformKey" : "Call-to-Action-Exploration-Perc-Loops-TS-DD-VOL3-110-drum-loop-banger-bongos-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 20.210522,
+    "loopBeats" : 16.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 2.0,
+    "tones" : "X"
+  }, {
+    "id" : "776d8ace-6a9b-430b-a764-02f2eb249d2e",
+    "instrumentId" : "cbff21d2-6e14-11ee-be98-f7f75aa26bbe",
+    "name" : "RARE_LPB4_90_Shekere_shake_loop_work",
+    "waveformKey" : "Call-to-Action-Exploration-Perc-Loops-RARE-LPB4-90-Shekere-shake-loop-work-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 20.210522,
+    "loopBeats" : 8.0,
+    "tempo" : 95.0,
+    "intensity" : 0.0,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "48938594-7847-11ee-8635-e3a98d944c85",
+    "instrumentId" : "cbff21d2-6e14-11ee-be98-f7f75aa26bbe",
+    "name" : "95BPM"
+  }, {
+    "id" : "6cee9163-332d-4673-b844-742842ac14d4",
+    "instrumentId" : "cbff21d2-6e14-11ee-be98-f7f75aa26bbe",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "e0fee328-2c8b-4bf1-8a5d-7ec806b55094",
+    "instrumentId" : "cbff21d2-6e14-11ee-be98-f7f75aa26bbe",
+    "name" : "CALLTOACTION"
+  } ]
+}

@@ -1,0 +1,45 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "7dcf6cf0-6d61-11ee-8389-b39919b2a858",
+    "libraryId" : "1aea4f08-66f7-11ee-b708-7b2825404265",
+    "state" : "Published",
+    "key" : "X",
+    "tempo" : 95.0,
+    "type" : "Macro",
+    "name" : "95 to 135",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457830570
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "ae36659c-58d1-4604-b841-e0d903615c3c",
+    "programId" : "7dcf6cf0-6d61-11ee-8389-b39919b2a858",
+    "programSequenceId" : "0a2e85f6-1a18-425a-aba3-844f8d283270",
+    "offset" : 0
+  }, {
+    "id" : "ee2f63d3-1071-4e19-b4b0-ad499e3d6a6e",
+    "programId" : "7dcf6cf0-6d61-11ee-8389-b39919b2a858",
+    "programSequenceId" : "0a2e85f6-1a18-425a-aba3-844f8d283270",
+    "offset" : 1
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "c4563013-0d80-407b-bb98-156f0f49fec5",
+    "programId" : "7dcf6cf0-6d61-11ee-8389-b39919b2a858",
+    "programSequenceBindingId" : "ee2f63d3-1071-4e19-b4b0-ad499e3d6a6e",
+    "name" : "135BPM"
+  }, {
+    "id" : "d285c4c3-a3d9-4830-a9a2-cafb80dddf74",
+    "programId" : "7dcf6cf0-6d61-11ee-8389-b39919b2a858",
+    "programSequenceBindingId" : "ae36659c-58d1-4604-b841-e0d903615c3c",
+    "name" : "95BPM"
+  } ],
+  "programSequences" : [ {
+    "id" : "0a2e85f6-1a18-425a-aba3-844f8d283270",
+    "programId" : "7dcf6cf0-6d61-11ee-8389-b39919b2a858",
+    "name" : "New Sequence",
+    "key" : "X",
+    "intensity" : 0.6,
+    "total" : 16
+  } ]
+}

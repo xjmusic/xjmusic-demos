@@ -1,0 +1,29 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "1f23f66e-02db-11ec-aff9-cf63193f1099",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Tamborine Swung",
+    "config" : "isMultiphonic = false\nisTonal = false",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "43b702dc-02db-11ec-aff9-0fb460f44179",
+    "instrumentId" : "1f23f66e-02db-11ec-aff9-cf63193f1099",
+    "name" : "Tamborine Swung take 1",
+    "waveformKey" : "Tamborine-Swung-Tamborine-Swung-take-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 4.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TAMBOLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ]
+}

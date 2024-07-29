@@ -1,0 +1,29 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "8b3d1b0c-1422-11ec-ab32-3b6ef042d0ea",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Shaker Backbeat Accents",
+    "config" : "isMultiphonic = false\nisTonal = false",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "a3675a0a-95ba-408b-8e51-0e7dd78c4a07",
+    "instrumentId" : "8b3d1b0c-1422-11ec-ab32-3b6ef042d0ea",
+    "name" : "Shaker Backbeat Accents take 1",
+    "waveformKey" : "Shaker-Backbeat-Accents-Shaker-Backbeat-Accents-take-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 4.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SHAKERLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ]
+}

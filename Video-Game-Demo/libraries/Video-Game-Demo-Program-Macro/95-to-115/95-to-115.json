@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "libraryId" : "1aea4f08-66f7-11ee-b708-7b2825404265",
+    "state" : "Published",
+    "key" : "X",
+    "tempo" : 95.0,
+    "type" : "Macro",
+    "name" : "95 to 115",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457830642
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "20e27d9f-139e-4987-b4e7-3960ca763b48",
+    "programId" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "programSequenceId" : "d6fb985c-a85f-4e91-8d1d-31c3df7dfa18",
+    "offset" : 1
+  }, {
+    "id" : "c1458a4f-fecb-4a09-922c-68d8fe2bd219",
+    "programId" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "programSequenceId" : "d6fb985c-a85f-4e91-8d1d-31c3df7dfa18",
+    "offset" : 0
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "ad6c51c2-7daa-11ee-8ebd-879bfdc9557e",
+    "programId" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "programSequenceBindingId" : "c1458a4f-fecb-4a09-922c-68d8fe2bd219",
+    "name" : "95BPM"
+  }, {
+    "id" : "b30e2dc6-7daa-11ee-8ebd-071fd7f18d32",
+    "programId" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "programSequenceBindingId" : "20e27d9f-139e-4987-b4e7-3960ca763b48",
+    "name" : "DIALOG"
+  }, {
+    "id" : "6260cf19-126b-4285-9e66-3610fe4c9f03",
+    "programId" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "programSequenceBindingId" : "20e27d9f-139e-4987-b4e7-3960ca763b48",
+    "name" : "115BPM"
+  }, {
+    "id" : "b0537a14-7daa-11ee-8ebd-87b797a5e893",
+    "programId" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "programSequenceBindingId" : "c1458a4f-fecb-4a09-922c-68d8fe2bd219",
+    "name" : "EXPLORATION"
+  } ],
+  "programSequences" : [ {
+    "id" : "d6fb985c-a85f-4e91-8d1d-31c3df7dfa18",
+    "programId" : "a2de232a-7daa-11ee-9e02-9345d69cabb0",
+    "name" : "New Sequence",
+    "key" : "X",
+    "intensity" : 0.6,
+    "total" : 16
+  } ]
+}

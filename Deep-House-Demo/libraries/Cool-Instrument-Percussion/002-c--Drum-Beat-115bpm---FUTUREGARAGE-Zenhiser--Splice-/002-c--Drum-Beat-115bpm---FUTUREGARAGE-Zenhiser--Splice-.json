@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "b209d31c-ce92-11ec-bf72-0fa42dd8d2ae",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "002_c__Drum_Beat_115bpm_-_FUTUREGARAGE_Zenhiser (Splice)",
+    "config" : "isMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "e06a7de1-e520-440d-af11-cbe62c5ca17d",
+    "instrumentId" : "b209d31c-ce92-11ec-bf72-0fa42dd8d2ae",
+    "name" : "002_c__Drum_Beat_115bpm_-_FUTUREGARAGE_Zenhiser_SHIFTED_TO_120",
+    "waveformKey" : "002-c--Drum-Beat-115bpm---FUTUREGARAGE-Zenhiser--Splice--002-c--Drum-Beat-115bpm---FUTUREGARAGE-Zenhiser-SHIFTED-TO-120-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 15.999886,
+    "loopBeats" : 32.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "b9bc8fce-d0a8-11ec-8bd2-3f2bd45ad4ec",
+    "instrumentId" : "b209d31c-ce92-11ec-bf72-0fa42dd8d2ae",
+    "name" : "BIG"
+  } ]
+}

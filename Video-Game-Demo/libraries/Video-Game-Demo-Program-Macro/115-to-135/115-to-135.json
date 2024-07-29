@@ -1,0 +1,62 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "libraryId" : "1aea4f08-66f7-11ee-b708-7b2825404265",
+    "state" : "Published",
+    "key" : "X",
+    "tempo" : 115.0,
+    "type" : "Macro",
+    "name" : "115 to 135",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457830617
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "e8a67375-2976-4847-a531-3d793b77a36c",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "programSequenceId" : "a490b2cd-968b-4a8f-b863-4434621463cc",
+    "offset" : 0
+  }, {
+    "id" : "30e1d368-e9ee-412c-b012-4fbf276b3cf5",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "programSequenceId" : "a490b2cd-968b-4a8f-b863-4434621463cc",
+    "offset" : 1
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "62733d3f-d312-46be-b782-a49362936a73",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "programSequenceBindingId" : "30e1d368-e9ee-412c-b012-4fbf276b3cf5",
+    "name" : "COMBAT"
+  }, {
+    "id" : "05bc8e74-25bc-4537-b248-6a0fb537c4a1",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "programSequenceBindingId" : "e8a67375-2976-4847-a531-3d793b77a36c",
+    "name" : "115BPM"
+  }, {
+    "id" : "0e1ff2d3-0968-4b41-a4b7-4eb37a0ed53d",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "programSequenceBindingId" : "30e1d368-e9ee-412c-b012-4fbf276b3cf5",
+    "name" : "135BPM"
+  }, {
+    "id" : "75faa956-ee1e-4d6c-9202-4f1c49ce3745",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "programSequenceBindingId" : "e8a67375-2976-4847-a531-3d793b77a36c",
+    "name" : "DIALOG"
+  } ],
+  "programSequences" : [ {
+    "id" : "a490b2cd-968b-4a8f-b863-4434621463cc",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "name" : "A",
+    "key" : "X",
+    "intensity" : 0.6,
+    "total" : 16
+  }, {
+    "id" : "3c17614e-da82-11ee-b1e0-5736da18b6e2",
+    "programId" : "e07319ca-7daa-11ee-9e02-2b0f521625f1",
+    "name" : "B",
+    "key" : "C",
+    "intensity" : 1.0,
+    "total" : 16
+  } ]
+}

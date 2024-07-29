@@ -1,0 +1,29 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "04940888-02dc-11ec-aff9-0fbc509153f6",
+    "libraryId" : "c40012d4-fb20-11eb-a2de-278de10ba0a8",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Claps Backbeat",
+    "config" : "isMultiphonic = false\nisTonal = false",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "1911fea0-02dc-11ec-aff9-c7936e21cccb",
+    "instrumentId" : "04940888-02dc-11ec-aff9-0fbc509153f6",
+    "name" : "Claps Backbeat take 1",
+    "waveformKey" : "Claps-Backbeat-Claps-Backbeat-take-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 4.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "CLAPS",
+    "volume" : 2.0,
+    "tones" : "X"
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "libraryId" : "1aea4f08-66f7-11ee-b708-7b2825404265",
+    "state" : "Published",
+    "key" : "X",
+    "tempo" : 95.0,
+    "type" : "Macro",
+    "name" : "Stay at 95",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457830654
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "2630e760-6728-11ee-ba5b-73427ea4c309",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "programSequenceId" : "1ba51438-6728-11ee-ba5b-a3da05efdf98",
+    "offset" : 0
+  }, {
+    "id" : "3319cf78-6728-11ee-ba5b-0b63f2884944",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "programSequenceId" : "1ba51438-6728-11ee-ba5b-a3da05efdf98",
+    "offset" : 1
+  } ],
+  "programSequenceBindingMemes" : [ {
+    "id" : "29766364-6728-11ee-8f00-dbfda148ee65",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "programSequenceBindingId" : "2630e760-6728-11ee-ba5b-73427ea4c309",
+    "name" : "95BPM"
+  }, {
+    "id" : "3e22cd48-775e-11ee-bd5b-bb2dbd323abb",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "programSequenceBindingId" : "2630e760-6728-11ee-ba5b-73427ea4c309",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "3487f0b0-6728-11ee-8f00-d72ce8d6af91",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "programSequenceBindingId" : "3319cf78-6728-11ee-ba5b-0b63f2884944",
+    "name" : "95BPM"
+  }, {
+    "id" : "43d7c644-775e-11ee-bd5b-2fcb9c62a05e",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "programSequenceBindingId" : "3319cf78-6728-11ee-ba5b-0b63f2884944",
+    "name" : "EXPLORATION"
+  } ],
+  "programMemes" : [ {
+    "id" : "4938cd04-775e-11ee-bd5b-476b1fa50dbb",
+    "name" : "EXPLORATION",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb"
+  }, {
+    "id" : "1e45fe8c-6728-11ee-8f00-cb2d58718a57",
+    "name" : "95BPM",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb"
+  } ],
+  "programSequences" : [ {
+    "id" : "1ba51438-6728-11ee-ba5b-a3da05efdf98",
+    "programId" : "4c28a592-66f7-11ee-b708-23544d1abbfb",
+    "name" : "New Sequence",
+    "key" : "X",
+    "intensity" : 0.6,
+    "total" : 16
+  } ]
+}

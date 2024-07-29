@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "79ef36e4-66f7-11ee-bcd4-a39f5eaf662b",
+    "name" : "Video Game Demo Instrument Stab",
+    "projectId" : "e56bcd90-a9ca-11ee-abb1-438c3b64bd9d",
+    "isDeleted" : false,
+    "updatedAt" : 1710457828750
+  } ]
+}

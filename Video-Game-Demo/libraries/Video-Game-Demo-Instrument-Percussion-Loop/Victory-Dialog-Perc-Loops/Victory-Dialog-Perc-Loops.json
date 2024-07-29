@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Victory Dialog Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828907
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "7e45f81d-9439-4d6e-9277-9868c1eefe4f",
+    "instrumentId" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
+    "name" : "Trap Break",
+    "waveformKey" : "Victory-Dialog-Perc-Loops-Trap-Break-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 33.39131,
+    "loopBeats" : 64.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 2.0,
+    "tones" : "X"
+  }, {
+    "id" : "ac46c010-7fb1-4b67-a777-f18d2d00359e",
+    "instrumentId" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
+    "name" : "Shaker",
+    "waveformKey" : "Victory-Dialog-Perc-Loops-Shaker-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 33.39131,
+    "loopBeats" : 64.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 2.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "29830db6-6e18-11ee-8497-f761db704fb9",
+    "instrumentId" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
+    "name" : "115BPM"
+  }, {
+    "id" : "3a0d855d-b3bc-4642-bbc0-34c5498b471e",
+    "instrumentId" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
+    "name" : "VICTORY"
+  }, {
+    "id" : "88c579f6-6e15-11ee-be98-cba47e97302d",
+    "instrumentId" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
+    "name" : "DIALOG"
+  } ]
+}

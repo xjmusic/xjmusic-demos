@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "name" : "Video Game Demo Instrument Transition",
+    "projectId" : "e56bcd90-a9ca-11ee-abb1-438c3b64bd9d",
+    "isDeleted" : false,
+    "updatedAt" : 1710457828737
+  } ]
+}
