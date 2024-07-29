@@ -1,0 +1,13 @@
+# XJ music workstation
+build/
+render/
+
+# Jetbrains IDE
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
