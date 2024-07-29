@@ -1,1 +1,162 @@
-{"demo":false,"programs":[{"id":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","libraryId":"a57570a4-66f6-11ee-b708-47fb5224718c","state":"Published","key":"F","tempo":95.0,"type":"Main","name":"Victory Exploration","config":"barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n","isDeleted":false,"updatedAt":1710457830603}],"programSequenceBindings":[{"id":"81fbdae5-4dc5-4166-add0-555525a692fe","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceId":"260e4a9f-f027-401f-8251-87198ff0dd57","offset":0},{"id":"6251972e-3d5a-463d-9c84-0cf325712276","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceId":"260e4a9f-f027-401f-8251-87198ff0dd57","offset":1},{"id":"cd21b738-782c-11ee-b198-c76d495b43ad","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceId":"260e4a9f-f027-401f-8251-87198ff0dd57","offset":3},{"id":"cc3f742c-782c-11ee-b198-6f798433e49c","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceId":"260e4a9f-f027-401f-8251-87198ff0dd57","offset":2}],"programSequenceChords":[{"id":"48eee1b7-09aa-416e-9079-0417bc832001","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceId":"260e4a9f-f027-401f-8251-87198ff0dd57","name":"F","position":0.0}],"programVoices":[{"id":"6fb5bfe8-1150-4b05-88b7-f827cdaf2725","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Stripe","name":"Main","order":1000.0},{"id":"703d3808-a7f5-435a-aa8d-4e2f52fb28a1","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Background","name":"Main","order":1000.0},{"id":"8bac4108-68bb-4d9e-8061-3ed8e5ca9210","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Percussion","name":"Main","order":1000.0},{"id":"04598243-296d-4b79-ade3-ac0bb8732ba6","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Sticky","name":"Main","order":1000.0},{"id":"dee13238-ee95-4cb2-af80-b8d47fd97686","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Transition","name":"Main","order":1000.0},{"id":"2207d2f4-0ece-4d52-840c-d12f26a0b645","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Pad","name":"Main","order":1000.0},{"id":"f2a8199e-789e-4f78-9405-d8fc880384e0","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Bass","name":"Main","order":1000.0},{"id":"5e71f5bd-2d1c-48c9-96f6-5217ee8aed79","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Stab","name":"Main","order":1000.0},{"id":"8f687134-413e-4ed9-9441-ae5e19b6450d","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Hook","name":"Main","order":1000.0},{"id":"e15e11bb-6112-46d1-a045-80b381cc9d83","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","type":"Drum","name":"Main","order":1000.0}],"programMemes":[{"id":"d5308213-6f08-4c30-a441-a0d200ea1961","name":"EXPLORATION","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065"},{"id":"5ff98e12-2649-42cf-b852-3fb14c6ddcd7","name":"VICTORY","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065"},{"id":"c6e2c4de-782c-11ee-8ae2-23df97f4d10d","name":"95BPM","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065"}],"programSequences":[{"id":"260e4a9f-f027-401f-8251-87198ff0dd57","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","name":"New Sequence","key":"F","intensity":1.0,"total":32}],"programSequenceChordVoicings":[{"id":"3567d6b5-00a2-4315-a9aa-035c9bfde38f","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceChordId":"48eee1b7-09aa-416e-9079-0417bc832001","notes":"F","programVoiceId":"04598243-296d-4b79-ade3-ac0bb8732ba6"},{"id":"39faf6a6-3e77-4fd5-ac3b-988021cb59dc","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceChordId":"48eee1b7-09aa-416e-9079-0417bc832001","notes":"F","programVoiceId":"f2a8199e-789e-4f78-9405-d8fc880384e0"},{"id":"1a28af89-3c5c-42c4-9e3e-7a1360c84d1b","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceChordId":"48eee1b7-09aa-416e-9079-0417bc832001","notes":"F","programVoiceId":"2207d2f4-0ece-4d52-840c-d12f26a0b645"},{"id":"95b0f433-17c0-4be8-b2d3-3de716951981","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceChordId":"48eee1b7-09aa-416e-9079-0417bc832001","notes":"F","programVoiceId":"6fb5bfe8-1150-4b05-88b7-f827cdaf2725"},{"id":"ed583eec-c028-4c64-b98d-ade5163dfeb0","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceChordId":"48eee1b7-09aa-416e-9079-0417bc832001","notes":"F","programVoiceId":"8f687134-413e-4ed9-9441-ae5e19b6450d"},{"id":"750565ef-786e-44dd-890f-88507aeba250","programId":"f9a4db9a-736e-11ee-8807-7f1e28cc4065","programSequenceChordId":"48eee1b7-09aa-416e-9079-0417bc832001","notes":"F","programVoiceId":"5e71f5bd-2d1c-48c9-96f6-5217ee8aed79"}]}
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "libraryId" : "a57570a4-66f6-11ee-b708-47fb5224718c",
+    "state" : "Published",
+    "key" : "F",
+    "tempo" : 95.0,
+    "type" : "Main",
+    "name" : "Victory Exploration",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = false\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457830603
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "81fbdae5-4dc5-4166-add0-555525a692fe",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
+    "offset" : 0
+  }, {
+    "id" : "6251972e-3d5a-463d-9c84-0cf325712276",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
+    "offset" : 1
+  }, {
+    "id" : "cd21b738-782c-11ee-b198-c76d495b43ad",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
+    "offset" : 3
+  }, {
+    "id" : "cc3f742c-782c-11ee-b198-6f798433e49c",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
+    "offset" : 2
+  } ],
+  "programSequenceChords" : [ {
+    "id" : "48eee1b7-09aa-416e-9079-0417bc832001",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
+    "name" : "F",
+    "position" : 0.0
+  } ],
+  "programVoices" : [ {
+    "id" : "6fb5bfe8-1150-4b05-88b7-f827cdaf2725",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Stripe",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "703d3808-a7f5-435a-aa8d-4e2f52fb28a1",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Background",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "8bac4108-68bb-4d9e-8061-3ed8e5ca9210",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Percussion",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "04598243-296d-4b79-ade3-ac0bb8732ba6",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Sticky",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "dee13238-ee95-4cb2-af80-b8d47fd97686",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Transition",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "2207d2f4-0ece-4d52-840c-d12f26a0b645",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Pad",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "f2a8199e-789e-4f78-9405-d8fc880384e0",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Bass",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "5e71f5bd-2d1c-48c9-96f6-5217ee8aed79",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Stab",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "8f687134-413e-4ed9-9441-ae5e19b6450d",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Hook",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "e15e11bb-6112-46d1-a045-80b381cc9d83",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "type" : "Drum",
+    "name" : "Main",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "d5308213-6f08-4c30-a441-a0d200ea1961",
+    "name" : "EXPLORATION",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065"
+  }, {
+    "id" : "5ff98e12-2649-42cf-b852-3fb14c6ddcd7",
+    "name" : "VICTORY",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065"
+  }, {
+    "id" : "c6e2c4de-782c-11ee-8ae2-23df97f4d10d",
+    "name" : "95BPM",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065"
+  } ],
+  "programSequences" : [ {
+    "id" : "260e4a9f-f027-401f-8251-87198ff0dd57",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "name" : "New Sequence",
+    "key" : "F",
+    "intensity" : 1.0,
+    "total" : 32
+  } ],
+  "programSequenceChordVoicings" : [ {
+    "id" : "3567d6b5-00a2-4315-a9aa-035c9bfde38f",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceChordId" : "48eee1b7-09aa-416e-9079-0417bc832001",
+    "notes" : "F",
+    "programVoiceId" : "04598243-296d-4b79-ade3-ac0bb8732ba6"
+  }, {
+    "id" : "39faf6a6-3e77-4fd5-ac3b-988021cb59dc",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceChordId" : "48eee1b7-09aa-416e-9079-0417bc832001",
+    "notes" : "F",
+    "programVoiceId" : "f2a8199e-789e-4f78-9405-d8fc880384e0"
+  }, {
+    "id" : "1a28af89-3c5c-42c4-9e3e-7a1360c84d1b",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceChordId" : "48eee1b7-09aa-416e-9079-0417bc832001",
+    "notes" : "F",
+    "programVoiceId" : "2207d2f4-0ece-4d52-840c-d12f26a0b645"
+  }, {
+    "id" : "95b0f433-17c0-4be8-b2d3-3de716951981",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceChordId" : "48eee1b7-09aa-416e-9079-0417bc832001",
+    "notes" : "F",
+    "programVoiceId" : "6fb5bfe8-1150-4b05-88b7-f827cdaf2725"
+  }, {
+    "id" : "ed583eec-c028-4c64-b98d-ade5163dfeb0",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceChordId" : "48eee1b7-09aa-416e-9079-0417bc832001",
+    "notes" : "F",
+    "programVoiceId" : "8f687134-413e-4ed9-9441-ae5e19b6450d"
+  }, {
+    "id" : "750565ef-786e-44dd-890f-88507aeba250",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceChordId" : "48eee1b7-09aa-416e-9079-0417bc832001",
+    "notes" : "F",
+    "programVoiceId" : "5e71f5bd-2d1c-48c9-96f6-5217ee8aed79"
+  } ]
+}

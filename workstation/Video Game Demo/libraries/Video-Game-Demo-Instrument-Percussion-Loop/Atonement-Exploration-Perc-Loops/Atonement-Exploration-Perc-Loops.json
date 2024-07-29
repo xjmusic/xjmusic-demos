@@ -1,1 +1,68 @@
-{"demo":false,"instruments":[{"id":"b48b4488-6d4f-11ee-9d52-e3497ddacb1a","libraryId":"56e05ffe-671d-11ee-8d24-9303792ce993","type":"Percussion","state":"Published","name":"Atonement Exploration Perc Loops","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Loop","updatedAt":1710457829068}],"instrumentAudios":[{"id":"5b96547e-6d60-11ee-8389-17b391d6fb9b","instrumentId":"b48b4488-6d4f-11ee-9d52-e3497ddacb1a","name":"Atonement Taiko Small","waveformKey":"Atonement-Exploration-Perc-Loops-Atonement-Taiko-Small-X.wav","transientSeconds":0.0,"lengthSeconds":80.84192,"loopBeats":32.0,"tempo":95.0,"intensity":0.2,"event":"PERCLOOP","volume":1.0,"tones":"X"},{"id":"9053799d-34e3-4692-9de5-291113dde9d3","instrumentId":"b48b4488-6d4f-11ee-9d52-e3497ddacb1a","name":"Aggressive Snare Gulp","waveformKey":"Atonement-Exploration-Perc-Loops-Aggressive-Snare-Gulp-X.wav","transientSeconds":0.0,"lengthSeconds":10.10526,"loopBeats":16.0,"tempo":95.0,"intensity":1.0,"event":"PERCLOOP","volume":0.7,"tones":"X"},{"id":"56999e54-6d60-11ee-9d7d-5f5a204686f9","instrumentId":"b48b4488-6d4f-11ee-9d52-e3497ddacb1a","name":"Atonement Taiko","waveformKey":"Atonement-Exploration-Perc-Loops-Atonement-Taiko-X.wav","transientSeconds":0.0,"lengthSeconds":80.842125,"loopBeats":64.0,"tempo":95.0,"intensity":0.6,"event":"PERCLOOP","volume":0.8,"tones":"X"}],"instrumentMemes":[{"id":"675ed8e8-71cb-11ee-8452-ab8da7c4cf99","instrumentId":"b48b4488-6d4f-11ee-9d52-e3497ddacb1a","name":"95BPM"},{"id":"5ee45f94-6d61-11ee-8389-1bc2e30def72","instrumentId":"b48b4488-6d4f-11ee-9d52-e3497ddacb1a","name":"ATONEMENT"},{"id":"92f537a0-6e14-11ee-b0c7-c3c58ad978af","instrumentId":"b48b4488-6d4f-11ee-9d52-e3497ddacb1a","name":"EXPLORATION"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Atonement Exploration Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457829068
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "5b96547e-6d60-11ee-8389-17b391d6fb9b",
+    "instrumentId" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "name" : "Atonement Taiko Small",
+    "waveformKey" : "Atonement-Exploration-Perc-Loops-Atonement-Taiko-Small-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 80.84192,
+    "loopBeats" : 32.0,
+    "tempo" : 95.0,
+    "intensity" : 0.2,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "9053799d-34e3-4692-9de5-291113dde9d3",
+    "instrumentId" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "name" : "Aggressive Snare Gulp",
+    "waveformKey" : "Atonement-Exploration-Perc-Loops-Aggressive-Snare-Gulp-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 10.10526,
+    "loopBeats" : 16.0,
+    "tempo" : 95.0,
+    "intensity" : 1.0,
+    "event" : "PERCLOOP",
+    "volume" : 0.7,
+    "tones" : "X"
+  }, {
+    "id" : "56999e54-6d60-11ee-9d7d-5f5a204686f9",
+    "instrumentId" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "name" : "Atonement Taiko",
+    "waveformKey" : "Atonement-Exploration-Perc-Loops-Atonement-Taiko-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 80.842125,
+    "loopBeats" : 64.0,
+    "tempo" : 95.0,
+    "intensity" : 0.6,
+    "event" : "PERCLOOP",
+    "volume" : 0.8,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "675ed8e8-71cb-11ee-8452-ab8da7c4cf99",
+    "instrumentId" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "name" : "95BPM"
+  }, {
+    "id" : "5ee45f94-6d61-11ee-8389-1bc2e30def72",
+    "instrumentId" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "name" : "ATONEMENT"
+  }, {
+    "id" : "92f537a0-6e14-11ee-b0c7-c3c58ad978af",
+    "instrumentId" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "name" : "EXPLORATION"
+  } ]
+}

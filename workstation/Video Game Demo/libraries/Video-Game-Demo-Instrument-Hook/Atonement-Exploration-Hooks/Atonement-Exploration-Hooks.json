@@ -1,1 +1,55 @@
-{"demo":false,"instruments":[{"id":"efc21ca6-6fad-11ee-ac0d-8764f1dacec1","libraryId":"c96a4682-6fad-11ee-9c1a-17feb22e2b3b","type":"Hook","state":"Published","name":"Atonement Exploration Hooks","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Loop","updatedAt":1710457828965}],"instrumentAudios":[{"id":"0ff89f51-4cf0-4324-ade9-49e00934487e","instrumentId":"efc21ca6-6fad-11ee-ac0d-8764f1dacec1","name":"Bpm095_Fm_BigChief_Strings","waveformKey":"Atonement-Exploration-Hooks-Bpm095-Fm-BigChief-Strings-F.wav","transientSeconds":0.0,"lengthSeconds":20.210499,"loopBeats":32.0,"tempo":95.0,"intensity":0.8,"event":"HOOK","volume":1.0,"tones":"F"},{"id":"1198c5b4-6fae-11ee-ac0d-1731951ad7a4","instrumentId":"efc21ca6-6fad-11ee-ac0d-8764f1dacec1","name":"ESM_Loop_Long_100_The_Brightest_Star_in_Morning_Fm_Ethereal_Airy_Droning_Pad_Calm_Dreamy-TmShft_01","waveformKey":"Atonement-Exploration-Hooks-ESM-Loop-Long-100-The-Brightest-Star-in-Morning-Fm-Ethereal-Airy-Droning-Pad-Calm-Dreamy-TmShft-01-F.wav","transientSeconds":0.0,"lengthSeconds":40.42108,"loopBeats":32.0,"tempo":95.0,"intensity":0.5,"event":"HOOK","volume":0.0,"tones":"F"}],"instrumentMemes":[{"id":"feed941c-6fad-11ee-ac0d-7357f248ecc2","instrumentId":"efc21ca6-6fad-11ee-ac0d-8764f1dacec1","name":"95BPM"},{"id":"03580398-6fae-11ee-ac0d-c3429c832b49","instrumentId":"efc21ca6-6fad-11ee-ac0d-8764f1dacec1","name":"EXPLORATION"},{"id":"0146b6bc-6fae-11ee-9c1a-63f0aaa13e5f","instrumentId":"efc21ca6-6fad-11ee-ac0d-8764f1dacec1","name":"ATONEMENT"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Atonement Exploration Hooks",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828965
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "0ff89f51-4cf0-4324-ade9-49e00934487e",
+    "instrumentId" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
+    "name" : "Bpm095_Fm_BigChief_Strings",
+    "waveformKey" : "Atonement-Exploration-Hooks-Bpm095-Fm-BigChief-Strings-F.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 20.210499,
+    "loopBeats" : 32.0,
+    "tempo" : 95.0,
+    "intensity" : 0.8,
+    "event" : "HOOK",
+    "volume" : 1.0,
+    "tones" : "F"
+  }, {
+    "id" : "1198c5b4-6fae-11ee-ac0d-1731951ad7a4",
+    "instrumentId" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
+    "name" : "ESM_Loop_Long_100_The_Brightest_Star_in_Morning_Fm_Ethereal_Airy_Droning_Pad_Calm_Dreamy-TmShft_01",
+    "waveformKey" : "Atonement-Exploration-Hooks-ESM-Loop-Long-100-The-Brightest-Star-in-Morning-Fm-Ethereal-Airy-Droning-Pad-Calm-Dreamy-TmShft-01-F.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 40.42108,
+    "loopBeats" : 32.0,
+    "tempo" : 95.0,
+    "intensity" : 0.5,
+    "event" : "HOOK",
+    "volume" : 0.0,
+    "tones" : "F"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "feed941c-6fad-11ee-ac0d-7357f248ecc2",
+    "instrumentId" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
+    "name" : "95BPM"
+  }, {
+    "id" : "03580398-6fae-11ee-ac0d-c3429c832b49",
+    "instrumentId" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "0146b6bc-6fae-11ee-9c1a-63f0aaa13e5f",
+    "instrumentId" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
+    "name" : "ATONEMENT"
+  } ]
+}

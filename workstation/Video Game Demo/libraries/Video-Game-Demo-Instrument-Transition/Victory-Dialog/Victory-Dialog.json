@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"94e609ec-9081-11ee-ba4b-1707bdec8a87","libraryId":"8854b774-671d-11ee-8d24-8b8c288969a8","type":"Transition","state":"Published","name":"Victory Dialog","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Event","updatedAt":1710457828939}],"instrumentAudios":[{"id":"fc5d8666-48cb-4b5b-8120-48d265191e5c","instrumentId":"94e609ec-9081-11ee-ba4b-1707bdec8a87","name":"Large","waveformKey":"Victory-Dialog-Large-X.wav","transientSeconds":1.309,"lengthSeconds":5.691312,"loopBeats":16.0,"tempo":115.0,"intensity":0.5,"event":"LARGE","volume":1.0,"tones":"X"}],"instrumentMemes":[{"id":"3a7f39be-7c46-463b-8e6d-943b1cb3fe09","instrumentId":"94e609ec-9081-11ee-ba4b-1707bdec8a87","name":"VICTORY"},{"id":"27a628d7-986c-4374-a7dd-a83ffbae4919","instrumentId":"94e609ec-9081-11ee-ba4b-1707bdec8a87","name":"115BPM"},{"id":"fbb8f9b3-fc19-4e18-9766-129e283cbde0","instrumentId":"94e609ec-9081-11ee-ba4b-1707bdec8a87","name":"DIALOG"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "94e609ec-9081-11ee-ba4b-1707bdec8a87",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Victory Dialog",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828939
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "fc5d8666-48cb-4b5b-8120-48d265191e5c",
+    "instrumentId" : "94e609ec-9081-11ee-ba4b-1707bdec8a87",
+    "name" : "Large",
+    "waveformKey" : "Victory-Dialog-Large-X.wav",
+    "transientSeconds" : 1.309,
+    "lengthSeconds" : 5.691312,
+    "loopBeats" : 16.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "LARGE",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "3a7f39be-7c46-463b-8e6d-943b1cb3fe09",
+    "instrumentId" : "94e609ec-9081-11ee-ba4b-1707bdec8a87",
+    "name" : "VICTORY"
+  }, {
+    "id" : "27a628d7-986c-4374-a7dd-a83ffbae4919",
+    "instrumentId" : "94e609ec-9081-11ee-ba4b-1707bdec8a87",
+    "name" : "115BPM"
+  }, {
+    "id" : "fbb8f9b3-fc19-4e18-9766-129e283cbde0",
+    "instrumentId" : "94e609ec-9081-11ee-ba4b-1707bdec8a87",
+    "name" : "DIALOG"
+  } ]
+}

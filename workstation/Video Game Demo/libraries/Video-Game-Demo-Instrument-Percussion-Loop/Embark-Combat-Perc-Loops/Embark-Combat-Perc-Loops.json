@@ -1,1 +1,68 @@
-{"demo":false,"instruments":[{"id":"16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f","libraryId":"56e05ffe-671d-11ee-8d24-9303792ce993","type":"Percussion","state":"Published","name":"Embark Combat Perc Loops","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Loop","updatedAt":1710457828996}],"instrumentAudios":[{"id":"d656295c-7501-11ee-bb3a-d724fad363aa","instrumentId":"16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f","name":"Embark Perc Loop Kick","waveformKey":"Embark-Combat-Perc-Loops-Embark-Perc-Loop-Kick-X.wav","transientSeconds":0.0,"lengthSeconds":14.222229,"loopBeats":16.0,"tempo":135.0,"intensity":0.5,"event":"MEDIUM","volume":0.8,"tones":"X"},{"id":"a46ea2bc-784f-4b9d-bfbf-bfa8470913ac","instrumentId":"16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f","name":"Embark Combat Perc Loop Shaker","waveformKey":"Embark-Combat-Perc-Loops-Embark-Combat-Perc-Loop-Shaker-X.wav","transientSeconds":0.0,"lengthSeconds":7.111124,"loopBeats":16.0,"tempo":135.0,"intensity":1.0,"event":"MEDIUM","volume":0.8,"tones":"X"},{"id":"e769e3f0-7501-11ee-9009-0f622a446541","instrumentId":"16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f","name":"Embark Perc Loop Top","waveformKey":"Embark-Combat-Perc-Loops-Embark-Perc-Loop-Top-X.wav","transientSeconds":0.0,"lengthSeconds":14.222229,"loopBeats":32.0,"tempo":135.0,"intensity":0.1,"event":"SMALL","volume":1.0,"tones":"X"}],"instrumentMemes":[{"id":"9c58341a-d7c8-4ec7-bbc8-7f6125311a04","instrumentId":"16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f","name":"EMBARK"},{"id":"f44e7496-7501-11ee-afdc-6fce16aa624d","instrumentId":"16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f","name":"135BPM"},{"id":"22e2ccce-6e15-11ee-be98-c3deb53c8cc3","instrumentId":"16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f","name":"COMBAT"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Embark Combat Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828996
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "d656295c-7501-11ee-bb3a-d724fad363aa",
+    "instrumentId" : "16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f",
+    "name" : "Embark Perc Loop Kick",
+    "waveformKey" : "Embark-Combat-Perc-Loops-Embark-Perc-Loop-Kick-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 14.222229,
+    "loopBeats" : 16.0,
+    "tempo" : 135.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 0.8,
+    "tones" : "X"
+  }, {
+    "id" : "a46ea2bc-784f-4b9d-bfbf-bfa8470913ac",
+    "instrumentId" : "16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f",
+    "name" : "Embark Combat Perc Loop Shaker",
+    "waveformKey" : "Embark-Combat-Perc-Loops-Embark-Combat-Perc-Loop-Shaker-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 7.111124,
+    "loopBeats" : 16.0,
+    "tempo" : 135.0,
+    "intensity" : 1.0,
+    "event" : "MEDIUM",
+    "volume" : 0.8,
+    "tones" : "X"
+  }, {
+    "id" : "e769e3f0-7501-11ee-9009-0f622a446541",
+    "instrumentId" : "16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f",
+    "name" : "Embark Perc Loop Top",
+    "waveformKey" : "Embark-Combat-Perc-Loops-Embark-Perc-Loop-Top-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 14.222229,
+    "loopBeats" : 32.0,
+    "tempo" : 135.0,
+    "intensity" : 0.1,
+    "event" : "SMALL",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "9c58341a-d7c8-4ec7-bbc8-7f6125311a04",
+    "instrumentId" : "16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f",
+    "name" : "EMBARK"
+  }, {
+    "id" : "f44e7496-7501-11ee-afdc-6fce16aa624d",
+    "instrumentId" : "16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f",
+    "name" : "135BPM"
+  }, {
+    "id" : "22e2ccce-6e15-11ee-be98-c3deb53c8cc3",
+    "instrumentId" : "16b2dd78-6e14-11ee-b8d0-0b80f3a05a1f",
+    "name" : "COMBAT"
+  } ]
+}

@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"72526a94-7847-11ee-8a66-cbfb480a9df1","libraryId":"8952bd4a-66f7-11ee-bcd4-3f22e7f68e89","type":"Stripe","state":"Published","name":"Call to Action Combat Stripes","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Event","updatedAt":1710457828783}],"instrumentAudios":[{"id":"bc455e05-ead0-449c-88e9-9f90253c6b1c","instrumentId":"72526a94-7847-11ee-8a66-cbfb480a9df1","name":"Guitar","waveformKey":"Call-to-Action-Combat-Stripes-Guitar-D.wav","transientSeconds":0.0,"lengthSeconds":28.444458,"loopBeats":64.0,"tempo":135.0,"intensity":0.7,"event":"STRIPE","volume":1.0,"tones":"D"}],"instrumentMemes":[{"id":"41a5b82e-4e3c-468d-a329-e87e6ee6996d","instrumentId":"72526a94-7847-11ee-8a66-cbfb480a9df1","name":"135BPM"},{"id":"5cc3fb91-7f51-4b4c-b806-cf008bd5c697","instrumentId":"72526a94-7847-11ee-8a66-cbfb480a9df1","name":"COMBAT"},{"id":"238e82b0-fdeb-4838-a56a-1048f6485d1a","instrumentId":"72526a94-7847-11ee-8a66-cbfb480a9df1","name":"CALLTOACTION"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "72526a94-7847-11ee-8a66-cbfb480a9df1",
+    "libraryId" : "8952bd4a-66f7-11ee-bcd4-3f22e7f68e89",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Call to Action Combat Stripes",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828783
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "bc455e05-ead0-449c-88e9-9f90253c6b1c",
+    "instrumentId" : "72526a94-7847-11ee-8a66-cbfb480a9df1",
+    "name" : "Guitar",
+    "waveformKey" : "Call-to-Action-Combat-Stripes-Guitar-D.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 28.444458,
+    "loopBeats" : 64.0,
+    "tempo" : 135.0,
+    "intensity" : 0.7,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "D"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "41a5b82e-4e3c-468d-a329-e87e6ee6996d",
+    "instrumentId" : "72526a94-7847-11ee-8a66-cbfb480a9df1",
+    "name" : "135BPM"
+  }, {
+    "id" : "5cc3fb91-7f51-4b4c-b806-cf008bd5c697",
+    "instrumentId" : "72526a94-7847-11ee-8a66-cbfb480a9df1",
+    "name" : "COMBAT"
+  }, {
+    "id" : "238e82b0-fdeb-4838-a56a-1048f6485d1a",
+    "instrumentId" : "72526a94-7847-11ee-8a66-cbfb480a9df1",
+    "name" : "CALLTOACTION"
+  } ]
+}

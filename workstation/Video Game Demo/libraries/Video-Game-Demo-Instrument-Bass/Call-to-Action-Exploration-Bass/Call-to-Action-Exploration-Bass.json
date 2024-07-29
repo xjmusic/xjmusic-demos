@@ -1,1 +1,42 @@
-{"demo":false,"instruments":[{"id":"90c8d757-bae6-4f04-8d84-dff1eaacd8d8","libraryId":"913b1ccc-71cf-11ee-b521-abe1923d8fc7","type":"Bass","state":"Published","name":"Call to Action Exploration Bass","config":"isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n","isDeleted":false,"volume":1.0,"mode":"Loop","updatedAt":1710457829077}],"instrumentAudios":[{"id":"2da65fa3-5449-4565-a188-36646e29d7c0","instrumentId":"90c8d757-bae6-4f04-8d84-dff1eaacd8d8","name":"SO_GF_95_guitar_electric_daphne_chords_Dmaj","waveformKey":"Call-to-Action-Exploration-Bass-SO-GF-95-guitar-electric-daphne-chords-Dmaj-D.wav","transientSeconds":0.0,"lengthSeconds":20.210545,"loopBeats":32.0,"tempo":95.0,"intensity":0.6,"event":"BASS","volume":0.4,"tones":"D"}],"instrumentMemes":[{"id":"cfc2a92e-a53e-4ba2-b6d8-4c5a456a0a68","instrumentId":"90c8d757-bae6-4f04-8d84-dff1eaacd8d8","name":"EXPLORATION"},{"id":"9064057a-11cc-4697-9afd-bc07d18deed3","instrumentId":"90c8d757-bae6-4f04-8d84-dff1eaacd8d8","name":"CALLTOACTION"},{"id":"08f9fb10-460e-4164-88c1-32fef94b8370","instrumentId":"90c8d757-bae6-4f04-8d84-dff1eaacd8d8","name":"95BPM"}]}
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
+    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
+    "type" : "Bass",
+    "state" : "Published",
+    "name" : "Call to Action Exploration Bass",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457829077
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "2da65fa3-5449-4565-a188-36646e29d7c0",
+    "instrumentId" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
+    "name" : "SO_GF_95_guitar_electric_daphne_chords_Dmaj",
+    "waveformKey" : "Call-to-Action-Exploration-Bass-SO-GF-95-guitar-electric-daphne-chords-Dmaj-D.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 20.210545,
+    "loopBeats" : 32.0,
+    "tempo" : 95.0,
+    "intensity" : 0.6,
+    "event" : "BASS",
+    "volume" : 0.4,
+    "tones" : "D"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "cfc2a92e-a53e-4ba2-b6d8-4c5a456a0a68",
+    "instrumentId" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
+    "name" : "EXPLORATION"
+  }, {
+    "id" : "9064057a-11cc-4697-9afd-bc07d18deed3",
+    "instrumentId" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
+    "name" : "CALLTOACTION"
+  }, {
+    "id" : "08f9fb10-460e-4164-88c1-32fef94b8370",
+    "instrumentId" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
+    "name" : "95BPM"
+  } ]
+}
