@@ -1,0 +1,68 @@
+{
+  "demo" : false,
+  "programs" : [ {
+    "id" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8",
+    "libraryId" : "5be84a50-b69f-11ec-bfb3-3fe479471292",
+    "state" : "Published",
+    "key" : "A",
+    "tempo" : 85.0,
+    "type" : "Detail",
+    "name" : "Lofi roots extended test",
+    "config" : "barBeats = 4\ncutoffMinimumBars = 2\ndoPatternRestartOnChord = true\n",
+    "isDeleted" : false,
+    "updatedAt" : 1710457159702
+  } ],
+  "programSequencePatterns" : [ {
+    "id" : "ef57f7c6-4cb5-45a9-b511-a7feef5453d4",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8",
+    "programSequenceId" : "044ca666-ed9a-48ce-8447-189cfe7c7413",
+    "programVoiceId" : "4fcf01a6-1677-455d-839f-b443f56776e5",
+    "name" : "Xxx",
+    "total" : 16
+  } ],
+  "programSequencePatternEvents" : [ {
+    "id" : "f86eb981-26b6-4a69-95bc-bfa4b8f4bd0a",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8",
+    "programSequencePatternId" : "ef57f7c6-4cb5-45a9-b511-a7feef5453d4",
+    "programVoiceTrackId" : "9f93f6a9-384b-4d0f-8615-6d645911f24d",
+    "velocity" : 1.0,
+    "position" : 0.03,
+    "duration" : 1.0,
+    "tones" : "A1"
+  } ],
+  "programVoices" : [ {
+    "id" : "4fcf01a6-1677-455d-839f-b443f56776e5",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8",
+    "type" : "Bass",
+    "name" : "Xxx",
+    "order" : 1000.0
+  } ],
+  "programMemes" : [ {
+    "id" : "03ea6574-5fe9-11ed-9306-2f145351d499",
+    "name" : "CUSTOM",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8"
+  }, {
+    "id" : "0d4ede24-5fe9-11ed-83cf-2f7af58633a9",
+    "name" : "WIDEOPEN",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8"
+  }, {
+    "id" : "001752a4-5fe9-11ed-8256-77f6ea6f6cf4",
+    "name" : "STRAIGHT",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8"
+  } ],
+  "programSequences" : [ {
+    "id" : "044ca666-ed9a-48ce-8447-189cfe7c7413",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8",
+    "name" : "New Sequence",
+    "key" : "A",
+    "intensity" : 0.6,
+    "total" : 16
+  } ],
+  "programVoiceTracks" : [ {
+    "id" : "9f93f6a9-384b-4d0f-8615-6d645911f24d",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8",
+    "programVoiceId" : "4fcf01a6-1677-455d-839f-b443f56776e5",
+    "name" : "XXX",
+    "order" : 1000.0
+  } ]
+}

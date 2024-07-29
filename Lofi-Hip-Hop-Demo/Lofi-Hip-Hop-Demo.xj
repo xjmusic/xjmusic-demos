@@ -1,0 +1,10 @@
+{
+  "demo" : true,
+  "project" : {
+    "id" : "18979e94-3ea9-11ed-9bc0-7b15c211b25f",
+    "name" : "Slaps",
+    "updatedAt" : 1710457155728,
+    "platformVersion" : "1.9.2",
+    "isDeleted" : false
+  }
+}

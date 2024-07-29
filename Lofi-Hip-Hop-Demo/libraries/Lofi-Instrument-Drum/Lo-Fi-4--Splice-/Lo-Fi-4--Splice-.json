@@ -1,0 +1,55 @@
+{
+  "demo" : false,
+  "instrumentAudios" : [ {
+    "id" : "7843717e-ab1f-11ec-bbc2-9717e58fbef5",
+    "instrumentId" : "b3390c3a-a8c7-11ec-8bd2-db03f6caffcc",
+    "name" : "Hat 1",
+    "waveformKey" : "Lo-Fi-4--Splice--Hat-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.132448,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "HIHAT",
+    "volume" : 0.1,
+    "tones" : "X"
+  }, {
+    "id" : "41761084-287a-4d4e-97a8-f09f72f9d500",
+    "instrumentId" : "b3390c3a-a8c7-11ec-8bd2-db03f6caffcc",
+    "name" : "Kick 1",
+    "waveformKey" : "Lo-Fi-4--Splice--Kick-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.25,
+    "loopBeats" : 1.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "8ddcae22-3f84-4253-95d4-d0189df867e7",
+    "instrumentId" : "b3390c3a-a8c7-11ec-8bd2-db03f6caffcc",
+    "name" : "Snare 1",
+    "waveformKey" : "Lo-Fi-4--Splice--Snare-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.160052,
+    "loopBeats" : 1.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "b3390c3a-a8c7-11ec-8bd2-db03f6caffcc",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Lo-Fi 4 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457156032
+  } ]
+}

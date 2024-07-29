@@ -1,0 +1,42 @@
+{
+  "demo" : false,
+  "instrumentAudios" : [ {
+    "id" : "b56b70e6-8c64-4aa6-9661-e533a316c307",
+    "instrumentId" : "b34a95c2-a8c7-11ec-8bd2-bb6133b3dfbf",
+    "name" : "Kick 3",
+    "waveformKey" : "Lo-Fi-Elements-2--Splice--Kick-3-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.264897,
+    "loopBeats" : 1.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "19f9ca37-ac88-465d-ab3b-fb5157a787e8",
+    "instrumentId" : "b34a95c2-a8c7-11ec-8bd2-bb6133b3dfbf",
+    "name" : "Snare 1",
+    "waveformKey" : "Lo-Fi-Elements-2--Splice--Snare-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.176485,
+    "loopBeats" : 1.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 1.0,
+    "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "b34a95c2-a8c7-11ec-8bd2-bb6133b3dfbf",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Lo-Fi Elements 2 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155830
+  } ]
+}

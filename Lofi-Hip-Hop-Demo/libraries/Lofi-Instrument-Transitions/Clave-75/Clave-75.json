@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instrumentAudios" : [ {
+    "id" : "dd071d7f-d6dd-4255-a33f-c64cb8818b3f",
+    "instrumentId" : "164e9010-439a-11ee-873f-6f5e4969679f",
+    "name" : "Clave 75",
+    "waveformKey" : "Clave-75-Clave-75-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 11.25,
+    "loopBeats" : 6.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "BIG",
+    "volume" : 0.3,
+    "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "164e9010-439a-11ee-873f-6f5e4969679f",
+    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Clave 75",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.3,
+    "mode" : "Event",
+    "updatedAt" : 1710457155892
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "d64c5d0c-30c5-4ffa-8f07-d2fcc86c5221",
+    "instrumentId" : "164e9010-439a-11ee-873f-6f5e4969679f",
+    "name" : "75BPM"
+  } ]
+}

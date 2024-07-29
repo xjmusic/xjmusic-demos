@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
+    "name" : "Lofi Instrument Stripe",
+    "projectId" : "18979e94-3ea9-11ed-9bc0-7b15c211b25f",
+    "isDeleted" : false,
+    "updatedAt" : 1710457155758
+  } ]
+}

@@ -1,0 +1,73 @@
+{
+  "demo" : false,
+  "templates" : [ {
+    "id" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "projectId" : "18979e94-3ea9-11ed-9bc0-7b15c211b25f",
+    "name" : "Slaps: Lofi",
+    "config" : "choiceMuteProbability = {\n    Background = 0.0\n    Bass = 0.1\n    Drum = 0.2\n    Hook = 0.2\n    Pad = 0.3\n    Percussion = 0.2\n    Stab = 0.3\n    Sticky = 0.3\n    Stripe = 0.4\n    Transition = 0.0\n  }\ndeltaArcBeatLayersIncoming = 1\ndeltaArcBeatLayersToPrioritize = kick\ndeltaArcDetailLayersIncoming = 1\ndeltaArcEnabled = false\ndetailLayerOrder = [\"Bass\",\"Stripe\",\"Pad\",\"Sticky\",\"Stab\"]\ndubMasterVolume = {\n    Background = 1.0\n    Bass = 1.0\n    Drum = 1.0\n    Hook = 1.0\n    Pad = 1.0\n    Percussion = 1.0\n    Stab = 1.0\n    Sticky = 1.0\n    Stripe = 1.0\n    Transition = 1.0\n  }\neventNamesLarge = [\"LARGE\",\"BIG\",\"HIGH\",\"PRIMARY\"]\neventNamesMedium = [\"MEDIUM\",\"REGULAR\",\"MIDDLE\",\"SECONDARY\"]\neventNamesSmall = [\"SMALL\",\"LITTLE\",\"LOW\"]\ninstrumentTypesForAudioLengthFinalization = [\"Bass\",\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\ninstrumentTypesForInversionSeeking = [\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\nintensityAutoCrescendoEnabled = true\nintensityAutoCrescendoMaximum = 0.8\nintensityAutoCrescendoMinimum = 0.2\nintensityLayers = {\n    Background = 3\n    Bass = 1\n    Drum = 1\n    Hook = 1\n    Pad = 1\n    Percussion = 1\n    Stab = 1\n    Sticky = 1\n    Stripe = 1\n    Transition = 3\n  }\nintensityThreshold = {\n    Background = 0.5\n    Bass = 0.5\n    Drum = 0.5\n    Hook = 0.5\n    Pad = 0.5\n    Percussion = 0.5\n    Stab = 0.5\n    Sticky = 0.5\n    Stripe = 0.5\n    Transition = 0.5\n  }\nmainProgramLengthMaxDelta = 280\nmemeTaxonomy = [\n    {\n      \"memes\":[\"ABERDEEN\",\"LUXOR\",\"NAGOYA\",\"BOULDER\"],\n      \"name\":\"CITY\"\n    }\n  ]\nmixerCompressAheadSeconds = 0.05\nmixerCompressDecaySeconds = 0.125\nmixerCompressRatioMax = 1.0\nmixerCompressRatioMin = 0.3\nmixerCompressToAmplitude = 1.0\nmixerDspBufferSize = 1024\nmixerHighpassThresholdHz = 30\nmixerLowpassThresholdHz = 15000\nmixerNormalizationBoostThreshold = 1.0\nmixerNormalizationCeiling = 0.999\nstickyBunEnabled = true\n",
+    "shipKey" : "slaps_lofi",
+    "isDeleted" : false,
+    "updatedAt" : 1710457169891
+  } ],
+  "templateBindings" : [ {
+    "id" : "66cebc38-4cb4-11ec-8ccb-ff4ca713e059",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "ffc49138-4caf-11ec-8589-1f396b37df87"
+  }, {
+    "id" : "72b0d8e0-b6e2-11ec-ae78-5b5a1914e5ac",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "5be84a50-b69f-11ec-bfb3-3fe479471292"
+  }, {
+    "id" : "df278986-d08e-11ec-8502-a3456fb5b358",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "283820a6-4cad-11ec-adde-33cf0760bc7c"
+  }, {
+    "id" : "6d380b7e-4caf-11ec-b339-3712755fcd1a",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "5211effa-4cae-11ec-b368-8bd6693fd5e3"
+  }, {
+    "id" : "54c376d6-cb31-11ec-a72b-938506b4dcde",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "9136c32e-b6e2-11ec-9abe-8bc2bf81edf3"
+  }, {
+    "id" : "73466e8a-c814-11ec-9d93-2baa7e7f6922",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "a874074e-b55d-11ec-ada4-abb1e7e1fe89"
+  }, {
+    "id" : "49925b6a-cb31-11ec-a72b-77839b86017b",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f"
+  }, {
+    "id" : "14657988-4cb8-11ec-9f41-8f954968f6f4",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "d025f31e-4cae-11ec-8136-f79e3047a42f"
+  }, {
+    "id" : "4f4479b2-cb31-11ec-a72b-97ac6efc40a1",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091"
+  }, {
+    "id" : "372b48f6-cb31-11ec-93b2-b74a111455fe",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "316c2028-b6de-11ec-80e6-9fad549e27c9"
+  }, {
+    "id" : "75ce33ca-c109-11ec-b707-57e364ac5954",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5"
+  }, {
+    "id" : "be9b79d2-e6c0-11ec-b246-7b2bbadb3d8c",
+    "type" : "Library",
+    "templateId" : "3c8cc5ec-4cae-11ec-b368-8f261f2e5462",
+    "targetId" : "c9745e10-e6bf-11ec-ae61-0f19490a8744"
+  } ]
+}

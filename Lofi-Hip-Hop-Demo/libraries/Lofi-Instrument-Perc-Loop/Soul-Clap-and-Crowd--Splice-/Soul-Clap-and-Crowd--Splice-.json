@@ -1,0 +1,34 @@
+{
+  "demo" : false,
+  "instrumentAudios" : [ {
+    "id" : "5170fc3c-42ed-489f-87d6-39a650a3f51e",
+    "instrumentId" : "c1a0f93e-b2e2-11ec-9e56-e356964a87df",
+    "name" : "Soul Clap and Crowd 1",
+    "waveformKey" : "Soul-Clap-and-Crowd--Splice--Soul-Clap-and-Crowd-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 22.588232,
+    "loopBeats" : 16.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 0.7,
+    "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "c1a0f93e-b2e2-11ec-9e56-e356964a87df",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Soul Clap and Crowd (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155790
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "c1457ac6-93a0-4806-bfd8-408d23337ea6",
+    "instrumentId" : "c1a0f93e-b2e2-11ec-9e56-e356964a87df",
+    "name" : "85BPM"
+  } ]
+}
