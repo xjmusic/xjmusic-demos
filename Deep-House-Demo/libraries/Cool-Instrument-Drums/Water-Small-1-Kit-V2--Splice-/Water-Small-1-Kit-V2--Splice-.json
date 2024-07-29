@@ -1,0 +1,129 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "libraryId" : "3a11cdf4-fb1d-11eb-bda4-8f35e39004fe",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Water Small 1 Kit V2 (Splice)",
+    "config" : "isMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = [HIHATOPEN]\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "83f1e5d5-c039-46a6-a8a7-40e7b9b9bf82",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.Snare.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.Snare.V2-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.702333,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "9644543f-90e1-4383-a4a2-9493433dc734",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.TomHi.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.TomHi.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.702333,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 1.5,
+    "tones" : "x"
+  }, {
+    "id" : "bc1531d4-18a9-4013-8c53-6bd073c83d92",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.TomLo.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.TomLo.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.384999,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 1.5,
+    "tones" : "x"
+  }, {
+    "id" : "46d74f75-2000-42d5-a5e6-01c5d0e20a82",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.Crash.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.Crash.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 6.846333,
+    "loopBeats" : 4.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "CRASH",
+    "volume" : 1.3,
+    "tones" : "x"
+  }, {
+    "id" : "d35ddf36-f010-46b2-b2fc-c9f499766970",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.Kick.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.Kick.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.958333,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.3,
+    "tones" : "x"
+  }, {
+    "id" : "f403b0a3-550a-4cf3-baae-c84f961e505f",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.Hat.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.Hat.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.416666,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "HIHATCL",
+    "volume" : 1.3,
+    "tones" : "x"
+  }, {
+    "id" : "b7bfa13f-08d4-4a31-bf63-987fc2f15034",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.TomMid.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.TomMid.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.702333,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "TOMMID",
+    "volume" : 1.5,
+    "tones" : "x"
+  }, {
+    "id" : "656f4265-7503-4d2d-a435-73e69c9efdf4",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "Water.Small.1.HatOpen.V2",
+    "waveformKey" : "Water-Small-1-Kit-V2--Splice--Water.Small.1.HatOpen.V2-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.702333,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "HIHATOP",
+    "volume" : 1.0,
+    "tones" : "x"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "6fc975ca-dd0b-45a8-829c-58f3ea4c9181",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "SMALL"
+  }, {
+    "id" : "25eb5883-c251-484e-b534-a431b171c7dd",
+    "instrumentId" : "81d02246-a6f1-11ec-9f0b-4f66dcf84a4c",
+    "name" : "WATER"
+  } ]
+}

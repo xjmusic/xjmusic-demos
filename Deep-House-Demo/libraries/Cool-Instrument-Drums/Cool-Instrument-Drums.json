@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "3a11cdf4-fb1d-11eb-bda4-8f35e39004fe",
+    "name" : "Cool Instrument Drums",
+    "projectId" : "118f4674-3ea9-11ed-9bc0-57a70d1fbb35",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}

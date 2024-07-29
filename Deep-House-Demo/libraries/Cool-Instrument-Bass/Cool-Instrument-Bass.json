@@ -1,0 +1,10 @@
+{
+  "demo" : false,
+  "libraries" : [ {
+    "id" : "53b95f54-fb24-11eb-ad24-8f1c28086c69",
+    "name" : "Cool Instrument Bass",
+    "projectId" : "118f4674-3ea9-11ed-9bc0-57a70d1fbb35",
+    "isDeleted" : false,
+    "updatedAt" : 1706132003136
+  } ]
+}

@@ -1,0 +1,129 @@
+{
+  "demo" : false,
+  "instruments" : [ {
+    "id" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "libraryId" : "3a11cdf4-fb1d-11eb-bda4-8f35e39004fe",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Wind Large 2 Kit (Splice)",
+    "config" : "isMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = [HIHATOPEN]\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1706132003136
+  } ],
+  "instrumentAudios" : [ {
+    "id" : "80974234-665a-4d8b-a1b9-70103dfe7bc4",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.TomMid",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.TomMid-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.148416,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMMID",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "1d788bc5-6a82-4458-b6bc-d5a90e17b2f4",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.Crash",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.Crash-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 5.45877,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "CRASH",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "1c3adcb4-ff0d-480b-9212-826da4397e1a",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.TomLo",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.395833,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "cfa3b68c-cdfc-4008-a541-28f424e90a72",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.Kick",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.Kick-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.245312,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.4,
+    "tones" : "x"
+  }, {
+    "id" : "5849c581-7068-4e6a-80f9-8b348063a38d",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.Snare",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.Snare-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.527583,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 0.2,
+    "tones" : "x"
+  }, {
+    "id" : "2d108d30-057a-4f7e-8d47-488d89f8365d",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.TomHi",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.941125,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "21262b6a-2d35-446b-9bc7-6e6a44c0bf04",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.Hat",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.Hat-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.83402,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "HIHATCL",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "414f5cd9-ea06-4ce6-8e13-94726c101e5b",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "Wind.Large.2.HatOpen",
+    "waveformKey" : "Wind-Large-2-Kit--Splice--Wind.Large.2.HatOpen-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.680187,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "HIHATOP",
+    "volume" : 1.0,
+    "tones" : "x"
+  } ],
+  "instrumentMemes" : [ {
+    "id" : "c33ef12c-99a4-4184-a3b9-1691868f47e6",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "WIND"
+  }, {
+    "id" : "bfa06061-bbdf-43c3-aeac-d831961bbfbf",
+    "instrumentId" : "91677eb6-a6f1-11ec-83cb-df2efa47befd",
+    "name" : "LARGE"
+  } ]
+}
