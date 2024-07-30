@@ -21,15 +21,6 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "23b7eb38-d7be-42bb-9746-8149d9432236",
-    "programId" : "c71ff726-943c-11ec-9c4c-efa1c4f9869d",
-    "programSequencePatternId" : "62832957-0257-4e00-bf35-34ece8c6ce77",
-    "programVoiceTrackId" : "cb3ed306-969f-46e7-9216-f803c919797e",
-    "velocity" : 1.0,
-    "position" : 6.0,
-    "duration" : 0.25,
-    "tones" : "X"
-  }, {
     "id" : "7860c4ad-9aee-4ffb-895b-cb2b4b392d54",
     "programId" : "c71ff726-943c-11ec-9c4c-efa1c4f9869d",
     "programSequencePatternId" : "62832957-0257-4e00-bf35-34ece8c6ce77",
@@ -39,13 +30,22 @@
     "duration" : 0.25,
     "tones" : "X"
   }, {
-    "id" : "941b4d40-1d14-4391-ab97-34f94c803217",
+    "id" : "ccf41219-377d-4135-a41c-46a6f362b1c3",
     "programId" : "c71ff726-943c-11ec-9c4c-efa1c4f9869d",
     "programSequencePatternId" : "62832957-0257-4e00-bf35-34ece8c6ce77",
     "programVoiceTrackId" : "cb3ed306-969f-46e7-9216-f803c919797e",
     "velocity" : 1.0,
-    "position" : 7.75,
-    "duration" : 0.24,
+    "position" : 5.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "23b7eb38-d7be-42bb-9746-8149d9432236",
+    "programId" : "c71ff726-943c-11ec-9c4c-efa1c4f9869d",
+    "programSequencePatternId" : "62832957-0257-4e00-bf35-34ece8c6ce77",
+    "programVoiceTrackId" : "cb3ed306-969f-46e7-9216-f803c919797e",
+    "velocity" : 1.0,
+    "position" : 6.0,
+    "duration" : 0.25,
     "tones" : "X"
   }, {
     "id" : "6196408e-367b-4dec-ab64-14de2abf76f6",
@@ -57,13 +57,13 @@
     "duration" : 0.25,
     "tones" : "X"
   }, {
-    "id" : "ccf41219-377d-4135-a41c-46a6f362b1c3",
+    "id" : "941b4d40-1d14-4391-ab97-34f94c803217",
     "programId" : "c71ff726-943c-11ec-9c4c-efa1c4f9869d",
     "programSequencePatternId" : "62832957-0257-4e00-bf35-34ece8c6ce77",
     "programVoiceTrackId" : "cb3ed306-969f-46e7-9216-f803c919797e",
     "velocity" : 1.0,
-    "position" : 5.0,
-    "duration" : 0.25,
+    "position" : 7.75,
+    "duration" : 0.24,
     "tones" : "X"
   } ],
   "programVoices" : [ {

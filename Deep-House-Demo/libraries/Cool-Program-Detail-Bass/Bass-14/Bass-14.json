@@ -39,15 +39,6 @@
     "duration" : 0.25,
     "tones" : "A1"
   }, {
-    "id" : "614a8c30-5ab9-11eb-a279-672aa229a863",
-    "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d",
-    "programSequencePatternId" : "66f6a7e6-5ab8-11eb-8c5a-4f205fe555b7",
-    "programVoiceTrackId" : "68106338-5ab8-11eb-8c5a-13985afef34d",
-    "velocity" : 1.0,
-    "position" : 1.75,
-    "duration" : 0.25,
-    "tones" : "A1"
-  }, {
     "id" : "5fa9dce6-5ab9-11eb-a279-f309a363af8a",
     "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d",
     "programSequencePatternId" : "66f6a7e6-5ab8-11eb-8c5a-4f205fe555b7",
@@ -56,15 +47,6 @@
     "position" : 0.75,
     "duration" : 0.25,
     "tones" : "E1"
-  }, {
-    "id" : "60e01058-5ab9-11eb-a279-2b90780473c1",
-    "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d",
-    "programSequencePatternId" : "66f6a7e6-5ab8-11eb-8c5a-4f205fe555b7",
-    "programVoiceTrackId" : "68106338-5ab8-11eb-8c5a-13985afef34d",
-    "velocity" : 1.0,
-    "position" : 1.5,
-    "duration" : 0.25,
-    "tones" : "A1"
   }, {
     "id" : "601f9f12-5ab9-11eb-a279-0304cbbcb835",
     "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d",
@@ -83,6 +65,24 @@
     "position" : 1.25,
     "duration" : 0.25,
     "tones" : "A2"
+  }, {
+    "id" : "60e01058-5ab9-11eb-a279-2b90780473c1",
+    "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d",
+    "programSequencePatternId" : "66f6a7e6-5ab8-11eb-8c5a-4f205fe555b7",
+    "programVoiceTrackId" : "68106338-5ab8-11eb-8c5a-13985afef34d",
+    "velocity" : 1.0,
+    "position" : 1.5,
+    "duration" : 0.25,
+    "tones" : "A1"
+  }, {
+    "id" : "614a8c30-5ab9-11eb-a279-672aa229a863",
+    "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d",
+    "programSequencePatternId" : "66f6a7e6-5ab8-11eb-8c5a-4f205fe555b7",
+    "programVoiceTrackId" : "68106338-5ab8-11eb-8c5a-13985afef34d",
+    "velocity" : 1.0,
+    "position" : 1.75,
+    "duration" : 0.25,
+    "tones" : "A1"
   } ],
   "programVoices" : [ {
     "id" : "659c3f46-5ab8-11eb-8c5a-3ba31ab4e741",
@@ -92,10 +92,6 @@
     "order" : 0.0
   } ],
   "programMemes" : [ {
-    "id" : "eea6c5a8-b081-11eb-8a9a-d3454dfd0005",
-    "name" : "STRAIGHT",
-    "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d"
-  }, {
     "id" : "fb627934-92af-11ec-9c19-5bf46973b3df",
     "name" : "!WUBBY",
     "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d"
@@ -106,6 +102,10 @@
   }, {
     "id" : "ef6b6de0-b081-11eb-8a9a-9fe21260c5b5",
     "name" : "OPEN",
+    "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d"
+  }, {
+    "id" : "eea6c5a8-b081-11eb-8a9a-d3454dfd0005",
+    "name" : "STRAIGHT",
     "programId" : "5e23da3a-5ab8-11eb-982c-239d47a07e5d"
   }, {
     "id" : "edebee04-b081-11eb-8a9a-9f105d246fb6",

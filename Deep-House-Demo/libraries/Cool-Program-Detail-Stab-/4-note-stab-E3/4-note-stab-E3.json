@@ -51,16 +51,16 @@
     "name" : "4NOTE",
     "programId" : "371e5016-169f-11ec-9856-4fcaaad50af7"
   }, {
+    "id" : "9bc1b083-e708-42db-9154-85cb82b14843",
+    "name" : "OPEN",
+    "programId" : "371e5016-169f-11ec-9856-4fcaaad50af7"
+  }, {
     "id" : "b734e523-bd98-4114-ad6b-21ee0d7ac1bc",
     "name" : "STRAIGHT",
     "programId" : "371e5016-169f-11ec-9856-4fcaaad50af7"
   }, {
     "id" : "6b1a550f-1d8f-4e42-a710-2a7482120bd7",
     "name" : "WIDEOPEN",
-    "programId" : "371e5016-169f-11ec-9856-4fcaaad50af7"
-  }, {
-    "id" : "9bc1b083-e708-42db-9154-85cb82b14843",
-    "name" : "OPEN",
     "programId" : "371e5016-169f-11ec-9856-4fcaaad50af7"
   } ],
   "programSequences" : [ {

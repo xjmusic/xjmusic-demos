@@ -13,40 +13,60 @@
     "updatedAt" : 1710457830660
   } ],
   "programSequenceBindings" : [ {
-    "id" : "2332946e-8df7-4de6-9712-244cf1d7b8c5",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceId" : "ab54e62d-5fae-41aa-b745-b7cb0a7ce478",
-    "offset" : 1
-  }, {
-    "id" : "4fc2595a-782c-11ee-b198-97cb12bbc4fb",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceId" : "ab54e62d-5fae-41aa-b745-b7cb0a7ce478",
-    "offset" : 3
-  }, {
     "id" : "d41768d8-61ec-431a-af32-eb66460b97cc",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceId" : "ab54e62d-5fae-41aa-b745-b7cb0a7ce478",
     "offset" : 0
   }, {
+    "id" : "2332946e-8df7-4de6-9712-244cf1d7b8c5",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "programSequenceId" : "ab54e62d-5fae-41aa-b745-b7cb0a7ce478",
+    "offset" : 1
+  }, {
     "id" : "4ea9231e-782c-11ee-b198-e3c3d0cfd2db",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceId" : "ab54e62d-5fae-41aa-b745-b7cb0a7ce478",
     "offset" : 2
+  }, {
+    "id" : "4fc2595a-782c-11ee-b198-97cb12bbc4fb",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "programSequenceId" : "ab54e62d-5fae-41aa-b745-b7cb0a7ce478",
+    "offset" : 3
   } ],
   "programSequenceBindingMemes" : [ {
+    "id" : "52844b02-79d6-11ee-8220-c7beb9b6c9f8",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "programSequenceBindingId" : "d41768d8-61ec-431a-af32-eb66460b97cc",
+    "name" : "135BPM"
+  }, {
     "id" : "55700dba-79d6-11ee-9b60-f7cfbe9d0ac3",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceBindingId" : "2332946e-8df7-4de6-9712-244cf1d7b8c5",
     "name" : "135BPM"
   }, {
-    "id" : "652d39ee-79d6-11ee-9b60-6f14742c5f0b",
+    "id" : "5e89046a-79d6-11ee-8220-43cd35c81570",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "programSequenceBindingId" : "4ea9231e-782c-11ee-b198-e3c3d0cfd2db",
+    "name" : "135BPM"
+  }, {
+    "id" : "67e28298-79d6-11ee-8220-73e9029e4b0f",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceBindingId" : "4fc2595a-782c-11ee-b198-97cb12bbc4fb",
-    "name" : "COMBAT"
+    "name" : "135BPM"
+  }, {
+    "id" : "2067d5bc-79d6-11ee-9b60-5bae97b1d908",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "programSequenceBindingId" : "d41768d8-61ec-431a-af32-eb66460b97cc",
+    "name" : "CALLTOACTION"
   }, {
     "id" : "25588332-79d6-11ee-9b60-438b4fa08653",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceBindingId" : "2332946e-8df7-4de6-9712-244cf1d7b8c5",
+    "name" : "CALLTOACTION"
+  }, {
+    "id" : "27ec0bd2-79d6-11ee-9b60-43677fc7b237",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "programSequenceBindingId" : "4ea9231e-782c-11ee-b198-e3c3d0cfd2db",
     "name" : "CALLTOACTION"
   }, {
     "id" : "29af15ea-79d6-11ee-9b60-8b21cecc10dd",
@@ -54,44 +74,24 @@
     "programSequenceBindingId" : "4fc2595a-782c-11ee-b198-97cb12bbc4fb",
     "name" : "CALLTOACTION"
   }, {
-    "id" : "5e89046a-79d6-11ee-8220-43cd35c81570",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceBindingId" : "4ea9231e-782c-11ee-b198-e3c3d0cfd2db",
-    "name" : "135BPM"
-  }, {
-    "id" : "52844b02-79d6-11ee-8220-c7beb9b6c9f8",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceBindingId" : "d41768d8-61ec-431a-af32-eb66460b97cc",
-    "name" : "135BPM"
-  }, {
-    "id" : "27ec0bd2-79d6-11ee-9b60-43677fc7b237",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceBindingId" : "4ea9231e-782c-11ee-b198-e3c3d0cfd2db",
-    "name" : "CALLTOACTION"
-  }, {
-    "id" : "2067d5bc-79d6-11ee-9b60-5bae97b1d908",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceBindingId" : "d41768d8-61ec-431a-af32-eb66460b97cc",
-    "name" : "CALLTOACTION"
-  }, {
     "id" : "4f870a3e-79d6-11ee-9b60-cf7abddfd753",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceBindingId" : "d41768d8-61ec-431a-af32-eb66460b97cc",
     "name" : "COMBAT"
   }, {
-    "id" : "67e28298-79d6-11ee-8220-73e9029e4b0f",
+    "id" : "57fee308-79d6-11ee-8220-0b192346592f",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceBindingId" : "4fc2595a-782c-11ee-b198-97cb12bbc4fb",
-    "name" : "135BPM"
+    "programSequenceBindingId" : "2332946e-8df7-4de6-9712-244cf1d7b8c5",
+    "name" : "COMBAT"
   }, {
     "id" : "5b9de554-79d6-11ee-9b60-ab78cc364ea4",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceBindingId" : "4ea9231e-782c-11ee-b198-e3c3d0cfd2db",
     "name" : "COMBAT"
   }, {
-    "id" : "57fee308-79d6-11ee-8220-0b192346592f",
+    "id" : "652d39ee-79d6-11ee-9b60-6f14742c5f0b",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceBindingId" : "2332946e-8df7-4de6-9712-244cf1d7b8c5",
+    "programSequenceBindingId" : "4fc2595a-782c-11ee-b198-97cb12bbc4fb",
     "name" : "COMBAT"
   } ],
   "programSequenceChords" : [ {
@@ -102,27 +102,21 @@
     "position" : 0.0
   } ],
   "programVoices" : [ {
-    "id" : "9f4c5748-f070-4f5b-aa45-b14062b614bd",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "type" : "Stripe",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
-    "id" : "31b8c3d6-fb81-4bf9-a8e4-404eaab1d43f",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "type" : "Stab",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
-    "id" : "afbcf3b2-46f5-4d98-ac6f-1ce2c31556a9",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "type" : "Percussion",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
     "id" : "855a7d62-f374-4599-8698-8be2c515bcef",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "type" : "Drum",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "8e522b04-f082-476b-acc7-4f8b109577d9",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "type" : "Hook",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "9f4c5748-f070-4f5b-aa45-b14062b614bd",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "type" : "Stripe",
     "name" : "Main",
     "order" : 1000.0
   }, {
@@ -132,9 +126,21 @@
     "name" : "Main",
     "order" : 1000.0
   }, {
+    "id" : "afbcf3b2-46f5-4d98-ac6f-1ce2c31556a9",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "type" : "Percussion",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
     "id" : "cc2ee429-d467-44ef-941b-c07aae9ea518",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "type" : "Transition",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "31b8c3d6-fb81-4bf9-a8e4-404eaab1d43f",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "type" : "Stab",
     "name" : "Main",
     "order" : 1000.0
   }, {
@@ -144,35 +150,29 @@
     "name" : "Main",
     "order" : 1000.0
   }, {
-    "id" : "784a3e0d-4024-419f-b37e-5fa7adc0fd7c",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "type" : "Background",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
     "id" : "6354519d-64d2-4dc2-8510-77e7d36275f6",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "type" : "Pad",
     "name" : "Main",
     "order" : 1000.0
   }, {
-    "id" : "8e522b04-f082-476b-acc7-4f8b109577d9",
+    "id" : "784a3e0d-4024-419f-b37e-5fa7adc0fd7c",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "type" : "Hook",
+    "type" : "Background",
     "name" : "Main",
     "order" : 1000.0
   } ],
   "programMemes" : [ {
-    "id" : "8225954d-4929-48fc-a81c-fd0510e46d80",
-    "name" : "COMBAT",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443"
-  }, {
     "id" : "430c48c4-782c-11ee-b198-d3166deb3cdb",
     "name" : "135BPM",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443"
   }, {
     "id" : "6d825391-2039-4cbb-84ee-26249f53fdf4",
     "name" : "CALLTOACTION",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443"
+  }, {
+    "id" : "8225954d-4929-48fc-a81c-fd0510e46d80",
+    "name" : "COMBAT",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443"
   } ],
   "programSequences" : [ {
@@ -184,12 +184,6 @@
     "total" : 64
   } ],
   "programSequenceChordVoicings" : [ {
-    "id" : "c745998e-5121-446f-b54f-1507da2f0584",
-    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
-    "programSequenceChordId" : "42930eee-ce71-404e-8b18-ccdad6951e19",
-    "notes" : "D",
-    "programVoiceId" : "42d226da-17a2-42ab-ba50-d3056bfd96b0"
-  }, {
     "id" : "6b418028-d33f-4d3b-a217-7139b6e810ac",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",
     "programSequenceChordId" : "42930eee-ce71-404e-8b18-ccdad6951e19",
@@ -213,6 +207,12 @@
     "programSequenceChordId" : "42930eee-ce71-404e-8b18-ccdad6951e19",
     "notes" : "D",
     "programVoiceId" : "31b8c3d6-fb81-4bf9-a8e4-404eaab1d43f"
+  }, {
+    "id" : "c745998e-5121-446f-b54f-1507da2f0584",
+    "programId" : "05045e70-736f-11ee-8807-27157bbad443",
+    "programSequenceChordId" : "42930eee-ce71-404e-8b18-ccdad6951e19",
+    "notes" : "D",
+    "programVoiceId" : "42d226da-17a2-42ab-ba50-d3056bfd96b0"
   }, {
     "id" : "1d1b53a3-ea95-4f40-aa72-e8506a49b87d",
     "programId" : "05045e70-736f-11ee-8807-27157bbad443",

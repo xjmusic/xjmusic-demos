@@ -18,17 +18,22 @@
     "programSequenceId" : "1a80267e-16eb-11ea-8a37-9357cb6613d9",
     "offset" : 2
   }, {
-    "id" : "1a82cfe6-16eb-11ea-8a37-7b62d23c3bba",
-    "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
-    "programSequenceId" : "1a82062e-16eb-11ea-8a37-afb00f07ff0e",
-    "offset" : 0
-  }, {
     "id" : "1a83994e-16eb-11ea-8a37-df81dcee2373",
     "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
     "programSequenceId" : "1a813848-16eb-11ea-8a37-df2d624fcf27",
     "offset" : 1
+  }, {
+    "id" : "1a82cfe6-16eb-11ea-8a37-7b62d23c3bba",
+    "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
+    "programSequenceId" : "1a82062e-16eb-11ea-8a37-afb00f07ff0e",
+    "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
+    "id" : "1a85de3e-16eb-11ea-8a37-8722d8063cc4",
+    "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
+    "programSequenceBindingId" : "1a83994e-16eb-11ea-8a37-df81dcee2373",
+    "name" : "Water"
+  }, {
     "id" : "1a876308-16eb-11ea-8a37-0f67adc4f41f",
     "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
     "programSequenceBindingId" : "1a82cfe6-16eb-11ea-8a37-7b62d23c3bba",
@@ -43,11 +48,6 @@
     "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
     "programSequenceBindingId" : "1a83994e-16eb-11ea-8a37-df81dcee2373",
     "name" : "Wind"
-  }, {
-    "id" : "1a85de3e-16eb-11ea-8a37-8722d8063cc4",
-    "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
-    "programSequenceBindingId" : "1a83994e-16eb-11ea-8a37-df81dcee2373",
-    "name" : "Water"
   } ],
   "programSequences" : [ {
     "id" : "1a80267e-16eb-11ea-8a37-9357cb6613d9",
@@ -57,17 +57,17 @@
     "intensity" : 0.6,
     "total" : 0
   }, {
-    "id" : "1a82062e-16eb-11ea-8a37-afb00f07ff0e",
-    "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
-    "name" : "Rain",
-    "key" : "G",
-    "intensity" : 0.6,
-    "total" : 0
-  }, {
     "id" : "1a813848-16eb-11ea-8a37-df2d624fcf27",
     "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
     "name" : "Fog",
     "key" : "C",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a82062e-16eb-11ea-8a37-afb00f07ff0e",
+    "programId" : "1a7f128e-16eb-11ea-8a37-f7bc27184026",
+    "name" : "Rain",
+    "key" : "G",
     "intensity" : 0.6,
     "total" : 0
   } ]

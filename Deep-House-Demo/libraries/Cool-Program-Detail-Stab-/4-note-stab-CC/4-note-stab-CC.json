@@ -38,28 +38,28 @@
     "order" : 0.0
   } ],
   "programMemes" : [ {
-    "id" : "cead25e2-667b-4661-8ae3-17496e0354bc",
-    "name" : "ROOTSY2",
-    "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
-  }, {
-    "id" : "ddad4dc8-b3b1-4568-8fb2-44052314bf49",
-    "name" : "ROOTSY",
-    "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
-  }, {
-    "id" : "83fbcf5e-9c16-4257-a80e-9c1d0ad9b499",
-    "name" : "WIDEOPEN",
+    "id" : "21749220-7fa2-476d-99b7-04ef0cfb5457",
+    "name" : "4NOTE",
     "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
   }, {
     "id" : "777a04de-c875-415a-bc81-b47d8d99d422",
     "name" : "OPEN",
     "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
   }, {
+    "id" : "ddad4dc8-b3b1-4568-8fb2-44052314bf49",
+    "name" : "ROOTSY",
+    "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
+  }, {
+    "id" : "cead25e2-667b-4661-8ae3-17496e0354bc",
+    "name" : "ROOTSY2",
+    "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
+  }, {
     "id" : "9f6df2b8-88b2-4030-ba04-2d07d3acd0c7",
     "name" : "STRAIGHT",
     "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
   }, {
-    "id" : "21749220-7fa2-476d-99b7-04ef0cfb5457",
-    "name" : "4NOTE",
+    "id" : "83fbcf5e-9c16-4257-a80e-9c1d0ad9b499",
+    "name" : "WIDEOPEN",
     "programId" : "a4caff1a-7815-11ec-b068-5f93325e94ab"
   } ],
   "programSequences" : [ {

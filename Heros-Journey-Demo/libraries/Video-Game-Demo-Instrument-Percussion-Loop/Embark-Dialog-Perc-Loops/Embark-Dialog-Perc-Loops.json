@@ -1,6 +1,31 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Embark Dialog Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828801
+  } ],
   "instrumentAudios" : [ {
+    "id" : "bd7e25ea-7760-11ee-980b-43f9a5c8aacc",
+    "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
+    "name" : "Embark Dialog Perc Loop Conga",
+    "waveformKey" : "Embark-Dialog-Perc-Loops-Embark-Dialog-Perc-Loop-Conga-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 16.695667,
+    "loopBeats" : 32.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "PERCLOOP",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
     "id" : "982d3a88-7760-11ee-980b-2f05f33fa4ca",
     "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
     "name" : "Embark Dialog Perc Loop Kick",
@@ -26,43 +51,18 @@
     "event" : "PERCLOOP",
     "volume" : 1.0,
     "tones" : "X"
-  }, {
-    "id" : "bd7e25ea-7760-11ee-980b-43f9a5c8aacc",
-    "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
-    "name" : "Embark Dialog Perc Loop Conga",
-    "waveformKey" : "Embark-Dialog-Perc-Loops-Embark-Dialog-Perc-Loop-Conga-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 16.695667,
-    "loopBeats" : 32.0,
-    "tempo" : 115.0,
-    "intensity" : 0.5,
-    "event" : "PERCLOOP",
-    "volume" : 1.0,
-    "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
-    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Embark Dialog Perc Loops",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828801
   } ],
   "instrumentMemes" : [ {
     "id" : "7f6a1f98-7760-11ee-a957-13e7c02ad725",
     "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
     "name" : "115BPM"
   }, {
-    "id" : "e287e2b7-f6ef-4a49-9712-b7af5e20253c",
-    "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
-    "name" : "EMBARK"
-  }, {
     "id" : "2d290158-6e15-11ee-98d8-5f2aedf7c150",
     "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
     "name" : "DIALOG"
+  }, {
+    "id" : "e287e2b7-f6ef-4a49-9712-b7af5e20253c",
+    "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
+    "name" : "EMBARK"
   } ]
 }

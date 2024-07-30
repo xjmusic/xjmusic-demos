@@ -13,6 +13,11 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequenceBindings" : [ {
+    "id" : "1a8fb8aa-16eb-11ea-8a37-334554c680fa",
+    "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
+    "programSequenceId" : "1a89ff8c-16eb-11ea-8a37-bb2f916072d2",
+    "offset" : 1
+  }, {
     "id" : "1a8eadac-16eb-11ea-8a37-0340a79d32cc",
     "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
     "programSequenceId" : "1a8b3f78-16eb-11ea-8a37-0f347035832a",
@@ -22,18 +27,8 @@
     "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
     "programSequenceId" : "1a8c80f4-16eb-11ea-8a37-a394291e2629",
     "offset" : 0
-  }, {
-    "id" : "1a8fb8aa-16eb-11ea-8a37-334554c680fa",
-    "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
-    "programSequenceId" : "1a89ff8c-16eb-11ea-8a37-bb2f916072d2",
-    "offset" : 1
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "1a92426e-16eb-11ea-8a37-bf1b246f1ede",
-    "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
-    "programSequenceBindingId" : "1a8d94da-16eb-11ea-8a37-7f8ae8ebfe29",
-    "name" : "Wind"
-  }, {
     "id" : "1a90bfc0-16eb-11ea-8a37-d3f85e8f4d02",
     "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
     "programSequenceBindingId" : "1a8eadac-16eb-11ea-8a37-0340a79d32cc",
@@ -48,8 +43,20 @@
     "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
     "programSequenceBindingId" : "1a8fb8aa-16eb-11ea-8a37-334554c680fa",
     "name" : "Wind"
+  }, {
+    "id" : "1a92426e-16eb-11ea-8a37-bf1b246f1ede",
+    "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
+    "programSequenceBindingId" : "1a8d94da-16eb-11ea-8a37-7f8ae8ebfe29",
+    "name" : "Wind"
   } ],
   "programSequences" : [ {
+    "id" : "1a8b3f78-16eb-11ea-8a37-0f347035832a",
+    "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
+    "name" : "Freedom",
+    "key" : "Bm",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
     "id" : "1a8c80f4-16eb-11ea-8a37-a394291e2629",
     "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
     "name" : "Open Road Tumbleweed",
@@ -61,13 +68,6 @@
     "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
     "name" : "Rolling Stone",
     "key" : "D",
-    "intensity" : 0.6,
-    "total" : 0
-  }, {
-    "id" : "1a8b3f78-16eb-11ea-8a37-0f347035832a",
-    "programId" : "1a88b7da-16eb-11ea-8a37-6b20c565ae15",
-    "name" : "Freedom",
-    "key" : "Bm",
     "intensity" : 0.6,
     "total" : 0
   } ]

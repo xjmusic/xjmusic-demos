@@ -21,23 +21,14 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "ef543c4e-586e-11eb-a3f6-ab7aecd3deb4",
+    "id" : "39c5ac05-59fb-4ad8-be1c-9bcf2d76327c",
     "programId" : "dde57504-586e-11eb-a3f6-b796d73e0300",
     "programSequencePatternId" : "48cd31c8-1190-4cec-8e61-cd126302012e",
     "programVoiceTrackId" : "af25fd65-9ce1-4efb-9cb4-5d445cef2d48",
     "velocity" : 1.0,
-    "position" : 7.0,
-    "duration" : 0.25,
-    "tones" : "G2"
-  }, {
-    "id" : "dad745c3-bd47-478b-95fa-76e111592aae",
-    "programId" : "dde57504-586e-11eb-a3f6-b796d73e0300",
-    "programSequencePatternId" : "48cd31c8-1190-4cec-8e61-cd126302012e",
-    "programVoiceTrackId" : "af25fd65-9ce1-4efb-9cb4-5d445cef2d48",
-    "velocity" : 1.0,
-    "position" : 7.75,
-    "duration" : 0.25,
-    "tones" : "A2"
+    "position" : 0.0,
+    "duration" : 0.5,
+    "tones" : "A1"
   }, {
     "id" : "f80561b7-811a-4184-a421-5b8da63fd888",
     "programId" : "dde57504-586e-11eb-a3f6-b796d73e0300",
@@ -48,14 +39,14 @@
     "duration" : 0.5,
     "tones" : "A2"
   }, {
-    "id" : "39c5ac05-59fb-4ad8-be1c-9bcf2d76327c",
+    "id" : "ef543c4e-586e-11eb-a3f6-ab7aecd3deb4",
     "programId" : "dde57504-586e-11eb-a3f6-b796d73e0300",
     "programSequencePatternId" : "48cd31c8-1190-4cec-8e61-cd126302012e",
     "programVoiceTrackId" : "af25fd65-9ce1-4efb-9cb4-5d445cef2d48",
     "velocity" : 1.0,
-    "position" : 0.0,
-    "duration" : 0.5,
-    "tones" : "A1"
+    "position" : 7.0,
+    "duration" : 0.25,
+    "tones" : "G2"
   }, {
     "id" : "f86be4e4-586e-11eb-a3f6-7bc369f29d06",
     "programId" : "dde57504-586e-11eb-a3f6-b796d73e0300",
@@ -65,6 +56,15 @@
     "position" : 7.5,
     "duration" : 0.25,
     "tones" : "G1"
+  }, {
+    "id" : "dad745c3-bd47-478b-95fa-76e111592aae",
+    "programId" : "dde57504-586e-11eb-a3f6-b796d73e0300",
+    "programSequencePatternId" : "48cd31c8-1190-4cec-8e61-cd126302012e",
+    "programVoiceTrackId" : "af25fd65-9ce1-4efb-9cb4-5d445cef2d48",
+    "velocity" : 1.0,
+    "position" : 7.75,
+    "duration" : 0.25,
+    "tones" : "A2"
   } ],
   "programVoices" : [ {
     "id" : "4c8436d5-56e1-49c2-ba5f-47f381b2f254",

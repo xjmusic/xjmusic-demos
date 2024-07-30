@@ -38,16 +38,16 @@
     "order" : 0.0
   } ],
   "programMemes" : [ {
+    "id" : "a95f16fb-2e37-40df-bcda-328af45623c3",
+    "name" : "4NOTE",
+    "programId" : "57187982-169f-11ec-854d-7fb9d9e06869"
+  }, {
     "id" : "8fb1dadd-eed1-49c9-9772-93ac00e15149",
     "name" : "OPEN",
     "programId" : "57187982-169f-11ec-854d-7fb9d9e06869"
   }, {
     "id" : "81297db6-ef22-4af0-a2c0-da8738b145f3",
     "name" : "STRAIGHT",
-    "programId" : "57187982-169f-11ec-854d-7fb9d9e06869"
-  }, {
-    "id" : "a95f16fb-2e37-40df-bcda-328af45623c3",
-    "name" : "4NOTE",
     "programId" : "57187982-169f-11ec-854d-7fb9d9e06869"
   }, {
     "id" : "7a32aa8d-834f-4a3a-98e6-309d41492306",

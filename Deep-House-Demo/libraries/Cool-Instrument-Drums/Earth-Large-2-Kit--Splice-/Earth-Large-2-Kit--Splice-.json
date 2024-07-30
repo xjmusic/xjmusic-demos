@@ -26,19 +26,6 @@
     "volume" : 0.6,
     "tones" : "x"
   }, {
-    "id" : "1b9b289b-786a-4bc8-8798-bf6c2698e27a",
-    "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
-    "name" : "Earth.Large.2.Kick",
-    "waveformKey" : "Earth-Large-2-Kit--Splice--Earth.Large.2.Kick-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.491689,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "KICK",
-    "volume" : 0.8,
-    "tones" : "x"
-  }, {
     "id" : "b2042bfb-6af8-4dfd-9bfe-dd8f1933e5de",
     "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
     "name" : "Earth.Large.2.Hat",
@@ -52,17 +39,30 @@
     "volume" : 0.5,
     "tones" : "x"
   }, {
-    "id" : "4b803548-8427-4fd5-818e-22e1b9cf26f0",
+    "id" : "ed6a1a98-2d49-4c20-826a-f91597e86b32",
     "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
-    "name" : "Earth.Large.2.TomLo",
-    "waveformKey" : "Earth-Large-2-Kit--Splice--Earth.Large.2.TomLo-x.wav",
+    "name" : "Earth.Large.2.HatOpe",
+    "waveformKey" : "Earth-Large-2-Kit--Splice--Earth.Large.2.HatOpe-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.169854,
+    "lengthSeconds" : 1.117729,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "TOMLO",
-    "volume" : 1.0,
+    "event" : "HIHATOP",
+    "volume" : 0.5,
+    "tones" : "x"
+  }, {
+    "id" : "1b9b289b-786a-4bc8-8798-bf6c2698e27a",
+    "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
+    "name" : "Earth.Large.2.Kick",
+    "waveformKey" : "Earth-Large-2-Kit--Splice--Earth.Large.2.Kick-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.491689,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 0.8,
     "tones" : "x"
   }, {
     "id" : "97537e74-0882-4353-81b2-6610b0ffaea1",
@@ -91,6 +91,19 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
+    "id" : "4b803548-8427-4fd5-818e-22e1b9cf26f0",
+    "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
+    "name" : "Earth.Large.2.TomLo",
+    "waveformKey" : "Earth-Large-2-Kit--Splice--Earth.Large.2.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.169854,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
     "id" : "0819095a-8ec3-4f66-8125-0a53c8dae537",
     "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
     "name" : "Earth.Large.2.TomMid",
@@ -103,27 +116,14 @@
     "event" : "TOMMID",
     "volume" : 1.0,
     "tones" : "x"
-  }, {
-    "id" : "ed6a1a98-2d49-4c20-826a-f91597e86b32",
-    "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
-    "name" : "Earth.Large.2.HatOpe",
-    "waveformKey" : "Earth-Large-2-Kit--Splice--Earth.Large.2.HatOpe-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.117729,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "HIHATOP",
-    "volume" : 0.5,
-    "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "3084e290-acb5-44d5-921c-2171451ad033",
-    "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
-    "name" : "LARGE"
-  }, {
     "id" : "49d26697-7c1b-47a4-bdaf-e87fdc9929cc",
     "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
     "name" : "EARTH"
+  }, {
+    "id" : "3084e290-acb5-44d5-921c-2171451ad033",
+    "instrumentId" : "34a5953e-a6ef-11ec-8b81-7f3b477e560e",
+    "name" : "LARGE"
   } ]
 }

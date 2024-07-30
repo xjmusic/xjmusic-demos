@@ -24,15 +24,15 @@
     "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "f5485e68-727f-4329-8447-92f304b4d4e5",
-    "programId" : "97ab5a5e-9f44-11ec-ab46-1fd33d2b7105",
-    "programSequenceBindingId" : "8ad8d205-351c-43fa-b5f6-5eeef37d639b",
-    "name" : "85BPM"
-  }, {
     "id" : "787353d8-896b-4bb6-ab59-94ea318991e1",
     "programId" : "97ab5a5e-9f44-11ec-ab46-1fd33d2b7105",
     "programSequenceBindingId" : "6df2a28b-263b-4db6-8b31-7a3d70eb687a",
     "name" : "75BPM"
+  }, {
+    "id" : "f5485e68-727f-4329-8447-92f304b4d4e5",
+    "programId" : "97ab5a5e-9f44-11ec-ab46-1fd33d2b7105",
+    "programSequenceBindingId" : "8ad8d205-351c-43fa-b5f6-5eeef37d639b",
+    "name" : "85BPM"
   } ],
   "programSequences" : [ {
     "id" : "45ecbe10-cdc5-46c4-9c01-06bede3d17ae",

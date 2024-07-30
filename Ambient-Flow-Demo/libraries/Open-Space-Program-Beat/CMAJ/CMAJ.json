@@ -13,80 +13,65 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequencePatterns" : [ {
-    "id" : "fe51b620-dcf5-41d4-a588-895f13fa6028",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceId" : "a4002784-53b2-415f-95c7-9f4bfe6dff55",
-    "programVoiceId" : "bebd3ec1-b727-4b78-a585-30568c919769",
-    "name" : "Blank",
-    "total" : 128
-  }, {
     "id" : "a03127c3-26f4-4cdf-bcfe-5d4b7e5c1fa9",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequenceId" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
     "programVoiceId" : "bebd3ec1-b727-4b78-a585-30568c919769",
     "name" : "Blank",
     "total" : 128
-  } ],
-  "programSequenceBindings" : [ {
-    "id" : "48f2dc81-696c-4339-88c3-9caa39e6dc39",
+  }, {
+    "id" : "fe51b620-dcf5-41d4-a588-895f13fa6028",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequenceId" : "a4002784-53b2-415f-95c7-9f4bfe6dff55",
-    "offset" : 2
+    "programVoiceId" : "bebd3ec1-b727-4b78-a585-30568c919769",
+    "name" : "Blank",
+    "total" : 128
+  } ],
+  "programSequenceBindings" : [ {
+    "id" : "b48a0aeb-2fa0-49fb-85cc-675401ee86f7",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "programSequenceId" : "a4002784-53b2-415f-95c7-9f4bfe6dff55",
+    "offset" : 3
   }, {
     "id" : "b48b9c39-ae97-4f78-a100-d8bca1868cb6",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequenceId" : "a4002784-53b2-415f-95c7-9f4bfe6dff55",
     "offset" : 0
   }, {
-    "id" : "b201c83e-42cb-41ef-8241-19b7cf94965a",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceId" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
-    "offset" : 2
-  }, {
     "id" : "1acfac4c-bf4b-48eb-ac4d-2349fbc56e44",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequenceId" : "a4002784-53b2-415f-95c7-9f4bfe6dff55",
     "offset" : 1
   }, {
-    "id" : "5de65c63-b24e-4c9b-8da3-77971bbcec51",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceId" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
-    "offset" : 0
-  }, {
-    "id" : "b48a0aeb-2fa0-49fb-85cc-675401ee86f7",
+    "id" : "48f2dc81-696c-4339-88c3-9caa39e6dc39",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequenceId" : "a4002784-53b2-415f-95c7-9f4bfe6dff55",
-    "offset" : 3
+    "offset" : 2
+  }, {
+    "id" : "b201c83e-42cb-41ef-8241-19b7cf94965a",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "programSequenceId" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
+    "offset" : 2
+  }, {
+    "id" : "b975593c-a4f1-468c-b5ce-0c418dbe6d68",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "programSequenceId" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
+    "offset" : 1
   }, {
     "id" : "e226e758-8539-4ff7-a583-84b4d5a8b793",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequenceId" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
     "offset" : 3
   }, {
-    "id" : "b975593c-a4f1-468c-b5ce-0c418dbe6d68",
+    "id" : "5de65c63-b24e-4c9b-8da3-77971bbcec51",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequenceId" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
-    "offset" : 1
+    "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "6f9d87b7-86ec-451d-8fb3-480249787e00",
+    "id" : "a452ecc1-6464-4881-91e6-66ff57a7c8c6",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceBindingId" : "b48b9c39-ae97-4f78-a100-d8bca1868cb6",
-    "name" : "ORANGES"
-  }, {
-    "id" : "ec89bd4c-3a84-44b6-8d80-40a35a2c470c",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceBindingId" : "b975593c-a4f1-468c-b5ce-0c418dbe6d68",
-    "name" : "ORANGES"
-  }, {
-    "id" : "68ac58e3-94df-4137-849f-62bc38089b8b",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceBindingId" : "48f2dc81-696c-4339-88c3-9caa39e6dc39",
-    "name" : "ORANGES"
-  }, {
-    "id" : "10970932-e875-4553-bd7a-245d2fb0faff",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceBindingId" : "5de65c63-b24e-4c9b-8da3-77971bbcec51",
+    "programSequenceBindingId" : "e226e758-8539-4ff7-a583-84b4d5a8b793",
     "name" : "ORANGES"
   }, {
     "id" : "b7e92a8c-4cd2-45ae-8aaa-aa29d584a2d2",
@@ -94,9 +79,14 @@
     "programSequenceBindingId" : "b201c83e-42cb-41ef-8241-19b7cf94965a",
     "name" : "ORANGES"
   }, {
-    "id" : "7d885f48-542e-4626-b0c5-f8fca1181795",
+    "id" : "ec89bd4c-3a84-44b6-8d80-40a35a2c470c",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceBindingId" : "b48a0aeb-2fa0-49fb-85cc-675401ee86f7",
+    "programSequenceBindingId" : "b975593c-a4f1-468c-b5ce-0c418dbe6d68",
+    "name" : "ORANGES"
+  }, {
+    "id" : "10970932-e875-4553-bd7a-245d2fb0faff",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "programSequenceBindingId" : "5de65c63-b24e-4c9b-8da3-77971bbcec51",
     "name" : "ORANGES"
   }, {
     "id" : "462f8a82-1110-4be6-808d-e193ce2e8e26",
@@ -104,19 +94,29 @@
     "programSequenceBindingId" : "1acfac4c-bf4b-48eb-ac4d-2349fbc56e44",
     "name" : "ORANGES"
   }, {
-    "id" : "a452ecc1-6464-4881-91e6-66ff57a7c8c6",
+    "id" : "68ac58e3-94df-4137-849f-62bc38089b8b",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequenceBindingId" : "e226e758-8539-4ff7-a583-84b4d5a8b793",
+    "programSequenceBindingId" : "48f2dc81-696c-4339-88c3-9caa39e6dc39",
+    "name" : "ORANGES"
+  }, {
+    "id" : "6f9d87b7-86ec-451d-8fb3-480249787e00",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "programSequenceBindingId" : "b48b9c39-ae97-4f78-a100-d8bca1868cb6",
+    "name" : "ORANGES"
+  }, {
+    "id" : "7d885f48-542e-4626-b0c5-f8fca1181795",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "programSequenceBindingId" : "b48a0aeb-2fa0-49fb-85cc-675401ee86f7",
     "name" : "ORANGES"
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "acf72a69-62e4-4052-8104-18527dbb6e45",
+    "id" : "a5a72c4b-77e3-4784-9d42-4cef101d74d1",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequencePatternId" : "fe51b620-dcf5-41d4-a588-895f13fa6028",
+    "programSequencePatternId" : "a03127c3-26f4-4cdf-bcfe-5d4b7e5c1fa9",
     "programVoiceTrackId" : "3f61adb7-5e3c-4cad-aaa6-f81f520ee107",
     "velocity" : 1.0,
-    "position" : 34.0,
-    "duration" : 0.437,
+    "position" : 2.0,
+    "duration" : 0.125,
     "tones" : "X"
   }, {
     "id" : "7219c172-1373-446f-87c3-cd68ccc51e3a",
@@ -128,15 +128,6 @@
     "duration" : 0.437,
     "tones" : "X"
   }, {
-    "id" : "a5a72c4b-77e3-4784-9d42-4cef101d74d1",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "programSequencePatternId" : "a03127c3-26f4-4cdf-bcfe-5d4b7e5c1fa9",
-    "programVoiceTrackId" : "3f61adb7-5e3c-4cad-aaa6-f81f520ee107",
-    "velocity" : 1.0,
-    "position" : 2.0,
-    "duration" : 0.125,
-    "tones" : "X"
-  }, {
     "id" : "98ed5d6c-2b59-41c5-a0c2-a57e979d5be2",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "programSequencePatternId" : "fe51b620-dcf5-41d4-a588-895f13fa6028",
@@ -144,6 +135,15 @@
     "velocity" : 1.0,
     "position" : 2.0,
     "duration" : 0.125,
+    "tones" : "X"
+  }, {
+    "id" : "acf72a69-62e4-4052-8104-18527dbb6e45",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "programSequencePatternId" : "fe51b620-dcf5-41d4-a588-895f13fa6028",
+    "programVoiceTrackId" : "3f61adb7-5e3c-4cad-aaa6-f81f520ee107",
+    "velocity" : 1.0,
+    "position" : 34.0,
+    "duration" : 0.437,
     "tones" : "X"
   } ],
   "programVoices" : [ {
@@ -159,19 +159,19 @@
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9"
   } ],
   "programSequences" : [ {
-    "id" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
-    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
-    "name" : "Open Spaceholder Rhythm Blank",
-    "key" : "C",
-    "intensity" : 0.6,
-    "total" : 64
-  }, {
     "id" : "a4002784-53b2-415f-95c7-9f4bfe6dff55",
     "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
     "name" : "Clone of Open Spaceholder Rhythm Blank",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 16
+  }, {
+    "id" : "7f693bcf-2d98-4ed3-aa16-2643aa7f4392",
+    "programId" : "081e34de-823d-11ec-a171-37e74f7e81f9",
+    "name" : "Open Spaceholder Rhythm Blank",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 64
   } ],
   "programVoiceTracks" : [ {
     "id" : "3f61adb7-5e3c-4cad-aaa6-f81f520ee107",

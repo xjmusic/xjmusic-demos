@@ -13,29 +13,29 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "91c26e0b-c623-4d40-8cfb-34ac415747ca",
+    "id" : "e94d263f-2f64-4266-96c9-faf95ddf3a71",
     "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
-    "name" : "Wat.S.Snare.1",
-    "waveformKey" : "New-Water-Small--Splice--Wat.S.Snare.1-X.wav",
+    "name" : "New Water Small Kcik",
+    "waveformKey" : "New-Water-Small--Splice--New-Water-Small-Kcik-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.024708,
+    "lengthSeconds" : 0.171625,
     "loopBeats" : 1.0,
-    "tempo" : 121.0,
-    "intensity" : 0.5,
-    "event" : "SNARE",
-    "volume" : 1.0,
-    "tones" : "X"
+    "tempo" : 120.0,
+    "intensity" : 0.0,
+    "event" : "KICK",
+    "volume" : 0.8,
+    "tones" : "x"
   }, {
-    "id" : "3b7337f5-4245-410b-95d2-4a20eb20364b",
+    "id" : "3fcd4e6a-2fa2-4086-ab33-42cf537ccd8a",
     "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
-    "name" : "Wat.S.Open.Hat.2",
-    "waveformKey" : "New-Water-Small--Splice--Wat.S.Open.Hat.2-X.wav",
-    "transientSeconds" : 0.0011,
-    "lengthSeconds" : 0.087333,
+    "name" : "Wat.S.Closed.Hat.1",
+    "waveformKey" : "New-Water-Small--Splice--Wat.S.Closed.Hat.1-X.wav",
+    "transientSeconds" : 0.0017,
+    "lengthSeconds" : 0.052666,
     "loopBeats" : 1.0,
     "tempo" : 121.0,
     "intensity" : 0.5,
-    "event" : "HIHATOPEN",
+    "event" : "HIHAT",
     "volume" : 1.0,
     "tones" : "X"
   }, {
@@ -52,16 +52,16 @@
     "volume" : 1.0,
     "tones" : "X"
   }, {
-    "id" : "3fcd4e6a-2fa2-4086-ab33-42cf537ccd8a",
+    "id" : "3b7337f5-4245-410b-95d2-4a20eb20364b",
     "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
-    "name" : "Wat.S.Closed.Hat.1",
-    "waveformKey" : "New-Water-Small--Splice--Wat.S.Closed.Hat.1-X.wav",
-    "transientSeconds" : 0.0017,
-    "lengthSeconds" : 0.052666,
+    "name" : "Wat.S.Open.Hat.2",
+    "waveformKey" : "New-Water-Small--Splice--Wat.S.Open.Hat.2-X.wav",
+    "transientSeconds" : 0.0011,
+    "lengthSeconds" : 0.087333,
     "loopBeats" : 1.0,
     "tempo" : 121.0,
     "intensity" : 0.5,
-    "event" : "HIHAT",
+    "event" : "HIHATOPEN",
     "volume" : 1.0,
     "tones" : "X"
   }, {
@@ -78,6 +78,19 @@
     "volume" : 0.8,
     "tones" : "X"
   }, {
+    "id" : "91c26e0b-c623-4d40-8cfb-34ac415747ca",
+    "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
+    "name" : "Wat.S.Snare.1",
+    "waveformKey" : "New-Water-Small--Splice--Wat.S.Snare.1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.024708,
+    "loopBeats" : 1.0,
+    "tempo" : 121.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
     "id" : "69af4c75-af00-4924-8b24-d896a8c54304",
     "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
     "name" : "Wat.S.Snare.2",
@@ -90,27 +103,14 @@
     "event" : "SNARE",
     "volume" : 0.7,
     "tones" : "X"
-  }, {
-    "id" : "e94d263f-2f64-4266-96c9-faf95ddf3a71",
-    "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
-    "name" : "New Water Small Kcik",
-    "waveformKey" : "New-Water-Small--Splice--New-Water-Small-Kcik-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.171625,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.0,
-    "event" : "KICK",
-    "volume" : 0.8,
-    "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "c5d4fe65-ea60-4860-b338-98f36a56ac8c",
-    "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
-    "name" : "WATER"
-  }, {
     "id" : "a369ff07-0f36-4473-a593-485a81cf37ba",
     "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
     "name" : "SMALL"
+  }, {
+    "id" : "c5d4fe65-ea60-4860-b338-98f36a56ac8c",
+    "instrumentId" : "7456bf62-a6f1-11ec-a3c4-9755cc2fc85b",
+    "name" : "WATER"
   } ]
 }

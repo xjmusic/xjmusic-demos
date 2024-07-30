@@ -21,21 +21,30 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "f3caa7a8-9446-11ec-a363-3f6f1ecb16fe",
+    "id" : "edac2238-5618-11eb-9685-33b3f53afde4",
     "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
     "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
     "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
     "velocity" : 1.0,
-    "position" : 7.5,
+    "position" : 0.0,
+    "duration" : 0.25,
+    "tones" : "A1"
+  }, {
+    "id" : "f03c582e-5618-11eb-9685-334619e34278",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 0.5,
     "duration" : 0.25,
     "tones" : "X"
   }, {
-    "id" : "f272474e-9446-11ec-8d86-67fbbce781ee",
+    "id" : "f164ddca-5618-11eb-9685-f73b6cf4f993",
     "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
     "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
     "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
     "velocity" : 1.0,
-    "position" : 6.75,
+    "position" : 1.5,
     "duration" : 0.25,
     "tones" : "X"
   }, {
@@ -48,14 +57,14 @@
     "duration" : 0.25,
     "tones" : "X"
   }, {
-    "id" : "f164ddca-5618-11eb-9685-f73b6cf4f993",
+    "id" : "f3d565e8-5618-11eb-9685-978c6a3a0a23",
     "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
     "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
     "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
     "velocity" : 1.0,
-    "position" : 1.5,
+    "position" : 3.5,
     "duration" : 0.25,
-    "tones" : "X"
+    "tones" : "A2"
   }, {
     "id" : "8861521c-c4a0-11eb-9fc8-ef39b3601de0",
     "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
@@ -75,33 +84,6 @@
     "duration" : 0.25,
     "tones" : "X"
   }, {
-    "id" : "f03c582e-5618-11eb-9685-334619e34278",
-    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
-    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
-    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
-    "velocity" : 1.0,
-    "position" : 0.5,
-    "duration" : 0.25,
-    "tones" : "X"
-  }, {
-    "id" : "f3d565e8-5618-11eb-9685-978c6a3a0a23",
-    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
-    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
-    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
-    "velocity" : 1.0,
-    "position" : 3.5,
-    "duration" : 0.25,
-    "tones" : "A2"
-  }, {
-    "id" : "edac2238-5618-11eb-9685-33b3f53afde4",
-    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
-    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
-    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
-    "velocity" : 1.0,
-    "position" : 0.0,
-    "duration" : 0.25,
-    "tones" : "A1"
-  }, {
     "id" : "944a731a-c4a0-11eb-9fc8-bb9a1d52f074",
     "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
     "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
@@ -110,6 +92,24 @@
     "position" : 6.5,
     "duration" : 0.25,
     "tones" : "A1"
+  }, {
+    "id" : "f272474e-9446-11ec-8d86-67fbbce781ee",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 6.75,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "f3caa7a8-9446-11ec-a363-3f6f1ecb16fe",
+    "programId" : "a9eaf002-5617-11eb-9416-3b77c117493e",
+    "programSequencePatternId" : "dd4f082e-5618-11eb-9685-1bfb4e2d2e6c",
+    "programVoiceTrackId" : "e28a1ebe-5618-11eb-9685-3766ec6e5860",
+    "velocity" : 1.0,
+    "position" : 7.5,
+    "duration" : 0.25,
+    "tones" : "X"
   } ],
   "programVoices" : [ {
     "id" : "d39a1904-5618-11eb-9685-1f02ec4f4202",

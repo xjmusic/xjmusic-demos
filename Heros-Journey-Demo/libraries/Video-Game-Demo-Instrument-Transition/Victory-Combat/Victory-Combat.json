@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "d9e74772-8e79-11ee-b178-377bf7749fda",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Victory Combat",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828873
+  } ],
   "instrumentAudios" : [ {
     "id" : "cf926373-f4a0-46f3-8481-cf9d4cb2b54f",
     "instrumentId" : "d9e74772-8e79-11ee-b178-377bf7749fda",
@@ -39,18 +51,6 @@
     "event" : "SMALL",
     "volume" : 0.0,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "d9e74772-8e79-11ee-b178-377bf7749fda",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Victory Combat",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828873
   } ],
   "instrumentMemes" : [ {
     "id" : "32f737ed-cf69-4446-954f-f6c28087c78b",

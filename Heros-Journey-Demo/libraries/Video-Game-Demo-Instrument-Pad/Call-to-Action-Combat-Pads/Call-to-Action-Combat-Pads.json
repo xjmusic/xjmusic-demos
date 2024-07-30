@@ -1,10 +1,22 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Call to Action Combat Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828911
+  } ],
   "instrumentAudios" : [ {
-    "id" : "66ce2c1e-79c1-11ee-9d51-bff5b9babeb0",
+    "id" : "fa3127bf-b594-4616-8cc5-c0f1480dc1e0",
     "instrumentId" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
-    "name" : "Pad 2",
-    "waveformKey" : "Call-to-Action-Combat-Pads-Pad-2-D.wav",
+    "name" : "Pad 1",
+    "waveformKey" : "Call-to-Action-Combat-Pads-Pad-1-D.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 28.444458,
     "loopBeats" : 64.0,
@@ -14,10 +26,10 @@
     "volume" : 1.0,
     "tones" : "D"
   }, {
-    "id" : "fa3127bf-b594-4616-8cc5-c0f1480dc1e0",
+    "id" : "66ce2c1e-79c1-11ee-9d51-bff5b9babeb0",
     "instrumentId" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
-    "name" : "Pad 1",
-    "waveformKey" : "Call-to-Action-Combat-Pads-Pad-1-D.wav",
+    "name" : "Pad 2",
+    "waveformKey" : "Call-to-Action-Combat-Pads-Pad-2-D.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 28.444458,
     "loopBeats" : 64.0,
@@ -40,29 +52,17 @@
     "volume" : 1.0,
     "tones" : "D"
   } ],
-  "instruments" : [ {
-    "id" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
-    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Call to Action Combat Pads",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457828911
-  } ],
   "instrumentMemes" : [ {
-    "id" : "ed3707e7-4632-4b3c-bc8c-df30c9b9faba",
+    "id" : "3f4bece7-577e-41d3-8488-3d119c295167",
     "instrumentId" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
-    "name" : "COMBAT"
+    "name" : "135BPM"
   }, {
     "id" : "f8b87e35-7868-43d6-8786-f7c3c59755d2",
     "instrumentId" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
     "name" : "CALLTOACTION"
   }, {
-    "id" : "3f4bece7-577e-41d3-8488-3d119c295167",
+    "id" : "ed3707e7-4632-4b3c-bc8c-df30c9b9faba",
     "instrumentId" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
-    "name" : "135BPM"
+    "name" : "COMBAT"
   } ]
 }

@@ -13,36 +13,36 @@
     "updatedAt" : 1710457830636
   } ],
   "programSequenceBindings" : [ {
-    "id" : "4eaf13d3-89e2-45e7-a108-48dd33d84bf4",
-    "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
-    "programSequenceId" : "86c06ab9-70fe-485f-8134-ca4c5e94ba2a",
-    "offset" : 0
-  }, {
     "id" : "2f3a2208-20da-4ceb-bdd6-deb11495d56e",
     "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
     "programSequenceId" : "86c06ab9-70fe-485f-8134-ca4c5e94ba2a",
     "offset" : 1
+  }, {
+    "id" : "4eaf13d3-89e2-45e7-a108-48dd33d84bf4",
+    "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
+    "programSequenceId" : "86c06ab9-70fe-485f-8134-ca4c5e94ba2a",
+    "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "d85ef254-7daa-11ee-9e02-c3af7ab215c4",
-    "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
-    "programSequenceBindingId" : "4eaf13d3-89e2-45e7-a108-48dd33d84bf4",
-    "name" : "DIALOG"
-  }, {
     "id" : "127b6b47-98e2-4685-a833-fc03dd347824",
     "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
     "programSequenceBindingId" : "4eaf13d3-89e2-45e7-a108-48dd33d84bf4",
     "name" : "115BPM"
   }, {
-    "id" : "d5b380f6-7daa-11ee-9e02-4b99af8410f3",
-    "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
-    "programSequenceBindingId" : "2f3a2208-20da-4ceb-bdd6-deb11495d56e",
-    "name" : "EXPLORATION"
-  }, {
     "id" : "c565bf06-ac3c-444d-80d6-57813cb3b6c8",
     "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
     "programSequenceBindingId" : "2f3a2208-20da-4ceb-bdd6-deb11495d56e",
     "name" : "95BPM"
+  }, {
+    "id" : "d85ef254-7daa-11ee-9e02-c3af7ab215c4",
+    "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
+    "programSequenceBindingId" : "4eaf13d3-89e2-45e7-a108-48dd33d84bf4",
+    "name" : "DIALOG"
+  }, {
+    "id" : "d5b380f6-7daa-11ee-9e02-4b99af8410f3",
+    "programId" : "c691dee2-7daa-11ee-9e02-67379420ce59",
+    "programSequenceBindingId" : "2f3a2208-20da-4ceb-bdd6-deb11495d56e",
+    "name" : "EXPLORATION"
   } ],
   "programSequences" : [ {
     "id" : "86c06ab9-70fe-485f-8134-ca4c5e94ba2a",

@@ -1,19 +1,18 @@
 {
   "demo" : false,
-  "instrumentAudios" : [ {
-    "id" : "f378d7c0-7f3b-11ee-babe-472c00b590cd",
-    "instrumentId" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
-    "name" : "Combat Sweep",
-    "waveformKey" : "Atonement-Combat-Combat-Sweep-X.wav",
-    "transientSeconds" : 1.777,
-    "lengthSeconds" : 3.78725,
-    "loopBeats" : 16.0,
-    "tempo" : 135.0,
-    "intensity" : 0.5,
-    "event" : "MEDIUM",
+  "instruments" : [ {
+    "id" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Atonement Combat",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
     "volume" : 1.0,
-    "tones" : "X"
-  }, {
+    "mode" : "Event",
+    "updatedAt" : 1710457829020
+  } ],
+  "instrumentAudios" : [ {
     "id" : "57d5be34-71e2-11ee-8b36-cf4da3072a28",
     "instrumentId" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
     "name" : "Combat Drum Roll",
@@ -26,18 +25,19 @@
     "event" : "LARGE",
     "volume" : 1.0,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Atonement Combat",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
+  }, {
+    "id" : "f378d7c0-7f3b-11ee-babe-472c00b590cd",
+    "instrumentId" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
+    "name" : "Combat Sweep",
+    "waveformKey" : "Atonement-Combat-Combat-Sweep-X.wav",
+    "transientSeconds" : 1.777,
+    "lengthSeconds" : 3.78725,
+    "loopBeats" : 16.0,
+    "tempo" : 135.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
     "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457829020
+    "tones" : "X"
   } ],
   "instrumentMemes" : [ {
     "id" : "62ca21ea-71e2-11ee-bb9b-f72574bd7058",

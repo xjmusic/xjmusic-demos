@@ -38,10 +38,6 @@
     "order" : 1000.0
   } ],
   "programMemes" : [ {
-    "id" : "9bd5be54-b14b-11eb-abb3-2b3716cf1b68",
-    "name" : "ROOTSY2",
-    "programId" : "5c4ba560-8b84-11eb-89e0-53d3c8ceb850"
-  }, {
     "id" : "e80b0e16-8f7f-11eb-94f4-6740d84bd914",
     "name" : "3NOTE",
     "programId" : "5c4ba560-8b84-11eb-89e0-53d3c8ceb850"
@@ -50,12 +46,16 @@
     "name" : "OPEN",
     "programId" : "5c4ba560-8b84-11eb-89e0-53d3c8ceb850"
   }, {
-    "id" : "80928e38-b14b-11eb-abb3-e3215a8e4de1",
-    "name" : "STRAIGHT",
-    "programId" : "5c4ba560-8b84-11eb-89e0-53d3c8ceb850"
-  }, {
     "id" : "8625667c-b14b-11eb-a1c7-1383053eabea",
     "name" : "ROOTSY",
+    "programId" : "5c4ba560-8b84-11eb-89e0-53d3c8ceb850"
+  }, {
+    "id" : "9bd5be54-b14b-11eb-abb3-2b3716cf1b68",
+    "name" : "ROOTSY2",
+    "programId" : "5c4ba560-8b84-11eb-89e0-53d3c8ceb850"
+  }, {
+    "id" : "80928e38-b14b-11eb-abb3-e3215a8e4de1",
+    "name" : "STRAIGHT",
     "programId" : "5c4ba560-8b84-11eb-89e0-53d3c8ceb850"
   }, {
     "id" : "7f0fdc1e-b14b-11eb-abb3-37be292f10cc",

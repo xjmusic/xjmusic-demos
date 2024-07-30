@@ -1,34 +1,20 @@
 {
   "demo" : false,
-  "templates" : [ {
-    "id" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
-    "projectId" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
-    "name" : "Flow",
-    "config" : "choiceMuteProbability = {\n    Background = 0.0\n    Bass = 0.0\n    Drum = 0.0\n    Hook = 0.0\n    Pad = 0.0\n    Percussion = 0.0\n    Stab = 0.0\n    Sticky = 0.0\n    Stripe = 0.0\n    Transition = 0.0\n  }\ndeltaArcBeatLayersIncoming = 1\ndeltaArcBeatLayersToPrioritize = kick\ndeltaArcDetailLayersIncoming = 2\ndeltaArcEnabled = false\ndetailLayerOrder = [\"Bass\",\"Stripe\",\"Pad\",\"Sticky\",\"Stab\"]\ndubMasterVolume = {\n    Background = 1.0\n    Bass = 1.5\n    Drum = 1.0\n    Hook = 1.0\n    Pad = 1.0\n    Percussion = 1.0\n    Stab = 1.5\n    Sticky = 0.8\n    Stripe = 1.3\n    Transition = 1.0\n  }\neventNamesLarge = [\"LARGE\",\"BIG\"]\neventNamesMedium = [\"MEDIUM\",\"REGULAR\"]\neventNamesSmall = [\"SMALL\",\"LITTLE\"]\ninstrumentTypesForAudioLengthFinalization = [\"Bass\",\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\ninstrumentTypesForInversionSeeking = [\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\nintensityAutoCrescendoEnabled = true\nintensityAutoCrescendoMaximum = 0.8\nintensityAutoCrescendoMinimum = 0.2\nintensityLayers = {\n    Background = 3\n    Bass = 1\n    Drum = 1\n    Hook = 3\n    Pad = 3\n    Percussion = 3\n    Stab = 2\n    Sticky = 2\n    Stripe = 2\n    Transition = 3\n  }\nintensityThreshold = {\n    Background = 0.5\n    Bass = 0.5\n    Drum = 0.5\n    Hook = 0.5\n    Pad = 0.5\n    Percussion = 0.5\n    Stab = 0.5\n    Sticky = 0.5\n    Stripe = 0.5\n    Transition = 0.5\n  }\nmainProgramLengthMaxDelta = 280\nmemeTaxonomy = [\n    {\n      \"memes\":[\"WINTER\",\"SPRING\",\"SUMMER\",\"FALL\"],\n      \"name\":\"SEASON\"\n    }\n  ]\nmixerCompressAheadSeconds = 0.05\nmixerCompressDecaySeconds = 0.125\nmixerCompressRatioMax = 1.0\nmixerCompressRatioMin = 0.3\nmixerCompressToAmplitude = 0.8\nmixerDspBufferSize = 1024\nmixerHighpassThresholdHz = 30\nmixerLowpassThresholdHz = 15000\nmixerNormalizationBoostThreshold = 1.0\nmixerNormalizationCeiling = 0.999\nstickyBunEnabled = true\n",
-    "shipKey" : "space_flow",
-    "isDeleted" : false,
-    "updatedAt" : 1709343262730
-  } ],
   "templateBindings" : [ {
     "id" : "c593f424-61e3-11ec-a385-43408293347e",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
     "targetId" : "93a3d200-61e2-11ec-8bff-77a78a03c351"
   }, {
-    "id" : "f3a01e54-6910-11ec-9737-07b491019cdb",
-    "type" : "Library",
-    "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
-    "targetId" : "21cd8a2a-6905-11ec-ad48-6f15e8d8d770"
-  }, {
     "id" : "410c0e5c-01b7-11ed-be4f-87d2a413cef5",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
     "targetId" : "d86b2f8e-853f-11ec-ac63-f3579b4657e9"
   }, {
-    "id" : "9a376528-39bf-11ec-bf7f-afaa67af58a4",
+    "id" : "4a34058e-01b7-11ed-a099-37833379ef80",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
-    "targetId" : "758c188c-383d-11ec-a788-633bf1b83658"
+    "targetId" : "e2c003d8-853f-11ec-ac63-7390fbd90472"
   }, {
     "id" : "63ac786c-690e-11ec-b701-f78ad5c7945d",
     "type" : "Library",
@@ -40,29 +26,43 @@
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
     "targetId" : "0f8f0050-3511-11ec-8c04-5f7ccbf0cadf"
   }, {
-    "id" : "4a34058e-01b7-11ed-a099-37833379ef80",
+    "id" : "f3a01e54-6910-11ec-9737-07b491019cdb",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
-    "targetId" : "e2c003d8-853f-11ec-ac63-7390fbd90472"
+    "targetId" : "21cd8a2a-6905-11ec-ad48-6f15e8d8d770"
   }, {
-    "id" : "957fbda8-3a02-11ec-9ca2-e389bfedeb9b",
+    "id" : "007e4b2c-38fc-11ec-a63d-e71f2671b51b",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
-    "targetId" : "7f360a4e-383a-11ec-89ac-773fc53b2694"
+    "targetId" : "53848598-3843-11ec-877d-039fbad7aa03"
   }, {
     "id" : "6c04356e-61e7-11ec-a4e5-2f63df9c7d5e",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
     "targetId" : "5f2ecc9c-6150-11ec-aa86-0b19e7f877ac"
   }, {
+    "id" : "9a376528-39bf-11ec-bf7f-afaa67af58a4",
+    "type" : "Library",
+    "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
+    "targetId" : "758c188c-383d-11ec-a788-633bf1b83658"
+  }, {
     "id" : "97a95280-39ce-11ec-97b9-eb9016e43c2f",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
     "targetId" : "7c68d172-3851-11ec-b687-9fcd389404cc"
   }, {
-    "id" : "007e4b2c-38fc-11ec-a63d-e71f2671b51b",
+    "id" : "957fbda8-3a02-11ec-9ca2-e389bfedeb9b",
     "type" : "Library",
     "templateId" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
-    "targetId" : "53848598-3843-11ec-877d-039fbad7aa03"
+    "targetId" : "7f360a4e-383a-11ec-89ac-773fc53b2694"
+  } ],
+  "templates" : [ {
+    "id" : "9ea9fe94-3510-11ec-a019-a3e3fba5cba1",
+    "projectId" : "16d7ed8e-3ea9-11ed-9bc0-e7d200ad7135",
+    "name" : "Flow",
+    "config" : "choiceMuteProbability = {\n    Background = 0.0\n    Bass = 0.0\n    Drum = 0.0\n    Hook = 0.0\n    Pad = 0.0\n    Percussion = 0.0\n    Stab = 0.0\n    Sticky = 0.0\n    Stripe = 0.0\n    Transition = 0.0\n  }\ndeltaArcBeatLayersIncoming = 1\ndeltaArcBeatLayersToPrioritize = kick\ndeltaArcDetailLayersIncoming = 2\ndeltaArcEnabled = false\ndetailLayerOrder = [\"Bass\",\"Stripe\",\"Pad\",\"Sticky\",\"Stab\"]\ndubMasterVolume = {\n    Background = 1.0\n    Bass = 1.5\n    Drum = 1.0\n    Hook = 1.0\n    Pad = 1.0\n    Percussion = 1.0\n    Stab = 1.5\n    Sticky = 0.8\n    Stripe = 1.3\n    Transition = 1.0\n  }\neventNamesLarge = [\"LARGE\",\"BIG\"]\neventNamesMedium = [\"MEDIUM\",\"REGULAR\"]\neventNamesSmall = [\"SMALL\",\"LITTLE\"]\ninstrumentTypesForAudioLengthFinalization = [\"Bass\",\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\ninstrumentTypesForInversionSeeking = [\"Pad\",\"Stab\",\"Sticky\",\"Stripe\"]\nintensityAutoCrescendoEnabled = true\nintensityAutoCrescendoMaximum = 0.8\nintensityAutoCrescendoMinimum = 0.2\nintensityLayers = {\n    Background = 3\n    Bass = 1\n    Drum = 1\n    Hook = 3\n    Pad = 3\n    Percussion = 3\n    Stab = 2\n    Sticky = 2\n    Stripe = 2\n    Transition = 3\n  }\nintensityThreshold = {\n    Background = 0.5\n    Bass = 0.5\n    Drum = 0.5\n    Hook = 0.5\n    Pad = 0.5\n    Percussion = 0.5\n    Stab = 0.5\n    Sticky = 0.5\n    Stripe = 0.5\n    Transition = 0.5\n  }\nmainProgramLengthMaxDelta = 280\nmemeTaxonomy = [\n    {\n      \"memes\":[\"WINTER\",\"SPRING\",\"SUMMER\",\"FALL\"],\n      \"name\":\"SEASON\"\n    }\n  ]\nmixerCompressAheadSeconds = 0.05\nmixerCompressDecaySeconds = 0.125\nmixerCompressRatioMax = 1.0\nmixerCompressRatioMin = 0.3\nmixerCompressToAmplitude = 0.8\nmixerDspBufferSize = 1024\nmixerHighpassThresholdHz = 30\nmixerLowpassThresholdHz = 15000\nmixerNormalizationBoostThreshold = 1.0\nmixerNormalizationCeiling = 0.999\nstickyBunEnabled = true\n",
+    "shipKey" : "space_flow",
+    "isDeleted" : false,
+    "updatedAt" : 1709343262730
   } ]
 }

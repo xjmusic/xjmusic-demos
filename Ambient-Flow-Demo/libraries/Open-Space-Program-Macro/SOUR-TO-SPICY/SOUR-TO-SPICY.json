@@ -35,16 +35,16 @@
     "name" : "SPICY"
   } ],
   "programSequences" : [ {
-    "id" : "06e18617-9764-4621-acfd-b08767545a1c",
+    "id" : "363fd937-cd41-4199-8827-bf299b79606a",
     "programId" : "933c8514-5125-11ec-a67e-cb835d735a29",
-    "name" : "Open Space Test Macro 2",
+    "name" : "Open Space Macro Test",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 16
   }, {
-    "id" : "363fd937-cd41-4199-8827-bf299b79606a",
+    "id" : "06e18617-9764-4621-acfd-b08767545a1c",
     "programId" : "933c8514-5125-11ec-a67e-cb835d735a29",
-    "name" : "Open Space Macro Test",
+    "name" : "Open Space Test Macro 2",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 16

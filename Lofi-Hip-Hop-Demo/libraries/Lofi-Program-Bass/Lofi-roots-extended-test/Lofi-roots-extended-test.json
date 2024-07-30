@@ -42,12 +42,12 @@
     "name" : "CUSTOM",
     "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8"
   }, {
-    "id" : "0d4ede24-5fe9-11ed-83cf-2f7af58633a9",
-    "name" : "WIDEOPEN",
-    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8"
-  }, {
     "id" : "001752a4-5fe9-11ed-8256-77f6ea6f6cf4",
     "name" : "STRAIGHT",
+    "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8"
+  }, {
+    "id" : "0d4ede24-5fe9-11ed-83cf-2f7af58633a9",
+    "name" : "WIDEOPEN",
     "programId" : "ab5dd69e-53d5-11ed-9c5d-871af4c4d0a8"
   } ],
   "programSequences" : [ {

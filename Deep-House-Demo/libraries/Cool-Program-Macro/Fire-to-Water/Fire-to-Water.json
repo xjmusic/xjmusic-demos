@@ -13,6 +13,11 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequenceBindings" : [ {
+    "id" : "1a567734-16eb-11ea-8a37-572dee279e73",
+    "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
+    "programSequenceId" : "1a540dc8-16eb-11ea-8a37-df75efe2d46b",
+    "offset" : 2
+  }, {
     "id" : "1a573746-16eb-11ea-8a37-b7156bfdf7be",
     "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
     "programSequenceId" : "1a54e360-16eb-11ea-8a37-77478a5e7c51",
@@ -22,45 +27,40 @@
     "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
     "programSequenceId" : "1a55ae9e-16eb-11ea-8a37-cbab1330bce7",
     "offset" : 1
-  }, {
-    "id" : "1a567734-16eb-11ea-8a37-572dee279e73",
-    "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
-    "programSequenceId" : "1a540dc8-16eb-11ea-8a37-df75efe2d46b",
-    "offset" : 2
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "1a5c4592-16eb-11ea-8a37-8b6fcb5f40cb",
-    "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
-    "programSequenceBindingId" : "1a573746-16eb-11ea-8a37-b7156bfdf7be",
-    "name" : "Fire"
-  }, {
     "id" : "1a59e64e-16eb-11ea-8a37-578af025eaea",
     "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
     "programSequenceBindingId" : "1a5899f6-16eb-11ea-8a37-57ba96eca107",
     "name" : "Fire"
   }, {
-    "id" : "1a5d7250-16eb-11ea-8a37-1f7af3c396be",
+    "id" : "1a5c4592-16eb-11ea-8a37-8b6fcb5f40cb",
     "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
-    "programSequenceBindingId" : "1a5899f6-16eb-11ea-8a37-57ba96eca107",
-    "name" : "Water"
+    "programSequenceBindingId" : "1a573746-16eb-11ea-8a37-b7156bfdf7be",
+    "name" : "Fire"
   }, {
     "id" : "1a5b1a14-16eb-11ea-8a37-dfc5d695e1a5",
     "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
     "programSequenceBindingId" : "1a567734-16eb-11ea-8a37-572dee279e73",
     "name" : "Water"
+  }, {
+    "id" : "1a5d7250-16eb-11ea-8a37-1f7af3c396be",
+    "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
+    "programSequenceBindingId" : "1a5899f6-16eb-11ea-8a37-57ba96eca107",
+    "name" : "Water"
   } ],
   "programSequences" : [ {
-    "id" : "1a55ae9e-16eb-11ea-8a37-cbab1330bce7",
-    "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
-    "name" : "Sex on the Beach",
-    "key" : "Am",
-    "intensity" : 0.6,
-    "total" : 0
-  }, {
     "id" : "1a540dc8-16eb-11ea-8a37-df75efe2d46b",
     "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
     "name" : "Glory",
     "key" : "F",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a55ae9e-16eb-11ea-8a37-cbab1330bce7",
+    "programId" : "1a533b1e-16eb-11ea-8a37-1b89f02a00e8",
+    "name" : "Sex on the Beach",
+    "key" : "Am",
     "intensity" : 0.6,
     "total" : 0
   }, {

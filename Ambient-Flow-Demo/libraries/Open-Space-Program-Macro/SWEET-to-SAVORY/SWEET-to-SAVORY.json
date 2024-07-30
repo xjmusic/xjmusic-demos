@@ -24,15 +24,15 @@
     "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "b05c8140-b9d7-48fb-aed4-c8abba520c2d",
-    "programId" : "1097d1ec-ae3e-11ec-8e62-8f886bd9357a",
-    "programSequenceBindingId" : "a7ae3923-24dc-4c0d-a3a1-2640a6e979ff",
-    "name" : "SWEET"
-  }, {
     "id" : "6ac7a565-606a-4b53-bf7e-d19dee4b12e3",
     "programId" : "1097d1ec-ae3e-11ec-8e62-8f886bd9357a",
     "programSequenceBindingId" : "b2a16a20-af35-4c8a-b78d-fd4b51f074de",
     "name" : "SAVORY"
+  }, {
+    "id" : "b05c8140-b9d7-48fb-aed4-c8abba520c2d",
+    "programId" : "1097d1ec-ae3e-11ec-8e62-8f886bd9357a",
+    "programSequenceBindingId" : "a7ae3923-24dc-4c0d-a3a1-2640a6e979ff",
+    "name" : "SWEET"
   } ],
   "programSequences" : [ {
     "id" : "2d8e73b1-d464-4d0a-b7a3-c87f9accb9e5",

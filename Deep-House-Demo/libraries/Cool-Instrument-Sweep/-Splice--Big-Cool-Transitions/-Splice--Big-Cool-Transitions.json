@@ -13,6 +13,19 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
+    "id" : "8777dd40-9fe6-11ec-913f-9311a5123069",
+    "instrumentId" : "47b4ff64-9fe4-11ec-a439-3bd78f7bcd88",
+    "name" : "DS_VDH2_FX_One_Shot_Sweep_Up_Noise_Apple",
+    "waveformKey" : "-Splice--Big-Cool-Transitions-DS-VDH2-FX-One-Shot-Sweep-Up-Noise-Apple-X.wav",
+    "transientSeconds" : 5.128,
+    "lengthSeconds" : 5.128208,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "BIG",
+    "volume" : 0.65,
+    "tones" : "X"
+  }, {
     "id" : "315a64d2-9fe6-11ec-89d2-43a65feed888",
     "instrumentId" : "47b4ff64-9fe4-11ec-a439-3bd78f7bcd88",
     "name" : "DS_VDH_FX_One_Shot_Sweep_Up_Noise_Long_Pleasant",
@@ -26,12 +39,12 @@
     "volume" : 0.65,
     "tones" : "X"
   }, {
-    "id" : "5e07249a-9fe4-11ec-a439-af03c8342849",
+    "id" : "557a79ca-9fe5-11ec-82d8-a3ef5f592ebd",
     "instrumentId" : "47b4ff64-9fe4-11ec-a439-3bd78f7bcd88",
-    "name" : "VSH2_One_Shots_FX_Sweep_Down_07",
-    "waveformKey" : "-Splice--Big-Cool-Transitions-VSH2-One-Shots-FX-Sweep-Down-07-X.wav",
-    "transientSeconds" : 0.448,
-    "lengthSeconds" : 4.199999,
+    "name" : "ELIMINATE_fx_swell_lowanddeadly",
+    "waveformKey" : "-Splice--Big-Cool-Transitions-ELIMINATE-fx-swell-lowanddeadly-X.wav",
+    "transientSeconds" : 0.65,
+    "lengthSeconds" : 7.615374,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
@@ -65,12 +78,12 @@
     "volume" : 0.65,
     "tones" : "X"
   }, {
-    "id" : "8777dd40-9fe6-11ec-913f-9311a5123069",
+    "id" : "5e07249a-9fe4-11ec-a439-af03c8342849",
     "instrumentId" : "47b4ff64-9fe4-11ec-a439-3bd78f7bcd88",
-    "name" : "DS_VDH2_FX_One_Shot_Sweep_Up_Noise_Apple",
-    "waveformKey" : "-Splice--Big-Cool-Transitions-DS-VDH2-FX-One-Shot-Sweep-Up-Noise-Apple-X.wav",
-    "transientSeconds" : 5.128,
-    "lengthSeconds" : 5.128208,
+    "name" : "VSH2_One_Shots_FX_Sweep_Down_07",
+    "waveformKey" : "-Splice--Big-Cool-Transitions-VSH2-One-Shots-FX-Sweep-Down-07-X.wav",
+    "transientSeconds" : 0.448,
+    "lengthSeconds" : 4.199999,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
@@ -89,19 +102,6 @@
     "intensity" : 0.5,
     "event" : "BIG",
     "volume" : 0.8,
-    "tones" : "X"
-  }, {
-    "id" : "557a79ca-9fe5-11ec-82d8-a3ef5f592ebd",
-    "instrumentId" : "47b4ff64-9fe4-11ec-a439-3bd78f7bcd88",
-    "name" : "ELIMINATE_fx_swell_lowanddeadly",
-    "waveformKey" : "-Splice--Big-Cool-Transitions-ELIMINATE-fx-swell-lowanddeadly-X.wav",
-    "transientSeconds" : 0.65,
-    "lengthSeconds" : 7.615374,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "BIG",
-    "volume" : 0.65,
     "tones" : "X"
   } ]
 }

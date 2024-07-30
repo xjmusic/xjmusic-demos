@@ -34,6 +34,11 @@
     "programSequenceBindingId" : "1a773d7a-16eb-11ea-8a37-ef8d16931cd7",
     "name" : "Fire"
   }, {
+    "id" : "1a7dedc8-16eb-11ea-8a37-f31b7e19b70d",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "programSequenceBindingId" : "1a77ff30-16eb-11ea-8a37-1b2369a14bee",
+    "name" : "Fire"
+  }, {
     "id" : "1a7baac2-16eb-11ea-8a37-ef9d6716f18c",
     "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
     "programSequenceBindingId" : "1a793cb0-16eb-11ea-8a37-f39b42c63d29",
@@ -43,20 +48,8 @@
     "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
     "programSequenceBindingId" : "1a773d7a-16eb-11ea-8a37-ef8d16931cd7",
     "name" : "Water"
-  }, {
-    "id" : "1a7dedc8-16eb-11ea-8a37-f31b7e19b70d",
-    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
-    "programSequenceBindingId" : "1a77ff30-16eb-11ea-8a37-1b2369a14bee",
-    "name" : "Fire"
   } ],
   "programSequences" : [ {
-    "id" : "1a767b60-16eb-11ea-8a37-d35abf13115a",
-    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
-    "name" : "Steam",
-    "key" : "C",
-    "intensity" : 0.6,
-    "total" : 0
-  }, {
     "id" : "1a74ee6c-16eb-11ea-8a37-4375e532e42c",
     "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
     "name" : "Engine",
@@ -67,6 +60,13 @@
     "id" : "1a75b6f8-16eb-11ea-8a37-f34ecd483181",
     "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
     "name" : "Hydrant",
+    "key" : "C",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a767b60-16eb-11ea-8a37-d35abf13115a",
+    "programId" : "1a741e1a-16eb-11ea-8a37-bfcc21e2cd33",
+    "name" : "Steam",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 0

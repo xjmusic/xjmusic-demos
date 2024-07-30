@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "3442abb8-e86c-11ec-bc25-03559445f6c9",
+    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "OS_AET_Riser_1 85",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.1,
+    "mode" : "Event",
+    "updatedAt" : 1710457155800
+  } ],
   "instrumentAudios" : [ {
     "id" : "8c24e594-e86c-11ec-bc25-b3abbefd4ed7",
     "instrumentId" : "3442abb8-e86c-11ec-bc25-03559445f6c9",
@@ -13,18 +25,6 @@
     "event" : "BIG",
     "volume" : 1.0,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "3442abb8-e86c-11ec-bc25-03559445f6c9",
-    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "OS_AET_Riser_1 85",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.1,
-    "mode" : "Event",
-    "updatedAt" : 1710457155800
   } ],
   "instrumentMemes" : [ {
     "id" : "9387fcfe-f10e-11ec-ab3c-c7e3d3a6b8dc",

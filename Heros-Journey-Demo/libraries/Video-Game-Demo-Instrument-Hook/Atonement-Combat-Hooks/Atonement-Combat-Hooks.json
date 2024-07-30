@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "f25f3a78-71df-11ee-af40-1751ab33236f",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Atonement Combat Hooks",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828980
+  } ],
   "instrumentAudios" : [ {
     "id" : "c7fe47f9-0df1-40da-be83-b33ee680ee75",
     "instrumentId" : "f25f3a78-71df-11ee-af40-1751ab33236f",
@@ -14,23 +26,7 @@
     "volume" : 1.0,
     "tones" : "F"
   } ],
-  "instruments" : [ {
-    "id" : "f25f3a78-71df-11ee-af40-1751ab33236f",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Atonement Combat Hooks",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828980
-  } ],
   "instrumentMemes" : [ {
-    "id" : "f795569e-71df-11ee-af40-b776e4639d5d",
-    "instrumentId" : "f25f3a78-71df-11ee-af40-1751ab33236f",
-    "name" : "COMBAT"
-  }, {
     "id" : "fa0c03dc-71df-11ee-aca3-1b88e65a6343",
     "instrumentId" : "f25f3a78-71df-11ee-af40-1751ab33236f",
     "name" : "135BPM"
@@ -38,5 +34,9 @@
     "id" : "409a5e55-493a-4c25-adea-0c54031154f5",
     "instrumentId" : "f25f3a78-71df-11ee-af40-1751ab33236f",
     "name" : "ATONEMENT"
+  }, {
+    "id" : "f795569e-71df-11ee-af40-b776e4639d5d",
+    "instrumentId" : "f25f3a78-71df-11ee-af40-1751ab33236f",
+    "name" : "COMBAT"
   } ]
 }

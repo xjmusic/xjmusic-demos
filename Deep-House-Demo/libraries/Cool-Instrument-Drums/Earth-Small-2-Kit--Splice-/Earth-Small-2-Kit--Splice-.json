@@ -26,17 +26,17 @@
     "volume" : 1.1,
     "tones" : "X"
   }, {
-    "id" : "918874b2-a044-4dee-be20-d45f996a0971",
+    "id" : "c67bd20f-0b69-4274-a9b7-3ec3f33cb73d",
     "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
-    "name" : "Earth.Small.2.TomMid",
-    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.TomMid-x.wav",
+    "name" : "Earth.Small.2.Crash",
+    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.Crash-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.125479,
+    "lengthSeconds" : 3.858312,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "TOMMID",
-    "volume" : 0.8,
+    "event" : "CRASH",
+    "volume" : 1.0,
     "tones" : "x"
   }, {
     "id" : "8b72663e-bbd3-4d99-9c2c-606eb58057a0",
@@ -49,6 +49,19 @@
     "tempo" : 120.0,
     "intensity" : 0.5,
     "event" : "HIHATCL",
+    "volume" : 2.0,
+    "tones" : "x"
+  }, {
+    "id" : "b0ba1a17-b9c8-4041-a1a7-c772bd9fd1d8",
+    "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
+    "name" : "Earth.Small.2.HatOpen",
+    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.HatOpen-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.874249,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATOP",
     "volume" : 2.0,
     "tones" : "x"
   }, {
@@ -65,19 +78,6 @@
     "volume" : 1.1,
     "tones" : "x"
   }, {
-    "id" : "b0ba1a17-b9c8-4041-a1a7-c772bd9fd1d8",
-    "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
-    "name" : "Earth.Small.2.HatOpen",
-    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.HatOpen-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.874249,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "HIHATOP",
-    "volume" : 2.0,
-    "tones" : "x"
-  }, {
     "id" : "5ff6bcf6-0d0a-42e9-afc8-4d96f612f054",
     "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
     "name" : "Earth.Small.2.Snare",
@@ -89,6 +89,19 @@
     "intensity" : 0.5,
     "event" : "SNARE",
     "volume" : 0.3,
+    "tones" : "x"
+  }, {
+    "id" : "30d64e05-f8bf-48b2-9fd3-375b0aacedf4",
+    "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
+    "name" : "Earth.Small.2.TomHi",
+    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.125041,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 0.8,
     "tones" : "x"
   }, {
     "id" : "e1de4569-fa05-48e7-835f-074c46a0b15d",
@@ -104,39 +117,26 @@
     "volume" : 0.8,
     "tones" : "x"
   }, {
-    "id" : "c67bd20f-0b69-4274-a9b7-3ec3f33cb73d",
+    "id" : "918874b2-a044-4dee-be20-d45f996a0971",
     "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
-    "name" : "Earth.Small.2.Crash",
-    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.Crash-x.wav",
+    "name" : "Earth.Small.2.TomMid",
+    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.TomMid-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 3.858312,
+    "lengthSeconds" : 1.125479,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "CRASH",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
-    "id" : "30d64e05-f8bf-48b2-9fd3-375b0aacedf4",
-    "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
-    "name" : "Earth.Small.2.TomHi",
-    "waveformKey" : "Earth-Small-2-Kit--Splice--Earth.Small.2.TomHi-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.125041,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "TOMHI",
+    "event" : "TOMMID",
     "volume" : 0.8,
     "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "1927e549-20ec-4d5e-83a7-8126a111c5cb",
-    "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
-    "name" : "SMALL"
-  }, {
     "id" : "a0a36dfb-d0fe-46b8-a175-121b0dc72420",
     "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
     "name" : "EARTH"
+  }, {
+    "id" : "1927e549-20ec-4d5e-83a7-8126a111c5cb",
+    "instrumentId" : "763a9700-a6f0-11ec-ae0c-3fc7e43d1741",
+    "name" : "SMALL"
   } ]
 }

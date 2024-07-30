@@ -38,12 +38,12 @@
     "order" : 1000.0
   } ],
   "programMemes" : [ {
-    "id" : "5ea34a1b-f754-488c-b1c2-fc1ac00652fc",
-    "name" : "WIDEOPEN",
-    "programId" : "064e0dba-b639-11ed-aee0-93f3357af1f8"
-  }, {
     "id" : "39c75a86-b6ff-11ed-9137-b7d3b5adcd19",
     "name" : "!CUSTOM",
+    "programId" : "064e0dba-b639-11ed-aee0-93f3357af1f8"
+  }, {
+    "id" : "5ea34a1b-f754-488c-b1c2-fc1ac00652fc",
+    "name" : "WIDEOPEN",
     "programId" : "064e0dba-b639-11ed-aee0-93f3357af1f8"
   } ],
   "programSequences" : [ {

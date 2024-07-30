@@ -1,6 +1,31 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "ee5d78b6-8e79-11ee-b178-2b085ca6130a",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Embark Combat",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828828
+  } ],
   "instrumentAudios" : [ {
+    "id" : "375e4991-ed84-4baf-a90b-31fe32569c99",
+    "instrumentId" : "ee5d78b6-8e79-11ee-b178-2b085ca6130a",
+    "name" : "Large",
+    "waveformKey" : "Embark-Combat-Large-X.wav",
+    "transientSeconds" : 1.777,
+    "lengthSeconds" : 8.888895,
+    "loopBeats" : 16.0,
+    "tempo" : 135.0,
+    "intensity" : 0.5,
+    "event" : "LARGE",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
     "id" : "06301e93-92ef-4c9d-b6f7-2c9e8240fa3e",
     "instrumentId" : "ee5d78b6-8e79-11ee-b178-2b085ca6130a",
     "name" : "Medium",
@@ -26,31 +51,6 @@
     "event" : "SMALL",
     "volume" : 0.0,
     "tones" : "X"
-  }, {
-    "id" : "375e4991-ed84-4baf-a90b-31fe32569c99",
-    "instrumentId" : "ee5d78b6-8e79-11ee-b178-2b085ca6130a",
-    "name" : "Large",
-    "waveformKey" : "Embark-Combat-Large-X.wav",
-    "transientSeconds" : 1.777,
-    "lengthSeconds" : 8.888895,
-    "loopBeats" : 16.0,
-    "tempo" : 135.0,
-    "intensity" : 0.5,
-    "event" : "LARGE",
-    "volume" : 1.0,
-    "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "ee5d78b6-8e79-11ee-b178-2b085ca6130a",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Embark Combat",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828828
   } ],
   "instrumentMemes" : [ {
     "id" : "22a57dcd-0418-42c4-bb29-1ba07f1fd6d3",

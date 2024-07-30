@@ -42,12 +42,12 @@
     "name" : "3NOTE",
     "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
   }, {
-    "id" : "9cecb42c-b14c-11eb-abb3-b370a0beb618",
-    "name" : "STRAIGHT",
-    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
-  }, {
     "id" : "9da4d192-b14c-11eb-abb3-230f6676f7c7",
     "name" : "OPEN",
+    "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
+  }, {
+    "id" : "9cecb42c-b14c-11eb-abb3-b370a0beb618",
+    "name" : "STRAIGHT",
     "programId" : "bac70b5c-8b84-11eb-861a-dbed6314b9ec"
   }, {
     "id" : "9c35afc0-b14c-11eb-abb3-f777ad2f7964",

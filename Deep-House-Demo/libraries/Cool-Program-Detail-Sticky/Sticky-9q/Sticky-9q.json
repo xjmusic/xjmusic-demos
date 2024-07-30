@@ -21,12 +21,12 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "4903afea-943c-11ec-a892-e3a794bb83f6",
+    "id" : "d49d496f-4e21-4006-8b54-8c0146693383",
     "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
     "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
     "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
     "velocity" : 1.0,
-    "position" : 6.25,
+    "position" : 0.5,
     "duration" : 0.25,
     "tones" : "G3"
   }, {
@@ -39,6 +39,15 @@
     "duration" : 0.25,
     "tones" : "G3"
   }, {
+    "id" : "11f6f68f-0b08-423d-bf3d-2d11210ad997",
+    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
+    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
+    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
+    "velocity" : 1.0,
+    "position" : 2.0,
+    "duration" : 0.25,
+    "tones" : "G3"
+  }, {
     "id" : "65e2134f-c7c9-4020-911e-c8c6b1dc4085",
     "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
     "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
@@ -48,21 +57,12 @@
     "duration" : 0.25,
     "tones" : "X"
   }, {
-    "id" : "b2ea49df-1be2-487d-9b40-2fd6e8f7cb13",
+    "id" : "4903afea-943c-11ec-a892-e3a794bb83f6",
     "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
     "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
     "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
     "velocity" : 1.0,
-    "position" : 7.75,
-    "duration" : 0.25,
-    "tones" : "G3"
-  }, {
-    "id" : "d49d496f-4e21-4006-8b54-8c0146693383",
-    "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
-    "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
-    "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
-    "velocity" : 1.0,
-    "position" : 0.5,
+    "position" : 6.25,
     "duration" : 0.25,
     "tones" : "G3"
   }, {
@@ -75,12 +75,12 @@
     "duration" : 0.25,
     "tones" : "G3"
   }, {
-    "id" : "11f6f68f-0b08-423d-bf3d-2d11210ad997",
+    "id" : "b2ea49df-1be2-487d-9b40-2fd6e8f7cb13",
     "programId" : "18b22b32-943c-11ec-90d6-c3ab1a9c8ac1",
     "programSequencePatternId" : "30bb10c2-f32b-49c5-8545-1b217c21c121",
     "programVoiceTrackId" : "b22f7f4a-81b7-4bc7-9ab8-587b252c8f37",
     "velocity" : 1.0,
-    "position" : 2.0,
+    "position" : 7.75,
     "duration" : 0.25,
     "tones" : "G3"
   } ],

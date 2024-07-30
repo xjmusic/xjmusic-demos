@@ -21,14 +21,14 @@
     "total" : 4
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "12cfc964-a31e-11eb-bf68-6f249cb06893",
+    "id" : "11936466-a31e-11eb-bf68-279b37696073",
     "programId" : "fb272a82-a31d-11eb-b40e-a71bbcc1e1fc",
     "programSequencePatternId" : "0515dbd8-a31e-11eb-bf68-9fd14b5c4440",
     "programVoiceTrackId" : "078c8c7c-a31e-11eb-bf68-7bd5f135f187",
     "velocity" : 1.0,
-    "position" : 1.5,
-    "duration" : 0.25,
-    "tones" : "E1"
+    "position" : 0.0,
+    "duration" : 0.75,
+    "tones" : "E2"
   }, {
     "id" : "123c1a8e-a31e-11eb-bf68-0bf800593e4a",
     "programId" : "fb272a82-a31d-11eb-b40e-a71bbcc1e1fc",
@@ -39,14 +39,14 @@
     "duration" : 0.25,
     "tones" : "E1"
   }, {
-    "id" : "11936466-a31e-11eb-bf68-279b37696073",
+    "id" : "12cfc964-a31e-11eb-bf68-6f249cb06893",
     "programId" : "fb272a82-a31d-11eb-b40e-a71bbcc1e1fc",
     "programSequencePatternId" : "0515dbd8-a31e-11eb-bf68-9fd14b5c4440",
     "programVoiceTrackId" : "078c8c7c-a31e-11eb-bf68-7bd5f135f187",
     "velocity" : 1.0,
-    "position" : 0.0,
-    "duration" : 0.75,
-    "tones" : "E2"
+    "position" : 1.5,
+    "duration" : 0.25,
+    "tones" : "E1"
   }, {
     "id" : "131bcd32-a31e-11eb-bf68-9f7bd1b58bf4",
     "programId" : "fb272a82-a31d-11eb-b40e-a71bbcc1e1fc",

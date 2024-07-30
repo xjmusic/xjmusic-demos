@@ -13,10 +13,10 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "00968e06-2ab7-11ec-9fa5-c7c57f022f4d",
+    "id" : "97298c7e-2ab7-11ec-9fa5-07db667c78fa",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "F5",
-    "waveformKey" : "New-Stripe-03-F5-F5.wav",
+    "name" : "A#5",
+    "waveformKey" : "New-Stripe-03-As5-As5.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 24.520271,
     "loopBeats" : 1.0,
@@ -24,59 +24,7 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 1.0,
-    "tones" : "F5"
-  }, {
-    "id" : "ab16c43c-2ab6-11ec-9fa5-77b22653a753",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "E5",
-    "waveformKey" : "New-Stripe-03-E5-E5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "E5"
-  }, {
-    "id" : "deef9b2a-2ab7-11ec-9fa5-2b6ff08004b3",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "B5",
-    "waveformKey" : "New-Stripe-03-B5-B5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "B5"
-  }, {
-    "id" : "9cd5a6ea-2ab6-11ec-9600-8fab7b07cac0",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "D#5",
-    "waveformKey" : "New-Stripe-03-Ds5-Ds5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "D#5"
-  }, {
-    "id" : "f3894fcc-2ab7-11ec-9fa5-4bf044fb869d",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "C#6",
-    "waveformKey" : "New-Stripe-03-Cs6-Cs6.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "C#6"
+    "tones" : "A#5"
   }, {
     "id" : "3b2df4e6-2ab7-11ec-9600-572b34bd23ab",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
@@ -91,10 +39,10 @@
     "volume" : 1.0,
     "tones" : "A5"
   }, {
-    "id" : "2fa773ea-2ab7-11ec-9600-cb76a58f5140",
+    "id" : "deef9b2a-2ab7-11ec-9fa5-2b6ff08004b3",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "G#5",
-    "waveformKey" : "New-Stripe-03-Gs5-Gs5.wav",
+    "name" : "B5",
+    "waveformKey" : "New-Stripe-03-B5-B5.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 24.520271,
     "loopBeats" : 1.0,
@@ -102,72 +50,7 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 1.0,
-    "tones" : "G#5"
-  }, {
-    "id" : "8cc2cb3e-2ab6-11ec-9fa5-6fecae3ca0a3",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "D5",
-    "waveformKey" : "New-Stripe-03-D5-D5.wav",
-    "transientSeconds" : 9.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "D5"
-  }, {
-    "id" : "e984cf60-2ab7-11ec-9fa5-fb16c356f9e8",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "C6",
-    "waveformKey" : "New-Stripe-03-C6-C6.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "C6"
-  }, {
-    "id" : "2126ef80-2ab7-11ec-9fa5-4f23abe6be29",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "G5",
-    "waveformKey" : "New-Stripe-03-G5-G5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "G5"
-  }, {
-    "id" : "72684ffc-2ab6-11ec-9fa5-c334f0c7788c",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "C5",
-    "waveformKey" : "New-Stripe-03-C5-C5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "C5"
-  }, {
-    "id" : "97298c7e-2ab7-11ec-9fa5-07db667c78fa",
-    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "A#5",
-    "waveformKey" : "New-Stripe-03-As5-As5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 24.520271,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "A#5"
+    "tones" : "B5"
   }, {
     "id" : "7ccfee96-2ab6-11ec-9600-ffc554b23622",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
@@ -182,10 +65,10 @@
     "volume" : 1.0,
     "tones" : "C#5"
   }, {
-    "id" : "122e144a-2ab7-11ec-9600-5f4094099bce",
+    "id" : "f3894fcc-2ab7-11ec-9fa5-4bf044fb869d",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
-    "name" : "F#5",
-    "waveformKey" : "New-Stripe-03-Fs5-Fs5.wav",
+    "name" : "C#6",
+    "waveformKey" : "New-Stripe-03-Cs6-Cs6.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 24.520271,
     "loopBeats" : 1.0,
@@ -193,7 +76,46 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 1.0,
-    "tones" : "F#5"
+    "tones" : "C#6"
+  }, {
+    "id" : "72684ffc-2ab6-11ec-9fa5-c334f0c7788c",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "C5",
+    "waveformKey" : "New-Stripe-03-C5-C5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "C5"
+  }, {
+    "id" : "e984cf60-2ab7-11ec-9fa5-fb16c356f9e8",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "C6",
+    "waveformKey" : "New-Stripe-03-C6-C6.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "C6"
+  }, {
+    "id" : "9cd5a6ea-2ab6-11ec-9600-8fab7b07cac0",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "D#5",
+    "waveformKey" : "New-Stripe-03-Ds5-Ds5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "D#5"
   }, {
     "id" : "0c1e5d66-2ab8-11ec-9600-efd0d4928f54",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
@@ -208,6 +130,19 @@
     "volume" : 1.0,
     "tones" : "D#6"
   }, {
+    "id" : "8cc2cb3e-2ab6-11ec-9fa5-6fecae3ca0a3",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "D5",
+    "waveformKey" : "New-Stripe-03-D5-D5.wav",
+    "transientSeconds" : 9.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "D5"
+  }, {
     "id" : "ffb92f60-2ab7-11ec-9fa5-bf12cbe1746f",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
     "name" : "D6",
@@ -221,6 +156,19 @@
     "volume" : 1.0,
     "tones" : "D6"
   }, {
+    "id" : "ab16c43c-2ab6-11ec-9fa5-77b22653a753",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "E5",
+    "waveformKey" : "New-Stripe-03-E5-E5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "E5"
+  }, {
     "id" : "153fccc2-2ab8-11ec-9fa5-476f9dfbec64",
     "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
     "name" : "E6",
@@ -233,5 +181,57 @@
     "event" : "STRIPE",
     "volume" : 1.0,
     "tones" : "E6"
+  }, {
+    "id" : "122e144a-2ab7-11ec-9600-5f4094099bce",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "F#5",
+    "waveformKey" : "New-Stripe-03-Fs5-Fs5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "F#5"
+  }, {
+    "id" : "00968e06-2ab7-11ec-9fa5-c7c57f022f4d",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "F5",
+    "waveformKey" : "New-Stripe-03-F5-F5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "F5"
+  }, {
+    "id" : "2fa773ea-2ab7-11ec-9600-cb76a58f5140",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "G#5",
+    "waveformKey" : "New-Stripe-03-Gs5-Gs5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "G#5"
+  }, {
+    "id" : "2126ef80-2ab7-11ec-9fa5-4f23abe6be29",
+    "instrumentId" : "5621abd6-2ab6-11ec-9fa5-1f15d94a00a5",
+    "name" : "G5",
+    "waveformKey" : "New-Stripe-03-G5-G5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 24.520271,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "G5"
   } ]
 }

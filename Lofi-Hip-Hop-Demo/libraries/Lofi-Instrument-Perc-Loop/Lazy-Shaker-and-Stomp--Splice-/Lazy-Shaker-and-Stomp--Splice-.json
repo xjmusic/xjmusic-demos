@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "4ec55efe-b2e3-11ec-9e56-db65283f5f9b",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Lazy Shaker and Stomp (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155847
+  } ],
   "instrumentAudios" : [ {
     "id" : "ebb52ba6-bbfc-4b9e-b70c-fffbf789bed3",
     "instrumentId" : "4ec55efe-b2e3-11ec-9e56-db65283f5f9b",
@@ -13,18 +25,6 @@
     "event" : "MEDIUM",
     "volume" : 0.7,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "4ec55efe-b2e3-11ec-9e56-db65283f5f9b",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Lazy Shaker and Stomp (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155847
   } ],
   "instrumentMemes" : [ {
     "id" : "8c6277b9-16d7-4db4-8fc5-b421fefa1fd4",

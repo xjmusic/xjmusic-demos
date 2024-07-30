@@ -13,6 +13,32 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
+    "id" : "e7738b46-65ca-11ec-b0cf-6be886682fd6",
+    "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
+    "name" : "Hi-Hat Open",
+    "waveformKey" : "Water-Small-2-Kit-Hi-Hat-Open-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.680187,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATOP",
+    "volume" : 0.5,
+    "tones" : "X"
+  }, {
+    "id" : "8ee15e10-c6c8-11ea-a21e-db76d625c67d",
+    "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
+    "name" : "Water.Small.2.Crash",
+    "waveformKey" : "Water-Small-2-Kit-Water.Small.2.Crash-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 5.48352,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "CRASH",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
     "id" : "75fa966e-c6c8-11ea-a21e-3b1f86eee218",
     "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
     "name" : "Water.Small.2.Hat",
@@ -39,16 +65,29 @@
     "volume" : 1.2,
     "tones" : "x"
   }, {
-    "id" : "8ee15e10-c6c8-11ea-a21e-db76d625c67d",
+    "id" : "6b14e646-c6c8-11ea-a21e-5f1140e21479",
     "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
-    "name" : "Water.Small.2.Crash",
-    "waveformKey" : "Water-Small-2-Kit-Water.Small.2.Crash-x.wav",
+    "name" : "Water.Small.2.Snare",
+    "waveformKey" : "Water-Small-2-Kit-Water.Small.2.Snare-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 5.48352,
+    "lengthSeconds" : 0.487041,
     "loopBeats" : 1.0,
     "tempo" : 115.0,
     "intensity" : 0.5,
-    "event" : "CRASH",
+    "event" : "SNARE",
+    "volume" : 0.6,
+    "tones" : "x"
+  }, {
+    "id" : "9ae3a52e-c6c8-11ea-a21e-8b636b1f9033",
+    "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
+    "name" : "Water.Small.2.TomHi",
+    "waveformKey" : "Water-Small-2-Kit-Water.Small.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.634104,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -65,19 +104,6 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "6b14e646-c6c8-11ea-a21e-5f1140e21479",
-    "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
-    "name" : "Water.Small.2.Snare",
-    "waveformKey" : "Water-Small-2-Kit-Water.Small.2.Snare-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.487041,
-    "loopBeats" : 1.0,
-    "tempo" : 115.0,
-    "intensity" : 0.5,
-    "event" : "SNARE",
-    "volume" : 0.6,
-    "tones" : "x"
-  }, {
     "id" : "a6487c00-c6c8-11ea-a21e-a31d29b15b61",
     "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
     "name" : "Water.Small.2.TomMid",
@@ -88,32 +114,6 @@
     "tempo" : 115.0,
     "intensity" : 0.5,
     "event" : "TOMMID",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
-    "id" : "e7738b46-65ca-11ec-b0cf-6be886682fd6",
-    "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
-    "name" : "Hi-Hat Open",
-    "waveformKey" : "Water-Small-2-Kit-Hi-Hat-Open-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.680187,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "HIHATOP",
-    "volume" : 0.5,
-    "tones" : "X"
-  }, {
-    "id" : "9ae3a52e-c6c8-11ea-a21e-8b636b1f9033",
-    "instrumentId" : "3bbcc300-c6c8-11ea-9c5b-3fabd1ae6028",
-    "name" : "Water.Small.2.TomHi",
-    "waveformKey" : "Water-Small-2-Kit-Water.Small.2.TomHi-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.634104,
-    "loopBeats" : 1.0,
-    "tempo" : 115.0,
-    "intensity" : 0.5,
-    "event" : "TOMHI",
     "volume" : 1.0,
     "tones" : "x"
   } ],

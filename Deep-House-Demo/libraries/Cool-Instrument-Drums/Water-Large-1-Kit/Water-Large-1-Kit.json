@@ -13,19 +13,6 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "55c18bd6-c6c9-11ea-a21e-7f908e1bb3b1",
-    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
-    "name" : "Water.Large.1.TomHi",
-    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.TomHi-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.086437,
-    "loopBeats" : 1.0,
-    "tempo" : 115.0,
-    "intensity" : 0.5,
-    "event" : "TOMHI",
-    "volume" : 0.6,
-    "tones" : "x"
-  }, {
     "id" : "49fc529a-c6c9-11ea-a21e-47216a45615b",
     "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
     "name" : "Water.Large.1.Crash",
@@ -36,32 +23,6 @@
     "tempo" : 115.0,
     "intensity" : 0.5,
     "event" : "CRASH",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
-    "id" : "60674a80-c6c9-11ea-a21e-73dd4fc8f55a",
-    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
-    "name" : "Water.Large.1.TomMid",
-    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.TomMid-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.204354,
-    "loopBeats" : 1.0,
-    "tempo" : 115.0,
-    "intensity" : 0.5,
-    "event" : "TOMMID",
-    "volume" : 0.6,
-    "tones" : "x"
-  }, {
-    "id" : "31c1db6e-c6c9-11ea-a21e-d7c131b9decf",
-    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
-    "name" : "Water.Large.1.HatOpen",
-    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.HatOpen-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.751833,
-    "loopBeats" : 1.0,
-    "tempo" : 115.0,
-    "intensity" : 0.5,
-    "event" : "HIHATOP",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -78,17 +39,30 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "730baf5a-c6c9-11ea-b6c0-8739f691f5a3",
+    "id" : "31c1db6e-c6c9-11ea-a21e-d7c131b9decf",
     "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
-    "name" : "Water.Large.1.TomLo",
-    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.TomLo-x.wav",
+    "name" : "Water.Large.1.HatOpen",
+    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.HatOpen-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.143354,
+    "lengthSeconds" : 0.751833,
     "loopBeats" : 1.0,
     "tempo" : 115.0,
     "intensity" : 0.5,
-    "event" : "TOMLO",
-    "volume" : 0.6,
+    "event" : "HIHATOP",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "119534a8-c6c9-11ea-a21e-2b694a1a8dfd",
+    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
+    "name" : "Water.Large.1.Kick",
+    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.Kick-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.78827,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 0.65,
     "tones" : "x"
   }, {
     "id" : "1ca03316-c6c9-11ea-a21e-9f16069bdc7f",
@@ -104,26 +78,52 @@
     "volume" : 0.3,
     "tones" : "X"
   }, {
-    "id" : "119534a8-c6c9-11ea-a21e-2b694a1a8dfd",
+    "id" : "55c18bd6-c6c9-11ea-a21e-7f908e1bb3b1",
     "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
-    "name" : "Water.Large.1.Kick",
-    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.Kick-x.wav",
+    "name" : "Water.Large.1.TomHi",
+    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.TomHi-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.78827,
+    "lengthSeconds" : 1.086437,
     "loopBeats" : 1.0,
     "tempo" : 115.0,
     "intensity" : 0.5,
-    "event" : "KICK",
-    "volume" : 0.65,
+    "event" : "TOMHI",
+    "volume" : 0.6,
+    "tones" : "x"
+  }, {
+    "id" : "730baf5a-c6c9-11ea-b6c0-8739f691f5a3",
+    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
+    "name" : "Water.Large.1.TomLo",
+    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.143354,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 0.6,
+    "tones" : "x"
+  }, {
+    "id" : "60674a80-c6c9-11ea-a21e-73dd4fc8f55a",
+    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
+    "name" : "Water.Large.1.TomMid",
+    "waveformKey" : "Water-Large-1-Kit-Water.Large.1.TomMid-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.204354,
+    "loopBeats" : 1.0,
+    "tempo" : 115.0,
+    "intensity" : 0.5,
+    "event" : "TOMMID",
+    "volume" : 0.6,
     "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "ce28c120-c6c9-11ea-b6c0-8bed90ca067a",
-    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
-    "name" : "WATER"
-  }, {
     "id" : "d07b2c7e-c6c9-11ea-b6c0-e39001db60c5",
     "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
     "name" : "LARGE"
+  }, {
+    "id" : "ce28c120-c6c9-11ea-b6c0-8bed90ca067a",
+    "instrumentId" : "e73c6d52-c6c8-11ea-a21e-570912a399b6",
+    "name" : "WATER"
   } ]
 }

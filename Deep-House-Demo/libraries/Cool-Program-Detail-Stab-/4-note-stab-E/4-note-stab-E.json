@@ -60,16 +60,16 @@
     "name" : "4NOTE",
     "programId" : "8f11973a-8d22-11eb-8799-3f4a68845047"
   }, {
-    "id" : "d293ec88-b1b7-11eb-a137-5ffb4a3d45e6",
-    "name" : "WIDEOPEN",
-    "programId" : "8f11973a-8d22-11eb-8799-3f4a68845047"
-  }, {
     "id" : "d476ac2a-b1b7-11eb-8d37-7f792154f77e",
     "name" : "OPEN",
     "programId" : "8f11973a-8d22-11eb-8799-3f4a68845047"
   }, {
     "id" : "d3abe92c-b1b7-11eb-8d37-fb87f0f28e84",
     "name" : "STRAIGHT",
+    "programId" : "8f11973a-8d22-11eb-8799-3f4a68845047"
+  }, {
+    "id" : "d293ec88-b1b7-11eb-a137-5ffb4a3d45e6",
+    "name" : "WIDEOPEN",
     "programId" : "8f11973a-8d22-11eb-8799-3f4a68845047"
   } ],
   "programSequences" : [ {

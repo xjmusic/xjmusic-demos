@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "5e506dae-8b06-11ed-88dd-a3df990f141e",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "DBM_MR_85_Percussion_Loop_Bird_Fly_Bmaj",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155796
+  } ],
   "instrumentAudios" : [ {
     "id" : "11ffa4cf-4e9b-4b1c-990a-38fa31b39e27",
     "instrumentId" : "5e506dae-8b06-11ed-88dd-a3df990f141e",
@@ -13,18 +25,6 @@
     "event" : "MEDIUM",
     "volume" : 0.8,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "5e506dae-8b06-11ed-88dd-a3df990f141e",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "DBM_MR_85_Percussion_Loop_Bird_Fly_Bmaj",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155796
   } ],
   "instrumentMemes" : [ {
     "id" : "ad3e6d04-75ef-4c4a-8620-acb6ef5f2dab",

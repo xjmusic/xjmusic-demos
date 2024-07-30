@@ -18,17 +18,22 @@
     "programSequenceId" : "1a60e872-16eb-11ea-8a37-77304e7348ed",
     "offset" : 1
   }, {
-    "id" : "1a6405e8-16eb-11ea-8a37-3f0608242834",
-    "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
-    "programSequenceId" : "1a633992-16eb-11ea-8a37-c304a696b32a",
-    "offset" : 2
-  }, {
     "id" : "1a658b3e-16eb-11ea-8a37-73219a619460",
     "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
     "programSequenceId" : "1a6224da-16eb-11ea-8a37-bb3e2ad1b14f",
     "offset" : 0
+  }, {
+    "id" : "1a6405e8-16eb-11ea-8a37-3f0608242834",
+    "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
+    "programSequenceId" : "1a633992-16eb-11ea-8a37-c304a696b32a",
+    "offset" : 2
   } ],
   "programSequenceBindingMemes" : [ {
+    "id" : "1a664b82-16eb-11ea-8a37-0713700abbd3",
+    "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
+    "programSequenceBindingId" : "1a658b3e-16eb-11ea-8a37-73219a619460",
+    "name" : "Fire"
+  }, {
     "id" : "1a670b94-16eb-11ea-8a37-1f726403c414",
     "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
     "programSequenceBindingId" : "1a64c956-16eb-11ea-8a37-e3d3d4053237",
@@ -38,11 +43,6 @@
     "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
     "programSequenceBindingId" : "1a64c956-16eb-11ea-8a37-e3d3d4053237",
     "name" : "Wind"
-  }, {
-    "id" : "1a664b82-16eb-11ea-8a37-0713700abbd3",
-    "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
-    "programSequenceBindingId" : "1a658b3e-16eb-11ea-8a37-73219a619460",
-    "name" : "Fire"
   }, {
     "id" : "1a688b90-16eb-11ea-8a37-474d9aedf874",
     "programId" : "1a5e97e8-16eb-11ea-8a37-1327bf2f94a0",
