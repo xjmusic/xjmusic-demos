@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "9a9250ee-9081-11ee-a063-5bd98a3d8feb",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Victory Exploration",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457829085
-  } ],
   "instrumentAudios" : [ {
     "id" : "aa4dcb0e-cfa0-41ee-96fb-265abbed1e99",
     "instrumentId" : "9a9250ee-9081-11ee-a063-5bd98a3d8feb",
@@ -25,6 +13,18 @@
     "event" : "LARGE",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "9a9250ee-9081-11ee-a063-5bd98a3d8feb",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Victory Exploration",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457829085
   } ],
   "instrumentMemes" : [ {
     "id" : "85319473-b243-4618-aa48-0c40680fadaa",

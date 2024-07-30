@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "c8f3106c-ae55-11ee-855a-63007ee2fdbc",
-    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Atonement Dialog Pads",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457828823
-  } ],
   "instrumentAudios" : [ {
     "id" : "545b318c-ae5d-11ee-8e72-17ade7203507",
     "instrumentId" : "c8f3106c-ae55-11ee-855a-63007ee2fdbc",
@@ -25,6 +13,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "F"
+  } ],
+  "instruments" : [ {
+    "id" : "c8f3106c-ae55-11ee-855a-63007ee2fdbc",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Atonement Dialog Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828823
   } ],
   "instrumentMemes" : [ {
     "id" : "0b0d163d-73fa-49dc-91c0-a2c9c47c3783",

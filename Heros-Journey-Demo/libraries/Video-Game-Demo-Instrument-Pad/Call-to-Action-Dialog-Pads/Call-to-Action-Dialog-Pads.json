@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
-    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Call to Action Dialog Pads",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457829009
-  } ],
   "instrumentAudios" : [ {
     "id" : "a3d33e46-8d78-48f8-91e3-b2af53a7039e",
     "instrumentId" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
@@ -25,6 +13,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "f6e25f02-7acd-11ee-8ea4-772b7de555cc",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Call to Action Dialog Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457829009
   } ],
   "instrumentMemes" : [ {
     "id" : "1bde4712-777d-4897-a26d-0c9b79af472f",

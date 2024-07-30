@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
-    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
-    "type" : "Bass",
-    "state" : "Published",
-    "name" : "Call to Action Exploration Bass",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457829077
-  } ],
   "instrumentAudios" : [ {
     "id" : "2da65fa3-5449-4565-a188-36646e29d7c0",
     "instrumentId" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
@@ -25,6 +13,18 @@
     "event" : "BASS",
     "volume" : 0.4,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "90c8d757-bae6-4f04-8d84-dff1eaacd8d8",
+    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
+    "type" : "Bass",
+    "state" : "Published",
+    "name" : "Call to Action Exploration Bass",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457829077
   } ],
   "instrumentMemes" : [ {
     "id" : "cfc2a92e-a53e-4ba2-b6d8-4c5a456a0a68",

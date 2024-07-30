@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "ee02fc6a-909a-11ee-877e-bf9bbf00ab5e",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Victory Dialog Hooks",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828852
-  } ],
   "instrumentAudios" : [ {
     "id" : "56490f0e-a849-44a7-b32f-73a5d0b8ed8d",
     "instrumentId" : "ee02fc6a-909a-11ee-877e-bf9bbf00ab5e",
@@ -25,6 +13,18 @@
     "event" : "HOOK",
     "volume" : 2.0,
     "tones" : "F"
+  } ],
+  "instruments" : [ {
+    "id" : "ee02fc6a-909a-11ee-877e-bf9bbf00ab5e",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Victory Dialog Hooks",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828852
   } ],
   "instrumentMemes" : [ {
     "id" : "1d65268e-2d9f-47e6-826e-f89a4bc7f324",

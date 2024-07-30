@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
-    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Atonement Exploration Perc Loops",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457829068
-  } ],
   "instrumentAudios" : [ {
     "id" : "5b96547e-6d60-11ee-8389-17b391d6fb9b",
     "instrumentId" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
@@ -51,6 +39,18 @@
     "event" : "PERCLOOP",
     "volume" : 0.8,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "b48b4488-6d4f-11ee-9d52-e3497ddacb1a",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Atonement Exploration Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457829068
   } ],
   "instrumentMemes" : [ {
     "id" : "675ed8e8-71cb-11ee-8452-ab8da7c4cf99",

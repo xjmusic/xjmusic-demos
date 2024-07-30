@@ -18,11 +18,6 @@
     "programSequenceId" : "ab429002-8243-478f-ae31-70db647598aa",
     "offset" : 1
   }, {
-    "id" : "d8807799-e1df-48b2-85dd-0ba72de66f8f",
-    "programId" : "0fe47adc-736f-11ee-8807-2f9d6e9f5e17",
-    "programSequenceId" : "ab429002-8243-478f-ae31-70db647598aa",
-    "offset" : 0
-  }, {
     "id" : "a0530322-78f6-11ee-afbd-57e2a8660107",
     "programId" : "0fe47adc-736f-11ee-8807-2f9d6e9f5e17",
     "programSequenceId" : "ab429002-8243-478f-ae31-70db647598aa",
@@ -32,6 +27,11 @@
     "programId" : "0fe47adc-736f-11ee-8807-2f9d6e9f5e17",
     "programSequenceId" : "ab429002-8243-478f-ae31-70db647598aa",
     "offset" : 2
+  }, {
+    "id" : "d8807799-e1df-48b2-85dd-0ba72de66f8f",
+    "programId" : "0fe47adc-736f-11ee-8807-2f9d6e9f5e17",
+    "programSequenceId" : "ab429002-8243-478f-ae31-70db647598aa",
+    "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
     "id" : "5667cba8-78f6-11ee-afbd-8b8ef15eabfa",

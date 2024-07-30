@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "76fabf78-7df7-11ee-be21-63f9898405b3",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Victory Exploration Hook",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457829053
-  } ],
   "instrumentAudios" : [ {
     "id" : "92cdba4a-bcbe-43ed-b2eb-d93587d3a5aa",
     "instrumentId" : "76fabf78-7df7-11ee-be21-63f9898405b3",
@@ -25,6 +13,18 @@
     "event" : "HOOK",
     "volume" : 1.0,
     "tones" : "F"
+  } ],
+  "instruments" : [ {
+    "id" : "76fabf78-7df7-11ee-be21-63f9898405b3",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Victory Exploration Hook",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457829053
   } ],
   "instrumentMemes" : [ {
     "id" : "29d1e1bb-98b6-4088-908f-3e190c6f4e69",

@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "9b2427ac-ae78-11ee-bf90-83a6a3a5501e",
-    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
-    "type" : "Bass",
-    "state" : "Published",
-    "name" : "Victory Combat Bass",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828805
-  } ],
   "instrumentAudios" : [ {
     "id" : "ae8690a0-ae78-11ee-8323-a7f2dcceb257",
     "instrumentId" : "9b2427ac-ae78-11ee-bf90-83a6a3a5501e",
@@ -25,6 +13,18 @@
     "event" : "BASS",
     "volume" : 1.0,
     "tones" : "F"
+  } ],
+  "instruments" : [ {
+    "id" : "9b2427ac-ae78-11ee-bf90-83a6a3a5501e",
+    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
+    "type" : "Bass",
+    "state" : "Published",
+    "name" : "Victory Combat Bass",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828805
   } ],
   "instrumentMemes" : [ {
     "id" : "c992fae8-ae85-11ee-95da-830e2a6ff30b",

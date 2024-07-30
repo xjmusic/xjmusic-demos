@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "062bddae-7f4b-11ee-bec8-b3883d57969f",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Call to Action Combat",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828857
-  } ],
   "instrumentAudios" : [ {
     "id" : "bbb89ba0-7f5d-11ee-b6d1-7bd4405b91c7",
     "instrumentId" : "062bddae-7f4b-11ee-bec8-b3883d57969f",
@@ -51,6 +39,18 @@
     "event" : "SMALL",
     "volume" : 0.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "062bddae-7f4b-11ee-bec8-b3883d57969f",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Call to Action Combat",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828857
   } ],
   "instrumentMemes" : [ {
     "id" : "043f3557-cc8e-4f2f-81ef-2e1f5d464758",

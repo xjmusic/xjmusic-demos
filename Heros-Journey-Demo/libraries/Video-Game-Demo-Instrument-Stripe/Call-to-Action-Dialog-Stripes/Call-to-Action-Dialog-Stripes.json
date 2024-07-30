@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "2b929dd1-32b3-4ac4-a9f9-884f51befeb4",
-    "libraryId" : "8952bd4a-66f7-11ee-bcd4-3f22e7f68e89",
-    "type" : "Stripe",
-    "state" : "Published",
-    "name" : "Call to Action Dialog Stripes",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828779
-  } ],
   "instrumentAudios" : [ {
     "id" : "d46e34cf-fda9-485e-be38-d220b450dea8",
     "instrumentId" : "2b929dd1-32b3-4ac4-a9f9-884f51befeb4",
@@ -25,6 +13,18 @@
     "event" : "STRIPE",
     "volume" : 3.0,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "2b929dd1-32b3-4ac4-a9f9-884f51befeb4",
+    "libraryId" : "8952bd4a-66f7-11ee-bcd4-3f22e7f68e89",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Call to Action Dialog Stripes",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828779
   } ],
   "instrumentMemes" : [ {
     "id" : "d09db7e6-8927-4cd2-bc52-a8ac42277d93",

@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "3677de96-72de-11ee-bbe8-d32cf65b3ef1",
-    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Embark Exploration Pads",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457828925
-  } ],
   "instrumentAudios" : [ {
     "id" : "2348a2af-74fd-4cae-8691-b97a667e7f15",
     "instrumentId" : "3677de96-72de-11ee-bbe8-d32cf65b3ef1",
@@ -38,6 +26,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "B"
+  } ],
+  "instruments" : [ {
+    "id" : "3677de96-72de-11ee-bbe8-d32cf65b3ef1",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Embark Exploration Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828925
   } ],
   "instrumentMemes" : [ {
     "id" : "449c21e2-7501-11ee-b799-1f4112c197eb",

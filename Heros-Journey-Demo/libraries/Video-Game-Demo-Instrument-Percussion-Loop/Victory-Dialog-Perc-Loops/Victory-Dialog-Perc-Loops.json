@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
-    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Victory Dialog Perc Loops",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828907
-  } ],
   "instrumentAudios" : [ {
     "id" : "7e45f81d-9439-4d6e-9277-9868c1eefe4f",
     "instrumentId" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
@@ -38,6 +26,18 @@
     "event" : "PERCLOOP",
     "volume" : 2.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "49113c9c-6e14-11ee-a6f1-13f25658ff96",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Victory Dialog Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828907
   } ],
   "instrumentMemes" : [ {
     "id" : "29830db6-6e18-11ee-8497-f761db704fb9",
