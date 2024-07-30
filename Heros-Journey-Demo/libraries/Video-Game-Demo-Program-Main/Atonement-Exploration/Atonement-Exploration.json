@@ -92,6 +92,10 @@
     "order" : 1000.0
   } ],
   "programMemes" : [ {
+    "id" : "737ecedc-675c-4fae-918b-d852724cb0eb",
+    "name" : "95BPM",
+    "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae"
+  }, {
     "id" : "06100780-66f7-11ee-b708-f7bc5d31cb01",
     "name" : "ATONEMENT",
     "programId" : "d252d314-66f6-11ee-bcd4-a700be7cefae"
