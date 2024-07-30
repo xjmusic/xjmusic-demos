@@ -35,16 +35,16 @@
     "name" : "SWEET"
   } ],
   "programSequences" : [ {
-    "id" : "ed267493-0c12-4be1-9375-fbcdd9e600cb",
+    "id" : "febfec54-5489-4071-8a21-1074b27126a9",
     "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
-    "name" : "Open Space Test Macro 2",
+    "name" : "Open Space Macro Test",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 16
   }, {
-    "id" : "febfec54-5489-4071-8a21-1074b27126a9",
+    "id" : "ed267493-0c12-4be1-9375-fbcdd9e600cb",
     "programId" : "2f6ec6de-ae3e-11ec-8e62-0bf7e5b60d62",
-    "name" : "Open Space Macro Test",
+    "name" : "Open Space Test Macro 2",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 16

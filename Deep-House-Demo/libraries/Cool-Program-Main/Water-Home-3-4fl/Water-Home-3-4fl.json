@@ -13,10 +13,35 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequenceBindings" : [ {
-    "id" : "6eebc5a1-fd8e-48bf-b2b2-fb6cecbc1bb9",
+    "id" : "90323def-e6be-4035-bd4d-18d7675ef876",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 6
+    "offset" : 3
+  }, {
+    "id" : "952b1fdd-25bd-467e-80db-7851490a4a44",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
+    "offset" : 1
+  }, {
+    "id" : "a968283f-b9ae-46c9-9ddc-63e93cbf7576",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
+    "offset" : 8
+  }, {
+    "id" : "b5537881-9a2e-40ff-8de6-df0fade586d9",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
+    "offset" : 10
+  }, {
+    "id" : "ba6f37fe-ccf1-4ba2-9fce-712fbf19acea",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
+    "offset" : 9
+  }, {
+    "id" : "c2d368ff-be58-45a3-8442-b283fabd7a54",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
+    "offset" : 4
   }, {
     "id" : "f21bf037-5eb4-48d5-84ee-987d523a6145",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
@@ -28,41 +53,6 @@
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
     "offset" : 2
   }, {
-    "id" : "3c06ba4b-058f-4e80-b9c4-ba3d8b272d38",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 12
-  }, {
-    "id" : "90323def-e6be-4035-bd4d-18d7675ef876",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 3
-  }, {
-    "id" : "6cd28192-da5c-4707-9ce5-1ef36e5e98fb",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 14
-  }, {
-    "id" : "a968283f-b9ae-46c9-9ddc-63e93cbf7576",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 8
-  }, {
-    "id" : "ba6f37fe-ccf1-4ba2-9fce-712fbf19acea",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 9
-  }, {
-    "id" : "952b1fdd-25bd-467e-80db-7851490a4a44",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 1
-  }, {
-    "id" : "32c2be7c-8d41-4116-bc0b-bb84008d505a",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 13
-  }, {
     "id" : "11b2ceb6-2b48-42d6-b0e7-a98b390ff02b",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
@@ -73,25 +63,35 @@
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
     "offset" : 5
   }, {
-    "id" : "b5537881-9a2e-40ff-8de6-df0fade586d9",
+    "id" : "32c2be7c-8d41-4116-bc0b-bb84008d505a",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 10
+    "offset" : 13
   }, {
-    "id" : "5bbe4326-c8b5-4808-a8f0-bbc288fff5b2",
+    "id" : "3c06ba4b-058f-4e80-b9c4-ba3d8b272d38",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 15
+    "offset" : 12
   }, {
     "id" : "50825b3f-ba8f-45e0-976f-0190c32ee779",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
     "offset" : 7
   }, {
-    "id" : "c2d368ff-be58-45a3-8442-b283fabd7a54",
+    "id" : "5bbe4326-c8b5-4808-a8f0-bbc288fff5b2",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
     "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
-    "offset" : 4
+    "offset" : 15
+  }, {
+    "id" : "6cd28192-da5c-4707-9ce5-1ef36e5e98fb",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
+    "offset" : 14
+  }, {
+    "id" : "6eebc5a1-fd8e-48bf-b2b2-fb6cecbc1bb9",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceId" : "8086fcde-c7c9-4895-970d-6ceddd160201",
+    "offset" : 6
   } ],
   "programSequenceBindingMemes" : [ {
     "id" : "17120501-dbac-494c-a969-f2481f709115",
@@ -112,22 +112,10 @@
     "position" : 0.0
   } ],
   "programVoices" : [ {
-    "id" : "c705bfb0-d941-11ec-9b32-37fcdc83e9a4",
+    "id" : "c7056ca4-d941-11ec-9b32-e7254423a726",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "type" : "Sticky",
-    "name" : "Sticky",
-    "order" : 1000.0
-  }, {
-    "id" : "c7061384-d941-11ec-9b32-9b8d70e7ef04",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "type" : "Stab",
-    "name" : "Stab",
-    "order" : 1000.0
-  }, {
-    "id" : "c705ed32-d941-11ec-9b32-0b7f18ea8058",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "type" : "Stripe",
-    "name" : "Stripe",
+    "type" : "Bass",
+    "name" : "Bass",
     "order" : 1000.0
   }, {
     "id" : "c705933c-d941-11ec-9b32-2f965bfe1e02",
@@ -136,15 +124,27 @@
     "name" : "Pad",
     "order" : 1000.0
   }, {
-    "id" : "c7056ca4-d941-11ec-9b32-e7254423a726",
+    "id" : "c7061384-d941-11ec-9b32-9b8d70e7ef04",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "type" : "Bass",
-    "name" : "Bass",
+    "type" : "Stab",
+    "name" : "Stab",
+    "order" : 1000.0
+  }, {
+    "id" : "c705bfb0-d941-11ec-9b32-37fcdc83e9a4",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "type" : "Sticky",
+    "name" : "Sticky",
+    "order" : 1000.0
+  }, {
+    "id" : "c705ed32-d941-11ec-9b32-0b7f18ea8058",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "type" : "Stripe",
+    "name" : "Stripe",
     "order" : 1000.0
   } ],
   "programMemes" : [ {
-    "id" : "fe836fd7-0252-45f6-95cc-275173822ffa",
-    "name" : "WIDEOPEN",
+    "id" : "02c4916a-adc8-4254-a0c8-6204718380f0",
+    "name" : "4NOTE",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f"
   }, {
     "id" : "7d484efe-05ea-11ec-8d8d-d357d3570c8b",
@@ -159,8 +159,8 @@
     "name" : "WATER",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f"
   }, {
-    "id" : "02c4916a-adc8-4254-a0c8-6204718380f0",
-    "name" : "4NOTE",
+    "id" : "fe836fd7-0252-45f6-95cc-275173822ffa",
+    "name" : "WIDEOPEN",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f"
   } ],
   "programSequences" : [ {
@@ -184,6 +184,12 @@
     "notes" : "Ab3, C4, Db4, F4, Ab4, C5",
     "programVoiceId" : "c705933c-d941-11ec-9b32-2f965bfe1e02"
   }, {
+    "id" : "045d2937-948e-43b7-997d-f1fe0baf5f53",
+    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
+    "programSequenceChordId" : "c0218c36-cc0a-4ec8-bf46-5d2eedd255de",
+    "notes" : "F3, Ab3, Bb3, Db4, Eb4, F4, Ab4, Bb4",
+    "programVoiceId" : "c705bfb0-d941-11ec-9b32-37fcdc83e9a4"
+  }, {
     "id" : "20faeb08-a3c9-4449-b486-eba2fd751dd4",
     "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
     "programSequenceChordId" : "c0218c36-cc0a-4ec8-bf46-5d2eedd255de",
@@ -195,11 +201,5 @@
     "programSequenceChordId" : "c0218c36-cc0a-4ec8-bf46-5d2eedd255de",
     "notes" : "Ab3, C4, Db4, F4, Ab4, C5, Db5, F5, Ab5",
     "programVoiceId" : "c7061384-d941-11ec-9b32-9b8d70e7ef04"
-  }, {
-    "id" : "045d2937-948e-43b7-997d-f1fe0baf5f53",
-    "programId" : "516d4e66-05e9-11ec-a289-fbdfd861803f",
-    "programSequenceChordId" : "c0218c36-cc0a-4ec8-bf46-5d2eedd255de",
-    "notes" : "F3, Ab3, Bb3, Db4, Eb4, F4, Ab4, Bb4",
-    "programVoiceId" : "c705bfb0-d941-11ec-9b32-37fcdc83e9a4"
   } ]
 }

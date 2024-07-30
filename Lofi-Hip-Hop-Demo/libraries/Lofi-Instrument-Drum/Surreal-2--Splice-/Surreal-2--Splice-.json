@@ -1,19 +1,18 @@
 {
   "demo" : false,
-  "instrumentAudios" : [ {
-    "id" : "e0fa4416-96c4-4ccf-b576-f652896544a6",
-    "instrumentId" : "a737c3f8-0eb2-11ed-ba66-d30b1bfddce0",
-    "name" : "Kick 1",
-    "waveformKey" : "Surreal-2--Splice--Kick-1-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.368344,
-    "loopBeats" : 1.0,
-    "tempo" : 75.0,
-    "intensity" : 0.5,
-    "event" : "KICK",
+  "instruments" : [ {
+    "id" : "a737c3f8-0eb2-11ed-ba66-d30b1bfddce0",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Surreal 2 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
     "volume" : 1.0,
-    "tones" : "X"
-  }, {
+    "mode" : "Event",
+    "updatedAt" : 1710457155950
+  } ],
+  "instrumentAudios" : [ {
     "id" : "e53fa80c-1482-11ed-9d9d-cb3d7b2ca0c1",
     "instrumentId" : "a737c3f8-0eb2-11ed-ba66-d30b1bfddce0",
     "name" : "Hi Hat",
@@ -27,16 +26,16 @@
     "volume" : 0.2,
     "tones" : "X"
   }, {
-    "id" : "5610369c-1482-11ed-9d9d-af6d635ad1b4",
+    "id" : "e0fa4416-96c4-4ccf-b576-f652896544a6",
     "instrumentId" : "a737c3f8-0eb2-11ed-ba66-d30b1bfddce0",
-    "name" : "Snare 2",
-    "waveformKey" : "Surreal-2--Splice--Snare-2-X.wav",
+    "name" : "Kick 1",
+    "waveformKey" : "Surreal-2--Splice--Kick-1-X.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.582811,
+    "lengthSeconds" : 0.368344,
     "loopBeats" : 1.0,
     "tempo" : 75.0,
     "intensity" : 0.5,
-    "event" : "SNARE",
+    "event" : "KICK",
     "volume" : 1.0,
     "tones" : "X"
   }, {
@@ -52,17 +51,18 @@
     "event" : "SNARE",
     "volume" : 1.0,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "a737c3f8-0eb2-11ed-ba66-d30b1bfddce0",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Surreal 2 (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
+  }, {
+    "id" : "5610369c-1482-11ed-9d9d-af6d635ad1b4",
+    "instrumentId" : "a737c3f8-0eb2-11ed-ba66-d30b1bfddce0",
+    "name" : "Snare 2",
+    "waveformKey" : "Surreal-2--Splice--Snare-2-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.582811,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
     "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155950
+    "tones" : "X"
   } ]
 }

@@ -18,17 +18,22 @@
     "programSequenceId" : "1a37a458-16eb-11ea-8a37-2f73f5c0b0d4",
     "offset" : 0
   }, {
-    "id" : "1a396798-16eb-11ea-8a37-0790714b7955",
-    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
-    "programSequenceId" : "1a3889ae-16eb-11ea-8a37-4784548d9418",
-    "offset" : 1
-  }, {
     "id" : "1a3b9a9a-16eb-11ea-8a37-0f1de4dd940d",
     "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
     "programSequenceId" : "1a37a458-16eb-11ea-8a37-2f73f5c0b0d4",
     "offset" : 2
+  }, {
+    "id" : "1a396798-16eb-11ea-8a37-0790714b7955",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceId" : "1a3889ae-16eb-11ea-8a37-4784548d9418",
+    "offset" : 1
   } ],
   "programSequenceBindingMemes" : [ {
+    "id" : "210cfcae-f9e6-11ea-96d4-9bb9fc1f9137",
+    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
+    "programSequenceBindingId" : "1a3a4de8-16eb-11ea-8a37-2f48cf13837c",
+    "name" : "EARTH"
+  }, {
     "id" : "1a3e100e-16eb-11ea-8a37-4b8eb99d0fd7",
     "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
     "programSequenceBindingId" : "1a396798-16eb-11ea-8a37-0790714b7955",
@@ -38,11 +43,6 @@
     "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
     "programSequenceBindingId" : "1a3b9a9a-16eb-11ea-8a37-0f1de4dd940d",
     "name" : "Fire"
-  }, {
-    "id" : "210cfcae-f9e6-11ea-96d4-9bb9fc1f9137",
-    "programId" : "1a36a1ca-16eb-11ea-8a37-536b94a6f3ff",
-    "programSequenceBindingId" : "1a3a4de8-16eb-11ea-8a37-2f48cf13837c",
-    "name" : "EARTH"
   } ],
   "programSequences" : [ {
     "id" : "1a3889ae-16eb-11ea-8a37-4784548d9418",

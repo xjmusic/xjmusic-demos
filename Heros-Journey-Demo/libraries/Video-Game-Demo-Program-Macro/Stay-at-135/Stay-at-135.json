@@ -13,21 +13,21 @@
     "updatedAt" : 1710457830558
   } ],
   "programSequenceBindings" : [ {
-    "id" : "6e0a6c2d-e62b-4aff-ad43-fc825625b01f",
-    "programId" : "6c951a08-71ca-11ee-8452-b3ce4c5a3b98",
-    "programSequenceId" : "abf7301e-228d-44d5-bf22-08591f211d1f",
-    "offset" : 0
-  }, {
     "id" : "cfdd92d2-6fd5-4179-94da-e962655833bd",
     "programId" : "6c951a08-71ca-11ee-8452-b3ce4c5a3b98",
     "programSequenceId" : "abf7301e-228d-44d5-bf22-08591f211d1f",
     "offset" : 1
+  }, {
+    "id" : "6e0a6c2d-e62b-4aff-ad43-fc825625b01f",
+    "programId" : "6c951a08-71ca-11ee-8452-b3ce4c5a3b98",
+    "programSequenceId" : "abf7301e-228d-44d5-bf22-08591f211d1f",
+    "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "7deebfb6-71ca-11ee-8452-636e32f50c74",
+    "id" : "7616fdcb-54f8-4819-a70e-744f6d7f656d",
     "programId" : "6c951a08-71ca-11ee-8452-b3ce4c5a3b98",
     "programSequenceBindingId" : "cfdd92d2-6fd5-4179-94da-e962655833bd",
-    "name" : "COMBAT"
+    "name" : "135BPM"
   }, {
     "id" : "78e0eb02-71ca-11ee-8452-cb031543dfa6",
     "programId" : "6c951a08-71ca-11ee-8452-b3ce4c5a3b98",
@@ -39,10 +39,10 @@
     "programSequenceBindingId" : "6e0a6c2d-e62b-4aff-ad43-fc825625b01f",
     "name" : "COMBAT"
   }, {
-    "id" : "7616fdcb-54f8-4819-a70e-744f6d7f656d",
+    "id" : "7deebfb6-71ca-11ee-8452-636e32f50c74",
     "programId" : "6c951a08-71ca-11ee-8452-b3ce4c5a3b98",
     "programSequenceBindingId" : "cfdd92d2-6fd5-4179-94da-e962655833bd",
-    "name" : "135BPM"
+    "name" : "COMBAT"
   } ],
   "programMemes" : [ {
     "id" : "decf1e5e-607a-4584-9c38-58c606eed6ea",

@@ -1,6 +1,31 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Lo-Fi Elements 3 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155911
+  } ],
   "instrumentAudios" : [ {
+    "id" : "cbf2fe29-f4b6-428a-8944-da1ba9e6e25a",
+    "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
+    "name" : "Kick 1",
+    "waveformKey" : "Lo-Fi-Elements-3--Splice--Kick-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.25,
+    "loopBeats" : 1.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
     "id" : "3747ec7e-08be-4684-ae7b-d0ce5b445c73",
     "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
     "name" : "Kick 2",
@@ -14,12 +39,12 @@
     "volume" : 1.0,
     "tones" : "X"
   }, {
-    "id" : "cbf2fe29-f4b6-428a-8944-da1ba9e6e25a",
+    "id" : "2fbf66ba-be91-4932-8019-c3f96c3d6684",
     "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
-    "name" : "Kick 1",
-    "waveformKey" : "Lo-Fi-Elements-3--Splice--Kick-1-X.wav",
+    "name" : "Kick 3",
+    "waveformKey" : "Lo-Fi-Elements-3--Splice--Kick-3-X.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.25,
+    "lengthSeconds" : 0.264897,
     "loopBeats" : 1.0,
     "tempo" : 85.0,
     "intensity" : 0.5,
@@ -53,6 +78,19 @@
     "volume" : 1.0,
     "tones" : "X"
   }, {
+    "id" : "095c27a8-d3db-475e-b805-1c15b4a67548",
+    "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
+    "name" : "Rimshot 1",
+    "waveformKey" : "Lo-Fi-Elements-3--Splice--Rimshot-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.171882,
+    "loopBeats" : 1.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
     "id" : "16ed3c04-a188-403f-a2c2-6059a733f73b",
     "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
     "name" : "Snare 1",
@@ -78,43 +116,5 @@
     "event" : "SNARE",
     "volume" : 1.0,
     "tones" : "X"
-  }, {
-    "id" : "095c27a8-d3db-475e-b805-1c15b4a67548",
-    "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
-    "name" : "Rimshot 1",
-    "waveformKey" : "Lo-Fi-Elements-3--Splice--Rimshot-1-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.171882,
-    "loopBeats" : 1.0,
-    "tempo" : 85.0,
-    "intensity" : 0.5,
-    "event" : "SNARE",
-    "volume" : 1.0,
-    "tones" : "X"
-  }, {
-    "id" : "2fbf66ba-be91-4932-8019-c3f96c3d6684",
-    "instrumentId" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
-    "name" : "Kick 3",
-    "waveformKey" : "Lo-Fi-Elements-3--Splice--Kick-3-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.264897,
-    "loopBeats" : 1.0,
-    "tempo" : 85.0,
-    "intensity" : 0.5,
-    "event" : "KICK",
-    "volume" : 1.0,
-    "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "b3348aac-a8c7-11ec-a9d8-ab334ad73347",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Lo-Fi Elements 3 (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155911
   } ]
 }

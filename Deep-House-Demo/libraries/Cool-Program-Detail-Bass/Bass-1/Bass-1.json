@@ -21,14 +21,14 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "36f63814-2551-11eb-8f85-9bedab866947",
+    "id" : "24e8166a-2551-11eb-8f85-6f2b71a54f19",
     "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
     "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
     "programVoiceTrackId" : "b94aa1b6-2550-11eb-ab18-4f42162b426c",
     "velocity" : 1.0,
-    "position" : 3.5,
+    "position" : 0.0,
     "duration" : 0.25,
-    "tones" : "A2"
+    "tones" : "A1"
   }, {
     "id" : "259289ba-2551-11eb-8f85-671b46d1e98f",
     "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
@@ -48,33 +48,6 @@
     "duration" : 0.25,
     "tones" : "A2"
   }, {
-    "id" : "3a8fe326-2551-11eb-8f85-37962d0fc959",
-    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
-    "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
-    "programVoiceTrackId" : "b94aa1b6-2550-11eb-ab18-4f42162b426c",
-    "velocity" : 1.0,
-    "position" : 6.75,
-    "duration" : 0.25,
-    "tones" : "A2"
-  }, {
-    "id" : "4184e1f4-2551-11eb-8f85-c7a31491656a",
-    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
-    "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
-    "programVoiceTrackId" : "b94aa1b6-2550-11eb-ab18-4f42162b426c",
-    "velocity" : 1.0,
-    "position" : 7.75,
-    "duration" : 0.25,
-    "tones" : "G1"
-  }, {
-    "id" : "24e8166a-2551-11eb-8f85-6f2b71a54f19",
-    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
-    "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
-    "programVoiceTrackId" : "b94aa1b6-2550-11eb-ab18-4f42162b426c",
-    "velocity" : 1.0,
-    "position" : 0.0,
-    "duration" : 0.25,
-    "tones" : "A1"
-  }, {
     "id" : "3665f498-2551-11eb-8f85-e73361984263",
     "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
     "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
@@ -83,6 +56,15 @@
     "position" : 2.75,
     "duration" : 0.25,
     "tones" : "A1"
+  }, {
+    "id" : "36f63814-2551-11eb-8f85-9bedab866947",
+    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
+    "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
+    "programVoiceTrackId" : "b94aa1b6-2550-11eb-ab18-4f42162b426c",
+    "velocity" : 1.0,
+    "position" : 3.5,
+    "duration" : 0.25,
+    "tones" : "A2"
   }, {
     "id" : "378c11ea-2551-11eb-8f85-ef701df27ac0",
     "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
@@ -111,6 +93,15 @@
     "duration" : 0.25,
     "tones" : "A2"
   }, {
+    "id" : "3a8fe326-2551-11eb-8f85-37962d0fc959",
+    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
+    "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
+    "programVoiceTrackId" : "b94aa1b6-2550-11eb-ab18-4f42162b426c",
+    "velocity" : 1.0,
+    "position" : 6.75,
+    "duration" : 0.25,
+    "tones" : "A2"
+  }, {
     "id" : "3be847ae-2551-11eb-8f85-2b0aeea54b2b",
     "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
     "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
@@ -119,6 +110,15 @@
     "position" : 7.5,
     "duration" : 0.25,
     "tones" : "G2"
+  }, {
+    "id" : "4184e1f4-2551-11eb-8f85-c7a31491656a",
+    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b",
+    "programSequencePatternId" : "b5ab099c-2550-11eb-ab18-474c189ab57b",
+    "programVoiceTrackId" : "b94aa1b6-2550-11eb-ab18-4f42162b426c",
+    "velocity" : 1.0,
+    "position" : 7.75,
+    "duration" : 0.25,
+    "tones" : "G1"
   } ],
   "programVoices" : [ {
     "id" : "b01b18aa-2550-11eb-ab18-376948d473ea",
@@ -128,12 +128,12 @@
     "order" : 1000.0
   } ],
   "programMemes" : [ {
-    "id" : "80d5f7d2-afa6-11eb-9fd8-e7e98d4a2c76",
-    "name" : "STRAIGHT",
-    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b"
-  }, {
     "id" : "7e935cc6-afa6-11eb-9fd8-f73bf301f1d7",
     "name" : "OPEN",
+    "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b"
+  }, {
+    "id" : "80d5f7d2-afa6-11eb-9fd8-e7e98d4a2c76",
+    "name" : "STRAIGHT",
     "programId" : "a3593a3e-2550-11eb-ab18-033a09f5590b"
   }, {
     "id" : "72a730fe-afa6-11eb-9fd8-5f07b105a613",

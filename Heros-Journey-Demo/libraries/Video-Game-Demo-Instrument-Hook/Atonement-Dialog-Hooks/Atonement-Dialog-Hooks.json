@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "19be7582-ae64-11ee-b21e-6f393dfacc3c",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Atonement Dialog Hooks",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828970
+  } ],
   "instrumentAudios" : [ {
     "id" : "34b1b3c5-641d-4199-ad8a-9476583513c8",
     "instrumentId" : "19be7582-ae64-11ee-b21e-6f393dfacc3c",
@@ -13,18 +25,6 @@
     "event" : "HOOK",
     "volume" : 1.0,
     "tones" : "F"
-  } ],
-  "instruments" : [ {
-    "id" : "19be7582-ae64-11ee-b21e-6f393dfacc3c",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Atonement Dialog Hooks",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457828970
   } ],
   "instrumentMemes" : [ {
     "id" : "4f139801-856d-4071-a674-46160df5a389",

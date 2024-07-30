@@ -21,21 +21,21 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "ca856e53-085e-42a7-9964-90f993a71d16",
-    "programId" : "0731a632-169f-11ec-8bb0-cf37a39f17c4",
-    "programSequencePatternId" : "bc00153b-5ee4-4c5b-aafb-0595d4191be1",
-    "programVoiceTrackId" : "a0b30ef3-a83f-4c97-842f-16b5e3ca8a11",
-    "velocity" : 1.0,
-    "position" : 6.5,
-    "duration" : 0.5,
-    "tones" : "F4, A4, C5, D5"
-  }, {
     "id" : "66dfef08-b330-4071-882a-80c373270241",
     "programId" : "0731a632-169f-11ec-8bb0-cf37a39f17c4",
     "programSequencePatternId" : "bc00153b-5ee4-4c5b-aafb-0595d4191be1",
     "programVoiceTrackId" : "a0b30ef3-a83f-4c97-842f-16b5e3ca8a11",
     "velocity" : 1.0,
     "position" : 2.5,
+    "duration" : 0.5,
+    "tones" : "F4, A4, C5, D5"
+  }, {
+    "id" : "ca856e53-085e-42a7-9964-90f993a71d16",
+    "programId" : "0731a632-169f-11ec-8bb0-cf37a39f17c4",
+    "programSequencePatternId" : "bc00153b-5ee4-4c5b-aafb-0595d4191be1",
+    "programVoiceTrackId" : "a0b30ef3-a83f-4c97-842f-16b5e3ca8a11",
+    "velocity" : 1.0,
+    "position" : 6.5,
     "duration" : 0.5,
     "tones" : "F4, A4, C5, D5"
   } ],
@@ -47,20 +47,20 @@
     "order" : 0.0
   } ],
   "programMemes" : [ {
-    "id" : "735c5205-442a-4edb-892c-46994cc32cb9",
-    "name" : "OPEN",
+    "id" : "ea17d28d-6f9c-4021-a399-5aad4bf1180f",
+    "name" : "4NOTE",
     "programId" : "0731a632-169f-11ec-8bb0-cf37a39f17c4"
   }, {
-    "id" : "ac931bf2-0500-4330-8427-1480a9f30ddc",
-    "name" : "WIDEOPEN",
+    "id" : "735c5205-442a-4edb-892c-46994cc32cb9",
+    "name" : "OPEN",
     "programId" : "0731a632-169f-11ec-8bb0-cf37a39f17c4"
   }, {
     "id" : "d010a4eb-a972-44e9-ae31-fcecc2b6b661",
     "name" : "STRAIGHT",
     "programId" : "0731a632-169f-11ec-8bb0-cf37a39f17c4"
   }, {
-    "id" : "ea17d28d-6f9c-4021-a399-5aad4bf1180f",
-    "name" : "4NOTE",
+    "id" : "ac931bf2-0500-4330-8427-1480a9f30ddc",
+    "name" : "WIDEOPEN",
     "programId" : "0731a632-169f-11ec-8bb0-cf37a39f17c4"
   } ],
   "programSequences" : [ {

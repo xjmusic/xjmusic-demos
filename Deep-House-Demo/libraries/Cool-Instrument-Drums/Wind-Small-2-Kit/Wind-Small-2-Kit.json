@@ -13,19 +13,6 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "75134fb6-c6b9-11ea-bf1e-9f0a17350727",
-    "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
-    "name" : "Wind.Small.2.HatOpen",
-    "waveformKey" : "Wind-Small-2-Kit-Wind.Small.2.HatOpen-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.253166,
-    "loopBeats" : 1.0,
-    "tempo" : 130.0,
-    "intensity" : 0.5,
-    "event" : "HIHATOP",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
     "id" : "a290aec0-c6b9-11ea-bf1e-83f2f3ba4da7",
     "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
     "name" : "Wind.Small.2.Crash",
@@ -36,19 +23,6 @@
     "tempo" : 130.0,
     "intensity" : 0.5,
     "event" : "CRASH",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
-    "id" : "179d5cc8-c6b9-11ea-bf1e-5b67c76b8bf0",
-    "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
-    "name" : "Wind.Small.2.TomLo",
-    "waveformKey" : "Wind-Small-2-Kit-Wind.Small.2.TomLo-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.642187,
-    "loopBeats" : 1.0,
-    "tempo" : 130.0,
-    "intensity" : 0.5,
-    "event" : "TOMLO",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -65,16 +39,16 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "d4f42f78-c6b8-11ea-bf1e-276ab8bf8523",
+    "id" : "75134fb6-c6b9-11ea-bf1e-9f0a17350727",
     "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
-    "name" : "Wind.Small.2.TomHi",
-    "waveformKey" : "Wind-Small-2-Kit-Wind.Small.2.TomHi-x.wav",
+    "name" : "Wind.Small.2.HatOpen",
+    "waveformKey" : "Wind-Small-2-Kit-Wind.Small.2.HatOpen-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.242708,
+    "lengthSeconds" : 1.253166,
     "loopBeats" : 1.0,
     "tempo" : 130.0,
     "intensity" : 0.5,
-    "event" : "TOMHI",
+    "event" : "HIHATOP",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -104,6 +78,32 @@
     "volume" : 0.25,
     "tones" : "x"
   }, {
+    "id" : "d4f42f78-c6b8-11ea-bf1e-276ab8bf8523",
+    "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
+    "name" : "Wind.Small.2.TomHi",
+    "waveformKey" : "Wind-Small-2-Kit-Wind.Small.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.242708,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "179d5cc8-c6b9-11ea-bf1e-5b67c76b8bf0",
+    "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
+    "name" : "Wind.Small.2.TomLo",
+    "waveformKey" : "Wind-Small-2-Kit-Wind.Small.2.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.642187,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
     "id" : "f2b0f226-c6b8-11ea-bf1e-cb183fa6c21d",
     "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
     "name" : "Wind.Small.2.TomMid",
@@ -118,12 +118,12 @@
     "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "45d9a430-c6b8-11ea-bf1e-8b671c04ca3d",
-    "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
-    "name" : "WIND"
-  }, {
     "id" : "49f46212-c6b8-11ea-bf1e-4fa110bce9d9",
     "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
     "name" : "SMALL"
+  }, {
+    "id" : "45d9a430-c6b8-11ea-bf1e-8b671c04ca3d",
+    "instrumentId" : "430097b4-c6b8-11ea-bf1e-5f5392f83f6a",
+    "name" : "WIND"
   } ]
 }

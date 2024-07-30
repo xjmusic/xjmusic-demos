@@ -21,6 +21,15 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
+    "id" : "fb815264-ff9e-4065-a42d-185c97838ada",
+    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
+    "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
+    "programVoiceTrackId" : "ffd4e5c8-505e-4fbd-a4cb-55003974f6a8",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.25,
+    "tones" : "A2"
+  }, {
     "id" : "55a83e80-abac-4b32-b992-63ab7228a437",
     "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
     "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
@@ -28,6 +37,15 @@
     "velocity" : 1.0,
     "position" : 0.5,
     "duration" : 0.5,
+    "tones" : "A1"
+  }, {
+    "id" : "0eff9e74-9e9f-497b-9670-b9fb2e840d4f",
+    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
+    "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
+    "programVoiceTrackId" : "ffd4e5c8-505e-4fbd-a4cb-55003974f6a8",
+    "velocity" : 1.0,
+    "position" : 1.75,
+    "duration" : 0.25,
     "tones" : "A1"
   }, {
     "id" : "c2db6db7-174a-4a13-b806-971a41f4e579",
@@ -39,24 +57,6 @@
     "duration" : 0.25,
     "tones" : "C2"
   }, {
-    "id" : "fd1c4f84-4596-4903-af68-0d0e72e3821d",
-    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
-    "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
-    "programVoiceTrackId" : "ffd4e5c8-505e-4fbd-a4cb-55003974f6a8",
-    "velocity" : 1.0,
-    "position" : 2.75,
-    "duration" : 0.25,
-    "tones" : "A2"
-  }, {
-    "id" : "fb815264-ff9e-4065-a42d-185c97838ada",
-    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
-    "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
-    "programVoiceTrackId" : "ffd4e5c8-505e-4fbd-a4cb-55003974f6a8",
-    "velocity" : 1.0,
-    "position" : 0.0,
-    "duration" : 0.25,
-    "tones" : "A2"
-  }, {
     "id" : "443f3ee6-6c3c-4625-9ae6-dbc84d9b54a3",
     "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
     "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
@@ -65,15 +65,6 @@
     "position" : 2.25,
     "duration" : 0.25,
     "tones" : "D2"
-  }, {
-    "id" : "7dd9da4c-586e-11eb-9038-1784e7aef60a",
-    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
-    "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
-    "programVoiceTrackId" : "ffd4e5c8-505e-4fbd-a4cb-55003974f6a8",
-    "velocity" : 1.0,
-    "position" : 7.75,
-    "duration" : 0.25,
-    "tones" : "A2"
   }, {
     "id" : "fac5c4ea-a9dc-4768-9fc3-0fbc2a16e5c9",
     "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
@@ -84,14 +75,23 @@
     "duration" : 0.25,
     "tones" : "E2"
   }, {
-    "id" : "0eff9e74-9e9f-497b-9670-b9fb2e840d4f",
+    "id" : "fd1c4f84-4596-4903-af68-0d0e72e3821d",
     "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
     "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
     "programVoiceTrackId" : "ffd4e5c8-505e-4fbd-a4cb-55003974f6a8",
     "velocity" : 1.0,
-    "position" : 1.75,
+    "position" : 2.75,
     "duration" : 0.25,
-    "tones" : "A1"
+    "tones" : "A2"
+  }, {
+    "id" : "7dd9da4c-586e-11eb-9038-1784e7aef60a",
+    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f",
+    "programSequencePatternId" : "db886032-94aa-4282-8d08-bd40e14bb1c2",
+    "programVoiceTrackId" : "ffd4e5c8-505e-4fbd-a4cb-55003974f6a8",
+    "velocity" : 1.0,
+    "position" : 7.75,
+    "duration" : 0.25,
+    "tones" : "A2"
   } ],
   "programVoices" : [ {
     "id" : "8318b375-f521-40d5-be89-b834d29da57e",
@@ -105,12 +105,12 @@
     "name" : "!WUBBY",
     "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f"
   }, {
-    "id" : "414aaea8-b089-11eb-b88f-efee2c788400",
-    "name" : "OPEN",
-    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f"
-  }, {
     "id" : "e82b9846-939f-11ec-9a70-132e7551a15d",
     "name" : "$BUSY",
+    "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f"
+  }, {
+    "id" : "414aaea8-b089-11eb-b88f-efee2c788400",
+    "name" : "OPEN",
     "programId" : "6c1f8e00-586e-11eb-a3f6-4f44ab10301f"
   }, {
     "id" : "4074fc72-b089-11eb-b88f-4fb854dbcc47",

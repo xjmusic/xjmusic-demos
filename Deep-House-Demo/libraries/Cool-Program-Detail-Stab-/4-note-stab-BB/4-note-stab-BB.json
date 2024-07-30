@@ -21,6 +21,15 @@
     "total" : 16
   } ],
   "programSequencePatternEvents" : [ {
+    "id" : "5a6af57a-9856-4161-bc3f-5f75e3674c73",
+    "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17",
+    "programSequencePatternId" : "67a54c3b-5005-406b-af28-fa1c8a3344b7",
+    "programVoiceTrackId" : "4dcd31e1-4b2f-4410-8dcf-56951a22fc69",
+    "velocity" : 1.0,
+    "position" : 0.0,
+    "duration" : 0.75,
+    "tones" : "A3, C4, D4, F4"
+  }, {
     "id" : "58d50baa-568f-481d-9b39-f27f3ec17c9a",
     "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17",
     "programSequencePatternId" : "67a54c3b-5005-406b-af28-fa1c8a3344b7",
@@ -38,15 +47,6 @@
     "position" : 11.5,
     "duration" : 0.5,
     "tones" : "A3, C4, D4, F4"
-  }, {
-    "id" : "5a6af57a-9856-4161-bc3f-5f75e3674c73",
-    "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17",
-    "programSequencePatternId" : "67a54c3b-5005-406b-af28-fa1c8a3344b7",
-    "programVoiceTrackId" : "4dcd31e1-4b2f-4410-8dcf-56951a22fc69",
-    "velocity" : 1.0,
-    "position" : 0.0,
-    "duration" : 0.75,
-    "tones" : "A3, C4, D4, F4"
   } ],
   "programVoices" : [ {
     "id" : "068d6293-c1ee-4270-b0df-b6571b5ec19c",
@@ -56,6 +56,10 @@
     "order" : 0.0
   } ],
   "programMemes" : [ {
+    "id" : "9ce2ad4a-1e3a-46a3-a623-c109e8a99ee8",
+    "name" : "4NOTE",
+    "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17"
+  }, {
     "id" : "b36f98bf-fbae-48ef-ae3e-fc75bdc055aa",
     "name" : "NEW",
     "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17"
@@ -64,16 +68,12 @@
     "name" : "OPEN",
     "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17"
   }, {
-    "id" : "9ce2ad4a-1e3a-46a3-a623-c109e8a99ee8",
-    "name" : "4NOTE",
+    "id" : "1c964b05-4e8a-481f-b78b-6c95cfcdeaaf",
+    "name" : "STRAIGHT",
     "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17"
   }, {
     "id" : "089a5f50-1bf3-4311-bcb1-a0adf453669d",
     "name" : "WIDEOPEN",
-    "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17"
-  }, {
-    "id" : "1c964b05-4e8a-481f-b78b-6c95cfcdeaaf",
-    "name" : "STRAIGHT",
     "programId" : "ae8a3642-8ba7-11ec-9731-932fabf87e17"
   } ],
   "programSequences" : [ {

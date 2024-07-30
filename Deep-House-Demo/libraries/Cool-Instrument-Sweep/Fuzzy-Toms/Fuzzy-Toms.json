@@ -13,32 +13,6 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "83aa239c-4435-11ec-898d-8b0f897ef40a",
-    "instrumentId" : "fd523c02-4430-11ec-b6c9-9f84f28410fd",
-    "name" : "Fuzzy Tom Small Fill 1 w/ M/S Delay",
-    "waveformKey" : "Fuzzy-Toms-Fuzzy-Tom-Small-Fill-1-w--M-S-Delay-X.wav",
-    "transientSeconds" : 2.0,
-    "lengthSeconds" : 6.0,
-    "loopBeats" : 0.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "MEDIUM",
-    "volume" : 1.1,
-    "tones" : "X"
-  }, {
-    "id" : "c57da712-4435-11ec-98f2-8b05e12168ea",
-    "instrumentId" : "fd523c02-4430-11ec-b6c9-9f84f28410fd",
-    "name" : "Fuzzy Tom Small Fill 1 w/ Ping-Pong Delay",
-    "waveformKey" : "Fuzzy-Toms-Fuzzy-Tom-Small-Fill-1-w--Ping-Pong-Delay-X.wav",
-    "transientSeconds" : 2.0,
-    "lengthSeconds" : 7.0,
-    "loopBeats" : 0.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "MEDIUM",
-    "volume" : 1.0,
-    "tones" : "X"
-  }, {
     "id" : "6e9cacb6-4437-11ec-9255-9bbafa8410f6",
     "instrumentId" : "fd523c02-4430-11ec-b6c9-9f84f28410fd",
     "name" : "Fuzzy Tom Big Fill 1 w/ Subby Boy on the \"1\"",
@@ -76,6 +50,32 @@
     "intensity" : 0.5,
     "event" : "MEDIUM",
     "volume" : 1.1,
+    "tones" : "X"
+  }, {
+    "id" : "83aa239c-4435-11ec-898d-8b0f897ef40a",
+    "instrumentId" : "fd523c02-4430-11ec-b6c9-9f84f28410fd",
+    "name" : "Fuzzy Tom Small Fill 1 w/ M/S Delay",
+    "waveformKey" : "Fuzzy-Toms-Fuzzy-Tom-Small-Fill-1-w--M-S-Delay-X.wav",
+    "transientSeconds" : 2.0,
+    "lengthSeconds" : 6.0,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 1.1,
+    "tones" : "X"
+  }, {
+    "id" : "c57da712-4435-11ec-98f2-8b05e12168ea",
+    "instrumentId" : "fd523c02-4430-11ec-b6c9-9f84f28410fd",
+    "name" : "Fuzzy Tom Small Fill 1 w/ Ping-Pong Delay",
+    "waveformKey" : "Fuzzy-Toms-Fuzzy-Tom-Small-Fill-1-w--Ping-Pong-Delay-X.wav",
+    "transientSeconds" : 2.0,
+    "lengthSeconds" : 7.0,
+    "loopBeats" : 0.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "MEDIUM",
+    "volume" : 1.0,
     "tones" : "X"
   } ],
   "instrumentMemes" : [ {

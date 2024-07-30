@@ -13,15 +13,15 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequenceBindings" : [ {
-    "id" : "6922158d-8114-4cf2-889a-7bf276c04132",
-    "programId" : "571ecd78-ae3e-11ec-8e62-4f9a9ef8c813",
-    "programSequenceId" : "5a22d4f9-808a-425e-a258-9d06b1ee587f",
-    "offset" : 1
-  }, {
     "id" : "adc24dfd-7e3b-4089-bc9c-b4ef498a4f2e",
     "programId" : "571ecd78-ae3e-11ec-8e62-4f9a9ef8c813",
     "programSequenceId" : "e2e1c14a-aa6c-4d0c-bddc-cf07f2b89009",
     "offset" : 0
+  }, {
+    "id" : "6922158d-8114-4cf2-889a-7bf276c04132",
+    "programId" : "571ecd78-ae3e-11ec-8e62-4f9a9ef8c813",
+    "programSequenceId" : "5a22d4f9-808a-425e-a258-9d06b1ee587f",
+    "offset" : 1
   } ],
   "programSequenceBindingMemes" : [ {
     "id" : "d7050125-0517-40e2-b42a-c4147ea1108b",
@@ -35,16 +35,16 @@
     "name" : "SPICY"
   } ],
   "programSequences" : [ {
-    "id" : "5a22d4f9-808a-425e-a258-9d06b1ee587f",
+    "id" : "e2e1c14a-aa6c-4d0c-bddc-cf07f2b89009",
     "programId" : "571ecd78-ae3e-11ec-8e62-4f9a9ef8c813",
-    "name" : "Open Space Test Macro 2",
+    "name" : "Open Space Macro Test",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 16
   }, {
-    "id" : "e2e1c14a-aa6c-4d0c-bddc-cf07f2b89009",
+    "id" : "5a22d4f9-808a-425e-a258-9d06b1ee587f",
     "programId" : "571ecd78-ae3e-11ec-8e62-4f9a9ef8c813",
-    "name" : "Open Space Macro Test",
+    "name" : "Open Space Test Macro 2",
     "key" : "C",
     "intensity" : 0.6,
     "total" : 16

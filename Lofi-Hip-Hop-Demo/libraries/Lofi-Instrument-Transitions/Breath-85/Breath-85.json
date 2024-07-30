@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "fa6bff9c-4397-11ee-85c8-3756001132a8",
+    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Breath 85",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.3,
+    "mode" : "Event",
+    "updatedAt" : 1710457155857
+  } ],
   "instrumentAudios" : [ {
     "id" : "b4721460-c7ca-4c7f-a112-02bd8558d842",
     "instrumentId" : "fa6bff9c-4397-11ee-85c8-3756001132a8",
@@ -13,18 +25,6 @@
     "event" : "BIG",
     "volume" : 0.3,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "fa6bff9c-4397-11ee-85c8-3756001132a8",
-    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Breath 85",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.3,
-    "mode" : "Event",
-    "updatedAt" : 1710457155857
   } ],
   "instrumentMemes" : [ {
     "id" : "acb7a753-71b0-45ff-80ee-5187411a9795",

@@ -13,15 +13,15 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequenceBindings" : [ {
-    "id" : "038d7ac4-8620-11ec-a1cf-1bce4071ce72",
-    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
-    "programSequenceId" : "f7095289-f79c-4831-95ea-e5e1d1b7c932",
-    "offset" : 0
-  }, {
     "id" : "c274caae-0611-4122-a690-23b47e28397b",
     "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
     "programSequenceId" : "f7095289-f79c-4831-95ea-e5e1d1b7c932",
     "offset" : 1
+  }, {
+    "id" : "038d7ac4-8620-11ec-a1cf-1bce4071ce72",
+    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
+    "programSequenceId" : "f7095289-f79c-4831-95ea-e5e1d1b7c932",
+    "offset" : 0
   } ],
   "programSequenceChords" : [ {
     "id" : "4665e5ae-e38d-4578-b6d5-c387afbac913",
@@ -37,6 +37,18 @@
     "position" : 0.0
   } ],
   "programVoices" : [ {
+    "id" : "c735d2c2-d941-11ec-9b32-fb4024bf9718",
+    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
+    "type" : "Bass",
+    "name" : "Bass",
+    "order" : 1000.0
+  }, {
+    "id" : "c735a18a-d941-11ec-9b32-afdd15544667",
+    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
+    "type" : "Drum",
+    "name" : "Drum",
+    "order" : 1000.0
+  }, {
     "id" : "c736024c-d941-11ec-9b32-a319d6d407eb",
     "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
     "type" : "Pad",
@@ -49,28 +61,16 @@
     "name" : "Stab",
     "order" : 1000.0
   }, {
-    "id" : "c736673c-d941-11ec-9b32-8765b5f9ffd4",
-    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
-    "type" : "Stripe",
-    "name" : "Stripe",
-    "order" : 1000.0
-  }, {
-    "id" : "c735a18a-d941-11ec-9b32-afdd15544667",
-    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
-    "type" : "Drum",
-    "name" : "Drum",
-    "order" : 1000.0
-  }, {
-    "id" : "c735d2c2-d941-11ec-9b32-fb4024bf9718",
-    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
-    "type" : "Bass",
-    "name" : "Bass",
-    "order" : 1000.0
-  }, {
     "id" : "c7363398-d941-11ec-9b32-5744ad5563cf",
     "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
     "type" : "Sticky",
     "name" : "Sticky",
+    "order" : 1000.0
+  }, {
+    "id" : "c736673c-d941-11ec-9b32-8765b5f9ffd4",
+    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
+    "type" : "Stripe",
+    "name" : "Stripe",
     "order" : 1000.0
   } ],
   "programMemes" : [ {
@@ -91,17 +91,23 @@
     "total" : 128
   } ],
   "programSequenceChordVoicings" : [ {
-    "id" : "684a209d-7feb-493c-9f50-6cc5e4096b5c",
-    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
-    "programSequenceChordId" : "4665e5ae-e38d-4578-b6d5-c387afbac913",
-    "notes" : "A2, C3, E3, G3, A3, B3, C4, E4, G4, B4, C5, E5, G5",
-    "programVoiceId" : "c736673c-d941-11ec-9b32-8765b5f9ffd4"
-  }, {
     "id" : "84097c58-861f-11ec-969f-ef6a9e95dba2",
     "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
     "programSequenceChordId" : "83e6a908-861f-11ec-b6ee-a3490a184b5a",
     "notes" : "C2, G2, C3, D3, E3, G3, C4, D4, E4, G4, C5, D5, E5, G5",
     "programVoiceId" : "c736024c-d941-11ec-9b32-a319d6d407eb"
+  }, {
+    "id" : "84065fbe-861f-11ec-adf8-9fee5daaa651",
+    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
+    "programSequenceChordId" : "83e6a908-861f-11ec-b6ee-a3490a184b5a",
+    "notes" : "C2, G2, C3, D3, E3, G3, C4, D4, E4, G4, C5, D5, E5, G5",
+    "programVoiceId" : "c7363398-d941-11ec-9b32-5744ad5563cf"
+  }, {
+    "id" : "840a84c2-861f-11ec-ae65-a7a08e827417",
+    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
+    "programSequenceChordId" : "83e6a908-861f-11ec-b6ee-a3490a184b5a",
+    "notes" : "G2, C3, D3, G3, C4, D4, G4, C5, D5",
+    "programVoiceId" : "c736673c-d941-11ec-9b32-8765b5f9ffd4"
   }, {
     "id" : "13f3419d-2533-4a6d-808c-142d4e5fdcac",
     "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
@@ -115,16 +121,10 @@
     "notes" : "A2, C3, E3, G3, A3, B3, C4, E4, G4, B4, C5, E5, G5, B5",
     "programVoiceId" : "c7363398-d941-11ec-9b32-5744ad5563cf"
   }, {
-    "id" : "84065fbe-861f-11ec-adf8-9fee5daaa651",
+    "id" : "684a209d-7feb-493c-9f50-6cc5e4096b5c",
     "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
-    "programSequenceChordId" : "83e6a908-861f-11ec-b6ee-a3490a184b5a",
-    "notes" : "C2, G2, C3, D3, E3, G3, C4, D4, E4, G4, C5, D5, E5, G5",
-    "programVoiceId" : "c7363398-d941-11ec-9b32-5744ad5563cf"
-  }, {
-    "id" : "840a84c2-861f-11ec-ae65-a7a08e827417",
-    "programId" : "76feef2a-861f-11ec-969f-c35543d77d47",
-    "programSequenceChordId" : "83e6a908-861f-11ec-b6ee-a3490a184b5a",
-    "notes" : "G2, C3, D3, G3, C4, D4, G4, C5, D5",
+    "programSequenceChordId" : "4665e5ae-e38d-4578-b6d5-c387afbac913",
+    "notes" : "A2, C3, E3, G3, A3, B3, C4, E4, G4, B4, C5, E5, G5",
     "programVoiceId" : "c736673c-d941-11ec-9b32-8765b5f9ffd4"
   }, {
     "id" : "119e19f0-cad2-4698-8894-db85a75291ac",

@@ -31,15 +31,39 @@
     "position" : 0.0
   } ],
   "programVoices" : [ {
+    "id" : "b1efe2fc-f563-4c07-8878-2d0217c9768b",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "type" : "Sticky",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "c3572210-5b4c-4b23-977d-e5e45024b5d1",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "type" : "Transition",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
     "id" : "c605d5fd-b0f5-49ac-b77a-00e936b041a2",
     "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
     "type" : "Pad",
     "name" : "Main",
     "order" : 1000.0
   }, {
-    "id" : "2caf4d5f-d2f1-4ef7-b739-df0f2f0b2cab",
+    "id" : "eea6a016-8542-4b05-a1d1-9bae5f49042c",
     "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "type" : "Bass",
+    "type" : "Drum",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "17ecb999-0074-4699-9911-e59f9196397e",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "type" : "Hook",
+    "name" : "Main",
+    "order" : 1000.0
+  }, {
+    "id" : "1a15d159-46fc-4846-a708-5eedbc51b3b9",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "type" : "Stab",
     "name" : "Main",
     "order" : 1000.0
   }, {
@@ -55,39 +79,15 @@
     "name" : "Main",
     "order" : 1000.0
   }, {
-    "id" : "c3572210-5b4c-4b23-977d-e5e45024b5d1",
+    "id" : "2caf4d5f-d2f1-4ef7-b739-df0f2f0b2cab",
     "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "type" : "Transition",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
-    "id" : "1a15d159-46fc-4846-a708-5eedbc51b3b9",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "type" : "Stab",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
-    "id" : "eea6a016-8542-4b05-a1d1-9bae5f49042c",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "type" : "Drum",
+    "type" : "Bass",
     "name" : "Main",
     "order" : 1000.0
   }, {
     "id" : "3596a643-7fac-4f93-9539-d68c88ece73d",
     "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
     "type" : "Percussion",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
-    "id" : "17ecb999-0074-4699-9911-e59f9196397e",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "type" : "Hook",
-    "name" : "Main",
-    "order" : 1000.0
-  }, {
-    "id" : "b1efe2fc-f563-4c07-8878-2d0217c9768b",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "type" : "Sticky",
     "name" : "Main",
     "order" : 1000.0
   } ],
@@ -109,30 +109,6 @@
     "total" : 128
   } ],
   "programSequenceChordVoicings" : [ {
-    "id" : "04bd183f-1e5c-49d9-b985-44c6bb867444",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
-    "notes" : "F",
-    "programVoiceId" : "1ae7d0d7-b313-4e22-bd0a-d35f0543eaa6"
-  }, {
-    "id" : "0a6ed438-b61d-4063-909d-475eb74f4cd2",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
-    "notes" : "F",
-    "programVoiceId" : "2caf4d5f-d2f1-4ef7-b739-df0f2f0b2cab"
-  }, {
-    "id" : "922631a7-c566-4f11-becc-f33463d4c071",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
-    "notes" : "F",
-    "programVoiceId" : "1a15d159-46fc-4846-a708-5eedbc51b3b9"
-  }, {
-    "id" : "3c21092e-1785-40fb-b6a6-7647910145ad",
-    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
-    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
-    "notes" : "F",
-    "programVoiceId" : "17ecb999-0074-4699-9911-e59f9196397e"
-  }, {
     "id" : "41659f24-d9c4-4c96-814b-bd283286241a",
     "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
     "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
@@ -144,5 +120,29 @@
     "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
     "notes" : "F",
     "programVoiceId" : "c605d5fd-b0f5-49ac-b77a-00e936b041a2"
+  }, {
+    "id" : "3c21092e-1785-40fb-b6a6-7647910145ad",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
+    "notes" : "F",
+    "programVoiceId" : "17ecb999-0074-4699-9911-e59f9196397e"
+  }, {
+    "id" : "922631a7-c566-4f11-becc-f33463d4c071",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
+    "notes" : "F",
+    "programVoiceId" : "1a15d159-46fc-4846-a708-5eedbc51b3b9"
+  }, {
+    "id" : "04bd183f-1e5c-49d9-b985-44c6bb867444",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
+    "notes" : "F",
+    "programVoiceId" : "1ae7d0d7-b313-4e22-bd0a-d35f0543eaa6"
+  }, {
+    "id" : "0a6ed438-b61d-4063-909d-475eb74f4cd2",
+    "programId" : "55bdf2f0-71ca-11ee-8452-a7efdd564d00",
+    "programSequenceChordId" : "ae2019e0-2afc-4e54-9e00-747536777c58",
+    "notes" : "F",
+    "programVoiceId" : "2caf4d5f-d2f1-4ef7-b739-df0f2f0b2cab"
   } ]
 }

@@ -21,14 +21,23 @@
     "total" : 4
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "0f61953c-7add-4776-85be-3e91d63112a8",
+    "id" : "a9dfb75f-ff44-472b-83e8-92ca6a41f13a",
     "programId" : "18f94428-40c7-11eb-9fce-d728ca78cbad",
     "programSequencePatternId" : "ac6b518e-de0b-4574-ab3c-f56b65297375",
     "programVoiceTrackId" : "957615f7-29d2-42e9-9304-3954a7b8fafe",
-    "velocity" : 0.45,
-    "position" : 2.75,
+    "velocity" : 0.8,
+    "position" : 0.5,
     "duration" : 0.25,
-    "tones" : "X"
+    "tones" : "Bb3"
+  }, {
+    "id" : "3921eb0c-1bae-4bd5-9c80-44db4f47b696",
+    "programId" : "18f94428-40c7-11eb-9fce-d728ca78cbad",
+    "programSequencePatternId" : "ac6b518e-de0b-4574-ab3c-f56b65297375",
+    "programVoiceTrackId" : "957615f7-29d2-42e9-9304-3954a7b8fafe",
+    "velocity" : 0.2,
+    "position" : 0.75,
+    "duration" : 0.25,
+    "tones" : "Bb3"
   }, {
     "id" : "a5fdc253-f161-4c91-8323-c4d538adf1e0",
     "programId" : "18f94428-40c7-11eb-9fce-d728ca78cbad",
@@ -36,15 +45,6 @@
     "programVoiceTrackId" : "957615f7-29d2-42e9-9304-3954a7b8fafe",
     "velocity" : 0.5,
     "position" : 1.25,
-    "duration" : 0.25,
-    "tones" : "Bb3"
-  }, {
-    "id" : "a9dfb75f-ff44-472b-83e8-92ca6a41f13a",
-    "programId" : "18f94428-40c7-11eb-9fce-d728ca78cbad",
-    "programSequencePatternId" : "ac6b518e-de0b-4574-ab3c-f56b65297375",
-    "programVoiceTrackId" : "957615f7-29d2-42e9-9304-3954a7b8fafe",
-    "velocity" : 0.8,
-    "position" : 0.5,
     "duration" : 0.25,
     "tones" : "Bb3"
   }, {
@@ -57,14 +57,14 @@
     "duration" : 0.25,
     "tones" : "C4"
   }, {
-    "id" : "3921eb0c-1bae-4bd5-9c80-44db4f47b696",
+    "id" : "0f61953c-7add-4776-85be-3e91d63112a8",
     "programId" : "18f94428-40c7-11eb-9fce-d728ca78cbad",
     "programSequencePatternId" : "ac6b518e-de0b-4574-ab3c-f56b65297375",
     "programVoiceTrackId" : "957615f7-29d2-42e9-9304-3954a7b8fafe",
-    "velocity" : 0.2,
-    "position" : 0.75,
+    "velocity" : 0.45,
+    "position" : 2.75,
     "duration" : 0.25,
-    "tones" : "Bb3"
+    "tones" : "X"
   } ],
   "programVoices" : [ {
     "id" : "33e7dfc1-db55-4c94-bceb-aa4148a0fe71",

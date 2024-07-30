@@ -38,12 +38,12 @@
     "order" : 0.0
   } ],
   "programMemes" : [ {
-    "id" : "d06f3c1e-af91-11eb-aff5-1f326a5e62a9",
-    "name" : "ROOTSY",
-    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258"
-  }, {
     "id" : "76c63e6c-bd09-11eb-ae66-b7810f0d504d",
     "name" : "LONGBASS",
+    "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258"
+  }, {
+    "id" : "d06f3c1e-af91-11eb-aff5-1f326a5e62a9",
+    "name" : "ROOTSY",
     "programId" : "f0d3fba8-2f8e-11eb-8407-f7dd07c90258"
   } ],
   "programSequences" : [ {

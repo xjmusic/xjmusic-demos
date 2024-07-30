@@ -21,6 +21,15 @@
     "total" : 4
   } ],
   "programSequencePatternEvents" : [ {
+    "id" : "4851ed02-097b-42aa-8a27-a0b35d2bce55",
+    "programId" : "c6323d10-78b3-11eb-96bb-cb75052f8d70",
+    "programSequencePatternId" : "f590d7ce-a7d4-4158-b71c-fd50f76edff2",
+    "programVoiceTrackId" : "8dc7dc7a-cef8-4e23-ba50-97b3685aac64",
+    "velocity" : 1.0,
+    "position" : 0.5,
+    "duration" : 0.25,
+    "tones" : "C4"
+  }, {
     "id" : "567515ce-c6be-4b5d-94cc-05236c4c9608",
     "programId" : "c6323d10-78b3-11eb-96bb-cb75052f8d70",
     "programSequencePatternId" : "f590d7ce-a7d4-4158-b71c-fd50f76edff2",
@@ -39,30 +48,21 @@
     "duration" : 0.25,
     "tones" : "C4"
   }, {
-    "id" : "2121b985-30ba-4e09-a44b-8658a37dad2c",
-    "programId" : "c6323d10-78b3-11eb-96bb-cb75052f8d70",
-    "programSequencePatternId" : "f590d7ce-a7d4-4158-b71c-fd50f76edff2",
-    "programVoiceTrackId" : "8dc7dc7a-cef8-4e23-ba50-97b3685aac64",
-    "velocity" : 1.0,
-    "position" : 3.75,
-    "duration" : 0.25,
-    "tones" : "X"
-  }, {
-    "id" : "4851ed02-097b-42aa-8a27-a0b35d2bce55",
-    "programId" : "c6323d10-78b3-11eb-96bb-cb75052f8d70",
-    "programSequencePatternId" : "f590d7ce-a7d4-4158-b71c-fd50f76edff2",
-    "programVoiceTrackId" : "8dc7dc7a-cef8-4e23-ba50-97b3685aac64",
-    "velocity" : 1.0,
-    "position" : 0.5,
-    "duration" : 0.25,
-    "tones" : "C4"
-  }, {
     "id" : "3f9f906a-ca7e-4cbc-8f88-75d4c0eb3038",
     "programId" : "c6323d10-78b3-11eb-96bb-cb75052f8d70",
     "programSequencePatternId" : "f590d7ce-a7d4-4158-b71c-fd50f76edff2",
     "programVoiceTrackId" : "8dc7dc7a-cef8-4e23-ba50-97b3685aac64",
     "velocity" : 1.0,
     "position" : 3.0,
+    "duration" : 0.25,
+    "tones" : "X"
+  }, {
+    "id" : "2121b985-30ba-4e09-a44b-8658a37dad2c",
+    "programId" : "c6323d10-78b3-11eb-96bb-cb75052f8d70",
+    "programSequencePatternId" : "f590d7ce-a7d4-4158-b71c-fd50f76edff2",
+    "programVoiceTrackId" : "8dc7dc7a-cef8-4e23-ba50-97b3685aac64",
+    "velocity" : 1.0,
+    "position" : 3.75,
     "duration" : 0.25,
     "tones" : "X"
   } ],

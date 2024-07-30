@@ -1,6 +1,31 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Lo-Fi 5 (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457155878
+  } ],
   "instrumentAudios" : [ {
+    "id" : "7aa9c339-6b53-4c5f-b0d8-132647f96374",
+    "instrumentId" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
+    "name" : "Hat 1",
+    "waveformKey" : "Lo-Fi-5--Splice--Hat-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.132448,
+    "loopBeats" : 1.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "HIHAT",
+    "volume" : 0.15,
+    "tones" : "X"
+  }, {
     "id" : "c4dc3463-1959-402d-b712-c6072eb1a689",
     "instrumentId" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
     "name" : "Kick 1",
@@ -26,30 +51,5 @@
     "event" : "SNARE",
     "volume" : 1.0,
     "tones" : "X"
-  }, {
-    "id" : "7aa9c339-6b53-4c5f-b0d8-132647f96374",
-    "instrumentId" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
-    "name" : "Hat 1",
-    "waveformKey" : "Lo-Fi-5--Splice--Hat-1-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.132448,
-    "loopBeats" : 1.0,
-    "tempo" : 75.0,
-    "intensity" : 0.5,
-    "event" : "HIHAT",
-    "volume" : 0.15,
-    "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "663daff8-ad81-11ec-bb21-bf2d2f5ec848",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Lo-Fi 5 (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155878
   } ]
 }

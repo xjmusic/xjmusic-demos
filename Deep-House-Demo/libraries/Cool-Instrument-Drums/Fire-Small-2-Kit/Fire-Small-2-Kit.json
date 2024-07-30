@@ -26,29 +26,16 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "295e4410-c6c6-11ea-b647-0b93c464d300",
+    "id" : "43e2e3a4-c6c6-11ea-b647-1759b90705be",
     "instrumentId" : "f61b228a-c6c5-11ea-b647-03bc49b60069",
-    "name" : "Fire.Small.2.Snare",
-    "waveformKey" : "Fire-Small-2-Kit-Fire.Small.2.Snare-x.wav",
+    "name" : "Fire.Small.2.Hat",
+    "waveformKey" : "Fire-Small-2-Kit-Fire.Small.2.Hat-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.307666,
+    "lengthSeconds" : 0.73027,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "SNARE",
-    "volume" : 0.5,
-    "tones" : "x"
-  }, {
-    "id" : "7c797d54-c6c6-11ea-b647-a3cde1d499c4",
-    "instrumentId" : "f61b228a-c6c5-11ea-b647-03bc49b60069",
-    "name" : "Fire.Small.2.TomMid",
-    "waveformKey" : "Fire-Small-2-Kit-Fire.Small.2.TomMid-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.08475,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "TOMMID",
+    "event" : "HIHATCL",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -78,17 +65,17 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "43e2e3a4-c6c6-11ea-b647-1759b90705be",
+    "id" : "295e4410-c6c6-11ea-b647-0b93c464d300",
     "instrumentId" : "f61b228a-c6c5-11ea-b647-03bc49b60069",
-    "name" : "Fire.Small.2.Hat",
-    "waveformKey" : "Fire-Small-2-Kit-Fire.Small.2.Hat-x.wav",
+    "name" : "Fire.Small.2.Snare",
+    "waveformKey" : "Fire-Small-2-Kit-Fire.Small.2.Snare-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.73027,
+    "lengthSeconds" : 1.307666,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "HIHATCL",
-    "volume" : 1.0,
+    "event" : "SNARE",
+    "volume" : 0.5,
     "tones" : "x"
   }, {
     "id" : "6dc64080-c6c6-11ea-b647-b7bec97b77e5",
@@ -116,14 +103,27 @@
     "event" : "TOMLO",
     "volume" : 0.6,
     "tones" : "x"
+  }, {
+    "id" : "7c797d54-c6c6-11ea-b647-a3cde1d499c4",
+    "instrumentId" : "f61b228a-c6c5-11ea-b647-03bc49b60069",
+    "name" : "Fire.Small.2.TomMid",
+    "waveformKey" : "Fire-Small-2-Kit-Fire.Small.2.TomMid-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.08475,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMMID",
+    "volume" : 1.0,
+    "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "f04b3916-c6c6-11ea-b647-bf2de291582e",
-    "instrumentId" : "f61b228a-c6c5-11ea-b647-03bc49b60069",
-    "name" : "SMALL"
-  }, {
     "id" : "ee53f7e2-c6c6-11ea-b647-bb8299416ac7",
     "instrumentId" : "f61b228a-c6c5-11ea-b647-03bc49b60069",
     "name" : "FIRE"
+  }, {
+    "id" : "f04b3916-c6c6-11ea-b647-bf2de291582e",
+    "instrumentId" : "f61b228a-c6c5-11ea-b647-03bc49b60069",
+    "name" : "SMALL"
   } ]
 }

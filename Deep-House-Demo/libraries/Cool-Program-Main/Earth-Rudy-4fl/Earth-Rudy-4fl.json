@@ -13,10 +13,25 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequenceBindings" : [ {
-    "id" : "abf02be4-af61-11eb-8153-dbcb73c9166d",
+    "id" : "89ac784e-af61-11eb-b059-8f58efaf0c18",
     "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
     "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
-    "offset" : 7
+    "offset" : 0
+  }, {
+    "id" : "8d34b6b6-af61-11eb-b059-bf1e627aa92f",
+    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
+    "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
+    "offset" : 1
+  }, {
+    "id" : "90b11852-af61-11eb-b059-833dd88c66da",
+    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
+    "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
+    "offset" : 2
+  }, {
+    "id" : "959a522a-af61-11eb-b059-7358d076eb4a",
+    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
+    "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
+    "offset" : 3
   }, {
     "id" : "9a0fd956-af61-11eb-8153-33b5d33b2fca",
     "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
@@ -33,25 +48,10 @@
     "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
     "offset" : 6
   }, {
-    "id" : "959a522a-af61-11eb-b059-7358d076eb4a",
+    "id" : "abf02be4-af61-11eb-8153-dbcb73c9166d",
     "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
     "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
-    "offset" : 3
-  }, {
-    "id" : "8d34b6b6-af61-11eb-b059-bf1e627aa92f",
-    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
-    "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
-    "offset" : 1
-  }, {
-    "id" : "90b11852-af61-11eb-b059-833dd88c66da",
-    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
-    "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
-    "offset" : 2
-  }, {
-    "id" : "89ac784e-af61-11eb-b059-8f58efaf0c18",
-    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
-    "programSequenceId" : "1badc402-16eb-11ea-8a37-1bc388cfea8d",
-    "offset" : 0
+    "offset" : 7
   } ],
   "programSequenceChords" : [ {
     "id" : "1bb474d2-16eb-11ea-8a37-57f06cc73db4",
@@ -61,16 +61,10 @@
     "position" : 0.0
   } ],
   "programVoices" : [ {
-    "id" : "c6b9f1ca-d941-11ec-9b32-93134d0cbee1",
+    "id" : "c6b96be2-d941-11ec-9b32-63a6422acb71",
     "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
-    "type" : "Sticky",
-    "name" : "Sticky",
-    "order" : 1000.0
-  }, {
-    "id" : "c6ba4a08-d941-11ec-9b32-5b7a2fa08e94",
-    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
-    "type" : "Stab",
-    "name" : "Stab",
+    "type" : "Bass",
+    "name" : "Bass",
     "order" : 1000.0
   }, {
     "id" : "c6b9b318-d941-11ec-9b32-577313be36c6",
@@ -79,10 +73,16 @@
     "name" : "Pad",
     "order" : 1000.0
   }, {
-    "id" : "c6b96be2-d941-11ec-9b32-63a6422acb71",
+    "id" : "c6ba4a08-d941-11ec-9b32-5b7a2fa08e94",
     "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
-    "type" : "Bass",
-    "name" : "Bass",
+    "type" : "Stab",
+    "name" : "Stab",
+    "order" : 1000.0
+  }, {
+    "id" : "c6b9f1ca-d941-11ec-9b32-93134d0cbee1",
+    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025",
+    "type" : "Sticky",
+    "name" : "Sticky",
     "order" : 1000.0
   }, {
     "id" : "c6ba201e-d941-11ec-9b32-37a854ac5090",
@@ -96,12 +96,12 @@
     "name" : "4NOTE",
     "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025"
   }, {
-    "id" : "4ca2f1e0-af60-11eb-8153-431b4e4e5203",
-    "name" : "WIDEOPEN",
-    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025"
-  }, {
     "id" : "1baa64ba-16eb-11ea-8a37-8b3d91b250e4",
     "name" : "Earth",
+    "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025"
+  }, {
+    "id" : "4ca2f1e0-af60-11eb-8153-431b4e4e5203",
+    "name" : "WIDEOPEN",
     "programId" : "1ba99e54-16eb-11ea-8a37-0753aaf26025"
   } ],
   "programSequences" : [ {

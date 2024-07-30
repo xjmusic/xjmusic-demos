@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "f1da668c-4399-11ee-873f-b3fb5b1a2c35",
+    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Clave 85",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.3,
+    "mode" : "Event",
+    "updatedAt" : 1710457155915
+  } ],
   "instrumentAudios" : [ {
     "id" : "07344e58-414a-43e7-8e5c-01d0dc2b226c",
     "instrumentId" : "f1da668c-4399-11ee-873f-b3fb5b1a2c35",
@@ -13,18 +25,6 @@
     "event" : "BIG",
     "volume" : 0.3,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "f1da668c-4399-11ee-873f-b3fb5b1a2c35",
-    "libraryId" : "cc2c28aa-c50d-11ec-ac30-c3f6fea9292f",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Clave 85",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.3,
-    "mode" : "Event",
-    "updatedAt" : 1710457155915
   } ],
   "instrumentMemes" : [ {
     "id" : "94b4fd04-889a-4406-84d5-f4c4aef49845",

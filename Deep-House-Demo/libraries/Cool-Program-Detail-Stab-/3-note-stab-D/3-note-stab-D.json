@@ -38,20 +38,20 @@
     "order" : 1000.0
   } ],
   "programMemes" : [ {
-    "id" : "dd20eba0-b1bd-11eb-8983-f3eeef87336f",
-    "name" : "OPEN",
-    "programId" : "76b2d680-8b84-11eb-a8eb-9f8096c04ed9"
-  }, {
     "id" : "f1218534-8f7f-11eb-8f30-eba808d31949",
     "name" : "3NOTE",
     "programId" : "76b2d680-8b84-11eb-a8eb-9f8096c04ed9"
   }, {
-    "id" : "dbb9eab4-b1bd-11eb-94aa-c7c10ecb652f",
-    "name" : "WIDEOPEN",
+    "id" : "dd20eba0-b1bd-11eb-8983-f3eeef87336f",
+    "name" : "OPEN",
     "programId" : "76b2d680-8b84-11eb-a8eb-9f8096c04ed9"
   }, {
     "id" : "dc323c4e-b1bd-11eb-94aa-97e6e8a6adcf",
     "name" : "STRAIGHT",
+    "programId" : "76b2d680-8b84-11eb-a8eb-9f8096c04ed9"
+  }, {
+    "id" : "dbb9eab4-b1bd-11eb-94aa-c7c10ecb652f",
+    "name" : "WIDEOPEN",
     "programId" : "76b2d680-8b84-11eb-a8eb-9f8096c04ed9"
   } ],
   "programSequences" : [ {

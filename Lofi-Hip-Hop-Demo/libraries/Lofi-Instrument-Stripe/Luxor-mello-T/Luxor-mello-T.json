@@ -1,31 +1,30 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
+    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Luxor mello T",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 0.4,
+    "mode" : "Event",
+    "updatedAt" : 1710457155835
+  } ],
   "instrumentAudios" : [ {
-    "id" : "5d01ebba-5fe8-11ed-8256-2b423cca4471",
+    "id" : "f1411ae0-5fe7-11ed-8b56-03ec2a57213a",
     "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
-    "name" : "F5",
-    "waveformKey" : "Luxor-mello-T-F5-F5.wav",
+    "name" : "Ab5",
+    "waveformKey" : "Luxor-mello-T-Ab5-Ab5.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 12.8,
     "loopBeats" : 16.0,
     "tempo" : 75.0,
     "intensity" : 0.5,
     "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "F5"
-  }, {
-    "id" : "4ff906ce-5fe8-11ed-8b56-5f7396e5f73a",
-    "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
-    "name" : "Eb5",
-    "waveformKey" : "Luxor-mello-T-Eb5-Eb5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 12.8,
-    "loopBeats" : 16.0,
-    "tempo" : 75.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 1.0,
-    "tones" : "Eb5"
+    "volume" : 0.7,
+    "tones" : "Ab5"
   }, {
     "id" : "313e2c64-5fe8-11ed-83cf-9b0b6f2ad5ed",
     "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
@@ -40,19 +39,6 @@
     "volume" : 1.0,
     "tones" : "Bb5"
   }, {
-    "id" : "f1411ae0-5fe7-11ed-8b56-03ec2a57213a",
-    "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
-    "name" : "Ab5",
-    "waveformKey" : "Luxor-mello-T-Ab5-Ab5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 12.8,
-    "loopBeats" : 16.0,
-    "tempo" : 75.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.7,
-    "tones" : "Ab5"
-  }, {
     "id" : "418c2a3a-5fe8-11ed-8256-6b2ad0011e80",
     "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
     "name" : "Db5",
@@ -65,18 +51,32 @@
     "event" : "STRIPE",
     "volume" : 1.0,
     "tones" : "Db5"
-  } ],
-  "instruments" : [ {
-    "id" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
-    "libraryId" : "2d4fc2d8-b6de-11ec-80e6-d73638f53091",
-    "type" : "Stripe",
-    "state" : "Published",
-    "name" : "Luxor mello T",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 0.4,
-    "mode" : "Event",
-    "updatedAt" : 1710457155835
+  }, {
+    "id" : "4ff906ce-5fe8-11ed-8b56-5f7396e5f73a",
+    "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
+    "name" : "Eb5",
+    "waveformKey" : "Luxor-mello-T-Eb5-Eb5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 12.8,
+    "loopBeats" : 16.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "Eb5"
+  }, {
+    "id" : "5d01ebba-5fe8-11ed-8256-2b423cca4471",
+    "instrumentId" : "a2183476-5fe7-11ed-8256-73daa8bc5348",
+    "name" : "F5",
+    "waveformKey" : "Luxor-mello-T-F5-F5.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 12.8,
+    "loopBeats" : 16.0,
+    "tempo" : 75.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 1.0,
+    "tones" : "F5"
   } ],
   "instrumentMemes" : [ {
     "id" : "7eb59432-5fe8-11ed-9947-d3b4ffc1344b",

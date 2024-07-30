@@ -21,24 +21,6 @@
     "total" : 8
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "776db40c-5fd9-11ed-9428-8f997bbadc4c",
-    "programId" : "f5cc1236-5fd8-11ed-ac0c-83d2051220f1",
-    "programSequencePatternId" : "4c49b50a-5fd9-11ed-9428-b38841d54840",
-    "programVoiceTrackId" : "4ad8a9f6-5fd9-11ed-ac0c-abf10013497b",
-    "velocity" : 1.0,
-    "position" : 0.53,
-    "duration" : 0.4955,
-    "tones" : "A2"
-  }, {
-    "id" : "867ad240-5fd9-11ed-ac0c-1fe15b2488a5",
-    "programId" : "f5cc1236-5fd8-11ed-ac0c-83d2051220f1",
-    "programSequencePatternId" : "4c49b50a-5fd9-11ed-9428-b38841d54840",
-    "programVoiceTrackId" : "4ad8a9f6-5fd9-11ed-ac0c-abf10013497b",
-    "velocity" : 1.0,
-    "position" : 4.03,
-    "duration" : 0.5029,
-    "tones" : "A1"
-  }, {
     "id" : "73febdac-5fd9-11ed-ac0c-73f2b8c535ae",
     "programId" : "f5cc1236-5fd8-11ed-ac0c-83d2051220f1",
     "programSequencePatternId" : "4c49b50a-5fd9-11ed-9428-b38841d54840",
@@ -48,6 +30,15 @@
     "duration" : 0.458,
     "tones" : "A1"
   }, {
+    "id" : "776db40c-5fd9-11ed-9428-8f997bbadc4c",
+    "programId" : "f5cc1236-5fd8-11ed-ac0c-83d2051220f1",
+    "programSequencePatternId" : "4c49b50a-5fd9-11ed-9428-b38841d54840",
+    "programVoiceTrackId" : "4ad8a9f6-5fd9-11ed-ac0c-abf10013497b",
+    "velocity" : 1.0,
+    "position" : 0.53,
+    "duration" : 0.4955,
+    "tones" : "A2"
+  }, {
     "id" : "848c83ac-5fd9-11ed-9428-cfe8c6a19a39",
     "programId" : "f5cc1236-5fd8-11ed-ac0c-83d2051220f1",
     "programSequencePatternId" : "4c49b50a-5fd9-11ed-9428-b38841d54840",
@@ -55,6 +46,15 @@
     "velocity" : 1.0,
     "position" : 3.8,
     "duration" : 0.1877,
+    "tones" : "A1"
+  }, {
+    "id" : "867ad240-5fd9-11ed-ac0c-1fe15b2488a5",
+    "programId" : "f5cc1236-5fd8-11ed-ac0c-83d2051220f1",
+    "programSequencePatternId" : "4c49b50a-5fd9-11ed-9428-b38841d54840",
+    "programVoiceTrackId" : "4ad8a9f6-5fd9-11ed-ac0c-abf10013497b",
+    "velocity" : 1.0,
+    "position" : 4.03,
+    "duration" : 0.5029,
     "tones" : "A1"
   } ],
   "programVoices" : [ {

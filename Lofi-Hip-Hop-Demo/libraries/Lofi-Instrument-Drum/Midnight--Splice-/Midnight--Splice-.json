@@ -1,19 +1,18 @@
 {
   "demo" : false,
-  "instrumentAudios" : [ {
-    "id" : "dc44b362-d717-11ec-86ea-bb4db89440ff",
-    "instrumentId" : "c8535566-d717-11ec-ac3a-4798863b393b",
-    "name" : "Kick 1",
-    "waveformKey" : "Midnight--Splice--Kick-1-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.58034,
-    "loopBeats" : 1.0,
-    "tempo" : 85.0,
-    "intensity" : 0.5,
-    "event" : "KICK",
+  "instruments" : [ {
+    "id" : "c8535566-d717-11ec-ac3a-4798863b393b",
+    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
+    "type" : "Drum",
+    "state" : "Published",
+    "name" : "Midnight (Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
     "volume" : 1.0,
-    "tones" : "X"
-  }, {
+    "mode" : "Event",
+    "updatedAt" : 1710457155977
+  } ],
+  "instrumentAudios" : [ {
     "id" : "4a0d370c-d718-11ec-86ea-2f7c694439b2",
     "instrumentId" : "c8535566-d717-11ec-ac3a-4798863b393b",
     "name" : "Hat 1",
@@ -24,6 +23,19 @@
     "tempo" : 85.0,
     "intensity" : 0.5,
     "event" : "HIHAT",
+    "volume" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "dc44b362-d717-11ec-86ea-bb4db89440ff",
+    "instrumentId" : "c8535566-d717-11ec-ac3a-4798863b393b",
+    "name" : "Kick 1",
+    "waveformKey" : "Midnight--Splice--Kick-1-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.58034,
+    "loopBeats" : 1.0,
+    "tempo" : 85.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
     "volume" : 1.0,
     "tones" : "X"
   }, {
@@ -39,17 +51,5 @@
     "event" : "SNARE",
     "volume" : 1.0,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "c8535566-d717-11ec-ac3a-4798863b393b",
-    "libraryId" : "ffc49138-4caf-11ec-8589-1f396b37df87",
-    "type" : "Drum",
-    "state" : "Published",
-    "name" : "Midnight (Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = true\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457155977
   } ]
 }

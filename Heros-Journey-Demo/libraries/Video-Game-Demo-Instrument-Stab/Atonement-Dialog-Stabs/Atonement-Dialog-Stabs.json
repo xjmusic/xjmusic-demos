@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "edb50629-12f8-4943-9850-e0e9200f2406",
+    "libraryId" : "79ef36e4-66f7-11ee-bcd4-a39f5eaf662b",
+    "type" : "Stab",
+    "state" : "Published",
+    "name" : "Atonement Dialog Stabs",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 2.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828810
+  } ],
   "instrumentAudios" : [ {
     "id" : "b986904f-bfc7-44dd-8b8f-347489b5abd9",
     "instrumentId" : "edb50629-12f8-4943-9850-e0e9200f2406",
@@ -14,29 +26,17 @@
     "volume" : 0.3,
     "tones" : "F"
   } ],
-  "instruments" : [ {
-    "id" : "edb50629-12f8-4943-9850-e0e9200f2406",
-    "libraryId" : "79ef36e4-66f7-11ee-bcd4-a39f5eaf662b",
-    "type" : "Stab",
-    "state" : "Published",
-    "name" : "Atonement Dialog Stabs",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 2.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828810
-  } ],
   "instrumentMemes" : [ {
-    "id" : "45f98a07-8dd9-460c-bcf2-f91a3ae72b65",
+    "id" : "21184517-fc4c-41ee-b37c-b9bce66d13ce",
     "instrumentId" : "edb50629-12f8-4943-9850-e0e9200f2406",
-    "name" : "DIALOG"
+    "name" : "115BPM"
   }, {
     "id" : "fc063b07-ad67-4143-b0b6-88c4881c9c0e",
     "instrumentId" : "edb50629-12f8-4943-9850-e0e9200f2406",
     "name" : "ATONEMENT"
   }, {
-    "id" : "21184517-fc4c-41ee-b37c-b9bce66d13ce",
+    "id" : "45f98a07-8dd9-460c-bcf2-f91a3ae72b65",
     "instrumentId" : "edb50629-12f8-4943-9850-e0e9200f2406",
-    "name" : "115BPM"
+    "name" : "DIALOG"
   } ]
 }

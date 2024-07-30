@@ -24,28 +24,28 @@
     "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "1a4afe18-16eb-11ea-8a37-0b403a0fa851",
-    "programId" : "1a46a2be-16eb-11ea-8a37-7396524c6a27",
-    "programSequenceBindingId" : "1a48fc44-16eb-11ea-8a37-9384ed519968",
-    "name" : "Wind"
-  }, {
     "id" : "1a49fb62-16eb-11ea-8a37-2fa58499ef0f",
     "programId" : "1a46a2be-16eb-11ea-8a37-7396524c6a27",
     "programSequenceBindingId" : "1a4868c4-16eb-11ea-8a37-9bd34d01a9b0",
     "name" : "Earth"
+  }, {
+    "id" : "1a4afe18-16eb-11ea-8a37-0b403a0fa851",
+    "programId" : "1a46a2be-16eb-11ea-8a37-7396524c6a27",
+    "programSequenceBindingId" : "1a48fc44-16eb-11ea-8a37-9384ed519968",
+    "name" : "Wind"
   } ],
   "programSequences" : [ {
-    "id" : "1a47d4e0-16eb-11ea-8a37-c3b03f4d9d7e",
-    "programId" : "1a46a2be-16eb-11ea-8a37-7396524c6a27",
-    "name" : "Ground",
-    "key" : "C minor",
-    "intensity" : 0.6,
-    "total" : 0
-  }, {
     "id" : "1a473e36-16eb-11ea-8a37-f7494c6a1982",
     "programId" : "1a46a2be-16eb-11ea-8a37-7396524c6a27",
     "name" : "Air",
     "key" : "D",
+    "intensity" : 0.6,
+    "total" : 0
+  }, {
+    "id" : "1a47d4e0-16eb-11ea-8a37-c3b03f4d9d7e",
+    "programId" : "1a46a2be-16eb-11ea-8a37-7396524c6a27",
+    "name" : "Ground",
+    "key" : "C minor",
     "intensity" : 0.6,
     "total" : 0
   } ]

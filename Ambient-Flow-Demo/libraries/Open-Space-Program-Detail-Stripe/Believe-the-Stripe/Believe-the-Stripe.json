@@ -13,46 +13,28 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequencePatterns" : [ {
-    "id" : "ecf91f3b-9afd-4459-b995-3d4933aad7f8",
-    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
-    "programSequenceId" : "b1a2a406-a8b3-4e95-b3bd-7468ed3afb99",
-    "programVoiceId" : "790cb09e-2357-4ef3-995f-f5129eea9c70",
-    "name" : "Xxxx",
-    "total" : 32
-  }, {
     "id" : "0144475b-9b79-4356-8e65-26b01d162ada",
     "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
     "programSequenceId" : "b1a2a406-a8b3-4e95-b3bd-7468ed3afb99",
     "programVoiceId" : "57066228-cae1-4165-9c3e-a5bd948b2cd3",
     "name" : "Xxx",
     "total" : 32
+  }, {
+    "id" : "ecf91f3b-9afd-4459-b995-3d4933aad7f8",
+    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
+    "programSequenceId" : "b1a2a406-a8b3-4e95-b3bd-7468ed3afb99",
+    "programVoiceId" : "790cb09e-2357-4ef3-995f-f5129eea9c70",
+    "name" : "Xxxx",
+    "total" : 32
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "7b8f3e71-4dc8-4718-9286-77acfb1a241e",
+    "id" : "b29c37c7-bc42-4773-8a49-b441c95e98f6",
     "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
-    "programSequencePatternId" : "0144475b-9b79-4356-8e65-26b01d162ada",
-    "programVoiceTrackId" : "9eb64cb8-0427-4b6e-9c81-6a2adbd21924",
+    "programSequencePatternId" : "ecf91f3b-9afd-4459-b995-3d4933aad7f8",
+    "programVoiceTrackId" : "409040e8-d225-4569-87ce-7a88b4095e14",
     "velocity" : 1.0,
-    "position" : 25.0,
-    "duration" : 3.0,
-    "tones" : "X"
-  }, {
-    "id" : "98b60a99-8f09-4f52-a294-c79b00cd1447",
-    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
-    "programSequencePatternId" : "0144475b-9b79-4356-8e65-26b01d162ada",
-    "programVoiceTrackId" : "9eb64cb8-0427-4b6e-9c81-6a2adbd21924",
-    "velocity" : 1.0,
-    "position" : 28.0,
-    "duration" : 3.0,
-    "tones" : "X"
-  }, {
-    "id" : "ff68f8b7-9b9e-48fa-ac0b-cda4f7fb63ad",
-    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
-    "programSequencePatternId" : "0144475b-9b79-4356-8e65-26b01d162ada",
-    "programVoiceTrackId" : "9eb64cb8-0427-4b6e-9c81-6a2adbd21924",
-    "velocity" : 1.0,
-    "position" : 22.0,
-    "duration" : 1.0,
+    "position" : 15.5,
+    "duration" : 11.25,
     "tones" : "X"
   }, {
     "id" : "542d269c-b30f-477a-94ab-d124c9a4775c",
@@ -73,13 +55,31 @@
     "duration" : 3.0,
     "tones" : "X"
   }, {
-    "id" : "b29c37c7-bc42-4773-8a49-b441c95e98f6",
+    "id" : "ff68f8b7-9b9e-48fa-ac0b-cda4f7fb63ad",
     "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
-    "programSequencePatternId" : "ecf91f3b-9afd-4459-b995-3d4933aad7f8",
-    "programVoiceTrackId" : "409040e8-d225-4569-87ce-7a88b4095e14",
+    "programSequencePatternId" : "0144475b-9b79-4356-8e65-26b01d162ada",
+    "programVoiceTrackId" : "9eb64cb8-0427-4b6e-9c81-6a2adbd21924",
     "velocity" : 1.0,
-    "position" : 15.5,
-    "duration" : 11.25,
+    "position" : 22.0,
+    "duration" : 1.0,
+    "tones" : "X"
+  }, {
+    "id" : "7b8f3e71-4dc8-4718-9286-77acfb1a241e",
+    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
+    "programSequencePatternId" : "0144475b-9b79-4356-8e65-26b01d162ada",
+    "programVoiceTrackId" : "9eb64cb8-0427-4b6e-9c81-6a2adbd21924",
+    "velocity" : 1.0,
+    "position" : 25.0,
+    "duration" : 3.0,
+    "tones" : "X"
+  }, {
+    "id" : "98b60a99-8f09-4f52-a294-c79b00cd1447",
+    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6",
+    "programSequencePatternId" : "0144475b-9b79-4356-8e65-26b01d162ada",
+    "programVoiceTrackId" : "9eb64cb8-0427-4b6e-9c81-6a2adbd21924",
+    "velocity" : 1.0,
+    "position" : 28.0,
+    "duration" : 3.0,
     "tones" : "X"
   } ],
   "programVoices" : [ {
@@ -96,12 +96,12 @@
     "order" : 1000.0
   } ],
   "programMemes" : [ {
-    "id" : "6483638a-61f8-11ec-97af-ffd5de6ec871",
-    "name" : "SOUR",
-    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6"
-  }, {
     "id" : "5750aa6e-be83-11ec-ac58-37a4200bc6ff",
     "name" : "LOOSE",
+    "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6"
+  }, {
+    "id" : "6483638a-61f8-11ec-97af-ffd5de6ec871",
+    "name" : "SOUR",
     "programId" : "a35d1a40-61f5-11ec-ab37-3bc2b2095eb6"
   } ],
   "programSequences" : [ {

@@ -26,19 +26,6 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "7905853a-c6be-11ea-8d9b-17608d7b0379",
-    "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
-    "name" : "Earth.Large.1.Kick",
-    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.Kick-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.491689,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "KICK",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
     "id" : "a4fc624e-c6be-11ea-9c82-df549c9e0bdd",
     "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
     "name" : "Earth.Large.1.Hat",
@@ -65,16 +52,42 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "e21e0452-c6be-11ea-9c82-7bab09d59682",
+    "id" : "7905853a-c6be-11ea-8d9b-17608d7b0379",
     "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
-    "name" : "Earth.Large.1.TomMid",
-    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.TomMid-x.wav",
+    "name" : "Earth.Large.1.Kick",
+    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.Kick-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.144812,
+    "lengthSeconds" : 1.491689,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "TOMMID",
+    "event" : "KICK",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "8f5f60c6-c6be-11ea-9c82-b77a77ff9214",
+    "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
+    "name" : "Earth.Large.1.Snare",
+    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.Snare-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.936812,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SNARE",
+    "volume" : 0.5,
+    "tones" : "x"
+  }, {
+    "id" : "d3604362-c6be-11ea-9c82-aff9d7772192",
+    "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
+    "name" : "Earth.Large.1.TomHi",
+    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.00202,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -91,39 +104,26 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "d3604362-c6be-11ea-9c82-aff9d7772192",
+    "id" : "e21e0452-c6be-11ea-9c82-7bab09d59682",
     "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
-    "name" : "Earth.Large.1.TomHi",
-    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.TomHi-x.wav",
+    "name" : "Earth.Large.1.TomMid",
+    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.TomMid-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.00202,
+    "lengthSeconds" : 2.144812,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "TOMHI",
+    "event" : "TOMMID",
     "volume" : 1.0,
-    "tones" : "x"
-  }, {
-    "id" : "8f5f60c6-c6be-11ea-9c82-b77a77ff9214",
-    "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
-    "name" : "Earth.Large.1.Snare",
-    "waveformKey" : "Earth-Large-1-Kit-Earth.Large.1.Snare-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.936812,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "SNARE",
-    "volume" : 0.5,
     "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "c116766c-c6bf-11ea-b5b3-2f6ab9393f0b",
-    "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
-    "name" : "LARGE"
-  }, {
     "id" : "bf45b83e-c6bf-11ea-b5b3-1b81221e12d7",
     "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
     "name" : "EARTH"
+  }, {
+    "id" : "c116766c-c6bf-11ea-b5b3-2f6ab9393f0b",
+    "instrumentId" : "e3183eaa-c6bd-11ea-9c82-57f1aff96cac",
+    "name" : "LARGE"
   } ]
 }

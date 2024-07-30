@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "2b0fbbba-596b-11ed-8d4a-9f197a7f3d6d",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "RKU_SRL_Naruto_Percussion_Loop_75BPM",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457156002
+  } ],
   "instrumentAudios" : [ {
     "id" : "03630a21-269b-466a-b174-b562bba159f1",
     "instrumentId" : "2b0fbbba-596b-11ed-8d4a-9f197a7f3d6d",
@@ -13,18 +25,6 @@
     "event" : "MEDIUM",
     "volume" : 1.0,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "2b0fbbba-596b-11ed-8d4a-9f197a7f3d6d",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "RKU_SRL_Naruto_Percussion_Loop_75BPM",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457156002
   } ],
   "instrumentMemes" : [ {
     "id" : "fb1355a0-ea59-4531-ac57-b3184e1cb22d",

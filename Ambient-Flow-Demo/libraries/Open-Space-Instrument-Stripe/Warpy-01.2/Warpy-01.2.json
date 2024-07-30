@@ -13,58 +13,6 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "462b67ae-6214-11ec-a7b8-2b238f9e67b8",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "B4",
-    "waveformKey" : "Warpy-01.2-B4-B4.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 59.23771,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "B4"
-  }, {
-    "id" : "fba0a0e6-6213-11ec-a04b-6bf3c5689120",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "E4",
-    "waveformKey" : "Warpy-01.2-E4-E4.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470604,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "E4"
-  }, {
-    "id" : "5479c61c-6213-11ec-a7b8-b3d46a85fdff",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "E3",
-    "waveformKey" : "Warpy-01.2-E3-E3.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "E3"
-  }, {
-    "id" : "0ba41d06-6214-11ec-a04b-f398f280d7c5",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "F#4",
-    "waveformKey" : "Warpy-01.2-Fs4-Fs4.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "F#4"
-  }, {
     "id" : "83de3262-6213-11ec-a7b8-f7e6389a278b",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
     "name" : "A#3",
@@ -77,58 +25,6 @@
     "event" : "STRIPE",
     "volume" : 0.3,
     "tones" : "A#3"
-  }, {
-    "id" : "8d029388-6213-11ec-a7b8-7becae423931",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "B3",
-    "waveformKey" : "Warpy-01.2-B3-B3.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "B3"
-  }, {
-    "id" : "13cdca0e-6214-11ec-a7b8-3b326a1594f1",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "G4",
-    "waveformKey" : "Warpy-01.2-G4-G4.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "G4"
-  }, {
-    "id" : "7c005566-6213-11ec-a7b8-a75216dd213b",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "A3",
-    "waveformKey" : "Warpy-01.2-A3-A3.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "A3"
-  }, {
-    "id" : "51beceee-6214-11ec-a7b8-2fb57b7fe582",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "C5",
-    "waveformKey" : "Warpy-01.2-C5-C5.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 52.178894,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "C5"
   }, {
     "id" : "2de16db0-6214-11ec-a04b-eb10ca9e6f76",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
@@ -143,36 +39,10 @@
     "volume" : 0.3,
     "tones" : "A#4"
   }, {
-    "id" : "7467304a-6213-11ec-a7b8-ef5da14b3f67",
+    "id" : "7c005566-6213-11ec-a7b8-a75216dd213b",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "G#3",
-    "waveformKey" : "Warpy-01.2-Gs3-Gs3.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470604,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "G#3"
-  }, {
-    "id" : "1c489f10-6214-11ec-a04b-77253b807a2e",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "G#4",
-    "waveformKey" : "Warpy-01.2-Gs4-Gs4.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470604,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "G#4"
-  }, {
-    "id" : "bded6b6c-6213-11ec-a04b-47694cc7a8ff",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "D4",
-    "waveformKey" : "Warpy-01.2-D4-D4.wav",
+    "name" : "A3",
+    "waveformKey" : "Warpy-01.2-A3-A3.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 56.470585,
     "loopBeats" : 8.0,
@@ -180,7 +50,72 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 0.3,
-    "tones" : "D4"
+    "tones" : "A3"
+  }, {
+    "id" : "24395566-6214-11ec-a04b-2bec6fd9adbf",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "A4",
+    "waveformKey" : "Warpy-01.2-A4-A4.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "A4"
+  }, {
+    "id" : "8d029388-6213-11ec-a7b8-7becae423931",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "B3",
+    "waveformKey" : "Warpy-01.2-B3-B3.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "B3"
+  }, {
+    "id" : "462b67ae-6214-11ec-a7b8-2b238f9e67b8",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "B4",
+    "waveformKey" : "Warpy-01.2-B4-B4.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 59.23771,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "B4"
+  }, {
+    "id" : "3411828e-6213-11ec-a7b8-ab5c0b51b7e2",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "C#3",
+    "waveformKey" : "Warpy-01.2-Cs3-Cs3.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "C#3"
+  }, {
+    "id" : "b2e659cc-6213-11ec-a04b-47b1f8dedbc9",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "C#4",
+    "waveformKey" : "Warpy-01.2-Cs4-Cs4.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "C#4"
   }, {
     "id" : "2c936504-6213-11ec-a7b8-0fe640f5cde7",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
@@ -208,31 +143,18 @@
     "volume" : 0.3,
     "tones" : "C4"
   }, {
-    "id" : "24395566-6214-11ec-a04b-2bec6fd9adbf",
+    "id" : "51beceee-6214-11ec-a7b8-2fb57b7fe582",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "A4",
-    "waveformKey" : "Warpy-01.2-A4-A4.wav",
+    "name" : "C5",
+    "waveformKey" : "Warpy-01.2-C5-C5.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
+    "lengthSeconds" : 52.178894,
     "loopBeats" : 8.0,
     "tempo" : 60.0,
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 0.3,
-    "tones" : "A4"
-  }, {
-    "id" : "0450ed9a-6214-11ec-a7b8-cf5717129fa3",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "F4",
-    "waveformKey" : "Warpy-01.2-F4-F4.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "F4"
+    "tones" : "C5"
   }, {
     "id" : "468503be-6213-11ec-a7b8-5f99e597e29d",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
@@ -247,10 +169,10 @@
     "volume" : 0.3,
     "tones" : "D#3"
   }, {
-    "id" : "6d2061a8-6213-11ec-a7b8-ab81e6f40755",
+    "id" : "f3571ad2-6213-11ec-a7b8-a3f345d90cd7",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "G3",
-    "waveformKey" : "Warpy-01.2-G3-G3.wav",
+    "name" : "D#4",
+    "waveformKey" : "Warpy-01.2-Ds4-Ds4.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 56.470585,
     "loopBeats" : 8.0,
@@ -258,20 +180,7 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 0.3,
-    "tones" : "G3"
-  }, {
-    "id" : "5e1420be-6213-11ec-a7b8-cb7dc0bb525e",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "F3",
-    "waveformKey" : "Warpy-01.2-F3-F3.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 56.470585,
-    "loopBeats" : 8.0,
-    "tempo" : 60.0,
-    "intensity" : 0.5,
-    "event" : "STRIPE",
-    "volume" : 0.3,
-    "tones" : "F3"
+    "tones" : "D#4"
   }, {
     "id" : "3d84ba2a-6213-11ec-a7b8-aba1effcb383",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
@@ -286,10 +195,10 @@
     "volume" : 0.3,
     "tones" : "D3"
   }, {
-    "id" : "3411828e-6213-11ec-a7b8-ab5c0b51b7e2",
+    "id" : "bded6b6c-6213-11ec-a04b-47694cc7a8ff",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "C#3",
-    "waveformKey" : "Warpy-01.2-Cs3-Cs3.wav",
+    "name" : "D4",
+    "waveformKey" : "Warpy-01.2-D4-D4.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 56.470585,
     "loopBeats" : 8.0,
@@ -297,7 +206,33 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 0.3,
-    "tones" : "C#3"
+    "tones" : "D4"
+  }, {
+    "id" : "5479c61c-6213-11ec-a7b8-b3d46a85fdff",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "E3",
+    "waveformKey" : "Warpy-01.2-E3-E3.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "E3"
+  }, {
+    "id" : "fba0a0e6-6213-11ec-a04b-6bf3c5689120",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "E4",
+    "waveformKey" : "Warpy-01.2-E4-E4.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470604,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "E4"
   }, {
     "id" : "65837908-6213-11ec-a04b-03ceeebbe0b2",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
@@ -312,10 +247,10 @@
     "volume" : 0.3,
     "tones" : "F#3"
   }, {
-    "id" : "b2e659cc-6213-11ec-a04b-47b1f8dedbc9",
+    "id" : "0ba41d06-6214-11ec-a04b-f398f280d7c5",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "C#4",
-    "waveformKey" : "Warpy-01.2-Cs4-Cs4.wav",
+    "name" : "F#4",
+    "waveformKey" : "Warpy-01.2-Fs4-Fs4.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 56.470585,
     "loopBeats" : 8.0,
@@ -323,12 +258,12 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 0.3,
-    "tones" : "C#4"
+    "tones" : "F#4"
   }, {
-    "id" : "f3571ad2-6213-11ec-a7b8-a3f345d90cd7",
+    "id" : "5e1420be-6213-11ec-a7b8-cb7dc0bb525e",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "D#4",
-    "waveformKey" : "Warpy-01.2-Ds4-Ds4.wav",
+    "name" : "F3",
+    "waveformKey" : "Warpy-01.2-F3-F3.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 56.470585,
     "loopBeats" : 8.0,
@@ -336,15 +271,80 @@
     "intensity" : 0.5,
     "event" : "STRIPE",
     "volume" : 0.3,
-    "tones" : "D#4"
+    "tones" : "F3"
+  }, {
+    "id" : "0450ed9a-6214-11ec-a7b8-cf5717129fa3",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "F4",
+    "waveformKey" : "Warpy-01.2-F4-F4.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "F4"
+  }, {
+    "id" : "7467304a-6213-11ec-a7b8-ef5da14b3f67",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "G#3",
+    "waveformKey" : "Warpy-01.2-Gs3-Gs3.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470604,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "G#3"
+  }, {
+    "id" : "1c489f10-6214-11ec-a04b-77253b807a2e",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "G#4",
+    "waveformKey" : "Warpy-01.2-Gs4-Gs4.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470604,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "G#4"
+  }, {
+    "id" : "6d2061a8-6213-11ec-a7b8-ab81e6f40755",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "G3",
+    "waveformKey" : "Warpy-01.2-G3-G3.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "G3"
+  }, {
+    "id" : "13cdca0e-6214-11ec-a7b8-3b326a1594f1",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "G4",
+    "waveformKey" : "Warpy-01.2-G4-G4.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 56.470585,
+    "loopBeats" : 8.0,
+    "tempo" : 60.0,
+    "intensity" : 0.5,
+    "event" : "STRIPE",
+    "volume" : 0.3,
+    "tones" : "G4"
   } ],
   "instrumentMemes" : [ {
-    "id" : "93216530-ae23-11ec-ad77-0fdb9aeb4cd2",
-    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
-    "name" : "SPICY"
-  }, {
     "id" : "89ae812e-6902-11ec-b9ec-a36b1f73e934",
     "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
     "name" : "$BUSY"
+  }, {
+    "id" : "93216530-ae23-11ec-ad77-0fdb9aeb4cd2",
+    "instrumentId" : "11d618f6-6213-11ec-a7b8-8fea81505b31",
+    "name" : "SPICY"
   } ]
 }

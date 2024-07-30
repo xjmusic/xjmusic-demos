@@ -47,16 +47,16 @@
     "order" : 0.0
   } ],
   "programMemes" : [ {
-    "id" : "68d06340-b1b6-11eb-8d37-5b78169eaf5d",
-    "name" : "STRAIGHT",
-    "programId" : "a24c2ab8-8d22-11eb-8799-872ef8bc2bd4"
-  }, {
     "id" : "63414a36-8f81-11eb-8260-37b65003f32a",
     "name" : "4NOTE",
     "programId" : "a24c2ab8-8d22-11eb-8799-872ef8bc2bd4"
   }, {
     "id" : "58054396-b1b6-11eb-a137-af4f7beb6aa7",
     "name" : "OPEN",
+    "programId" : "a24c2ab8-8d22-11eb-8799-872ef8bc2bd4"
+  }, {
+    "id" : "68d06340-b1b6-11eb-8d37-5b78169eaf5d",
+    "name" : "STRAIGHT",
     "programId" : "a24c2ab8-8d22-11eb-8799-872ef8bc2bd4"
   }, {
     "id" : "575f3ac8-b1b6-11eb-8d37-836227249636",

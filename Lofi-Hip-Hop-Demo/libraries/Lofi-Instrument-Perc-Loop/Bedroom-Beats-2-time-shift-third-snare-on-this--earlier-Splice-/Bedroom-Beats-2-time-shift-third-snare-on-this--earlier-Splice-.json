@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "89538310-c10d-11ec-9e6f-47939ff6e9ac",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Bedroom Beats 2 time shift third snare on this, earlier(Splice)",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155785
+  } ],
   "instrumentAudios" : [ {
     "id" : "406d4657-2a72-4a49-b39e-1213c3277e6d",
     "instrumentId" : "89538310-c10d-11ec-9e6f-47939ff6e9ac",
@@ -13,18 +25,6 @@
     "event" : "BIG",
     "volume" : 0.6,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "89538310-c10d-11ec-9e6f-47939ff6e9ac",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Bedroom Beats 2 time shift third snare on this, earlier(Splice)",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155785
   } ],
   "instrumentMemes" : [ {
     "id" : "1cd3dd14-1777-4b59-a5fd-ee583418002e",

@@ -21,14 +21,23 @@
     "total" : 4
   } ],
   "programSequencePatternEvents" : [ {
-    "id" : "820359f2-3236-4194-90b6-4c4f3178fb93",
+    "id" : "267ecb2a-4c4c-4462-9967-91ff733fe3d1",
     "programId" : "acf32666-a3d8-11eb-8e30-774762dec30e",
     "programSequencePatternId" : "198aef53-1fb7-4e7a-b81c-c17d6b5af078",
     "programVoiceTrackId" : "3e09c0cb-584d-4e43-981e-fa2afa25a8a0",
     "velocity" : 1.0,
-    "position" : 3.25,
+    "position" : 0.0,
     "duration" : 0.25,
-    "tones" : "Bb4"
+    "tones" : "G4"
+  }, {
+    "id" : "9af4d624-1953-4ab2-aa42-2e42702b0f35",
+    "programId" : "acf32666-a3d8-11eb-8e30-774762dec30e",
+    "programSequencePatternId" : "198aef53-1fb7-4e7a-b81c-c17d6b5af078",
+    "programVoiceTrackId" : "3e09c0cb-584d-4e43-981e-fa2afa25a8a0",
+    "velocity" : 1.0,
+    "position" : 0.75,
+    "duration" : 0.25,
+    "tones" : "G4"
   }, {
     "id" : "94e65856-3716-4ffe-aadb-fd7e1166c498",
     "programId" : "acf32666-a3d8-11eb-8e30-774762dec30e",
@@ -48,15 +57,6 @@
     "duration" : 0.25,
     "tones" : "C5"
   }, {
-    "id" : "267ecb2a-4c4c-4462-9967-91ff733fe3d1",
-    "programId" : "acf32666-a3d8-11eb-8e30-774762dec30e",
-    "programSequencePatternId" : "198aef53-1fb7-4e7a-b81c-c17d6b5af078",
-    "programVoiceTrackId" : "3e09c0cb-584d-4e43-981e-fa2afa25a8a0",
-    "velocity" : 1.0,
-    "position" : 0.0,
-    "duration" : 0.25,
-    "tones" : "G4"
-  }, {
     "id" : "152d9935-c07a-4c35-84d5-634322e5649a",
     "programId" : "acf32666-a3d8-11eb-8e30-774762dec30e",
     "programSequencePatternId" : "198aef53-1fb7-4e7a-b81c-c17d6b5af078",
@@ -66,14 +66,14 @@
     "duration" : 0.25,
     "tones" : "Bb4"
   }, {
-    "id" : "9af4d624-1953-4ab2-aa42-2e42702b0f35",
+    "id" : "820359f2-3236-4194-90b6-4c4f3178fb93",
     "programId" : "acf32666-a3d8-11eb-8e30-774762dec30e",
     "programSequencePatternId" : "198aef53-1fb7-4e7a-b81c-c17d6b5af078",
     "programVoiceTrackId" : "3e09c0cb-584d-4e43-981e-fa2afa25a8a0",
     "velocity" : 1.0,
-    "position" : 0.75,
+    "position" : 3.25,
     "duration" : 0.25,
-    "tones" : "G4"
+    "tones" : "Bb4"
   } ],
   "programVoices" : [ {
     "id" : "3e654e8a-f11e-4239-8df1-76388b565cf2",

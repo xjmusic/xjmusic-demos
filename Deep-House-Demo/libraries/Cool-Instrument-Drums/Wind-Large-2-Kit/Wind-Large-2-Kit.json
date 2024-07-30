@@ -26,16 +26,16 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "c6c0f072-c6b7-11ea-a53d-0354eb977779",
+    "id" : "6119d31a-c6b7-11ea-957b-2795c74b8be7",
     "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
-    "name" : "Wind.Large.2.TomHi",
-    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.TomHi-x.wav",
+    "name" : "Wind.Large.2.Hat",
+    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.Hat-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.941125,
+    "lengthSeconds" : 1.83402,
     "loopBeats" : 1.0,
     "tempo" : 130.0,
     "intensity" : 0.5,
-    "event" : "TOMHI",
+    "event" : "HIHATCL",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -65,16 +65,42 @@
     "volume" : 1.4,
     "tones" : "x"
   }, {
-    "id" : "6119d31a-c6b7-11ea-957b-2795c74b8be7",
+    "id" : "40e4bb28-c6b7-11ea-a869-ef01e801d117",
     "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
-    "name" : "Wind.Large.2.Hat",
-    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.Hat-x.wav",
+    "name" : "Wind.Large.2.Snare",
+    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.Snare-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.83402,
+    "lengthSeconds" : 1.527583,
     "loopBeats" : 1.0,
     "tempo" : 130.0,
     "intensity" : 0.5,
-    "event" : "HIHATCL",
+    "event" : "SNARE",
+    "volume" : 0.2,
+    "tones" : "x"
+  }, {
+    "id" : "c6c0f072-c6b7-11ea-a53d-0354eb977779",
+    "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
+    "name" : "Wind.Large.2.TomHi",
+    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.941125,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "28c637dc-c6b8-11ea-bf1e-37a42e8f13c2",
+    "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
+    "name" : "Wind.Large.2.TomLo",
+    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.TomLo-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.395833,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMLO",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -90,40 +116,14 @@
     "event" : "TOMMID",
     "volume" : 1.0,
     "tones" : "x"
-  }, {
-    "id" : "40e4bb28-c6b7-11ea-a869-ef01e801d117",
-    "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
-    "name" : "Wind.Large.2.Snare",
-    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.Snare-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.527583,
-    "loopBeats" : 1.0,
-    "tempo" : 130.0,
-    "intensity" : 0.5,
-    "event" : "SNARE",
-    "volume" : 0.2,
-    "tones" : "x"
-  }, {
-    "id" : "28c637dc-c6b8-11ea-bf1e-37a42e8f13c2",
-    "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
-    "name" : "Wind.Large.2.TomLo",
-    "waveformKey" : "Wind-Large-2-Kit-Wind.Large.2.TomLo-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.395833,
-    "loopBeats" : 1.0,
-    "tempo" : 130.0,
-    "intensity" : 0.5,
-    "event" : "TOMLO",
-    "volume" : 1.0,
-    "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "fd45c786-c6b6-11ea-bdb7-232cefd3e3d7",
-    "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
-    "name" : "WIND"
-  }, {
     "id" : "ff9f6b7c-c6b6-11ea-ac95-0f68553f4509",
     "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
     "name" : "LARGE"
+  }, {
+    "id" : "fd45c786-c6b6-11ea-bdb7-232cefd3e3d7",
+    "instrumentId" : "eacd388c-c6b6-11ea-ac95-d3dfd467468b",
+    "name" : "WIND"
   } ]
 }

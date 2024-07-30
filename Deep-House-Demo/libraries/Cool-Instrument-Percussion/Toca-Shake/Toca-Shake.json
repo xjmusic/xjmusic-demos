@@ -13,23 +13,10 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "fae58c08-3170-11ec-ac00-db3a4100c23b",
+    "id" : "225dabe0-3170-11ec-83fa-bf8136c8ba15",
     "instrumentId" : "12443efe-3170-11ec-83fa-a32cd647727d",
-    "name" : "Toca Shake 6",
-    "waveformKey" : "Toca-Shake-Toca-Shake-6-X.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.0,
-    "loopBeats" : 4.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "SHAKERLOOP",
-    "volume" : 0.45,
-    "tones" : "X"
-  }, {
-    "id" : "bc6a5224-3170-11ec-ac00-83e21d429411",
-    "instrumentId" : "12443efe-3170-11ec-83fa-a32cd647727d",
-    "name" : "Toca Shake 5",
-    "waveformKey" : "Toca-Shake-Toca-Shake-5-X.wav",
+    "name" : "Toca Shake 1",
+    "waveformKey" : "Toca-Shake-Toca-Shake-1-X.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 2.0,
     "loopBeats" : 4.0,
@@ -65,10 +52,10 @@
     "volume" : 0.45,
     "tones" : "X"
   }, {
-    "id" : "1baf32e0-3171-11ec-83fa-af007b10f82c",
+    "id" : "a1c71dc0-3171-11ec-83fa-2bec002da84d",
     "instrumentId" : "12443efe-3170-11ec-83fa-a32cd647727d",
-    "name" : "Toca Shake 7",
-    "waveformKey" : "Toca-Shake-Toca-Shake-7-X.wav",
+    "name" : "Toca Shake 12",
+    "waveformKey" : "Toca-Shake-Toca-Shake-12-X.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 2.0,
     "loopBeats" : 4.0,
@@ -78,10 +65,10 @@
     "volume" : 0.45,
     "tones" : "X"
   }, {
-    "id" : "225dabe0-3170-11ec-83fa-bf8136c8ba15",
+    "id" : "cb99fdde-3171-11ec-ac00-8fcdc67fd175",
     "instrumentId" : "12443efe-3170-11ec-83fa-a32cd647727d",
-    "name" : "Toca Shake 1",
-    "waveformKey" : "Toca-Shake-Toca-Shake-1-X.wav",
+    "name" : "Toca Shake 13",
+    "waveformKey" : "Toca-Shake-Toca-Shake-13-X.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 2.0,
     "loopBeats" : 4.0,
@@ -117,10 +104,10 @@
     "volume" : 0.45,
     "tones" : "X"
   }, {
-    "id" : "a1c71dc0-3171-11ec-83fa-2bec002da84d",
+    "id" : "bc6a5224-3170-11ec-ac00-83e21d429411",
     "instrumentId" : "12443efe-3170-11ec-83fa-a32cd647727d",
-    "name" : "Toca Shake 12",
-    "waveformKey" : "Toca-Shake-Toca-Shake-12-X.wav",
+    "name" : "Toca Shake 5",
+    "waveformKey" : "Toca-Shake-Toca-Shake-5-X.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 2.0,
     "loopBeats" : 4.0,
@@ -130,10 +117,23 @@
     "volume" : 0.45,
     "tones" : "X"
   }, {
-    "id" : "cb99fdde-3171-11ec-ac00-8fcdc67fd175",
+    "id" : "fae58c08-3170-11ec-ac00-db3a4100c23b",
     "instrumentId" : "12443efe-3170-11ec-83fa-a32cd647727d",
-    "name" : "Toca Shake 13",
-    "waveformKey" : "Toca-Shake-Toca-Shake-13-X.wav",
+    "name" : "Toca Shake 6",
+    "waveformKey" : "Toca-Shake-Toca-Shake-6-X.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.0,
+    "loopBeats" : 4.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "SHAKERLOOP",
+    "volume" : 0.45,
+    "tones" : "X"
+  }, {
+    "id" : "1baf32e0-3171-11ec-83fa-af007b10f82c",
+    "instrumentId" : "12443efe-3170-11ec-83fa-a32cd647727d",
+    "name" : "Toca Shake 7",
+    "waveformKey" : "Toca-Shake-Toca-Shake-7-X.wav",
     "transientSeconds" : 0.0,
     "lengthSeconds" : 2.0,
     "loopBeats" : 4.0,

@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "a6269604-9081-11ee-ba4b-f3d44bae562b",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Embark Exploration",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828974
+  } ],
   "instrumentAudios" : [ {
     "id" : "3e92143c-d5d9-4153-88c8-e89901f3088e",
     "instrumentId" : "a6269604-9081-11ee-ba4b-f3d44bae562b",
@@ -14,26 +26,14 @@
     "volume" : 1.0,
     "tones" : "X"
   } ],
-  "instruments" : [ {
-    "id" : "a6269604-9081-11ee-ba4b-f3d44bae562b",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Embark Exploration",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828974
-  } ],
   "instrumentMemes" : [ {
-    "id" : "08bd1016-36dd-4e39-b0d2-0796eab6fcf7",
-    "instrumentId" : "a6269604-9081-11ee-ba4b-f3d44bae562b",
-    "name" : "COMBAT"
-  }, {
     "id" : "d32b0d5c-2834-423a-b70d-6a9c343e7e38",
     "instrumentId" : "a6269604-9081-11ee-ba4b-f3d44bae562b",
     "name" : "95BPM"
+  }, {
+    "id" : "08bd1016-36dd-4e39-b0d2-0796eab6fcf7",
+    "instrumentId" : "a6269604-9081-11ee-ba4b-f3d44bae562b",
+    "name" : "COMBAT"
   }, {
     "id" : "20f42c15-ee6c-4d52-a009-19190107c4d7",
     "instrumentId" : "a6269604-9081-11ee-ba4b-f3d44bae562b",

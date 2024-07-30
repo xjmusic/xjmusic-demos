@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "ee4b965e-9096-11ee-a9b9-6fe707f4e5a9",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Victory Dialog Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457829026
+  } ],
   "instrumentAudios" : [ {
     "id" : "4668ec36-7b99-4370-b240-0abbfc58cc08",
     "instrumentId" : "ee4b965e-9096-11ee-a9b9-6fe707f4e5a9",
@@ -13,18 +25,6 @@
     "event" : "PAD",
     "volume" : 2.0,
     "tones" : "F"
-  } ],
-  "instruments" : [ {
-    "id" : "ee4b965e-9096-11ee-a9b9-6fe707f4e5a9",
-    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Victory Dialog Pads",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457829026
   } ],
   "instrumentMemes" : [ {
     "id" : "162d44dc-22a1-4025-8785-ce18dc2187aa",

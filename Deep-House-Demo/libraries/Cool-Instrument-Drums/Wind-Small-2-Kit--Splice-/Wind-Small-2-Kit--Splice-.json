@@ -13,17 +13,30 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "21acd51e-6634-4b54-86f0-c58844e6825d",
+    "id" : "e2064ff9-2c34-4cfa-a2bc-9f0d9fa5092c",
     "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
-    "name" : "Wind.Small.2.Snare",
-    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.Snare-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.343208,
+    "name" : "Wind.Small.2.Crash",
+    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.Crash-x.wav",
+    "transientSeconds" : 4.0,
+    "lengthSeconds" : 10.03502,
     "loopBeats" : 1.0,
     "tempo" : 130.0,
     "intensity" : 0.5,
-    "event" : "SNARE",
-    "volume" : 0.25,
+    "event" : "CRASH",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "b22aeacd-9224-4549-8d5f-ad46ee846d2a",
+    "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
+    "name" : "Wind.Small.2.Hat",
+    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.Hat-x.wav",
+    "transientSeconds" : 0.01,
+    "lengthSeconds" : 1.264187,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "HIHATCL",
+    "volume" : 1.0,
     "tones" : "x"
   }, {
     "id" : "5a7cec52-d9cc-4b77-b2d4-4a41abd3d7e0",
@@ -52,16 +65,29 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "fc50f4f0-30b2-4280-a633-0ee4808f2bb3",
+    "id" : "21acd51e-6634-4b54-86f0-c58844e6825d",
     "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
-    "name" : "Wind.Small.2.TomMid",
-    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.TomMid-x.wav",
+    "name" : "Wind.Small.2.Snare",
+    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.Snare-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.295312,
+    "lengthSeconds" : 1.343208,
     "loopBeats" : 1.0,
     "tempo" : 130.0,
     "intensity" : 0.5,
-    "event" : "TOMMID",
+    "event" : "SNARE",
+    "volume" : 0.25,
+    "tones" : "x"
+  }, {
+    "id" : "2399fb12-0ce6-4f54-9e94-47eb012e1db7",
+    "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
+    "name" : "Wind.Small.2.TomHi",
+    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.TomHi-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 2.242708,
+    "loopBeats" : 1.0,
+    "tempo" : 130.0,
+    "intensity" : 0.5,
+    "event" : "TOMHI",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -78,52 +104,26 @@
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "e2064ff9-2c34-4cfa-a2bc-9f0d9fa5092c",
+    "id" : "fc50f4f0-30b2-4280-a633-0ee4808f2bb3",
     "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
-    "name" : "Wind.Small.2.Crash",
-    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.Crash-x.wav",
-    "transientSeconds" : 4.0,
-    "lengthSeconds" : 10.03502,
-    "loopBeats" : 1.0,
-    "tempo" : 130.0,
-    "intensity" : 0.5,
-    "event" : "CRASH",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
-    "id" : "b22aeacd-9224-4549-8d5f-ad46ee846d2a",
-    "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
-    "name" : "Wind.Small.2.Hat",
-    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.Hat-x.wav",
-    "transientSeconds" : 0.01,
-    "lengthSeconds" : 1.264187,
-    "loopBeats" : 1.0,
-    "tempo" : 130.0,
-    "intensity" : 0.5,
-    "event" : "HIHATCL",
-    "volume" : 1.0,
-    "tones" : "x"
-  }, {
-    "id" : "2399fb12-0ce6-4f54-9e94-47eb012e1db7",
-    "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
-    "name" : "Wind.Small.2.TomHi",
-    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.TomHi-x.wav",
+    "name" : "Wind.Small.2.TomMid",
+    "waveformKey" : "Wind-Small-2-Kit--Splice--Wind.Small.2.TomMid-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.242708,
+    "lengthSeconds" : 2.295312,
     "loopBeats" : 1.0,
     "tempo" : 130.0,
     "intensity" : 0.5,
-    "event" : "TOMHI",
+    "event" : "TOMMID",
     "volume" : 1.0,
     "tones" : "x"
   } ],
   "instrumentMemes" : [ {
-    "id" : "825cb0ce-b3c7-4bda-b819-b2b2e344027c",
-    "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
-    "name" : "WIND"
-  }, {
     "id" : "e34025d8-5ddf-4a7f-9612-7495e9fd117e",
     "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
     "name" : "SMALL"
+  }, {
+    "id" : "825cb0ce-b3c7-4bda-b819-b2b2e344027c",
+    "instrumentId" : "98906dc4-a6f1-11ec-b179-639446b97e4b",
+    "name" : "WIND"
   } ]
 }

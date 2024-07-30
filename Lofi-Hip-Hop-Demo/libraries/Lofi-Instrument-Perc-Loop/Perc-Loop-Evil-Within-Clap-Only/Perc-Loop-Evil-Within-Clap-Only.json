@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "e91bb392-72b2-11ed-9b91-b33c03f9e846",
+    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Perc Loop Evil Within Clap Only",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457155907
+  } ],
   "instrumentAudios" : [ {
     "id" : "8b496236-6b2c-4308-a094-2e5f94343942",
     "instrumentId" : "e91bb392-72b2-11ed-9b91-b33c03f9e846",
@@ -13,18 +25,6 @@
     "event" : "MEDIUM",
     "volume" : 0.4,
     "tones" : "X"
-  } ],
-  "instruments" : [ {
-    "id" : "e91bb392-72b2-11ed-9b91-b33c03f9e846",
-    "libraryId" : "8c0cc1a6-a813-11ec-a8c8-d3b5872c4cd5",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Perc Loop Evil Within Clap Only",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457155907
   } ],
   "instrumentMemes" : [ {
     "id" : "21bee7b5-e0be-405e-8d19-02e2adc68b9b",

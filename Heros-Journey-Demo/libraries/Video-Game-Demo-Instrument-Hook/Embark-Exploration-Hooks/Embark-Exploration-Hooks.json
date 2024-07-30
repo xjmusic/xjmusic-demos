@@ -1,5 +1,17 @@
 {
   "demo" : false,
+  "instruments" : [ {
+    "id" : "350d4871-98d8-44c1-8c09-9eff6899c033",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Embark Exploration Hooks",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828902
+  } ],
   "instrumentAudios" : [ {
     "id" : "8a0f9ef2-8d94-4a21-bfc5-7254e9c9416e",
     "instrumentId" : "350d4871-98d8-44c1-8c09-9eff6899c033",
@@ -13,18 +25,6 @@
     "event" : "HOOK",
     "volume" : 2.0,
     "tones" : "B"
-  } ],
-  "instruments" : [ {
-    "id" : "350d4871-98d8-44c1-8c09-9eff6899c033",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Embark Exploration Hooks",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828902
   } ],
   "instrumentMemes" : [ {
     "id" : "1760b268-6fd0-4ec6-a5fc-ad9648f4f351",

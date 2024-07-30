@@ -13,36 +13,36 @@
     "updatedAt" : 1710457830608
   } ],
   "programSequenceBindings" : [ {
-    "id" : "b457be57-95a0-4c7c-8e90-2f78f7265fd1",
-    "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
-    "programSequenceId" : "1e64ad18-640d-4290-8385-78ce3b930317",
-    "offset" : 0
-  }, {
     "id" : "b29c6052-dce7-4ee0-9baf-0fc0ba58f265",
     "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
     "programSequenceId" : "1e64ad18-640d-4290-8385-78ce3b930317",
     "offset" : 1
+  }, {
+    "id" : "b457be57-95a0-4c7c-8e90-2f78f7265fd1",
+    "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
+    "programSequenceId" : "1e64ad18-640d-4290-8385-78ce3b930317",
+    "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
-    "id" : "7163e105-f1a8-4589-bf95-c85287c2a596",
+    "id" : "75b2c541-8bd8-4501-b91b-bc2ecf2e158f",
     "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
     "programSequenceBindingId" : "b29c6052-dce7-4ee0-9baf-0fc0ba58f265",
-    "name" : "DIALOG"
-  }, {
-    "id" : "c8628587-e46c-40a3-bf8b-098e9c788ac0",
-    "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
-    "programSequenceBindingId" : "b457be57-95a0-4c7c-8e90-2f78f7265fd1",
-    "name" : "COMBAT"
+    "name" : "115BPM"
   }, {
     "id" : "dc382621-a56a-4f6d-a6cf-2e7f9070a3e4",
     "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
     "programSequenceBindingId" : "b457be57-95a0-4c7c-8e90-2f78f7265fd1",
     "name" : "135BPM"
   }, {
-    "id" : "75b2c541-8bd8-4501-b91b-bc2ecf2e158f",
+    "id" : "c8628587-e46c-40a3-bf8b-098e9c788ac0",
+    "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
+    "programSequenceBindingId" : "b457be57-95a0-4c7c-8e90-2f78f7265fd1",
+    "name" : "COMBAT"
+  }, {
+    "id" : "7163e105-f1a8-4589-bf95-c85287c2a596",
     "programId" : "fa6cf3f0-7daa-11ee-9e02-cf51469b1760",
     "programSequenceBindingId" : "b29c6052-dce7-4ee0-9baf-0fc0ba58f265",
-    "name" : "115BPM"
+    "name" : "DIALOG"
   } ],
   "programSequences" : [ {
     "id" : "1e64ad18-640d-4290-8385-78ce3b930317",

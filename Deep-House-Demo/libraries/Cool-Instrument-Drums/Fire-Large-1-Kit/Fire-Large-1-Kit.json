@@ -13,17 +13,30 @@
     "updatedAt" : 1706132003136
   } ],
   "instrumentAudios" : [ {
-    "id" : "6e378af6-c6c1-11ea-a4db-b390985e171e",
+    "id" : "48660abe-c6c1-11ea-a4db-8fe6c023b85a",
     "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
-    "name" : "Fire.Large.1.TomLo",
-    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.TomLo-x.wav",
+    "name" : "Fire.Large.1.Crash",
+    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.Crash-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.097833,
+    "lengthSeconds" : 2.497958,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "TOMLO",
+    "event" : "CRASH",
     "volume" : 1.0,
+    "tones" : "x"
+  }, {
+    "id" : "324fe894-c6c1-11ea-a4db-8739f6e0c91c",
+    "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
+    "name" : "Fire.Large.1.Hat",
+    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.Hat-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 0.96977,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "HIHATCL",
+    "volume" : 1.3,
     "tones" : "x"
   }, {
     "id" : "3d95f702-c6c1-11ea-a4db-a391b1873215",
@@ -39,6 +52,19 @@
     "volume" : 0.8,
     "tones" : "X"
   }, {
+    "id" : "1d357faa-c6c1-11ea-a4db-4bbfd1574b8e",
+    "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
+    "name" : "Fire.Large.1.Kick",
+    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.Kick-x.wav",
+    "transientSeconds" : 0.0,
+    "lengthSeconds" : 1.741791,
+    "loopBeats" : 1.0,
+    "tempo" : 120.0,
+    "intensity" : 0.5,
+    "event" : "KICK",
+    "volume" : 1.0,
+    "tones" : "x"
+  }, {
     "id" : "2854aec4-c6c1-11ea-a4db-57d5abf36821",
     "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
     "name" : "Fire.Large.1.Snare - not really deep house",
@@ -52,29 +78,29 @@
     "volume" : 0.5,
     "tones" : "x"
   }, {
-    "id" : "48660abe-c6c1-11ea-a4db-8fe6c023b85a",
+    "id" : "5369ce32-c6c1-11ea-a4db-ffdd61f6a54f",
     "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
-    "name" : "Fire.Large.1.Crash",
-    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.Crash-x.wav",
+    "name" : "Fire.Large.1.TomHi",
+    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.TomHi-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 2.497958,
+    "lengthSeconds" : 0.798312,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "CRASH",
+    "event" : "TOMHI",
     "volume" : 1.0,
     "tones" : "x"
   }, {
-    "id" : "1d357faa-c6c1-11ea-a4db-4bbfd1574b8e",
+    "id" : "6e378af6-c6c1-11ea-a4db-b390985e171e",
     "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
-    "name" : "Fire.Large.1.Kick",
-    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.Kick-x.wav",
+    "name" : "Fire.Large.1.TomLo",
+    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.TomLo-x.wav",
     "transientSeconds" : 0.0,
-    "lengthSeconds" : 1.741791,
+    "lengthSeconds" : 1.097833,
     "loopBeats" : 1.0,
     "tempo" : 120.0,
     "intensity" : 0.5,
-    "event" : "KICK",
+    "event" : "TOMLO",
     "volume" : 1.0,
     "tones" : "x"
   }, {
@@ -90,32 +116,6 @@
     "event" : "TOMMID",
     "volume" : 1.0,
     "tones" : "X"
-  }, {
-    "id" : "324fe894-c6c1-11ea-a4db-8739f6e0c91c",
-    "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
-    "name" : "Fire.Large.1.Hat",
-    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.Hat-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.96977,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "HIHATCL",
-    "volume" : 1.3,
-    "tones" : "x"
-  }, {
-    "id" : "5369ce32-c6c1-11ea-a4db-ffdd61f6a54f",
-    "instrumentId" : "a940a2c8-c6c0-11ea-a4db-27c57fde98ce",
-    "name" : "Fire.Large.1.TomHi",
-    "waveformKey" : "Fire-Large-1-Kit-Fire.Large.1.TomHi-x.wav",
-    "transientSeconds" : 0.0,
-    "lengthSeconds" : 0.798312,
-    "loopBeats" : 1.0,
-    "tempo" : 120.0,
-    "intensity" : 0.5,
-    "event" : "TOMHI",
-    "volume" : 1.0,
-    "tones" : "x"
   } ],
   "instrumentMemes" : [ {
     "id" : "afbd48fe-c6c0-11ea-a4db-03681c493682",

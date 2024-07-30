@@ -13,15 +13,15 @@
     "updatedAt" : 1706132003136
   } ],
   "programSequenceBindings" : [ {
-    "id" : "1a9629e2-16eb-11ea-8a37-93cb31e58acc",
-    "programId" : "1a93d8ea-16eb-11ea-8a37-07702a221e45",
-    "programSequenceId" : "1a956958-16eb-11ea-8a37-77271a6399c6",
-    "offset" : 0
-  }, {
     "id" : "1a96ebb6-16eb-11ea-8a37-5b995f453e28",
     "programId" : "1a93d8ea-16eb-11ea-8a37-07702a221e45",
     "programSequenceId" : "1a949dde-16eb-11ea-8a37-a3001ec1e7d1",
     "offset" : 1
+  }, {
+    "id" : "1a9629e2-16eb-11ea-8a37-93cb31e58acc",
+    "programId" : "1a93d8ea-16eb-11ea-8a37-07702a221e45",
+    "programSequenceId" : "1a956958-16eb-11ea-8a37-77271a6399c6",
+    "offset" : 0
   } ],
   "programSequenceBindingMemes" : [ {
     "id" : "1a981eaa-16eb-11ea-8a37-5fea9cec84fa",
