@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "5e8cd44a-7df6-11ee-be21-2ff7521c49d5",
-    "libraryId" : "79ef36e4-66f7-11ee-bcd4-a39f5eaf662b",
-    "type" : "Stab",
-    "state" : "Published",
-    "name" : "Victory Exploration Stabs",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828934
-  } ],
   "instrumentAudios" : [ {
     "id" : "8454fee6-7df6-11ee-be21-7b6215d1f239",
     "instrumentId" : "5e8cd44a-7df6-11ee-be21-2ff7521c49d5",
@@ -25,6 +13,18 @@
     "event" : "STAB",
     "volume" : 0.6,
     "tones" : "F"
+  } ],
+  "instruments" : [ {
+    "id" : "5e8cd44a-7df6-11ee-be21-2ff7521c49d5",
+    "libraryId" : "79ef36e4-66f7-11ee-bcd4-a39f5eaf662b",
+    "type" : "Stab",
+    "state" : "Published",
+    "name" : "Victory Exploration Stabs",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828934
   } ],
   "instrumentMemes" : [ {
     "id" : "88339554-7df6-11ee-be21-df421f738fbd",

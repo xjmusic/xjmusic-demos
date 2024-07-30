@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "db6d299a-79c0-11ee-9d51-6b5e3923bf3a",
-    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
-    "type" : "Bass",
-    "state" : "Published",
-    "name" : "Call to Action Combat Bass",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828960
-  } ],
   "instrumentAudios" : [ {
     "id" : "eed9ce52-79c0-11ee-9d51-538f38088605",
     "instrumentId" : "db6d299a-79c0-11ee-9d51-6b5e3923bf3a",
@@ -25,6 +13,18 @@
     "event" : "BASS",
     "volume" : 1.0,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "db6d299a-79c0-11ee-9d51-6b5e3923bf3a",
+    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
+    "type" : "Bass",
+    "state" : "Published",
+    "name" : "Call to Action Combat Bass",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828960
   } ],
   "instrumentMemes" : [ {
     "id" : "698d8d96-7acf-11ee-8ea4-4f3eb3a9671d",

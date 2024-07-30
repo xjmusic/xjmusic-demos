@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "d9d5ad92-7acd-11ee-bdf5-5b3f52f6eb91",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Call to Action Dialog Hook",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828949
-  } ],
   "instrumentAudios" : [ {
     "id" : "1395fc2b-aa80-4086-b58e-96716d5c3e2e",
     "instrumentId" : "d9d5ad92-7acd-11ee-bdf5-5b3f52f6eb91",
@@ -38,6 +26,18 @@
     "event" : "LOOP",
     "volume" : 1.0,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "d9d5ad92-7acd-11ee-bdf5-5b3f52f6eb91",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Call to Action Dialog Hook",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828949
   } ],
   "instrumentMemes" : [ {
     "id" : "6e6a89b4-e89a-48b7-a1df-f8e170485050",

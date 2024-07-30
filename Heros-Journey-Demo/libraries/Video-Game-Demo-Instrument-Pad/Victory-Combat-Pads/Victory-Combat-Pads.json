@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "75ef1410-ae78-11ee-8323-779449197be2",
-    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Victory Combat Pads",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457828847
-  } ],
   "instrumentAudios" : [ {
     "id" : "dd873a8d-6712-4863-acc3-93376814acd0",
     "instrumentId" : "75ef1410-ae78-11ee-8323-779449197be2",
@@ -25,6 +13,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "F"
+  } ],
+  "instruments" : [ {
+    "id" : "75ef1410-ae78-11ee-8323-779449197be2",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Victory Combat Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828847
   } ],
   "instrumentMemes" : [ {
     "id" : "65d8bbb9-f564-4798-947f-653b6da4a22d",

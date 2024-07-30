@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "dadba270-6e14-11ee-98d8-6b9dcad76db9",
-    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Call to Action Dialog Perc Loops",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457829073
-  } ],
   "instrumentAudios" : [ {
     "id" : "be6e55a3-8001-41a0-adb2-65d0639cb230",
     "instrumentId" : "dadba270-6e14-11ee-98d8-6b9dcad76db9",
@@ -51,6 +39,18 @@
     "event" : "PERCLOOP",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "dadba270-6e14-11ee-98d8-6b9dcad76db9",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Call to Action Dialog Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457829073
   } ],
   "instrumentMemes" : [ {
     "id" : "dedfa9e6-0ebb-4b06-8b48-1605aaea42f3",

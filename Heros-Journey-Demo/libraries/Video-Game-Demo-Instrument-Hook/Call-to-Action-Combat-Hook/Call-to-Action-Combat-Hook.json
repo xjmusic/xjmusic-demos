@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "ff43a2c2-79c0-11ee-a879-5f64823cd8f3",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Call to Action Combat Hook",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457829081
-  } ],
   "instrumentAudios" : [ {
     "id" : "7dc3f22d-8392-46f1-b657-914a857abde0",
     "instrumentId" : "ff43a2c2-79c0-11ee-a879-5f64823cd8f3",
@@ -25,6 +13,18 @@
     "event" : "LOOP",
     "volume" : 1.0,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "ff43a2c2-79c0-11ee-a879-5f64823cd8f3",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Call to Action Combat Hook",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457829081
   } ],
   "instrumentMemes" : [ {
     "id" : "2de5e61e-aa65-438b-a4b8-1f42bf240cea",

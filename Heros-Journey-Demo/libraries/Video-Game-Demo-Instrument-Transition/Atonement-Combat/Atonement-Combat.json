@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Atonement Combat",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457829020
-  } ],
   "instrumentAudios" : [ {
     "id" : "f378d7c0-7f3b-11ee-babe-472c00b590cd",
     "instrumentId" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
@@ -38,6 +26,18 @@
     "event" : "LARGE",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "8a47529a-672b-11ee-a955-bf69d5079b4b",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Atonement Combat",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457829020
   } ],
   "instrumentMemes" : [ {
     "id" : "62ca21ea-71e2-11ee-bb9b-f72574bd7058",

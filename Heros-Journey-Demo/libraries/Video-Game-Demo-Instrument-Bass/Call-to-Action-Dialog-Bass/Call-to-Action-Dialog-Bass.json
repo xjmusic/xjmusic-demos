@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "b35afe56-7acd-11ee-bdf5-4be2a2bfbe33",
-    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
-    "type" : "Bass",
-    "state" : "Published",
-    "name" : "Call to Action Dialog Bass",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828882
-  } ],
   "instrumentAudios" : [ {
     "id" : "4421e2e4-896f-417b-8d77-46df05577c99",
     "instrumentId" : "b35afe56-7acd-11ee-bdf5-4be2a2bfbe33",
@@ -25,6 +13,18 @@
     "event" : "BASS",
     "volume" : 1.0,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "b35afe56-7acd-11ee-bdf5-4be2a2bfbe33",
+    "libraryId" : "913b1ccc-71cf-11ee-b521-abe1923d8fc7",
+    "type" : "Bass",
+    "state" : "Published",
+    "name" : "Call to Action Dialog Bass",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828882
   } ],
   "instrumentMemes" : [ {
     "id" : "fc7103b0-56af-4f84-8aca-95ff8a487d27",

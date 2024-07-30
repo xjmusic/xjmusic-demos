@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "14148108-7502-11ee-afdc-872b2c47221d",
-    "libraryId" : "8952bd4a-66f7-11ee-bcd4-3f22e7f68e89",
-    "type" : "Stripe",
-    "state" : "Published",
-    "name" : "Embark Combat Stripes",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828985
-  } ],
   "instrumentAudios" : [ {
     "id" : "61a0084e-9153-4913-9e52-aeaa2d86e713",
     "instrumentId" : "14148108-7502-11ee-afdc-872b2c47221d",
@@ -25,6 +13,18 @@
     "event" : "STRIPE",
     "volume" : 0.8,
     "tones" : "B"
+  } ],
+  "instruments" : [ {
+    "id" : "14148108-7502-11ee-afdc-872b2c47221d",
+    "libraryId" : "8952bd4a-66f7-11ee-bcd4-3f22e7f68e89",
+    "type" : "Stripe",
+    "state" : "Published",
+    "name" : "Embark Combat Stripes",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828985
   } ],
   "instrumentMemes" : [ {
     "id" : "ea33278b-6698-464b-9f7b-5ea311adbfec",

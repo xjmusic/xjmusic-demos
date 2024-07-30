@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
-    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
-    "type" : "Hook",
-    "state" : "Published",
-    "name" : "Atonement Exploration Hooks",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828965
-  } ],
   "instrumentAudios" : [ {
     "id" : "0ff89f51-4cf0-4324-ade9-49e00934487e",
     "instrumentId" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
@@ -38,6 +26,18 @@
     "event" : "HOOK",
     "volume" : 0.0,
     "tones" : "F"
+  } ],
+  "instruments" : [ {
+    "id" : "efc21ca6-6fad-11ee-ac0d-8764f1dacec1",
+    "libraryId" : "c96a4682-6fad-11ee-9c1a-17feb22e2b3b",
+    "type" : "Hook",
+    "state" : "Published",
+    "name" : "Atonement Exploration Hooks",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828965
   } ],
   "instrumentMemes" : [ {
     "id" : "feed941c-6fad-11ee-ac0d-7357f248ecc2",

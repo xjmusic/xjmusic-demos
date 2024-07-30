@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "a26e5f92-9081-11ee-a063-db47c2c5e973",
-    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
-    "type" : "Transition",
-    "state" : "Published",
-    "name" : "Embark Dialog",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Event",
-    "updatedAt" : 1710457828764
-  } ],
   "instrumentAudios" : [ {
     "id" : "c2003ab0-2b7f-4fee-be02-16ecbba210e5",
     "instrumentId" : "a26e5f92-9081-11ee-a063-db47c2c5e973",
@@ -25,6 +13,18 @@
     "event" : "LARGE",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "a26e5f92-9081-11ee-a063-db47c2c5e973",
+    "libraryId" : "8854b774-671d-11ee-8d24-8b8c288969a8",
+    "type" : "Transition",
+    "state" : "Published",
+    "name" : "Embark Dialog",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Event",
+    "updatedAt" : 1710457828764
   } ],
   "instrumentMemes" : [ {
     "id" : "2a9ed02c-78c8-4906-8135-ae7cd5e86a6f",

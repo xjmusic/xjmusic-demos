@@ -18,15 +18,15 @@
     "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
     "offset" : 0
   }, {
-    "id" : "6251972e-3d5a-463d-9c84-0cf325712276",
-    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
-    "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
-    "offset" : 1
-  }, {
     "id" : "cd21b738-782c-11ee-b198-c76d495b43ad",
     "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
     "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
     "offset" : 3
+  }, {
+    "id" : "6251972e-3d5a-463d-9c84-0cf325712276",
+    "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",
+    "programSequenceId" : "260e4a9f-f027-401f-8251-87198ff0dd57",
+    "offset" : 1
   }, {
     "id" : "cc3f742c-782c-11ee-b198-6f798433e49c",
     "programId" : "f9a4db9a-736e-11ee-8807-7f1e28cc4065",

@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
-    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Call to Action Combat Perc Loops",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828877
-  } ],
   "instrumentAudios" : [ {
     "id" : "84703682-79c0-11ee-9d51-e7d9091b8ff7",
     "instrumentId" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
@@ -38,6 +26,18 @@
     "event" : "SMALL",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "371f4d1c-6e14-11ee-a705-f31a99c55c11",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Call to Action Combat Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828877
   } ],
   "instrumentMemes" : [ {
     "id" : "5f1215ea-79c0-11ee-9d51-b7386260abfc",

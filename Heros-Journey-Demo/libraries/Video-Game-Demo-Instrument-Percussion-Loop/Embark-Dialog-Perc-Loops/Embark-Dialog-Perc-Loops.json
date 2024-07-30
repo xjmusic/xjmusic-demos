@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
-    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
-    "type" : "Percussion",
-    "state" : "Published",
-    "name" : "Embark Dialog Perc Loops",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Loop",
-    "updatedAt" : 1710457828801
-  } ],
   "instrumentAudios" : [ {
     "id" : "982d3a88-7760-11ee-980b-2f05f33fa4ca",
     "instrumentId" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
@@ -51,6 +39,18 @@
     "event" : "PERCLOOP",
     "volume" : 1.0,
     "tones" : "X"
+  } ],
+  "instruments" : [ {
+    "id" : "fb7546f8-6e14-11ee-be98-ab0dba4a6da6",
+    "libraryId" : "56e05ffe-671d-11ee-8d24-9303792ce993",
+    "type" : "Percussion",
+    "state" : "Published",
+    "name" : "Embark Dialog Perc Loops",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Loop",
+    "updatedAt" : 1710457828801
   } ],
   "instrumentMemes" : [ {
     "id" : "7f6a1f98-7760-11ee-a957-13e7c02ad725",

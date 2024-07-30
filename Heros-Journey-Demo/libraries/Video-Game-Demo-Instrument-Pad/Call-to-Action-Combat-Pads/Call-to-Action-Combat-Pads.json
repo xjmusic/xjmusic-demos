@@ -1,17 +1,5 @@
 {
   "demo" : false,
-  "instruments" : [ {
-    "id" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
-    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
-    "type" : "Pad",
-    "state" : "Published",
-    "name" : "Call to Action Combat Pads",
-    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
-    "isDeleted" : false,
-    "volume" : 1.0,
-    "mode" : "Chord",
-    "updatedAt" : 1710457828911
-  } ],
   "instrumentAudios" : [ {
     "id" : "66ce2c1e-79c1-11ee-9d51-bff5b9babeb0",
     "instrumentId" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
@@ -51,6 +39,18 @@
     "event" : "PAD",
     "volume" : 1.0,
     "tones" : "D"
+  } ],
+  "instruments" : [ {
+    "id" : "43d1cf68-79c1-11ee-9d51-9f8544d906a0",
+    "libraryId" : "6fc53f06-66f7-11ee-b708-7bfc8bb45e87",
+    "type" : "Pad",
+    "state" : "Published",
+    "name" : "Call to Action Combat Pads",
+    "config" : "isAudioSelectionPersistent = true\nisMultiphonic = false\nisOneShot = false\nisOneShotCutoffEnabled = true\nisTonal = false\noneShotObserveLengthOfEvents = []\nreleaseMillis = 5\n",
+    "isDeleted" : false,
+    "volume" : 1.0,
+    "mode" : "Chord",
+    "updatedAt" : 1710457828911
   } ],
   "instrumentMemes" : [ {
     "id" : "ed3707e7-4632-4b3c-bc8c-df30c9b9faba",
